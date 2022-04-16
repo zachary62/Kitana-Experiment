@@ -1,0 +1,1534 @@
+DBN,School Name,Admissions Methods,Fully Screened?
+01M015,P.S. 015 Roberto Clemente,K: Choice District,K: No
+01M019,P.S. 019 Asher Levy,K: Choice District,K: No
+01M020,P.S. 020 Anna Silver,K: Choice District,K: No
+01M034,P.S. 034 Franklin D. Roosevelt,"K: Choice District, MS: Limited Unscreened","K: No, MS: No"
+01M063,The STAR Academy - P.S.63,K: Choice District,K: No
+01M064,P.S. 064 Robert Simon,K: Choice District,K: No
+01M110,P.S. 110 Florence Nightingale,K: Choice District,K: No
+01M134,P.S. 134 Henrietta Szold,K: Choice District,K: No
+01M140,P.S. 140 Nathan Straus,"K: Choice District, MS: Screened","K: No, MS: Yes"
+01M142,P.S. 142 Amalia Castro,K: Choice District,K: No
+01M184,P.S. 184m Shuang Wen,"K: Choice District, MS: Screened: Language","K: No, MS: Yes"
+01M188,P.S. 188 The Island School,"K: Choice District, MS: Screened","K: No, MS: Yes"
+01M292,Orchard Collegiate Academy,HS: Limited Unscreened,HS: No
+01M301,"Technology, Arts, and Sciences Studio",MS: Screened,MS: Yes
+01M315,The East Village Community School,K: Choice District,K: No
+01M332,University Neighborhood Middle School,MS: Screened,MS: Yes
+01M361,The Children's Workshop School,K: Choice District,K: No
+01M363,Neighborhood School,K: Choice District,K: No
+01M364,Earth School,K: Choice District,K: No
+01M378,School for Global Leaders,"MS: Limited Unscreened, Screened: Language",MS: No
+01M448,University Neighborhood High School,"HS: Ed. Opt., Screened, Screened: Language",HS: No
+01M450,East Side Community School,"MS: Screened, HS: Screened","MS: Yes, HS: Yes"
+01M458,Forsyth Satellite Academy,Transfer School: School-managed Admissions,HS: No
+01M509,Marta Valle High School,HS: Ed. Opt.,HS: No
+01M515,Lower East Side Preparatory High School,Transfer School: School-managed Admissions,HS: Yes
+01M539,"New Explorations into Science, Technology and Math High School","K: Gifted & Talented School, MS: Screened, HS: Screened","K: Yes, MS: Yes, HS: Yes"
+01M650,Cascades High School,Transfer School: School-managed Admissions,HS: Yes
+01M696,Bard High School Early College,HS: Screened,HS: Yes
+01M839,Tompkins Square Middle School,MS: Screened,MS: Yes
+02M001,P.S. 001 Alfred E. Smith,K: Zoned School,K: No
+02M002,P.S. 002 Meyer London,K: Zoned School,K: No
+02M003,P.S. 003 Charrette School,K: Zoned School,K: No
+02M006,P.S. 006 Lillie D. Blake,K: Zoned School,K: No
+02M011,P.S. 011 William T. Harris,K: Zoned School,K: No
+02M033,P.S. 033 Chelsea Prep,K: Zoned School,K: No
+02M040,P.S. 040 Augustus Saint-Gaudens,K: Zoned School,K: No
+02M041,P.S. 041 Greenwich Village,K: Zoned School,K: No
+02M042,P.S. 042 Benjamin Altman,K: Zoned School,K: No
+02M047,47 The American Sign Language and English Secondary School,HS: Screened,HS: Yes
+02M051,P.S. 051 Elias Howe,K: Zoned School,K: No
+02M059,P.S. 059 Beekman Hill International,K: Zoned School,K: No
+02M077,P.S. 77 Lower Lab School,K: Gifted & Talented School,K: Yes
+02M089,P.S. 89,K: Zoned School,K: No
+02M104,J.H.S. 104 Simon Baruch,MS: Screened,MS: Yes
+02M111,P.S. 111 Adolph S. Ochs,K: Zoned School,K: No
+02M114,East Side Middle School,MS: Screened,MS: Yes
+02M116,P.S. 116 Mary Lindley Murray,K: Zoned School,K: No
+02M124,P.S. 124 Yung Wing,K: Zoned School,K: No
+02M126,P.S. 126 Jacob August Riis,"K: Zoned School, MS: Screened","K: No, MS: Yes"
+02M130,P.S. 130 Hernando De Soto,K: Zoned School,K: No
+02M131,M.S. 131,"MS: Screened, Screened: Language",MS: Yes
+02M135,The Urban Assembly School for Emergency Management,HS: Limited Unscreened,HS: No
+02M139,Stephen T. Mather Building Arts & Craftsmanship High School,HS: Limited Unscreened,HS: No
+02M150,P.S. 150,K: Non-Zoned School,K: No
+02M151,Yorkville Community School,K: Zoned School,K: No
+02M158,P.S. 158 Bayard Taylor,K: Zoned School,K: No
+02M167,J.H.S. 167 Robert F. Wagner,MS: Screened,MS: Yes
+02M177,Yorkville East Middle School,"MS: Limited Unscreened, Screened",MS: No
+02M183,P.S. 183 Robert L. Stevenson,K: Zoned School,K: No
+02M198,P.S. 198 Isador E. Ida Straus,K: Zoned School,K: No
+02M212,P.S. 212 Midtown West,K: Non-Zoned School,K: No
+02M217,P.S./I.S. 217 Roosevelt Island,"K: Zoned School, MS: Screened","K: No, MS: Yes"
+02M225,Ella Baker School,"K: Non-Zoned School, MS: School-managed Admissions","K: No, MS: Yes"
+02M234,P.S. 234 Independence School,K: Zoned School,K: No
+02M255,M.S. 255 Salk School of Science,MS: Screened,MS: Yes
+02M260,M.S. 260 Clinton School Writers & Artists,"MS: Screened, HS: Screened","MS: Yes, HS: Yes"
+02M267,"East Side Elementary School, PS 267",K: Zoned School,K: No
+02M276,Battery Park City School,"K: Zoned School, MS: Limited Unscreened","K: No, MS: No"
+02M280,Manhattan Early College School for Advertising,HS: Limited Unscreened,HS: No
+02M281,The River School,K: Zoned School,K: No
+02M282,Urban Assembly Maker Academy,HS: Limited Unscreened,HS: No
+02M288,Food and Finance High School,HS: Limited Unscreened,HS: No
+02M289,I.S. 289,MS: Screened,MS: Yes
+02M290,P.S. 290 Manhattan New School,K: Zoned School,K: No
+02M294,Essex Street Academy,HS: Limited Unscreened,HS: No
+02M296,High School of Hospitality Management,HS: Limited Unscreened,HS: No
+02M298,Pace High School,HS: Limited Unscreened,HS: No
+02M300,"Urban Assembly School of Design and Construction, The",HS: Limited Unscreened,HS: No
+02M303,"Facing History School, The",HS: Limited Unscreened,HS: No
+02M305,"Urban Assembly Academy of Government and Law, The",HS: Limited Unscreened,HS: No
+02M308,Lower Manhattan Arts Academy,HS: Limited Unscreened,HS: No
+02M312,New York City Lab Middle School for Collaborative Studies,MS: Screened,MS: Yes
+02M313,"James Baldwin School, The: A School for Expeditionary Learning",Transfer School: School-managed Admissions,HS: Yes
+02M316,"Urban Assembly School of Business for Young Women, the",HS: Limited Unscreened,HS: No
+02M340,Sixth Avenue Elementary School,K: Zoned School,K: No
+02M343,The Peck Slip School,K: Zoned School,K: No
+02M347,The 47 American Sign Language & English Lower School,"K: Non-Zoned School, MS: Screened","K: No, MS: Yes"
+02M374,Gramercy Arts High School,HS: Audition,HS: Yes
+02M376,NYC iSchool,HS: Screened,HS: Yes
+02M392,MANHATTAN BUSINESS ACADEMY,HS: Limited Unscreened,HS: No
+02M393,Business Of Sports School,HS: Limited Unscreened,HS: No
+02M394,Emma Lazarus High School,Transfer School: School-managed Admissions,HS: Yes
+02M397,Spruce Street School,"K: Zoned School, MS: Limited Unscreened","K: No, MS: No"
+02M399,The High School For Language And Diplomacy,HS: Limited Unscreened,HS: No
+02M400,High School for Environmental Studies,"HS: Ed. Opt., Screened",HS: No
+02M407,Institute for Collaborative Education,"MS: School-managed Admissions, HS: Screened","MS: Yes, HS: Yes"
+02M408,Professional Performing Arts High School,"MS: Screened, HS: Audition","MS: Yes, HS: Yes"
+02M411,Baruch College Campus High School,HS: Screened,HS: Yes
+02M412,N.Y.C. Lab School for Collaborative Studies,HS: Screened,HS: Yes
+02M413,School of the Future High School,"MS: Screened, HS: Screened","MS: Yes, HS: Yes"
+02M414,N.Y.C. Museum School,HS: Screened,HS: Yes
+02M416,Eleanor Roosevelt High School,HS: Screened,HS: Yes
+02M418,Millennium High School,HS: Screened,HS: Yes
+02M419,Landmark High School,HS: Ed. Opt.,HS: No
+02M420,High School for Health Professions and Human Services,"HS: Ed. Opt., Screened",HS: No
+02M422,Quest to Learn,"MS: Limited Unscreened, HS: Ed. Opt., For Continuing 8th Graders","MS: No, HS: No"
+02M425,Leadership and Public Service High School,HS: Ed. Opt.,HS: No
+02M427,MANHATTAN ACADEMY FOR ARTS & LANGUAGE,HS: Screened: Language,HS: No
+02M432,Murray Hill Academy,Transfer School: School-managed Admissions,HS: Yes
+02M437,Hudson High School of Learning Technologies,HS: Limited Unscreened,HS: No
+02M438,International High School at Union Square,HS: Screened: Language,HS: No
+02M439,Manhattan Village Academy,HS: Screened,HS: Yes
+02M442,"Ballet Tech, NYC Public School for Dance",MS: School-managed Admissions,MS: Yes
+02M449,Vanguard High School,HS: Ed. Opt.,HS: No
+02M459,Manhattan International High School,HS: Screened: Language,HS: No
+02M475,Stuyvesant High School,HS: Test,HS: Yes
+02M489,High School of Economics and Finance,HS: Ed. Opt.,HS: No
+02M500,Unity Center for Urban Technologies,HS: Ed. Opt.,HS: No
+02M507,Urban Assembly Gateway School for Technology,HS: Limited Unscreened,HS: No
+02M519,Talent Unlimited High School,HS: Audition,HS: Yes
+02M520,Murry Bergtraum High School for Business Careers,"HS: Ed. Opt., Screened",HS: No
+02M527,P.S. 527 - East Side School for Social Action,K: Zoned School,K: No
+02M529,Jacqueline Kennedy Onassis High School,HS: Ed. Opt.,HS: No
+02M531,Repertory Company High School for Theatre Arts,HS: Audition,HS: Yes
+02M533,Union Square Academy for Health Sciences,HS: Limited Unscreened,HS: No
+02M534,Harvest Collegiate High School,HS: Limited Unscreened,HS: No
+02M542,Manhattan Bridges High School,HS: Screened: Language & Academics,HS: Yes
+02M543,New Design High School,HS: Ed. Opt.,HS: No
+02M544,Independence High School,Transfer School: School-managed Admissions,HS: Yes
+04M409,Coalition School for Social Change,HS: Ed. Opt.,HS: No
+02M545,High School for Dual Language and Asian Studies,HS: Screened: Language & Academics,HS: Yes
+02M546,Academy for Software Engineering,HS: Limited Unscreened,HS: No
+02M550,Liberty High School Academy for Newcomers,Transfer School: School-managed Admissions,HS: Yes
+02M551,Urban Assembly New York Harbor School,HS: Limited Unscreened,HS: No
+02M560,High School M560 - City As School,Transfer School: School-managed Admissions,HS: Yes
+02M565,Urban Academy Laboratory High School,Transfer School: School-managed Admissions,HS: Yes
+02M570,Satellite Academy High School,Transfer School: School-managed Admissions,HS: Yes
+02M575,Manhattan Comprehensive Night and Day High School,Transfer School: School-managed Admissions,HS: Yes
+02M580,Richard R. Green High School of Teaching,HS: Ed. Opt.,HS: No
+02M586,Harvey Milk High School,Transfer School: School-managed Admissions,HS: Yes
+02M600,The High School of Fashion Industries,HS: Audition,HS: Yes
+02M605,Humanities Preparatory Academy,Transfer School: School-managed Admissions,HS: Yes
+02M615,Chelsea Career and Technical Education High School,"HS: Ed. Opt., Screened",HS: No
+02M630,Art and Design High School,HS: Audition,HS: Yes
+02M655,Life Sciences Secondary School,"MS: Screened, HS: Ed. Opt., For Continuing 8th Graders","MS: Yes, HS: No"
+02M896,Lower Manhattan Community Middle School,MS: Screened,MS: Yes
+02M933,City Knoll Middle School,MS: Limited Unscreened,MS: No
+03M009,P.S. 009 Sarah Anderson,K: Zoned School,K: No
+03M054,J.H.S. 054 Booker T. Washington,MS: Screened,MS: Yes
+03M075,P.S. 075 Emily Dickinson,K: Zoned School,K: No
+03M076,P.S. 076 A. Philip Randolph,"K: Zoned School, MS: Limited Unscreened","K: No, MS: No"
+03M084,P.S. 084 Lillian Weber,K: Zoned School,K: No
+03M087,P.S. 087 William Sherman,K: Zoned School,K: No
+03M145,"P.S. 145, The Bloomingdale School",K: Zoned School,K: No
+03M149,P.S. 149 Sojourner Truth,"K: Zoned School, MS: Unscreened","K: No, MS: No"
+03M163,P.S. 163 Alfred E. Smith,K: Zoned School,K: No
+03M165,P.S. 165 Robert E. Simon,"K: Zoned School, MS: Screened, Screened: Language","K: No, MS: Yes"
+03M166,P.S. 166 The Richard Rodgers School of The Arts and Technology,K: Zoned School,K: No
+03M180,P.S. 180 Hugo Newman,"K: Zoned School, MS: Screened","K: No, MS: Yes"
+03M185,P.S. 185 - The Early Childhood Discovery and Design Magnet School,K: Zoned School,K: No
+03M191,P.S. 191 Amsterdam,"K: Zoned School, MS: Screened","K: No, MS: Yes"
+03M199,P.S. 199 Jessie Isador Straus,K: Zoned School,K: No
+03M208,P.S. 208 Alain L. Locke,School-managed Admissions,Yes
+03M241,STEM Institute of Manhattan,K: Zoned School,K: No
+03M242,P.S. 242 - The Young Diplomats Magnet Academy,K: Zoned School,K: No
+03M243,M.S. 243 Center School,MS: School-managed Admissions,MS: Yes
+03M245,M.S. M245 The Computer School,MS: Screened,MS: Yes
+03M247,M.S. M247 Dual Language Middle School,MS: Screened: Language,MS: Yes
+03M250,M.S. 250 West Side Collaborative Middle School,MS: Screened,MS: Yes
+03M256,M.S. 256 Academic & Athletic Excellence,"MS: Screened, Screened: Language",MS: Yes
+03M258,Community Action School - MS 258,MS: Screened,MS: Yes
+03M291,West End Secondary School,MS: Screened,MS: Yes
+03M299,The Maxine Greene HS for Imaginative Inquiry,HS: Limited Unscreened,HS: No
+03M307,"Urban Assembly School for Media Studies, The",HS: Limited Unscreened,HS: No
+03M333,P.S. 333 Manhattan School for Children,"K: Non-Zoned School, MS: Screened","K: No, MS: Yes"
+03M334,The Anderson School,"K: Gifted & Talented School, MS: School-managed Admissions","K: Yes, MS: Yes"
+03M402,The Urban Assembly School for Green Careers,HS: Limited Unscreened,HS: No
+03M403,The Global Learning Collaborative,HS: Limited Unscreened,HS: No
+03M404,Innovation Diploma Plus,Transfer School: School-managed Admissions,HS: Yes
+03M415,Wadleigh Secondary School for the Performing & Visual Arts,"MS: Screened, HS: Audition, Limited Unscreened","MS: Yes, HS: No"
+03M417,Frank Mccourt High School,HS: Screened,HS: Yes
+03M421,West Prep Academy,MS: Unscreened,MS: No
+03M452,P.S. 452,K: Zoned School,K: No
+03M479,Beacon High School,HS: Screened,HS: Yes
+03M485,Fiorello H. LaGuardia High School of Music & Art and Performing Arts,HS: Audition,HS: Yes
+03M492,"High School for Law, Advocacy and Community Justice",HS: Ed. Opt.,HS: No
+03M494,High School of Arts and Technology,"HS: Ed. Opt., Limited Unscreened",HS: No
+03M505,Edward A. Reynolds West Side High School,Transfer School: School-managed Admissions,HS: Yes
+03M541,Manhattan / Hunter Science High School,HS: Screened,HS: Yes
+03M859,Special Music School,"K: Non-Zoned School, MS: School-managed Admissions, HS: Audition","K: No, MS: Yes, HS: Yes"
+03M860,Frederick Douglass Academy II Secondary School,"MS: Screened, HS: Ed. Opt., For Continuing 8th Graders","MS: Yes, HS: No"
+03M862,Mott Hall II,MS: Screened,MS: Yes
+04M007,P.S. 007 Samuel Stern,"K: Zoned School, MS: Screened","K: No, MS: Yes"
+04M012,Tag Young Scholars,"K: Gifted & Talented School, MS: School-managed Admissions","K: Yes, MS: Yes"
+04M037,River East Elementary,K: Non-Zoned School,K: No
+04M038,P.S. 38 Roberto Clemente,K: Zoned School,K: No
+04M050,P.S. 050 Vito Marcantonio,"K: Zoned School, MS: Unscreened","K: No, MS: No"
+04M057,James Weldon Johnson,"K: Zoned School, MS: Screened","K: No, MS: Yes"
+04M072,The Lexington Academy,"K: Zoned School, MS: Limited Unscreened","K: No, MS: No"
+04M083,P.S. 083 Luis Munoz Rivera,K: Zoned School,K: No
+04M096,P.S. 096 Joseph Lanzetta,"K: Zoned School, MS: Screened","K: No, MS: Yes"
+04M102,P.S. 102 Jacques Cartier,K: Zoned School,K: No
+04M108,P.S. 108 Assemblyman Angelo Del Toro Educational Complex,"K: Zoned School, MS: Unscreened","K: No, MS: No"
+04M112,P.S. 112 Jose Celso Barbosa,K: Zoned School,K: No
+04M146,P.S. 146 Ann M. Short,K: Zoned School,K: No
+04M155,P.S. 155 William Paca,K: Zoned School,K: No
+04M171,P.S. 171 Patrick Henry,"K: Zoned School, MS: Screened","K: No, MS: Yes"
+04M182,The Bilingual Bicultural School,K: Non-Zoned School,K: No
+04M206,P.S. 206 Jose Celso Barbosa,MS: Limited Unscreened,MS: No
+04M224,M.S. 224 Manhattan East School for Arts & Academics,MS: Screened,MS: Yes
+04M372,Esperanza Preparatory Academy,"MS: Limited Unscreened, Screened: Language, HS: Screened: Language","MS: No, HS: No"
+04M375,Mosaic Preparatory Academy,K: Zoned School,K: No
+04M377,Renaissance School of the Arts,MS: Limited Unscreened,MS: No
+04M406,Global Technology Preparatory,MS: Limited Unscreened,MS: No
+04M435,Manhattan Center for Science and Mathematics,"HS: Screened, Screened: Language & Academics",HS: Yes
+04M495,Park East High School,HS: Screened,HS: Yes
+04M497,Central Park East I,K: Non-Zoned School,K: No
+04M555,Central Park East High School,HS: Screened,HS: Yes
+04M610,Young Women's Leadership School,"MS: Screened, HS: Screened","MS: Yes, HS: Yes"
+04M680,"Heritage School, The",HS: Ed. Opt.,HS: No
+04M825,Isaac Newton Middle School for Math & Science,MS: Screened,MS: Yes
+04M964,Central Park East II,"K: Non-Zoned School, MS: Unscreened","K: No, MS: No"
+05M030,P.S. 030 Hernandez/Hughes,K: Zoned School,K: No
+05M036,P.S. 036 Margaret Douglas,K: Zoned School,K: No
+05M046,P.S. 046 Arthur Tappan,"K: Zoned School, MS: Limited Unscreened","K: No, MS: No"
+05M092,P.S. 092 Mary McLeod Bethune,K: Zoned School,K: No
+05M123,P.S. 123 Mahalia Jackson,"K: Zoned School, MS: Limited Unscreened","K: No, MS: No"
+05M125,P.S. 125 Ralph Bunche,K: Zoned School,K: No
+05M129,P.S. 129 John H. Finley,"K: Zoned School, MS: Limited Unscreened","K: No, MS: No"
+05M133,P.S. 133 Fred R Moore,K: Zoned School,K: No
+05M148,Eagle Academy for Young Men of Harlem,"MS: Limited Unscreened, HS: Limited Unscreened","MS: No, HS: No"
+05M154,P.S. 154 Harriet Tubman,K: Zoned School,K: No
+05M157,The Urban Assembly School for Global Commerce,HS: Limited Unscreened,HS: No
+05M161,P.S. 161 Pedro Albizu Campos,"K: Zoned School, MS: Limited Unscreened","K: No, MS: No"
+05M175,P.S. 175 Henry H Garnet,K: Zoned School,K: No
+05M194,P.S. 194 Countee Cullen,K: Zoned School,K: No
+05M197,P.S. 197 John B. Russwurm,K: Zoned School,K: No
+05M200,P.S. 200- The James Mccune Smith School,K: Zoned School,K: No
+05M285,Harlem Renaissance High School,Transfer School: School-managed Admissions,HS: Yes
+05M286,Urban Assembly Academy for Future Leaders,MS: Limited Unscreened,MS: No
+05M302,KAPPA IV,MS: Unscreened,MS: No
+05M304,Mott Hall High School,HS: Limited Unscreened,HS: No
+05M318,Thurgood Marshall Academy Lower School,K: Non-Zoned School,K: No
+05M362,Columbia Secondary School,"MS: Screened, HS: Screened","MS: Yes, HS: Yes"
+05M367,Academy for Social Action,HS: Limited Unscreened,HS: No
+05M369,Urban Assembly School for the Performing Arts,HS: Limited Unscreened,HS: No
+05M499,Frederick Douglass Academy,"MS: Screened, HS: Screened","MS: Yes, HS: Yes"
+05M514,New Design Middle School,MS: Limited Unscreened,MS: No
+05M517,Teachers College Community School,K: Non-Zoned School,K: No
+05M670,Thurgood Marshall Academy for Learning and Social Change,"MS: Screened, HS: Screened","MS: Yes, HS: Yes"
+05M692,"High School for Mathematics, Science and Engineering at City College",HS: Test,HS: Yes
+06M004,P.S. 004 Duke Ellington,K: Zoned School,K: No
+06M005,P.S. 005 Ellen Lurie,K: Zoned School,K: No
+06M008,P.S. 008 Luis Belliard,K: Zoned School,K: No
+06M018,P.S. 018 Park Terrace,"K: Zoned School, MS: Unscreened","K: No, MS: No"
+06M028,P.S. 028 Wright Brothers,K: Zoned School,K: No
+06M048,P.S. 048 P.O. Michael J. Buczek,K: Zoned School,K: No
+06M052,J.H.S. 052 Inwood,"MS: Unscreened, Zoned",MS: No
+06M098,P.S. 098 Shorac Kappock,K: Zoned School,K: No
+06M103,Dos Puentes Elementary School,K: Zoned School,K: No
+06M115,P.S. 115 Alexander Humboldt,K: Zoned School,K: No
+06M128,P.S. 128 Audubon,K: Zoned School,K: No
+06M132,P.S. 132 Juan Pablo Duarte,K: Zoned School,K: No
+06M143,J.H.S. 143 Eleanor Roosevelt,MS: Unscreened,MS: No
+06M152,P.S. 152 Dyckman Valley,K: Zoned School,K: No
+06M153,P.S. 153 Adam Clayton Powell,K: Zoned School,K: No
+06M173,P.S. 173,K: Zoned School,K: No
+06M178,Professor Juan Bosch Public School,K: Non-Zoned School,K: No
+06M187,P.S./I.S. 187 Hudson Cliffs,"K: Zoned School, MS: Unscreened","K: No, MS: No"
+06M189,P.S. 189,K: Zoned School,K: No
+06M192,P.S. 192 Jacob H. Schiff,K: Zoned School,K: No
+06M209,Hamilton Grange Middle School,MS: Limited Unscreened,MS: No
+06M210,P.S./I.S. 210 - Twenty-first Century Academy for Community Leadership,"K: Non-Zoned School, MS: Screened: Language","K: No, MS: Yes"
+06M211,Inwood Early College for Health and Information Technologies,HS: Limited Unscreened,HS: No
+06M218,I.S. 218 Salome Urena,MS: Unscreened,MS: No
+06M223,The Mott Hall School,MS: Screened,MS: Yes
+06M278,Paula Hedbavny School,"K: Zoned School, MS: Screened","K: No, MS: Yes"
+06M293,City College Academy of the Arts,"MS: Limited Unscreened, HS: Screened","MS: No, HS: Yes"
+06M311,Amistad Dual Language School,"K: Non-Zoned School, MS: Screened: Language","K: No, MS: Yes"
+06M314,Muscota,K: Non-Zoned School,K: No
+06M319,M.S. 319 - Maria Teresa,"MS: Screened: Language, Unscreened",MS: No
+06M322,Middle School 322,"MS: Screened: Language, Unscreened",MS: No
+06M324,M.S. 324 - Patria Mirabal,MS: Unscreened,MS: No
+06M328,Community Math & Science Prep,"MS: Screened: Language, Unscreened",MS: No
+06M346,Community Health Academy of the Heights,"MS: Unscreened, HS: Limited Unscreened","MS: No, HS: No"
+06M348,Washington Heights Expeditionary Learning School,"K: Non-Zoned School, MS: Unscreened, HS: Limited Unscreened","K: No, MS: No, HS: No"
+06M349,Harbor Heights,MS: Screened: Language,MS: Yes
+06M366,Washington Heights Academy,"K: Non-Zoned School, MS: Limited Unscreened","K: No, MS: No"
+06M368,Hamilton Heights School,K: Non-Zoned School,K: No
+06M423,High School for Excellence and Innovation,Transfer School: School-managed Admissions,HS: Yes
+06M462,The College Academy,HS: Ed. Opt.,HS: No
+06M463,High School for Media and Communications,HS: Ed. Opt.,HS: No
+06M467,High School for Law and Public Service,HS: Ed. Opt.,HS: No
+06M468,High School for Health Careers and Sciences,HS: Ed. Opt.,HS: No
+06M513,Castle Bridge School,K: Non-Zoned School,K: No
+06M528,I.S. 528 Bea Fuller Rodgers School,MS: Unscreened,MS: No
+06M540,A. Philip Randolph Campus High School,"HS: Ed. Opt., Screened, Screened: Language",HS: No
+06M552,Gregorio Luperon High School for Science and Mathematics,HS: Screened: Language & Academics,HS: Yes
+07X001,P.S. 001 Courtlandt School,K: Choice District,K: No
+07X005,P.S. 5 Port Morris,"K: Choice District, MS: Unscreened","K: No, MS: No"
+07X018,P.S. 018 John Peter Zenger,K: Choice District,K: No
+07X025,P.S. 025 Bilingual School,K: Choice District,K: No
+07X029,P.S./M.S. 029 Melrose School,"K: Choice District, MS: Unscreened","K: No, MS: No"
+07X030,P.S. 030 Wilton,K: Choice District,K: No
+07X031,P.S./M.S. 031 The William Lloyd Garrison,"K: Choice District, MS: Unscreened","K: No, MS: No"
+07X043,P.S. 043 Jonas Bronck,K: Choice District,K: No
+07X049,P.S. 049 Willis Avenue,K: Choice District,K: No
+07X065,P.S. 065 Mother Hale Academy,K: Choice District,K: No
+07X151,J.H.S. 151 Lou Gehrig,MS: Unscreened,MS: No
+07X154,P.S. 154 Jonathan D. Hyatt,K: Choice District,K: No
+07X157,P.S. 157 Grove Hill,K: Choice District,K: No
+07X161,P.S. 161 Juan Ponce De Leon School,K: Choice District,K: No
+07X179,P.S. 179,K: Choice District,K: No
+07X221,South Bronx Preparatory: A College Board School,"MS: Screened, HS: Limited Unscreened","MS: Yes, HS: No"
+07X223,M.S. 223 The Laboratory School of Finance and Technology,"MS: Screened: Language, Unscreened, HS: Limited Unscreened, Screened: Language","MS: No, HS: No"
+07X224,P.S./I.S. 224,MS: Unscreened,MS: No
+07X259,"H.E.R.O. High (Health, Education, and Research Occupations High School)",HS: Limited Unscreened,HS: No
+07X277,P.S. 277,K: Choice District,K: No
+07X296,South Bronx Academy for Applied Media,MS: Unscreened,MS: No
+07X298,Academy of Public Relations,"MS: Screened: Language, Unscreened",MS: No
+07X334,International Community High School,HS: Screened: Language,HS: No
+07X343,Academy of Applied Mathematics and Technology,MS: Unscreened,MS: No
+07X359,Concourse Village Elementary School,K: Choice District,K: No
+07X369,Young Leaders Elementary School,K: Choice District,K: No
+07X379,Jill Chaifetz Transfer High School,Transfer School: School-managed Admissions,HS: Yes
+07X381,Bronx Haven High School,Transfer School: School-managed Admissions,HS: No
+07X427,Community School for Social Justice,HS: Limited Unscreened,HS: No
+07X473,Mott Haven Village Preparatory High School,HS: Limited Unscreened,HS: No
+07X495,University Heights Secondary School,HS: Screened,HS: Yes
+07X500,Hostos-Lincoln Academy of Science,"MS: Screened, HS: Screened","MS: Yes, HS: Yes"
+07X522,Bronx Design and Construction Academy,HS: Ed. Opt.,HS: No
+07X527,Bronx Leadership Academy II High School,HS: Limited Unscreened,HS: No
+07X547,New Explorers High School,HS: Ed. Opt.,HS: No
+07X548,Careers in Sports High School,HS: Limited Unscreened,HS: No
+07X551,The Urban Assembly Bronx Academy of Letters,"MS: Limited Unscreened, HS: Limited Unscreened","MS: No, HS: No"
+07X557,Mott Haven Community High School,Transfer School: School-managed Admissions,HS: No
+07X600,Alfred E. Smith Career and Technical Education High School,"HS: Ed. Opt., Screened, Screened: Language",HS: No
+07X670,Health Opportunities High School,HS: Ed. Opt.,HS: No
+08X014,P.S. X014 Senator John Calandra,K: Zoned School,K: No
+08X036,P.S. 036 Unionport,K: Zoned School,K: No
+08X048,P.S. 048 Joseph R. Drake,K: Zoned School,K: No
+08X062,P.S. 062 Inocensio Casanova,K: Zoned School,K: No
+08X069,P.S. 069 Journey Prep School,K: Zoned School,K: No
+08X071,P.S. 071 Rose E. Scala,"K: Zoned School, MS: Unscreened","K: No, MS: No"
+08X072,P.S. 072 Dr. William Dorney,K: Zoned School,K: No
+08X075,P.S. 75 School of Research and Discovery,K: Zoned School,K: No
+08X093,P.S. 093 Albert G. Oliver,K: Zoned School,K: No
+08X100,P.S. 100 Isaac Clason,K: Zoned School,K: No
+08X101,M.S. X101 Edward R. Byrne,"MS: Composite Score, Unscreened",MS: No
+08X107,P.S. 107,K: Zoned School,K: No
+08X119,The Dr. Emmett W. Bassett School,K: Zoned School,K: No
+08X123,J.H.S. 123 James M. Kieran,MS: Unscreened,MS: No
+08X125,J.H.S. 125 Henry Hudson,MS: Unscreened,MS: No
+08X130,P.S. 130 Abram Stevens Hewitt,K: Zoned School,K: No
+08X131,J.H.S. 131 Albert Einstein,MS: Unscreened,MS: No
+08X138,P.S. 138 Samuel Randall,K: Zoned School,K: No
+08X140,P.S. X140 The Eagle School,K: Zoned School,K: No
+08X146,P.S. 146 Edward Collins,K: Zoned School,K: No
+08X152,P.S. 152 Evergreen,K: Zoned School,K: No
+08X182,P.S. 182,K: Zoned School,K: No
+08X269,Bronx Studio School for Writers and Artists,"MS: Unscreened, HS: Limited Unscreened","MS: No, HS: No"
+08X282,Women's Academy of Excellence,HS: Limited Unscreened,HS: No
+08X293,Renaissance High School for Musical Theater & Technology,HS: Limited Unscreened,HS: No
+08X301,M.S. 301 Paul L. Dunbar,MS: Unscreened,MS: No
+08X302,M.S. 302 Luisa Dessus Cruz,MS: Zoned,MS: No
+08X304,P.S. 304 Early Childhood School,K: Non-Zoned School,K: No
+08X312,Millennium Art Academy,HS: Ed. Opt.,HS: No
+08X320,Pelham Lab High School,HS: Limited Unscreened,HS: No
+08X332,Holcombe L. Rucker School of Community Research,HS: Limited Unscreened,HS: No
+08X333,P.S. 333 - The Museum School,K: Zoned School,K: No
+08X337,The School for Inquiry and Social Justice,MS: Unscreened,MS: No
+08X348,Schuylerville Preparatory High School,HS: Limited Unscreened,HS: No
+08X349,Bronx River High School,HS: Limited Unscreened,HS: No
+08X367,"Archimedes Academy for Math, Science and Technology Applications","MS: Limited Unscreened, HS: Limited Unscreened","MS: No, HS: No"
+08X371,Urban Institute of Mathematics,MS: Unscreened,MS: No
+08X375,The Bronx Mathematics Preparatory School,MS: Limited Unscreened,MS: No
+08X376,Antonia Pantoja Preparatory Academy: A College Board School,"MS: Limited Unscreened, HS: Limited Unscreened","MS: No, HS: No"
+08X377,Bronx Community High School,Transfer School: School-managed Admissions,HS: No
+08X392,Bronx Delta School,K: Non-Zoned School,K: No
+08X405,Herbert H. Lehman High School,"HS: Ed. Opt., Screened, Zoned Priority",HS: No
+08X424,The Hunts Point School,MS: Unscreened,MS: No
+08X432,Bronx Bridges High School,HS: Screened: Language,HS: No
+08X448,Soundview Academy for Culture and Scholarship,MS: Limited Unscreened,MS: No
+08X452,Bronx Guild,HS: Limited Unscreened,HS: No
+08X467,Mott Hall Community School,"MS: Screened, Unscreened",MS: No
+08X519,"Felisa Rincon de Gautier Institute for Law and Public Policy, The",HS: Limited Unscreened,HS: No
+08X530,Banana Kelly High School,HS: Ed. Opt.,HS: No
+08X537,Bronx Arena High School,Transfer School: School-managed Admissions,HS: No
+08X558,Westchester Square Academy,"HS: Limited Unscreened, Screened",HS: No
+08X559,School for Tourism and Hospitality,HS: Limited Unscreened,HS: No
+08X561,Bronx Compass High School,HS: Limited Unscreened,HS: No
+08X562,Blueprint Middle School,MS: Unscreened,MS: No
+08X583,P.S. 583,K: Zoned School,No
+09X004,P.S./M.S. 004 Crotona Park West,"K: Zoned School, MS: Zoned","K: No, MS: No"
+09X011,P.S. 011 Highbridge,K: Zoned School,K: No
+09X022,J.H.S. 022 Jordan L. Mott,MS: Unscreened,MS: No
+09X028,P.S. 028 Mount Hope,K: Zoned School,K: No
+09X035,P.S. 035 Franz Siegel,K: Zoned School,K: No
+09X042,P.S. 042 Claremont,K: Zoned School,K: No
+09X053,P.S. 053 Basheer Quisim,K: Zoned School,K: No
+09X055,P.S. 055 Benjamin Franklin,K: Zoned School,K: No
+09X058,P.S. 058,K: Zoned School,K: No
+09X063,P.S. 063 Author's Academy,K: Zoned School,K: No
+09X070,P.S. 070 Max Schoenfeld,K: Zoned School,K: No
+09X073,P.S. 073 Bronx,K: Zoned School,K: No
+09X088,P.S. X088 - S. Silverstein Little Sparrow School,K: Zoned School,K: No
+09X109,P.S. 109 Sedgwick,K: Zoned School,K: No
+09X110,P.S. 110 Theodore Schoenfeld,K: Zoned School,K: No
+09X114,P.S. X114 - Luis Llorens Torres Schools,K: Zoned School,K: No
+09X117,I.S. 117 Joseph H. Wade,MS: Unscreened,MS: No
+09X126,P.S. 126 Dr Marjorie H Dunbar,K: Zoned School,K: No
+09X128,Mott Hall III,MS: Screened,MS: Yes
+09X132,P.S. 132 Garret A. Morgan,K: Zoned School,K: No
+09X163,P.S. 163 Arthur A. Schomburg,K: Zoned School,K: No
+09X170,P.S. 170,K: Zoned School,K: No
+09X199,P.S. 199X - The Shakespeare School,K: Zoned School,K: No
+09X204,P.S. 204 Morris Heights,K: Zoned School,K: No
+09X215,Kappa,MS: Screened,MS: Yes
+09X218,P.S./I.S. 218 Rafael Hernandez Dual Language Magnet School,"K: Zoned School, MS: Screened: Language","K: No, MS: Yes"
+09X219,I.S. 219 New Venture School,MS: Unscreened,MS: No
+09X227,Bronx Collegiate Academy,HS: Limited Unscreened,HS: No
+09X229,I.S. 229 Roland Patterson,"MS: Unscreened, Zoned",MS: No
+09X231,Eagle Academy for Young Men,"MS: Limited Unscreened, HS: Limited Unscreened","MS: No, HS: No"
+09X232,I.S. 232,MS: Unscreened,MS: No
+09X236,P.S. 236 Langston Hughes,K: Non-Zoned School,K: No
+09X241,"Urban Assembly School for Applied Math and Science, The","MS: Limited Unscreened, HS: Limited Unscreened","MS: No, HS: No"
+09X250,Eximius College Preparatory Academy: A College Board School,HS: Limited Unscreened,HS: No
+09X252,Mott Hall Bronx High School,HS: Limited Unscreened,HS: No
+09X260,Bronx Center for Science and Mathematics,HS: Limited Unscreened,HS: No
+09X263,Validus Preparatory Academy,HS: Limited Unscreened,HS: No
+09X274,The New American Academy at Roberto Clemente State Park,K: Zoned School,K: No
+09X294,The Walton Avenue School,K: Zoned School,K: No
+09X297,Morris Academy for Collaborative Studies,HS: Limited Unscreened,HS: No
+09X303,I.S. X303 Leadership & Community Service,"MS: Limited Unscreened, Zoned",MS: No
+09X311,Lucero Elementary School,K: Zoned School,K: No
+09X313,I.S. 313 School of Leadership Development,MS: Unscreened,MS: No
+09X323,Bronx Writing Academy,MS: Unscreened,MS: No
+09X324,Bronx Early College Academy for Teaching & Learning,"MS: Limited Unscreened, HS: Screened","MS: No, HS: Yes"
+09X325,Urban Science Academy,MS: Unscreened,MS: No
+09X327,Comprehensive Model School Project M.S. 327,"MS: Unscreened, HS: Limited Unscreened","MS: No, HS: No"
+09X328,New Millennium Business Academy Middle School,MS: Limited Unscreened,MS: No
+09X329,DreamYard Preparatory School,HS: Limited Unscreened,HS: No
+09X339,I.S. 339,MS: Limited Unscreened,MS: No
+09X350,New Directions Secondary School,"MS: Limited Unscreened, HS: Transfer School: School-managed Admissions","MS: No, HS: No"
+09X361,The Highbridge Green School,MS: Unscreened,MS: No
+09X365,Academy for Language and Technology,HS: Screened: Language,HS: No
+09X403,Bronx International High School,HS: Screened: Language,HS: No
+09X404,School for Excellence,HS: Limited Unscreened,HS: No
+09X412,Bronx High School of Business,"HS: Limited Unscreened, Screened: Language",HS: No
+09X413,Bronx High School for Medical Science,"MS: Screened, HS: Screened","MS: Yes, HS: Yes"
+09X443,The Family School,K: Zoned School,K: No
+09X449,Grant Avenue Elementary School,K: Zoned School,K: No
+09X454,Science and Technology Academy: A Mott Hall School,MS: Limited Unscreened,MS: No
+09X457,Sheridan Academy for Young Leaders,K: Zoned School,K: No
+09X505,"Bronx School for Law, Government and Justice","MS: Screened, HS: Ed. Opt., For Continuing 8th Graders","MS: Yes, HS: No"
+09X517,Frederick Douglass Academy III Secondary School,HS: Limited Unscreened,HS: No
+09X525,Bronx Leadership Academy High School,HS: Ed. Opt.,HS: No
+09X543,High School for Violin and Dance,HS: Limited Unscreened,HS: No
+09X555,Mount Eden Children's Academy,K: Non-Zoned School,K: No
+09X564,Claremont International HS,HS: Screened: Language,HS: No
+09X568,Young Women's Leadership School of the Bronx,"MS: Screened, HS: Screened","MS: Yes, HS: Yes"
+10X003,P.S. 3 Raul Julia Micro Society,"K: Non-Zoned School, MS: Unscreened","K: No, MS: No"
+10X007,Milton Fein School,K: Zoned School,K: No
+10X008,P.S. 008 Isaac Varian,K: Zoned School,K: No
+10X009,P.S. 9 Ryer Avenue Elementary School,K: Zoned School,K: No
+10X015,P.S. X015 Institute for Environmental Learning,"K: Non-Zoned School, MS: School-managed Admissions","K: No, MS: Yes"
+10X020,"P.S./M.S. 20 P.O.George J. Werdann, III","K: Zoned School, MS: School-managed Admissions","K: No, MS: Yes"
+10X023,P.S. 023 The New Children's School,K: Zoned School,K: No
+10X024,P.S. 024 Spuyten Duyvil,K: Zoned School,K: No
+10X032,P.S. 032 Belmont,K: Zoned School,K: No
+10X033,P.S. 033 Timothy Dwight,K: Zoned School,K: No
+10X037,P.S. X037 - Multiple Intelligence School,"K: Zoned School, MS: Zoned","K: No, MS: No"
+10X045,Thomas C. Giordano Middle School 45,"MS: Screened, Zoned",MS: No
+10X046,P.S. 046 Edgar Allan Poe,K: Zoned School,K: No
+10X051,P.S. 051 Bronx New School,K: Non-Zoned School,K: No
+10X054,P.S./I.S. 54,K: Zoned School,K: No
+10X056,P.S. 056 Norwood Heights,K: Zoned School,K: No
+10X059,P.S. 059 The Community School of Technology,K: Zoned School,K: No
+10X077,Bedford Park Elementary School,K: Zoned School,K: No
+10X080,J.H.S. 080 The Mosholu Parkway,MS: Unscreened,MS: No
+10X081,P.S. 081 Robert J. Christen,K: Zoned School,K: No
+10X085,P.S. 085 Great Expectations,K: Zoned School,K: No
+10X086,P.S. 086 Kingsbridge Heights,K: Zoned School,K: No
+10X091,P.S. 091 Bronx,K: Zoned School,K: No
+10X094,P.S. 094 Kings College School,K: Zoned School,K: No
+10X095,P.S. 095 Sheila Mencher,"K: Zoned School, MS: Zoned","K: No, MS: No"
+10X118,J.H.S. 118 William W. Niles,"MS: Screened, Zoned",MS: No
+11X016,P.S. 016 Wakefield,K: Zoned School,K: No
+10X141,Riverdale / Kingsbridge Academy (Middle School / High School 141),"MS: Screened, Unscreened, Zoned, HS: Screened","MS: No, HS: Yes"
+10X159,P.S. 159 Luis Munoz Marin Biling,K: Non-Zoned School,K: No
+10X205,P.S. 205 Fiorello Laguardia,K: Zoned School,K: No
+10X206,I.S. 206 Ann Mersereau,"MS: Limited Unscreened, Zoned",MS: No
+10X207,P.S. 207,K: Zoned School,K: No
+10X209,P.S. 209,K: Zoned School,K: No
+10X213,Bronx Engineering and Technology Academy,HS: Limited Unscreened,HS: No
+10X225,Theatre Arts Production Company School,"MS: Screened, HS: Audition","MS: Yes, HS: Yes"
+10X226,P.S. 226,K: Zoned School,K: No
+10X228,Jonas Bronck Academy,MS: Screened,MS: Yes
+10X237,"The Marie Curie School for Medicine, Nursing, and Health Professions",HS: Limited Unscreened,HS: No
+10X243,West Bronx Academy for the Future,"MS: Limited Unscreened, HS: Limited Unscreened","MS: No, HS: No"
+10X244,The New School for Leadership and Journalism,"MS: Limited Unscreened, Zoned",MS: No
+10X246,P.S. 246 Poe Center,K: Zoned School,K: No
+10X254,I.S. 254,"MS: Limited Unscreened, Zoned",MS: No
+10X264,Bronx Academy for Software Engineering (BASE),HS: Limited Unscreened,HS: No
+10X268,Kingsbridge International High School,HS: Screened: Language,HS: No
+10X279,"P.S. 279 Captain Manuel Rivera, Jr.","K: Zoned School, MS: Zoned","K: No, MS: No"
+10X280,P.S./M.S. 280 Mosholu Parkway,"K: Zoned School, MS: Zoned","K: No, MS: No"
+10X284,Bronx School of Law and Finance,HS: Limited Unscreened,HS: No
+10X291,P.S. 291,K: Zoned School,K: No
+10X306,P.S. 306,K: Zoned School,K: No
+10X307,Luisa Pineiro Fuentes School of Science and Discovery,K: Zoned School,K: No
+10X308,Bronx Dance Academy School,MS: Screened,MS: Yes
+10X310,P.S. 310 Marble Hill,K: Zoned School,K: No
+10X315,P.S. 315 Lab School,"K: Non-Zoned School, MS: School-managed Admissions","K: No, MS: Yes"
+10X319,Providing Urban Learners Success In Education High School,Transfer School: School-managed Admissions,HS: No
+10X331,The Bronx School of Young Leaders,MS: Unscreened,MS: No
+10X340,P.S. 340,K: Zoned School,K: No
+10X342,International School for Liberal Arts,"MS: Screened: Language, HS: Screened: Language","MS: Yes, HS: No"
+10X344,Ampark Neighborhood,K: Non-Zoned School,K: No
+10X351,Bronx Collaborative High School,HS: Limited Unscreened,HS: No
+10X353,World View High School,"HS: Limited Unscreened, Screened: Language",HS: No
+10X360,P.S. 360,K: Zoned School,K: No
+10X363,Academy For Personal Leadership And Excellence,"MS: Limited Unscreened, Unscreened",MS: No
+10X368,In-Tech Academy (M.S. / High School 368),"MS: Screened, Unscreened, Zoned, HS: Screened","MS: No, HS: Yes"
+10X374,Knowledge and Power Preparatory Academy International High School (Kappa),HS: Limited Unscreened,HS: No
+10X382,"Elementary School for Math, Science, and Technology",K: Zoned School,K: No
+10X386,School for Environmental Citizenship,K: Zoned School,K: No
+10X390,M.S. 390,"MS: Limited Unscreened, Screened: Language, Zoned",MS: No
+10X391,The Angelo Patri Middle School,"MS: Limited Unscreened, Zoned",MS: No
+10X396,P.S. 396,K: Zoned School,K: No
+10X397,English Language Learners and International Support Preparatory Academy (ELLIS),Transfer School: School-managed Admissions,HS: No
+10X433,High School for Teaching and the Professions,HS: Limited Unscreened,HS: No
+10X434,Belmont Preparatory High School,HS: Screened,HS: Yes
+10X437,Fordham High School for the Arts,HS: Audition,HS: Yes
+10X438,Fordham Leadership Academy for Business and Technology,HS: Ed. Opt.,HS: No
+10X439,Bronx High School for Law and Community Service,"HS: Ed. Opt., Limited Unscreened",HS: No
+10X440,DeWitt Clinton High School,"HS: Ed. Opt., Screened, Screened: Language",HS: No
+10X442,"Celia Cruz Bronx High School of Music, The",HS: Audition,HS: Yes
+10X445,Bronx High School of Science,HS: Test,HS: Yes
+10X447,Creston Academy,"MS: Limited Unscreened, Screened: Language, Unscreened",MS: No
+10X459,East Fordham Academy for the Arts,MS: Unscreened,MS: No
+10X477,Marble Hill High School for International Studies,"HS: Screened, Screened: Language",HS: No
+10X524,Crotona International High School,HS: Screened: Language,HS: No
+10X546,Bronx Theatre High School,HS: Limited Unscreened,HS: No
+10X549,Discovery High School,HS: Limited Unscreened,HS: No
+10X565,High School for Energy and Technology,HS: Limited Unscreened,HS: No
+10X696,High School of American Studies at Lehman College,HS: Test,HS: Yes
+11X019,P.S. 019 Judith K. Weiss,"K: Zoned School, MS: Zoned","K: No, MS: No"
+11X021,P.S. 021 Philip H. Sheridan,K: Zoned School,K: No
+11X041,P.S. 041 Gun Hill Road,K: Zoned School,K: No
+11X068,P.S. 068 Bronx,K: Zoned School,K: No
+11X076,P.S. 076 The Bennington School,K: Zoned School,K: No
+11X078,P.S. 078 Anne Hutchinson,K: Zoned School,K: No
+11X083,P.S. 083 Donald Hertz,"K: Zoned School, MS: Zoned","K: No, MS: No"
+11X087,P.S. 087 Bronx,K: Zoned School,K: No
+11X089,P.S. 089 Bronx,"K: Zoned School, MS: Limited Unscreened, Zoned","K: No, MS: No"
+11X096,P.S. 096 Richard Rodgers,K: Zoned School,K: No
+11X097,P.S. 097 Bronx,K: Zoned School,K: No
+11X103,P.S. 103 Hector Fontanez,K: Zoned School,K: No
+11X105,P.S. 105 Sen Abraham Bernstein,K: Zoned School,K: No
+11X106,P.S. 106 Parkchester,K: Zoned School,K: No
+11X108,P.S. 108 Philip J. Abinanti,K: Zoned School,K: No
+11X111,P.S. 111 Seton Falls,K: Zoned School,K: No
+11X112,P.S. 112 Bronxwood,K: Zoned School,K: No
+11X121,P.S. 121 Throop,K: Zoned School,K: No
+11X127,J.H.S. 127 The Castle Hill,"MS: Composite Score, Limited Unscreened, Zoned",MS: No
+11X144,J.H.S. 144 Michelangelo,"MS: Unscreened, Zoned",MS: No
+11X153,P.S. 153 Helen Keller,K: Zoned School,K: No
+11X160,P.S. 160 Walt Disney,K: Zoned School,K: No
+11X169,Baychester Academy,K: Zoned School,K: No
+11X175,P.S. 175 City Island,"K: Zoned School, MS: Zoned","K: No, MS: No"
+11X178,P.S. 178 - Dr. Selman Waksman,K: Zoned School,K: No
+11X180,M.S. 180 Dr. Daniel Hale Williams,"MS: Screened, Zoned",MS: No
+11X181,I.S. 181 Pablo Casals,"MS: Limited Unscreened, Screened, Zoned",MS: No
+11X189,Cornerstone Academy for Social Action,K: Zoned School,K: No
+11X194,P.S./M.S. 194,"K: Zoned School, MS: Zoned","K: No, MS: No"
+11X249,Bronx Health Sciences High School,HS: Limited Unscreened,HS: No
+11X253,Bronx High School for Writing and Communication Arts,HS: Limited Unscreened,HS: No
+11X265,Bronx Lab School,HS: Limited Unscreened,HS: No
+11X270,Academy for Scholarship and Entrepreneurship: A College Board School,HS: Limited Unscreened,HS: No
+11X275,High School of Computers and Technology,HS: Limited Unscreened,HS: No
+11X287,North Bronx School of Empowerment,MS: Unscreened,MS: No
+11X288,Collegiate Institute for Math and Science,HS: Limited Unscreened,HS: No
+11X290,Bronx Academy of Health Careers,HS: Limited Unscreened,HS: No
+11X299,Astor Collegiate Academy,HS: Limited Unscreened,HS: No
+11X326,Bronx Green Middle School,MS: Unscreened,MS: No
+11X355,Bronx Alliance Middle School,MS: Unscreened,MS: No
+11X357,Young Voices Academy of the Bronx,K: Zoned School,K: No
+11X370,Leaders of Tomorrow,MS: Unscreened,MS: No
+11X418,Bronx High School for the Visual Arts,HS: Limited Unscreened,HS: No
+11X455,Harry S Truman High School,"HS: Ed. Opt., Limited Unscreened, Screened, Zoned Guarantee",HS: No
+11X462,Cornerstone Academy for Social Action Middle School (CASA),MS: Limited Unscreened,MS: No
+11X468,Pelham Academy of Academics and Community Engagement,MS: Unscreened,MS: No
+11X481,The STEAM Bridge School,K: Non-Zoned School,K: No
+11X483,The Matilda Avenue School,K: Zoned School,K: No
+11X498,P.S./M.S. 11X498 - VAN NEST ACADEMY,"K: Non-Zoned School, MS: Unscreened","K: No, MS: No"
+11X508,Bronxdale High School,HS: Limited Unscreened,HS: No
+11X509,High School of Language and Innovation,HS: Screened: Language,HS: No
+11X513,New World High School,HS: Screened: Language,HS: No
+11X514,The Bronxwood Preparatory Academy,HS: Limited Unscreened,HS: No
+11X529,One World Middle School at Edenwald,MS: Unscreened,MS: No
+11X532,Baychester Middle School,MS: Unscreened,MS: No
+11X542,Pelham Preparatory Academy,HS: Limited Unscreened,HS: No
+11X544,High School for Contemporary Arts,HS: Limited Unscreened,HS: No
+11X545,Bronx Aerospace High School,HS: Limited Unscreened,HS: No
+11X556,Bronx Park Middle School,MS: Unscreened,MS: No
+11X566,Pelham Gardens Middle School,MS: Unscreened,MS: No
+11X567,Linden Tree Elementary School,K: Zoned School,K: No
+12X006,P.S. 006 West Farms,K: Zoned School,K: No
+12X044,P.S. 044 David C. Farragut,K: Zoned School,K: No
+12X047,P.S. 047 John Randolph,K: Zoned School,K: No
+12X057,P.S. 057 Crescent,K: Zoned School,K: No
+12X061,P.S. 061 Francisco Oller,K: Zoned School,K: No
+12X066,P.S. 066 School of Higher Expectations,K: Zoned School,K: No
+12X067,P.S. 067 Mohegan School,K: Zoned School,K: No
+12X092,P.S. 092 Bronx,K: Zoned School,K: No
+12X098,J.H.S. 098 Herman Ridder,MS: Unscreened,MS: No
+12X129,M.S. 129 Academy for Independent Learning and Leadership,MS: Unscreened,MS: No
+12X134,P.S. 134 George F. Bristow,K: Zoned School,K: No
+12X150,P.S. 150 Charles James Fox,K: Zoned School,K: No
+12X190,E.S.M.T- I.S. 190,MS: Unscreened,MS: No
+12X195,P.S. 195,K: Zoned School,K: No
+12X196,P.S. 196,K: Zoned School,K: No
+12X211,P.S. 211,"K: Non-Zoned School, MS: Unscreened","K: No, MS: No"
+12X212,P.S. 212,"K: Non-Zoned School, MS: Unscreened","K: No, MS: No"
+12X214,P.S. 214,"K: Non-Zoned School, MS: Limited Unscreened","K: No, MS: No"
+12X217,School of Performing Arts,MS: Unscreened,MS: No
+12X242,Mott Hall V,"MS: Unscreened, HS: Limited Unscreened","MS: No, HS: No"
+12X248,"Metropolitan High School, The",HS: Limited Unscreened,HS: No
+12X251,Explorations Academy,HS: Limited Unscreened,HS: No
+12X267,Bronx Latin,"MS: Unscreened, HS: Limited Unscreened","MS: No, HS: No"
+12X271,East Bronx Academy for the Future,"MS: Unscreened, HS: Limited Unscreened","MS: No, HS: No"
+12X273,Frederick Douglass Academy V. Middle School,MS: Unscreened,MS: No
+12X286,Fannie Lou Hamer Middle School,MS: Unscreened,MS: No
+12X300,The School of Science and Applied Learning,K: Zoned School,K: No
+12X314,Fairmont Neighborhood School,K: Zoned School,K: No
+12X316,Kappa III,MS: Unscreened,MS: No
+12X318,"I.S. X318 Math, Science & Technology Through Arts",MS: Unscreened,MS: No
+12X321,Crotona Academy High School,Transfer School: School-managed Admissions,HS: No
+12X341,Accion Academy,MS: Unscreened,MS: No
+12X372,Urban Assembly School for Wildlife Conservation,"MS: Unscreened, HS: Limited Unscreened","MS: No, HS: No"
+12X383,Emolior Academy,MS: Unscreened,MS: No
+12X384,Entrada Academy,MS: Unscreened,MS: No
+12X388,Pan American International High School at Monroe,HS: Screened: Language,HS: No
+12X446,Arturo A. Schomburg Satellite Academy Bronx,Transfer School: School-managed Admissions,HS: No
+12X458,Samara Community School,K: Zoned School,K: No
+12X463,Urban Scholars Community School,K: Zoned School,K: No
+12X478,The Cinema School,HS: Screened,HS: Yes
+12X479,Bronx Career and College Preparatory High School,HS: Limited Unscreened,HS: No
+12X480,Bronx Regional High School,Transfer School: School-managed Admissions,HS: No
+12X511,Bronx Envision Academy,HS: Limited Unscreened,HS: No
+12X521,The Metropolitan Soundview High School,HS: Limited Unscreened,HS: No
+12X531,Archer Elementary School,K: Zoned School,K: No
+12X536,P.S. 536,K: Zoned School,K: No
+12X550,High School of World Cultures,HS: Screened: Language,HS: No
+12X682,Fannie Lou Hamer Freedom High School,HS: Limited Unscreened,HS: No
+12X684,Wings Academy,HS: Ed. Opt.,HS: No
+12X691,Bronx Little School,K: Non-Zoned School,K: No
+13K003,P.S. 003 The Bedford Village,K: Zoned School,K: No
+13K008,P.S. 008 Robert Fulton,"K: Zoned School, MS: Limited Unscreened","K: No, MS: No"
+13K009,P.S. 009 Teunis G. Bergen,K: Zoned School,K: No
+13K011,P.S. 011 Purvis J. Behan,K: Zoned School,K: No
+13K020,P.S. 020 Clinton Hill,K: Zoned School,K: No
+13K044,P.S. 044 Marcus Garvey,K: Zoned School,K: No
+13K046,P.S. 046 Edward C. Blum,K: Zoned School,K: No
+13K054,P.S. 054 Samuel C. Barnes,K: Zoned School,K: No
+13K056,P.S. 056 Lewis H. Latimer,K: Zoned School,K: No
+13K067,P.S. 067 Charles A. Dorsey,K: Zoned School,K: No
+13K093,P.S. 093 William H. Prescott,K: Zoned School,K: No
+13K113,M.S. 113 Ronald Edmonds Learning Center,"MS: Screened, Screened: Language",MS: Yes
+13K133,P.S. 133 William A. Butler,K: Non-Zoned School,K: No
+13K256,P.S. 256 Benjamin Banneker,K: Zoned School,K: No
+13K265,Dr. Susan S. McKinney Secondary School of the Arts,"MS: Screened, HS: Audition","MS: Yes, HS: Yes"
+13K266,M.S. K266 - Park Place Community Middle School,MS: Screened,MS: Yes
+13K270,P.S. 270 Johann DeKalb,K: Zoned School,K: No
+22K245,P.S. 245,K: Zoned School,K: No
+13K282,P.S. 282 Park Slope,"K: Zoned School, MS: Limited Unscreened","K: No, MS: No"
+13K287,P.S. 287 Bailey K. Ashford,K: Zoned School,K: No
+13K301,Satellite East Middle School,MS: Screened,MS: Yes
+13K305,P.S. 305 Dr. Peter Ray,K: Zoned School,K: No
+13K307,P.S. 307 Daniel Hale Williams,K: Zoned School,K: No
+13K313,Dock Street School for STEAM Studies,MS: Screened,MS: Yes
+13K350,Urban Assembly School for Music and Art,HS: Limited Unscreened,HS: No
+13K351,The Urban Assembly Unison School,MS: Limited Unscreened,MS: No
+13K412,"Brooklyn Community High School of Communication, Arts and Media",HS: Ed. Opt.,HS: No
+13K419,"Science Skills Center High School for Science, Technology and the Creative Arts","HS: Ed. Opt., Screened",HS: No
+13K430,Brooklyn Technical High School,HS: Test,HS: Yes
+13K439,Brooklyn International High School,HS: Screened: Language,HS: No
+13K483,The Urban Assembly School for Law and Justice,HS: Limited Unscreened,HS: No
+13K492,Academy of Arts and Letters,"K: Non-Zoned School, MS: Screened","K: No, MS: Yes"
+13K499,ACORN Community High School,HS: Ed. Opt.,HS: No
+13K527,Urban Assembly Institute of Math and Science for Young Women,"MS: Screened, HS: Limited Unscreened","MS: Yes, HS: No"
+13K553,Brooklyn Academy High School,Transfer School: School-managed Admissions,HS: No
+13K575,Bedford Stuyvesant Preparatory High School,Transfer School: School-managed Admissions,HS: No
+17K249,P.S. 249 The Caton,K: Zoned School,K: No
+13K595,Bedford Academy High School,HS: Screened,HS: Yes
+13K605,George Westinghouse Career and Technical Education High School,"HS: Ed. Opt., Screened",HS: No
+13K616,Brooklyn High School for Leadership and Community Service,Transfer School: School-managed Admissions,HS: No
+13K670,Benjamin Banneker Academy,HS: Screened,HS: Yes
+13K674,"City Polytechnic High School of Engineering, Architecture, and Technology",HS: Limited Unscreened,HS: No
+13K691,Fort Greene Preparatory Academy,MS: Screened,MS: Yes
+14K016,P.S. 016 Leonard Dunkly,K: Zoned School,K: No
+14K017,P.S. 017 Henry D. Woodworth,K: Zoned School,K: No
+14K018,P.S. 018 Edward Bush,K: Zoned School,K: No
+14K023,P.S. 023 Carter G. Woodson,K: Zoned School,K: No
+14K031,P.S. 031 Samuel F. Dupont,K: Zoned School,K: No
+14K034,P.S. 034 Oliver H. Perry,K: Zoned School,K: No
+14K050,J.H.S. 050 John D. Wells,MS: Screened,MS: Yes
+14K059,P.S. 059 William Floyd,K: Zoned School,K: No
+14K071,Juan Morel Campos Secondary School,"MS: Screened, HS: Audition, Limited Unscreened","MS: Yes, HS: No"
+14K084,P.S. 084 Jose De Diego,"K: Zoned School, MS: Limited Unscreened","K: No, MS: No"
+14K110,P.S. 110 The Monitor,K: Zoned School,K: No
+14K120,P.S. 120 Carlos Tapia,K: Zoned School,K: No
+14K126,John Ericsson Middle School 126,MS: Unscreened,MS: No
+14K132,P.S. 132 The Conselyea School,K: Zoned School,K: No
+14K147,P.S. 147 Isaac Remsen,K: Zoned School,K: No
+14K157,P.S./I.S. 157 The Benjamin Franklin Health & Science Academy,"K: Zoned School, MS: Limited Unscreened","K: No, MS: No"
+14K196,P.S. 196 Ten Eyck,K: Zoned School,K: No
+14K250,P.S. 250 George H. Lindsay,K: Zoned School,K: No
+14K257,P.S. 257 John F. Hylan,K: Zoned School,K: No
+14K297,P.S. 297 Abraham Stockton,K: Zoned School,K: No
+14K318,I.S. 318 Eugenio Maria De Hostos,MS: Screened,MS: Yes
+14K319,P.S. 319,K: Zoned School,K: No
+14K380,P.S. 380 John Wayne Elementary,K: Zoned School,K: No
+14K414,Brooklyn Arbor Elementary School,K: Zoned School,K: No
+14K449,"Brooklyn Latin School, The",HS: Test,HS: Yes
+14K454,Green School: An Academy for Environmental Careers,"HS: Limited Unscreened, Screened, Screened: Language",HS: No
+14K474,PROGRESS High School for Professional Careers,"HS: Ed. Opt., Limited Unscreened",HS: No
+14K477,School for Legal Studies,HS: Ed. Opt.,HS: No
+14K478,"The High School for Enterprise, Business and Technology","HS: Ed. Opt., Limited Unscreened, Screened",HS: No
+14K488,Brooklyn Preparatory High School,HS: Limited Unscreened,HS: No
+14K558,Williamsburg High School for Architecture and Design,HS: Limited Unscreened,HS: No
+14K561,Williamsburg Preparatory School,HS: Limited Unscreened,HS: No
+14K577,Conselyea Preparatory School,MS: Screened,MS: Yes
+14K582,M.S. 582,MS: Screened,MS: Yes
+14K586,Lyons Community School,"MS: Limited Unscreened, HS: Limited Unscreened","MS: No, HS: No"
+14K610,Automotive High School,"HS: Ed. Opt., Limited Unscreened, Screened",HS: No
+14K614,Young Women's Leadership School of Brooklyn,"MS: Screened, HS: Screened","MS: Yes, HS: Yes"
+14K685,El Puente Academy for Peace and Justice,HS: Ed. Opt.,HS: No
+15K001,P.S. 001 The Bergen,K: Zoned School,K: No
+15K010,"Magnet School of Math, Science and Design Technology",K: Zoned School,K: No
+15K015,P.S. 015 Patrick F. Daly,K: Zoned School,K: No
+15K024,P.S. 024,K: Zoned School,K: No
+15K029,P.S. 029 John M. Harrigan,K: Zoned School,K: No
+15K032,P.S. 032 Samuel Mills Sprole,K: Zoned School,K: No
+15K038,P.S. 038 The Pacific,K: Zoned School,K: No
+15K039,P.S. 039 Henry Bristow,K: Zoned School,K: No
+15K051,M.S. 51 William Alexander,MS: Screened,MS: Yes
+15K058,P.S. 058 The Carroll,K: Zoned School,K: No
+15K088,J.H.S. 088 Peter Rouget,MS: Screened,MS: Yes
+15K094,P.S. 094 The Henry Longfellow,K: Zoned School,K: No
+15K107,P.S. 107 John W. Kimball,K: Zoned School,K: No
+15K118,The Maurice Sendak Community School,K: Zoned School,K: No
+15K124,P.S. 124 Silas B. Dutcher,K: Zoned School,K: No
+15K130,P.S. 130 The Parkside,K: Zoned School,K: No
+15K131,P.S. 131 Brooklyn,K: Zoned School,K: No
+15K136,I.S. 136 Charles O. Dewey,MS: Screened,MS: Yes
+15K146,"The Brooklyn New School, P.S. 146",K: Non-Zoned School,K: No
+15K154,The Windsor Terrace School,K: Zoned School,K: No
+15K169,P.S. 169 Sunset Park,K: Zoned School,K: No
+15K172,P.S. 172 Beacon School of Excellence,K: Zoned School,K: No
+15K230,P.S. 230 Doris L. Cohen,K: Zoned School,K: No
+15K261,P.S. 261 Philip Livingston,K: Zoned School,K: No
+15K295,P.S. 295,K: Zoned School,K: No
+15K321,P.S. 321 William Penn,K: Zoned School,K: No
+15K418,P.S. 372 -The Children's School,K: Non-Zoned School,K: No
+15K423,Brooklyn Frontiers High School,Transfer School: School-managed Admissions,HS: No
+15K429,Digital Arts and Cinema Technology High School,HS: Screened,HS: Yes
+15K442,M.S. 442 Carroll Gardens School for Innovation,MS: Screened,MS: Yes
+15K443,New Voices School of Academic & Creative Arts,MS: Screened,MS: Yes
+15K447,The Math & Science Exploratory School,MS: Screened,MS: Yes
+15K448,Brooklyn Secondary School for Collaborative Studies,"MS: Screened, HS: Limited Unscreened","MS: Yes, HS: No"
+15K462,John Jay School for Law,HS: Ed. Opt.,HS: No
+15K463,Secondary School for Journalism,HS: Ed. Opt.,HS: No
+15K464,Park Slope Collegiate,"MS: Screened, HS: Ed. Opt., For Continuing 8th Graders","MS: Yes, HS: No"
+15K497,The Boerum Hill School for International Studies,"MS: Screened, Screened: Language, HS: Screened","MS: Yes, HS: Yes"
+15K516,Sunset Park Avenues Elementary School,K: Zoned School,K: No
+15K519,Cobble Hill School of American Studies,HS: Ed. Opt.,HS: No
+15K529,West Brooklyn Community High School,Transfer School: School-managed Admissions,HS: No
+15K592,Khalil Gibran International Academy,HS: Limited Unscreened,HS: No
+15K656,Brooklyn High School of the Arts,HS: Audition,HS: Yes
+15K667,Sunset Park High School,HS: Limited Unscreened,HS: No
+15K676,Red Hook Neighborhood School,K: Zoned School,K: No
+15K684,Millennium Brooklyn HS,HS: Screened,HS: Yes
+15K698,South Brooklyn Community High School,Transfer School: School-managed Admissions,HS: No
+15K821,Sunset Park Prep,MS: Screened,MS: Yes
+15K839,M.S. 839,MS: Unscreened,MS: No
+16K005,P.S. 005 Dr. Ronald Mcnair,K: Zoned School,K: No
+16K021,P.S. 021 Crispus Attucks,K: Zoned School,K: No
+16K025,P.S. 025 Eubie Blake School,K: Zoned School,K: No
+16K026,P.S. 026 Jesse Owens,K: Zoned School,K: No
+16K028,P.S. 028 The Warren Prep Academy,K: Zoned School,K: No
+16K035,M.S. 035 Stephen Decatur,MS: Unscreened,MS: No
+16K040,P.S. 040 George W. Carver,K: Zoned School,K: No
+16K057,J.H.S. 057 Whitelaw Reid,MS: Unscreened,MS: No
+16K081,P.S. 081 Thaddeus Stevens,K: Zoned School,K: No
+16K243,P.S. 243K- The Weeksville School,K: Zoned School,K: No
+16K262,P.S. 262 El Hajj Malik El Shabazz Elementary School,"K: Zoned School, MS: Unscreened","K: No, MS: No"
+16K267,"M.S. 267 Math, Science & Technology",MS: Unscreened,MS: No
+16K308,P.S. 308 Clara Cardwell,"K: Zoned School, MS: Unscreened","K: No, MS: No"
+16K309,P.S. 309 The George E. Wibecan Preparatory Academy,K: Zoned School,K: No
+16K335,P.S. 335 Granville T. Woods,K: Zoned School,K: No
+16K455,Boys and Girls High School,"HS: Screened, Zoned Guarantee",HS: No
+16K498,Brooklyn High School for Law and Technology,"HS: Ed. Opt., Screened",HS: No
+16K594,Gotham Professional Arts Academy,HS: Limited Unscreened,HS: No
+16K627,Brighter Choice Community School,K: Zoned School,K: No
+16K628,Brooklyn Brownstone School,K: Non-Zoned School,K: No
+16K669,Research and Service High School,Transfer School: School-managed Admissions,HS: No
+16K681,Madiba Prep Middle School,MS: Unscreened,MS: No
+16K688,The Brooklyn Academy of Global Finance,HS: Limited Unscreened,HS: No
+16K765,Nelson Mandela High School,HS: Limited Unscreened,HS: No
+17K002,Parkside Preparatory Academy,"MS: Composite Score, Unscreened",MS: No
+17K006,Norma Adams Clemons Academy,K: Zoned School,K: No
+17K012,Dr. Jacqueline Peek-Davis School,K: Zoned School,K: No
+17K061,M.S. 061 Dr. Gladstone H. Atwell,"MS: Composite Score, Screened, Unscreened",MS: No
+17K091,P.S. 091 The Albany Avenue School,K: Zoned School,K: No
+17K092,P.S. 092 Adrian Hegeman,K: Zoned School,K: No
+17K122,Pathways in Technology Early College High School (P-Tech),HS: Limited Unscreened,HS: No
+17K138,P.S. 138 Brooklyn,"K: Zoned School, MS: Unscreened","K: No, MS: No"
+17K161,P.S. 161 The Crown,K: Zoned School,K: No
+17K181,P.S. 181 Brooklyn,"K: Zoned School, MS: Unscreened","K: No, MS: No"
+17K189,P.S. 189 The Bilingual Center,"K: Zoned School, MS: Screened","K: No, MS: Yes"
+17K191,P.S. 191 Paul Robeson,K: Zoned School,K: No
+17K221,P.S. 221 Toussaint L'Ouverture,K: Zoned School,K: No
+17K241,P.S. 241 Emma L. Johnston,K: Zoned School,K: No
+17K246,M.S. 246 Walt Whitman,"MS: Composite Score, Unscreened",MS: No
+17K289,P.S. 289 George V. Brower,K: Zoned School,K: No
+17K316,P.S. 316 Elijah Stroud,K: Zoned School,K: No
+17K340,I.S. 340,"MS: Composite Score, Limited Unscreened",MS: No
+17K352,Ebbets Field Middle School,MS: Unscreened,MS: No
+17K353,Elijah Stroud Middle School,MS: Unscreened,MS: No
+17K354,The School of Integrated Learning,"MS: Composite Score, Unscreened",MS: No
+17K375,P.S. 375 Jackie Robinson School,K: Zoned School,K: No
+17K382,Academy for College Preparation and Career Exploration: A College Board School,"MS: Limited Unscreened, HS: Limited Unscreened","MS: No, HS: No"
+17K394,M.S. K394,"K: Non-Zoned School, MS: Composite Score, Screened","K: No, MS: Yes"
+17K397,P.S. 397 Foster-Laurie,K: Zoned School,K: No
+17K398,P.S. 398 Walter Weaver,K: Zoned School,K: No
+17K399,P.S. 399 Stanley Eugene Clark,K: Zoned School,K: No
+17K408,Academy of Hospitality and Tourism,HS: Ed. Opt.,HS: No
+17K484,Ronald Edmonds Learning Center II,MS: Limited Unscreened,MS: No
+17K489,W.E.B. Dubois Academic High School,Transfer School: School-managed Admissions,HS: No
+17K524,International High School at Prospect Heights,HS: Screened: Language,HS: No
+17K528,The High School for Global Citizenship,"HS: Limited Unscreened, Screened",HS: No
+17K531,"School for Human Rights, The","MS: Unscreened, HS: Unscreened","MS: No, HS: No"
+17K532,New Bridges Elementary,K: Zoned School,K: No
+17K537,High School for Youth and Community Development at Erasmus,HS: Limited Unscreened,HS: No
+17K539,High School for Service & Learning at Erasmus,HS: Limited Unscreened,HS: No
+17K543,"Science, Technology and Research Early College High School at Erasmus","MS: Screened, HS: Screened","MS: Yes, HS: Yes"
+17K546,High School for Public Service: Heroes of Tomorrow,"HS: Ed. Opt., Screened",HS: No
+17K547,Brooklyn Academy of Science and the Environment,HS: Limited Unscreened,HS: No
+17K548,Brooklyn School for Music & Theatre,HS: Ed. Opt.,HS: No
+17K568,Brownsville Academy High School,Transfer School: School-managed Admissions,HS: No
+17K590,Medgar Evers College Preparatory School,"MS: School-managed Admissions, HS: Screened","MS: Yes, HS: Yes"
+17K600,Clara Barton High School,"HS: Ed. Opt., Screened, Screened: Language",HS: No
+17K705,Brooklyn Arts and Science Elementary School,K: Zoned School,K: No
+17K722,New Heights Middle School,MS: Limited Unscreened,MS: No
+17K745,Brooklyn Institute for Liberal Arts,HS: Limited Unscreened,HS: No
+17K751,Academy for Health Careers,HS: Limited Unscreened,HS: No
+17K770,P.S. 770 New American Academy,K: Non-Zoned School,K: No
+18K066,P.S. 66,"K: Non-Zoned School, MS: Unscreened","K: No, MS: No"
+18K068,I.S. 068 Isaac Bildersee,"MS: Composite Score, Screened: Language, Unscreened",MS: No
+18K114,P.S. 114 Ryder Elementary,K: Zoned School,K: No
+18K115,P.S. 115 Daniel Mucatel School,K: Zoned School,K: No
+18K135,P.S. 135 Sheldon A. Brookner,K: Zoned School,K: No
+18K208,P.S. 208 Elsa Ebeling,K: Zoned School,K: No
+18K211,I.S. 211 John Wilson,"MS: Composite Score, Unscreened",MS: No
+18K219,P.S. 219 Kennedy-King,K: Zoned School,K: No
+18K233,P.S. 233 Langston Hughes,K: Zoned School,K: No
+18K235,P.S. 235 Janice Marie Knight School,"K: Zoned School, MS: School-managed Admissions","K: No, MS: Yes"
+18K244,P.S. 244 Richard R. Green,K: Zoned School,K: No
+18K268,P.S. 268 Emma Lazarus,K: Zoned School,K: No
+18K272,P.S. 272 Curtis Estabrook,K: Zoned School,K: No
+18K276,P.S. 276 Louis Marshall,K: Zoned School,K: No
+18K279,P.S. 279 Herman Schreiber,K: Zoned School,K: No
+18K285,I.S. 285 Meyer Levin,"MS: Composite Score, Screened, Zoned",MS: No
+18K366,The Science And Medicine Middle School,MS: Limited Unscreened,MS: No
+18K563,It Takes a Village Academy,"HS: Ed. Opt., Limited Unscreened",HS: No
+18K566,Brooklyn Generation School,HS: Limited Unscreened,HS: No
+18K567,Brooklyn Theatre Arts High School,HS: Limited Unscreened,HS: No
+18K569,Kurt Hahn Expeditionary Learning School,HS: Limited Unscreened,HS: No
+18K576,Victory Collegiate High School,HS: Limited Unscreened,HS: No
+18K578,Brooklyn Bridge Academy,Transfer School: School-managed Admissions,HS: No
+18K581,East Flatbush Community Research School,MS: Limited Unscreened,MS: No
+18K588,Middle School for Art and Philosophy,MS: Limited Unscreened,MS: No
+18K598,Middle School of Marketing and Legal Studies,MS: Limited Unscreened,MS: No
+18K617,High School for Innovation in Advertising and Media,HS: Limited Unscreened,HS: No
+18K629,Cultural Academy for the Arts and Sciences,HS: Limited Unscreened,HS: No
+18K633,High School for Medical Professions,HS: Limited Unscreened,HS: No
+18K635,Olympus Academy,Transfer School: School-managed Admissions,HS: No
+18K637,Academy for Conservation and the Environment,HS: Limited Unscreened,HS: No
+18K642,Urban Action Academy,HS: Limited Unscreened,HS: No
+18K673,East Brooklyn Community High School,Transfer School: School-managed Admissions,HS: No
+18K763,Brooklyn Science and Engineering Academy,MS: Limited Unscreened,MS: No
+19K007,P.S. 007 Abraham Lincoln,K: Zoned School,K: No
+19K013,P.S. 013 Roberto Clemente,K: Zoned School,K: No
+19K065,P.S. 065,K: Zoned School,K: No
+19K089,P.S. 089 Cypress Hills,"K: Non-Zoned School, MS: Screened: Language","K: No, MS: Yes"
+19K108,P.S. 108 Sal Abbracciamento,K: Zoned School,K: No
+19K149,P.S. 149 Danny Kaye,K: Zoned School,K: No
+19K158,P.S. 158 Warwick,K: Zoned School,K: No
+19K159,P.S. 159 Isaac Pitkin,K: Zoned School,K: No
+19K171,I.S. 171 Abraham Lincoln,MS: Unscreened,MS: No
+19K190,P.S. 190 Sheffield,K: Zoned School,K: No
+19K202,P.S. 202 Ernest S. Jenkyns,K: Zoned School,K: No
+19K213,P.S. 213 New Lots,K: Zoned School,K: No
+19K214,P.S. 214 Michael Friedsam,K: Zoned School,K: No
+19K218,J.H.S. 218 James P. Sinnott,"MS: Screened, Screened: Language, Zoned",MS: No
+19K224,P.S. 224 Hale A. Woodruff,K: Zoned School,K: No
+19K273,P.S. 273 Wortman,K: Zoned School,K: No
+19K290,P.S. 290 Juan Morel Campos,K: Zoned School,K: No
+19K292,J.H.S. 292 Margaret S. Douglas,"MS: Screened, Unscreened",MS: No
+19K306,P.S. 306 Ethan Allen,"K: Zoned School, MS: Unscreened","K: No, MS: No"
+19K325,The Fresh Creek School,K: Zoned School,K: No
+19K328,P.S. 328 Phyllis Wheatley,K: Zoned School,K: No
+19K345,P.S. 345 Patrolman Robert Bolden,K: Zoned School,K: No
+19K346,P.S. 346 Abe Stark,K: Zoned School,K: No
+19K364,I.S. 364 Gateway,"MS: Screened, Zoned",MS: No
+19K404,Academy for Young Writers,"MS: Limited Unscreened, HS: Limited Unscreened","MS: No, HS: No"
+19K409,East New York Family Academy,"MS: Screened, HS: Screened","MS: Yes, HS: Yes"
+19K422,Spring Creek Community School,"MS: Limited Unscreened, HS: Ed. Opt., For Continuing 8th Graders","MS: No, HS: No"
+19K452,Frederick Douglass Academy VIII Middle School,MS: Screened,MS: Yes
+19K502,FDNY - Captain Vernon A. Richards High School for Fire and Life Safety,HS: Limited Unscreened,HS: No
+19K504,High School for Civil Rights,HS: Limited Unscreened,HS: No
+22K251,P.S. 251 Paerdegat,K: Zoned School,K: No
+19K507,Performing Arts and Technology High School,"HS: Ed. Opt., Limited Unscreened",HS: No
+19K510,World Academy for Total Community Health High School,HS: Limited Unscreened,HS: No
+19K557,Brooklyn Gardens Elementary School,K: Zoned School,K: No
+19K583,Multicultural High School,HS: Screened: Language,HS: No
+19K615,Transit Tech Career and Technical Education High School,"HS: Ed. Opt., Limited Unscreened, Screened",HS: No
+19K618,Academy of Innovative Technology,HS: Limited Unscreened,HS: No
+19K639,Brooklyn Lab School,HS: Limited Unscreened,HS: No
+19K654,Van Siclen Community Middle School,MS: Limited Unscreened,MS: No
+19K659,Cypress Hills Collegiate Preparatory School,HS: Limited Unscreened,HS: No
+19K660,W. H. Maxwell Career and Technical Education High School,HS: Ed. Opt.,HS: No
+19K661,Vista Academy,MS: Limited Unscreened,MS: No
+19K662,Liberty Avenue Middle School,MS: Limited Unscreened,MS: No
+19K663,School of the Future Brooklyn,MS: Limited Unscreened,MS: No
+19K677,East New York Elementary School of Excellence,K: Zoned School,K: No
+19K678,East New York Middle School of Excellence,MS: Limited Unscreened,MS: No
+19K683,"The School for Classics: An Academy of Thinkers, Writers and Performers",HS: Limited Unscreened,HS: No
+19K760,Highland Park Community School,MS: Unscreened,MS: No
+19K764,The Urban Assembly School for Collaborative Healthcare,HS: Limited Unscreened,HS: No
+20K030,P.S./I.S. 30 Mary White Ovington,"K: Zoned School, MS: Composite Score, Zoned","K: No, MS: No"
+20K048,P.S. 048 Mapleton,K: Zoned School,K: No
+20K062,J.H.S. 062 Ditmas,"MS: Composite Score, Zoned",MS: No
+20K069,P.S. 69 Vincent D. Grippo School,K: Zoned School,K: No
+20K102,P.S. 102 The Bayview,K: Zoned School,K: No
+20K104,P.S./I.S. 104 The Fort Hamilton School,"K: Zoned School, MS: Composite Score, Zoned","K: No, MS: No"
+20K105,P.S. 105 The Blythebourne,K: Zoned School,K: No
+20K112,P.S. 112 Lefferts Park,K: Zoned School,K: No
+20K127,P.S. 127 Mckinley Park,K: Zoned School,K: No
+20K160,P.S. 160 William T. Sampson,K: Zoned School,K: No
+20K163,P.S. 163 Bath Beach,"K: Zoned School, MS: Zoned","K: No, MS: No"
+20K164,P.S. 164 Caesar Rodney,K: Zoned School,K: No
+20K170,Ralph A. Fabrizio School,K: Zoned School,K: No
+20K176,P.S. 176 Ovington,K: Zoned School,K: No
+20K179,P.S. 179 Kensington,K: Zoned School,K: No
+20K180,The SEEALL Academy,"K: Zoned School, MS: Composite Score, Screened, Zoned","K: No, MS: No"
+20K185,P.S. 185 Walter Kassenbrock,K: Zoned School,K: No
+20K186,P.S. 186 Dr. Irving A Gladstone,K: Zoned School,K: No
+20K187,The Christa McAuliffe School\I.S. 187,MS: Composite Score,MS: Yes
+20K192,P.S. 192 - The Magnet School for Math and Science Inquiry,"K: Zoned School, MS: Unscreened, Zoned","K: No, MS: No"
+20K200,P.S. 200 Benson School,K: Zoned School,K: No
+20K201,J.H.S. 201 The Dyker Heights,"MS: Composite Score, Zoned",MS: No
+20K204,P.S. 204 Vince Lombardi,K: Zoned School,K: No
+20K205,P.S. 205 Clarion,K: Zoned School,K: No
+20K220,J.H.S. 220 John J. Pershing,"MS: Composite Score, Unscreened, Zoned",MS: No
+20K223,J.H.S. 223 The Montauk,"MS: Composite Score, Unscreened, Zoned",MS: No
+20K227,J.H.S. 227 Edward B. Shallow,"MS: Composite Score, Zoned",MS: No
+20K229,P.S. 229 Dyker,"K: Zoned School, MS: Composite Score, Zoned","K: No, MS: No"
+20K247,P.S. 247 Brooklyn,K: Zoned School,K: No
+20K259,J.H.S. 259 William Mckinley,"MS: Composite Score, Zoned",MS: No
+20K264,P.S. 264 Bay Ridge Elementary School For The Arts,K: Zoned School,K: No
+20K310,The School For Future Leaders,K: Zoned School,K: No
+20K445,New Utrecht High School,"HS: Ed. Opt., Limited Unscreened, Screened, Zoned Guarantee",HS: No
+20K485,High School of Telecommunication Arts and Technology,HS: Ed. Opt.,HS: No
+20K490,Fort Hamilton High School,"HS: Audition, Screened, Zoned Guarantee",HS: No
+20K503,P.S. 503: The School of Discovery,K: Zoned School,K: No
+20K505,Franklin Delano Roosevelt High School,"HS: Ed. Opt., Zoned Guarantee",HS: No
+20K506,P.S. 506: The School of Journalism & Technology,K: Zoned School,K: No
+20K609,Urban Assembly School for Criminal Justice,"MS: Unscreened, HS: Limited Unscreened","MS: No, HS: No"
+20K682,The Academy of Talented Scholars,K: Non-Zoned School,K: No
+20K686,Brooklyn School of Inquiry,"K: Gifted & Talented School, MS: Composite Score","K: Yes, MS: Yes"
+20K748,P.S. 748 Brooklyn School for Global Scholars,K: Zoned School,K: No
+20K971,"School of Math, Science, and Healthy Living",K: Zoned School,K: No
+21K090,P.S. 90 Edna Cohen School,K: Zoned School,K: No
+21K095,P.S. 095 The Gravesend,"K: Zoned School, MS: Zoned","K: No, MS: No"
+21K096,I.S. 096 Seth Low,"MS: Talent Test, Unscreened",MS: No
+21K097,P.S. 97 The Highlawn,K: Zoned School,K: No
+21K098,I.S. 98 Bay Academy,MS: Talent Test,MS: Yes
+21K099,P.S. 099 Isaac Asimov,"K: Zoned School, MS: Zoned","K: No, MS: No"
+21K100,P.S. 100 The Coney Island School,K: Zoned School,K: No
+21K101,P.S. 101 The Verrazano,K: Zoned School,K: No
+21K121,P.S. 121 Nelson A. Rockefeller,"K: Zoned School, MS: Zoned","K: No, MS: No"
+21K128,P.S. 128 Bensonhurst,K: Zoned School,K: No
+21K153,P.S. 153 Homecrest,K: Zoned School,K: No
+21K177,P.S. 177 The Marlboro,K: Zoned School,K: No
+21K188,P.S. 188 Michael E. Berdy,K: Zoned School,K: No
+21K199,P.S. 199 Frederick Wachtel,K: Zoned School,K: No
+21K209,P.S. 209 Margaret Mead,"K: Zoned School, MS: Zoned","K: No, MS: No"
+21K212,P.S. 212 Lady Deborah Moody,K: Zoned School,K: No
+21K215,P.S. 215 Morris H. Weiss,K: Zoned School,K: No
+21K216,P.S. 216 Arturo Toscanini,K: Zoned School,K: No
+21K225,P.S. K225 - The Eileen E. Zaglin,"K: Zoned School, MS: Zoned","K: No, MS: No"
+21K226,P.S. 226 Alfred De B.Mason,"K: Zoned School, MS: Zoned","K: No, MS: No"
+21K228,I.S. 228 David A. Boody,"MS: Screened: Language, Talent Test, Zoned",MS: No
+21K238,P.S. 238 Anne Sullivan,"K: Zoned School, MS: Zoned","K: No, MS: No"
+21K239,Mark Twain I.S. 239 for the Gifted & Talented,MS: Talent Test,MS: Yes
+21K253,P.S. 253,K: Zoned School,K: No
+21K281,I.S. 281 Joseph B Cavallaro,"MS: Screened: Language, Talent Test, Unscreened",MS: No
+21K288,P.S. 288 The Shirley Tanyhill,"K: Zoned School, MS: Unscreened, Zoned","K: No, MS: No"
+21K303,I.S. 303 Herbert S. Eisenberg,"MS: Talent Test, Unscreened",MS: No
+21K329,P.S. 329 Surfside,K: Zoned School,K: No
+21K337,International High School at Lafayette,HS: Screened: Language,HS: No
+21K344,Rachel Carson High School for Coastal Studies,HS: Limited Unscreened,HS: No
+21K348,High School of Sports Management,HS: Limited Unscreened,HS: No
+21K410,Abraham Lincoln High School,"HS: Audition, Ed. Opt., Screened, Zoned Guarantee",HS: No
+21K468,Kingsborough Early College School,"MS: Unscreened, HS: Screened","MS: No, HS: Yes"
+21K525,Edward R. Murrow High School,"HS: Audition, Ed. Opt., Screened: Language",HS: No
+21K540,John Dewey High School,"HS: Ed. Opt., Screened, Screened: Language",HS: No
+21K559,Life Academy High School for Film and Music,HS: Limited Unscreened,HS: No
+21K572,Expeditionary Learning School for Community Leaders,HS: Limited Unscreened,HS: No
+21K620,William E. Grady Career and Technical Education High School,HS: Ed. Opt.,HS: No
+21K690,Brooklyn Studio Secondary School,"MS: Limited Unscreened, HS: Ed. Opt., For Continuing 8th Graders","MS: No, HS: No"
+21K728,Liberation Diploma Plus,Transfer School: School-managed Admissions,HS: No
+22K014,J.H.S. 014 Shell Bank,"MS: Composite Score, Unscreened",MS: No
+22K052,P.S. 052 Sheepshead Bay,K: Zoned School,K: No
+22K078,J.H.S. 078 Roy H. Mann,"MS: Composite Score, Unscreened",MS: No
+22K109,P.S. 109,"K: Zoned School, MS: Composite Score, Unscreened","K: No, MS: No"
+22K119,P.S. 119 Amersfort,K: Non-Zoned School,K: No
+22K134,P.S. K134,K: Zoned School,K: No
+22K139,P.S. 139 Alexine A. Fenty,K: Zoned School,K: No
+22K152,School of Science & Technology,K: Zoned School,K: No
+22K193,P.S. 193 Gil Hodges,K: Zoned School,K: No
+22K194,P.S. 194 Raoul Wallenberg,K: Zoned School,K: No
+22K195,P.S. 195 Manhattan Beach,K: Zoned School,K: No
+22K197,P.S. 197 - The Kings Highway Academy,K: Zoned School,K: No
+22K198,P.S. 198 Brooklyn,K: Zoned School,K: No
+22K203,P.S. 203 Floyd Bennett School,K: Zoned School,K: No
+22K206,P.S. 206 Joseph F Lamb,"K: Zoned School, MS: Unscreened","K: No, MS: No"
+22K207,P.S. 207 Elizabeth G. Leary,"K: Zoned School, MS: Unscreened","K: No, MS: No"
+22K217,P.S. 217 Colonel David Marcus School,K: Zoned School,K: No
+22K222,P.S. 222 Katherine R. Snyder,K: Zoned School,K: No
+22K234,J.H.S. 234 Arthur W. Cunningham,"MS: Composite Score, Unscreened",MS: No
+22K236,P.S. 236 Mill Basin,K: Zoned School,K: No
+22K240,Andries Hudde,"MS: Composite Score, Unscreened",MS: No
+22K254,P.S. 254 Dag Hammarskjold,K: Zoned School,K: No
+22K255,P.S. 255 Barbara Reing School,K: Zoned School,K: No
+22K269,P.S. 269 Nostrand,School-managed Admissions,Yes
+22K277,P.S. 277 Gerritsen Beach,K: Zoned School,K: No
+22K278,J.H.S. 278 Marine Park,"MS: Composite Score, Unscreened",MS: No
+22K312,P.S. 312 Bergen Beach,K: Zoned School,K: No
+22K315,P.S. K315,K: Zoned School,K: No
+22K326,P.S. 326,K: Zoned School,K: No
+22K361,P.S. 361 East Flatbush Early Childhood School,K: Zoned School,K: No
+22K381,I. S. 381,"MS: Composite Score, Unscreened",MS: No
+22K405,Midwood High School,"HS: Screened, Screened: Language & Academics, Unscreened",HS: No
+22K425,James Madison High School,"HS: Screened, Zoned Guarantee",HS: No
+22K535,Leon M. Goldstein High School for the Sciences,HS: Screened,HS: Yes
+22K555,Brooklyn College Academy,HS: Screened,HS: Yes
+22K611,Origins High School,HS: Limited Unscreened,HS: No
+22K630,Professional Pathways High School,Transfer School: School-managed Admissions,HS: No
+22K889,P.S. 889,K: Zoned School,No
+22K890,M.S. 890,MS: Unscreened,No
+23K041,P.S. 041 Francis White,"K: Choice District, MS: Unscreened","K: No, MS: No"
+23K137,P.S./I.S. 137 Rachel Jean Mitchell,"K: Choice District, MS: Unscreened","K: No, MS: No"
+23K150,P.S. 150 Christopher,K: Choice District,K: No
+23K155,P.S./ I.S. 155 Nicholas Herkimer,"K: Choice District, MS: Unscreened","K: No, MS: No"
+23K156,P.S. 156 Waverly,K: Choice District,K: No
+23K165,P.S. 165 Ida Posner,"K: Choice District, MS: Unscreened","K: No, MS: No"
+23K178,P.S. 178 Saint Clair Mckelway,"K: Choice District, MS: Unscreened","K: No, MS: No"
+23K184,P.S. 184 Newport,"K: Choice District, MS: Unscreened","K: No, MS: No"
+23K284,"The Gregory Jocko Jackson School of Sports, Art, and Technology","K: Choice District, MS: Unscreened","K: No, MS: No"
+23K298,P.S. 298 Dr. Betty Shabazz,K: Choice District,K: No
+23K323,P.S./I.S. 323,"K: Choice District, MS: Unscreened","K: No, MS: No"
+23K327,P.S. 327 Dr. Rose B. English,K: Choice District,K: No
+23K363,Brownsville Collaborative Middle School,MS: Limited Unscreened,MS: No
+23K392,I.S. 392,MS: Screened,MS: Yes
+23K401,Christopher Avenue Community School,K: Choice District,K: No
+23K446,Riverdale Avenue Community School,K: Choice District,K: No
+23K493,Brooklyn Collegiate: A College Board School,HS: Limited Unscreened,HS: No
+23K514,Frederick Douglass Academy VII High School,HS: Limited Unscreened,HS: No
+23K518,Kappa V (Knowledge and Power Preparatory Academy),MS: Screened,MS: Yes
+23K522,Mott Hall IV,MS: Screened,MS: Yes
+23K599,Brooklyn Landmark Elementary School,K: Choice District,K: No
+23K643,Brooklyn Democracy Academy,Transfer School: School-managed Admissions,HS: No
+23K644,Eagle Academy for Young Men II,"MS: Limited Unscreened, HS: Limited Unscreened","MS: No, HS: No"
+23K646,Aspirations Diploma Plus High School,Transfer School: School-managed Admissions,HS: No
+23K647,Metropolitan Diploma Plus High School,Transfer School: School-managed Admissions,HS: No
+23K664,Brooklyn Environmental Exploration School (BEES),MS: Unscreened,MS: No
+23K668,Riverdale Avenue Middle School,MS: Limited Unscreened,MS: No
+23K671,Mott Hall Bridges Academy,MS: Limited Unscreened,MS: No
+23K697,Teachers Preparatory High School,"MS: Screened, HS: Ed. Opt., For Continuing 8th Graders","MS: Yes, HS: No"
+24Q005,I.S. 5 - The Walter Crowley Intermediate School,"MS: Unscreened, Zoned",MS: No
+24Q007,P.S. 007 Louis F. Simeone,K: Zoned School,K: No
+24Q012,P.S. 012 James B. Colgate,K: Zoned School,K: No
+24Q013,P.S. 013 Clement C. Moore,K: Zoned School,K: No
+24Q014,P.S. 014 Fairview,K: Zoned School,K: No
+24Q016,P.S. Q016 The Nancy DeBenedittis School,K: Zoned School,K: No
+24Q019,P.S. 019 Marino Jeantet,K: Zoned School,K: No
+24Q028,P.S. 28 - The Thomas Emanuel Early Childhood Center,K: Zoned School,K: No
+24Q049,P.S. 049 Dorothy Bonawit Kole,"K: Zoned School, MS: Zoned","K: No, MS: No"
+24Q058,P.S. 58 - The School of Heroes,K: Zoned School,K: No
+24Q061,I.S. 061 Leonardo Da Vinci,MS: Zoned,MS: No
+24Q068,P.S. 068 Cambridge,K: Zoned School,K: No
+24Q071,P.S. 071 Forest,K: Zoned School,K: No
+24Q073,I.S. 73 - The Frank Sansivieri Intermediate School,"MS: Composite Score, Unscreened, Zoned",MS: No
+24Q077,I.S. 077,"MS: Unscreened, Zoned",MS: No
+24Q081,P.S. 81Q Jean Paul Richter,K: Zoned School,K: No
+24Q087,P.S./I.S. 087 Middle Village,"K: Zoned School, MS: Zoned","K: No, MS: No"
+24Q088,P.S. 088 Seneca,K: Zoned School,K: No
+24Q089,P.S. 089 Elmhurst,K: Zoned School,K: No
+24Q091,P.S. 091 Richard Arkwright,K: Zoned School,K: No
+24Q093,I.S. 093 Ridgewood,"MS: Unscreened, Zoned",MS: No
+24Q102,P.S. 102 Bayview,"K: Zoned School, MS: Zoned","K: No, MS: No"
+24Q110,P.S. 110,K: Zoned School,K: No
+24Q113,P.S./I.S. 113 Anthony J. Pranzo,"K: Zoned School, MS: Zoned","K: No, MS: No"
+24Q119,I.S. 119 The Glendale,"K: Zoned School, MS: Composite Score, Zoned","K: No, MS: No"
+24Q125,I.S. 125 Thom J. McCann Woodside,MS: Zoned,MS: No
+24Q128,"P.S. 128 The Lorraine Tuzzo, Juniper Valley Elementary School","K: Zoned School, MS: Zoned","K: No, MS: No"
+24Q143,P.S. 143 Louis Armstrong,K: Zoned School,K: No
+24Q153,P.S. 153 Maspeth Elem,K: Zoned School,K: No
+24Q199,P.S. 199 Maurice A. Fitzgerald,K: Zoned School,K: No
+24Q211,Elm Tree Elementary School,K: Zoned School,K: No
+24Q229,P.S. 229 Emanuel Kaplan,K: Zoned School,K: No
+24Q236,International High School for Health Sciences,HS: Screened: Language,HS: No
+24Q239,P.S. 239,K: Zoned School,K: No
+24Q264,Academy of Finance and Enterprise,HS: Limited Unscreened,HS: No
+24Q267,High School of Applied Communication,HS: Limited Unscreened,HS: No
+24Q290,A.C.E. Academy for Scholars at the Geraldine Ferraro Campus,K: Zoned School,K: No
+24Q293,Civic Leadership Academy,HS: Limited Unscreened,HS: No
+24Q296,Pan American International High School,HS: Screened: Language,HS: No
+24Q299,Bard High School Early College Queens,HS: Screened,HS: Yes
+24Q305,Learners and Leaders,K: Zoned School,K: No
+24Q307,Pioneer Academy,K: Zoned School,K: No
+24Q311,Corona Arts & Sciences Academy,MS: Zoned,MS: No
+24Q330,P.S. 330,K: Zoned School,K: No
+24Q343,The Children's Lab School,K: Zoned School,K: No
+24Q455,Newtown High School,"HS: Audition, Ed. Opt., Screened, Zoned Priority",HS: No
+24Q485,Grover Cleveland High School,"HS: Ed. Opt., Zoned Guarantee",HS: No
+24Q520,Middle College High School at LaGuardia Community College,HS: Screened,HS: Yes
+24Q530,International High School at LaGuardia Community College,HS: Screened: Language,HS: No
+24Q550,High School for Arts and Business,HS: Ed. Opt.,HS: No
+24Q560,"Robert F. Wagner, Jr. Secondary School for Arts and Technology","MS: Screened, HS: Ed. Opt., For Continuing 8th Graders","MS: Yes, HS: No"
+24Q585,Maspeth High School,HS: Limited Unscreened,HS: No
+24Q600,Queens Vocational and Technical High School,"HS: Audition, Ed. Opt., Screened",HS: No
+24Q610,Aviation Career & Technical Education High School,HS: Screened,HS: Yes
+24Q744,VOYAGES Preparatory,Transfer School: School-managed Admissions,HS: No
+24Q877,The 51 Avenue Academy (The Path To Academic Excellence),School-managed Admissions,Yes
+25Q020,P.S. 020 John Bowne,K: Zoned School,K: No
+25Q021,P.S. 021 Edward Hart,K: Zoned School,K: No
+25Q022,P.S. 022 Thomas Jefferson,K: Zoned School,K: No
+25Q024,P.S. 024 Andrew Jackson,K: Zoned School,K: No
+25Q025,I.S. 025 Adrien Block,MS: Unscreened,MS: No
+25Q029,P.S. 029 Queens,K: Zoned School,K: No
+25Q032,P.S. 032 State Street,K: Zoned School,K: No
+25Q079,P.S. 079 Francis Lewis,K: Zoned School,K: No
+25Q107,P.S. 107 Thomas A Dooley,K: Zoned School,K: No
+25Q120,P.S. 120 Queens,K: Zoned School,K: No
+25Q129,P.S. 129 Patricia Larkin,K: Zoned School,K: No
+25Q130,P.S. 130,K: Non-Zoned School,K: No
+25Q154,P.S. 154 Queens,K: Zoned School,K: No
+25Q163,P.S. 163 Flushing Heights,K: Zoned School,K: No
+25Q164,P.S. 164 Queens Valley,"K: Zoned School, MS: Unscreened","K: No, MS: No"
+25Q165,P.S. 165 Edith K. Bergtraum,K: Zoned School,K: No
+25Q169,P.S. 169 Bay Terrace,K: Zoned School,K: No
+25Q184,P.S. 184 Flushing Manor,K: Zoned School,K: No
+25Q185,J.H.S. 185 Edward Bleeker,MS: Unscreened,MS: No
+25Q189,J.H.S. 189 Daniel Carter Beard,MS: Zoned,MS: No
+25Q193,P.S. 193 Alfred J. Kennedy,K: Zoned School,K: No
+25Q194,J.H.S. 194 William Carr,MS: Unscreened,MS: No
+25Q200,P.S./M.S. 200 - The Pomonok School & STAR Academy,"K: Zoned School, MS: Unscreened","K: No, MS: No"
+25Q201,P.S. 201 The Discovery School for Inquiry and Research,K: Zoned School,K: No
+25Q209,P.S. 209 Clearview Gardens,K: Zoned School,K: No
+25Q214,P.S. 214 Cadwallader Colden,K: Zoned School,K: No
+25Q219,P.S. 219 Paul Klapper,"K: Zoned School, MS: Unscreened","K: No, MS: No"
+25Q237,I.S. 237,MS: Unscreened,MS: No
+25Q240,Veritas Academy,HS: Limited Unscreened,HS: No
+25Q241,Queens High School for Language Studies,HS: Screened: Language,HS: No
+25Q242,P.S. 242 Leonard P. Stavisky Early Childhood School,K: Non-Zoned School,K: No
+25Q244,The Active Learning Elementary School,K: Non-Zoned School,K: No
+25Q250,I.S. 250 The Robert F. Kennedy Community Middle School,MS: Unscreened,MS: No
+25Q252,"Queens School of Inquiry, The","MS: Unscreened, HS: Screened","MS: No, HS: Yes"
+25Q263,Flushing International High School,HS: Screened: Language,HS: No
+25Q281,East-West School of International Studies,"MS: Unscreened, HS: Ed. Opt., For Continuing 8th Graders","MS: No, HS: No"
+25Q285,World Journalism Preparatory: A College Board School,"MS: Limited Unscreened, HS: Limited Unscreened","MS: No, HS: No"
+25Q294,BELL Academy,MS: Unscreened,MS: No
+25Q425,John Bowne High School,"HS: Ed. Opt., Screened, Zoned Guarantee",HS: No
+25Q460,Flushing High School,"HS: Ed. Opt., Zoned Priority",HS: No
+25Q499,"The Queens College School for Math, Science and Technology","K: Non-Zoned School, MS: School-managed Admissions","K: No, MS: Yes"
+25Q525,Townsend Harris High School,HS: Screened,HS: Yes
+25Q540,Queens Academy High School,Transfer School: School-managed Admissions,HS: No
+25Q670,Robert F. Kennedy Community High School,HS: Ed. Opt.,HS: No
+25Q792,North Queens Community High School,Transfer School: School-managed Admissions,HS: No
+26Q018,P.S. 018 Winchester,K: Zoned School,K: No
+26Q026,P.S. 026 Rufus King,K: Zoned School,K: No
+26Q031,P.S. 031 Bayside,K: Zoned School,K: No
+26Q041,P.S. 041 Crocheron,K: Zoned School,K: No
+26Q046,P.S. 046 Alley Pond,K: Zoned School,K: No
+26Q067,J.H.S. 067 Louis Pasteur,"MS: Composite Score, Zoned",MS: No
+26Q074,J.H.S. 074 Nathaniel Hawthorne,"MS: Composite Score, Zoned",MS: No
+26Q094,P.S. 094 David D. Porter,K: Zoned School,K: No
+26Q098,P.S. 098 The Douglaston School,K: Zoned School,K: No
+26Q115,The James J. Ambrose School,K: Zoned School,K: No
+26Q133,P.S. 133 Queens,K: Zoned School,K: No
+26Q158,M.S. 158 Marie Curie,"MS: Composite Score, Zoned",MS: No
+26Q159,P.S. 159,K: Zoned School,K: No
+26Q162,P.S. 162 John Golden,K: Zoned School,K: No
+26Q172,Irwin Altman Middle School 172,"MS: Composite Score, Zoned",MS: No
+26Q173,P.S. 173 Fresh Meadows,K: Zoned School,K: No
+26Q178,P.S./ IS 178 Holliswood,"K: Zoned School, MS: Zoned","K: No, MS: No"
+26Q186,P.S. 186 Castlewood,K: Zoned School,K: No
+26Q188,P.S. 188 Kingsbury,K: Zoned School,K: No
+26Q191,P.S. 191 Mayflower,K: Zoned School,K: No
+26Q203,P.S. 203 Oakland Gardens,K: Zoned School,K: No
+26Q205,P.S. 205 Alexander Graham Bell,K: Zoned School,K: No
+26Q213,P.S. 213 The Carl Ullman School,K: Zoned School,K: No
+26Q216,J.H.S. 216 George J. Ryan,"MS: Composite Score, Zoned",MS: No
+26Q221,P.S. 221 The North Hills School,K: Zoned School,K: No
+26Q266,P.S./I.S. 266,"K: Non-Zoned School, MS: School-managed Admissions","K: No, MS: Yes"
+26Q315,Business Technology Early College High School,HS: Limited Unscreened,HS: No
+26Q376,P.S. 376,K: Zoned School,No
+26Q415,Benjamin N. Cardozo High School,"HS: Audition, Ed. Opt., Limited Unscreened, Screened, Zoned Guarantee",HS: No
+26Q430,Francis Lewis High School,"HS: Ed. Opt., Screened, Zoned Guarantee",HS: No
+26Q435,Martin Van Buren High School,"HS: Ed. Opt., Screened, Zoned Priority",HS: No
+26Q495,Bayside High School,"HS: Audition, Ed. Opt., Screened, Zoned Guarantee",HS: No
+26Q566,"Queens High School of Teaching, Liberal Arts and the Sciences",HS: Ed. Opt.,HS: No
+27Q042,P.S./M.S 042 R. Vernam,"K: Zoned School, MS: Unscreened","K: No, MS: No"
+27Q043,P.S. 043,"K: Zoned School, MS: Zoned","K: No, MS: No"
+27Q045,P.S. 045 Clarence Witherspoon,K: Zoned School,K: No
+27Q047,P.S. 047 Chris Galas,"K: Zoned School, MS: Zoned","K: No, MS: No"
+27Q051,P.S. 051,K: Zoned School,K: No
+27Q053,M.S. 053 Brian Piccolo,MS: Unscreened,MS: No
+27Q056,P.S. 056 Harry Eichler,School-managed Admissions,Yes
+27Q060,P.S. 060 Woodhaven,K: Zoned School,K: No
+27Q062,P. S. 62 - Chester Park School,K: Zoned School,K: No
+27Q063,P.S. 063 Old South,K: Zoned School,K: No
+27Q064,P.S. 064 Joseph P. Addabbo,K: Zoned School,K: No
+27Q065,P.S. 65 - The Raymond York Elementary School,K: Zoned School,K: No
+27Q066,P.S. 066 Jacqueline Kennedy Onassis,K: Zoned School,K: No
+27Q090,P.S. 090 Horace Mann,K: Zoned School,K: No
+27Q096,P.S. 096,K: Zoned School,K: No
+27Q097,P.S. 097 Forest Park,K: Zoned School,K: No
+27Q100,P.S. 100 Glen Morris,K: Zoned School,K: No
+27Q104,P.S. 104 The Bays Water,K: Zoned School,K: No
+27Q105,P.S. 105 The Bay School,"K: Zoned School, MS: Zoned","K: No, MS: No"
+27Q106,Lighthouse Elementary School,K: Zoned School,K: No
+27Q108,P.S. 108 Captain Vincent G. Fowler,K: Zoned School,K: No
+27Q114,P.S./M.S. 114 Belle Harbor,"K: Zoned School, MS: Zoned","K: No, MS: No"
+27Q123,P.S. 123,K: Zoned School,K: No
+27Q124,P.S. 124 Osmond A Church,"K: Zoned School, MS: Zoned","K: No, MS: No"
+27Q137,M.S. 137 America's School of Heroes,MS: Zoned,MS: No
+27Q146,P.S. 146 Howard Beach,"K: Zoned School, MS: Zoned","K: No, MS: No"
+27Q155,P.S. 155,K: Zoned School,K: No
+27Q183,P.S. 183 Dr. Richard R. Green,"K: Zoned School, MS: Zoned","K: No, MS: No"
+27Q197,P.S. 197 The Ocean School,K: Zoned School,K: No
+27Q202,J.H.S. 202 Robert H. Goddard,MS: Zoned,MS: No
+27Q207,P.S. 207 Rockwood Park,"K: Zoned School, MS: Zoned","K: No, MS: No"
+27Q210,J.H.S. 210 Elizabeth Blackwell,MS: Zoned,MS: No
+27Q223,P.S. 223 Lyndon B. Johnson,K: Zoned School,K: No
+27Q226,J.H.S. 226 Virgil I. Grissom,MS: Unscreened,MS: No
+27Q232,P.S. 232 Lindenwood,"K: Zoned School, MS: Zoned","K: No, MS: No"
+27Q253,P.S. 253,K: Zoned School,K: No
+27Q254,P.S. 254 - The Rosa Parks School,K: Zoned School,K: No
+27Q260,Frederick Douglass Academy VI High School,HS: Limited Unscreened,HS: No
+27Q261,Voyages Prep - South Queens,Transfer School: School-managed Admissions,HS: No
+27Q262,Channel View School for Research,"MS: Screened, HS: Limited Unscreened","MS: Yes, HS: No"
+27Q273,P.S. 273,K: Zoned School,K: No
+27Q282,Knowledge and Power Preparatory Academy VI,MS: School-managed Admissions,MS: Yes
+27Q297,Hawtree Creek Middle School,MS: Unscreened,MS: No
+27Q302,"Queens High School for Information, Research, and Technology",HS: Limited Unscreened,HS: No
+27Q306,New York City Academy for Discovery,K: Zoned School,K: No
+27Q308,Robert H. Goddard High School of Communication Arts and Technology,HS: Limited Unscreened,HS: No
+27Q309,Academy of Medical Technology: A College Board School,"MS: Limited Unscreened, HS: Limited Unscreened","MS: No, HS: No"
+27Q314,Epic High School - South,HS: Limited Unscreened,HS: No
+27Q316,Queens Explorers Elementary School,K: Non-Zoned School,K: No
+27Q317,Waterside Children's Studio School,K: Zoned School,K: No
+27Q318,Waterside School For Leadership,"MS: Screened: Language, Zoned",MS: No
+27Q319,Village Academy,MS: Unscreened,MS: No
+27Q323,Scholars' Academy,"MS: School-managed Admissions, HS: Screened","MS: Yes, HS: Yes"
+27Q324,Rockaway Park High School for Environmental Sustainability,HS: Limited Unscreened,HS: No
+27Q333,Goldie Maple Academy,"K: Non-Zoned School, MS: School-managed Admissions","K: No, MS: Yes"
+27Q334,Epic High School - North,HS: Limited Unscreened,HS: No
+27Q351,Rockaway Collegiate High School,HS: Limited Unscreened,HS: No
+27Q362,Wave Preparatory Elementary School,K: Zoned School,K: No
+27Q377,P.S. 377,K: Zoned School,No
+27Q400,August Martin High School,HS: Unscreened,HS: No
+27Q475,Richmond Hill High School,"HS: Ed. Opt., Screened, Zoned Priority",HS: No
+27Q480,John Adams High School,"HS: Ed. Opt., Screened, Zoned Guarantee",HS: No
+27Q650,"High School for Construction Trades, Engineering and Architecture",HS: Screened,HS: Yes
+28Q008,J.H.S. 008 Richard S. Grossley,MS: Unscreened,MS: No
+28Q040,P.S. 040 Samuel Huntington,K: Zoned School,K: No
+28Q048,P.S. 048 William Wordsworth,K: Zoned School,K: No
+28Q050,P.S. 050 Talfourd Lawn Elementary School,K: Zoned School,K: No
+28Q054,P.S. 054 Hillside,K: Zoned School,K: No
+28Q055,P.S. 055 Maure,K: Zoned School,K: No
+28Q072,Catherine & Count Basie Middle School 72,"MS: Screened: Language, Unscreened",MS: No
+28Q080,P.S. 80 The Thurgood Marshall Magnet School of Multimedia and Communication,K: Zoned School,K: No
+28Q082,P.S. 082 Hammond,K: Zoned School,K: No
+28Q086,P.S. Q086,K: Zoned School,K: No
+28Q099,P.S. 099 Kew Gardens,K: Zoned School,K: No
+28Q101,P.S. 101 School in the Gardens,K: Zoned School,K: No
+28Q117,P.S. 117 J. Keld / Briarwood School,K: Zoned School,K: No
+28Q121,P.S. 121 Queens,K: Zoned School,K: No
+28Q139,P.S. 139 Rego Park,K: Zoned School,K: No
+28Q140,P.S. 140 Edward K Ellington,K: Zoned School,K: No
+28Q144,P.S. 144 Col Jeromus Remsen,K: Zoned School,K: No
+28Q157,J.H.S. 157 Stephen A. Halsey,MS: Unscreened,MS: No
+28Q160,P.S. 160 Walter Francis Bishop,K: Zoned School,K: No
+28Q161,P.S. 161 Arthur Ashe School,K: Zoned School,K: No
+28Q167,Metropolitan Expeditionary Learning School,"MS: Limited Unscreened, HS: Limited Unscreened","MS: No, HS: No"
+28Q174,P.S. 174 William Sidney Mount,K: Zoned School,K: No
+28Q175,P.S. 175 The Lynn Gross Discovery School,K: Zoned School,K: No
+28Q182,P.S. 182 Samantha Smith,K: Zoned School,K: No
+28Q190,J.H.S. 190 Russell Sage,MS: Unscreened,MS: No
+28Q196,P.S. 196 Grand Central Parkway,K: Zoned School,K: No
+28Q206,P.S. 206 The Horace Harding School,K: Zoned School,K: No
+28Q217,J.H.S. 217 Robert A. Van Wyck,MS: Unscreened,MS: No
+28Q220,P.S. 220 Edward Mandel,K: Zoned School,K: No
+28Q284,York Early College Academy,"MS: Limited Unscreened, HS: Screened","MS: No, HS: Yes"
+28Q287,The Emerson School,MS: Unscreened,MS: No
+28Q303,The Academy for Excellence through the Arts,K: Non-Zoned School,K: No
+28Q310,Queens Collegiate: A College Board School,"MS: Limited Unscreened, HS: Limited Unscreened","MS: No, HS: No"
+28Q312,Jamaica Children's School,K: Zoned School,K: No
+28Q325,Hillside Arts & Letters Academy,HS: Limited Unscreened,HS: No
+28Q328,High School for Community Leadership,HS: Limited Unscreened,HS: No
+28Q332,Redwood Middle School,MS: Limited Unscreened,MS: No
+28Q338,Queens Satellite High School for Opportunity,Transfer School: School-managed Admissions,HS: No
+28Q349,The Queens School for Leadership and Excellence,K: Zoned School,K: No
+28Q350,Jamaica Gateway to the Sciences,HS: Ed. Opt.,HS: No
+28Q354,The Jermaine L. Green STEM Institute of Queens,K: Zoned School,K: No
+28Q358,M.S. 358,MS: Unscreened,MS: No
+28Q440,Forest Hills High School,"HS: Audition, Ed. Opt., Screened, Zoned Guarantee",HS: No
+28Q505,Hillcrest High School,"HS: Audition, Ed. Opt., Screened, Zoned Guarantee",HS: No
+28Q620,Thomas A. Edison Career and Technical Education High School,"HS: Ed. Opt., Screened",HS: No
+28Q680,Queens Gateway to Health Sciences Secondary School,"MS: Screened, HS: Screened","MS: Yes, HS: Yes"
+28Q686,Queens Metropolitan High School,HS: Zoned Priority,HS: No
+28Q687,Queens High School for the Sciences at York College,HS: Test,HS: Yes
+28Q690,High School for Law Enforcement and Public Safety,HS: Screened,HS: Yes
+28Q896,"Young Women's Leadership School, Queens","MS: Screened, HS: Screened","MS: Yes, HS: Yes"
+29Q015,P.S. 015 Jackie Robinson,K: Zoned School,K: No
+29Q033,P.S. 033 Edward M. Funk,K: Zoned School,K: No
+29Q034,P.S. 034 John Harvard,K: Zoned School,K: No
+29Q035,P.S. 035 Nathaniel Woodhull,K: Zoned School,K: No
+29Q036,P.S. 036 Saint Albans School,K: Zoned School,K: No
+29Q037,Cynthia Jenkins School,K: Zoned School,K: No
+29Q038,P.S. 038 Rosedale,K: Zoned School,K: No
+29Q052,P.S. 052 Queens,K: Zoned School,K: No
+29Q059,I.S. 059 Springfield Gardens,MS: Unscreened,MS: No
+29Q095,P.S. 095 Eastwood,K: Zoned School,K: No
+29Q109,Jean Nuzzi Intermediate School,MS: Unscreened,MS: No
+29Q116,P.S./I.S. 116 William C. Hughley,"K: Zoned School, MS: Unscreened","K: No, MS: No"
+29Q118,P.S. 118 Lorraine Hansberry,K: Zoned School,K: No
+29Q131,P.S. 131 Abigail Adams,K: Zoned School,K: No
+29Q132,P.S. 132 Ralph Bunche,K: Zoned School,K: No
+29Q134,P.S. 134 Hollis,K: Zoned School,K: No
+29Q135,The Bellaire School,K: Zoned School,K: No
+29Q136,P.S. 136 Roy Wilkins,K: Zoned School,K: No
+29Q138,P.S./M.S. 138 Sunrise,"K: Zoned School, MS: Unscreened","K: No, MS: No"
+29Q147,P.S./M.S. 147 Ronald McNair,"K: Zoned School, MS: Unscreened","K: No, MS: No"
+29Q156,P.S. 156 Laurelton,K: Zoned School,K: No
+29Q176,P.S. 176 Cambria Heights,K: Zoned School,K: No
+29Q181,P.S. 181 Brookfield,K: Zoned School,K: No
+29Q192,I.S. 192 The Linden,MS: Unscreened,MS: No
+29Q195,P.S. 195 William Haberle,K: Zoned School,K: No
+29Q208,P.S./I.S. 208,"K: Non-Zoned School, MS: Unscreened","K: No, MS: No"
+29Q238,I.S. 238 - Susan B. Anthony Academy,MS: Unscreened,MS: No
+29Q243,Institute for Health Professions at Cambria Heights,HS: Limited Unscreened,HS: No
+29Q248,Queens Preparatory Academy,HS: Limited Unscreened,HS: No
+29Q251,P.S. 251 Queens,K: Non-Zoned School,K: No
+29Q259,Pathways College Preparatory School: A College Board School,"MS: Limited Unscreened, HS: Ed. Opt., For Continuing 8th Graders","MS: No, HS: No"
+29Q265,Excelsior Preparatory High School,HS: Limited Unscreened,HS: No
+29Q268,P.S./I.S. 268,"K: Non-Zoned School, MS: Unscreened","K: No, MS: No"
+29Q270,The Gordon Parks School,"K: Non-Zoned School, MS: Unscreened","K: No, MS: No"
+29Q272,George Washington Carver High School for the Sciences,HS: Limited Unscreened,HS: No
+29Q283,Preparatory Academy for Writers: A College Board School,"MS: Limited Unscreened, HS: Limited Unscreened","MS: No, HS: No"
+29Q289,Queens United Middle School,MS: Limited Unscreened,MS: No
+29Q295,P.S./I.S. 295,"K: Zoned School, MS: Screened","K: No, MS: Yes"
+29Q313,Benjamin Franklin High School for Finance & Information Technology,HS: Limited Unscreened,HS: No
+29Q326,Cambria Heights Academy,HS: Limited Unscreened,HS: No
+29Q327,Eagle Academy for Young Men III,"MS: Limited Unscreened, HS: Limited Unscreened","MS: No, HS: No"
+29Q355,Collaborative Arts Middle School,MS: Unscreened,MS: No
+29Q356,Community Voices Middle School,MS: Unscreened,MS: No
+29Q360,P.S. 360,K: Non-Zoned School,K: No
+29Q492,"Mathematics, Science Research and Technology Magnet High School",HS: Ed. Opt.,HS: No
+29Q498,Humanities & Arts Magnet High School,"HS: Audition, Limited Unscreened",HS: No
+30Q002,P.S. 002 Alfred Zimberg,K: Zoned School,K: No
+30Q010,I.S. 010 Horace Greeley,"MS: Limited Unscreened, Zoned",MS: No
+30Q011,P.S. 011 Kathryn Phelan,K: Zoned School,K: No
+30Q017,P.S. 017 Henry David Thoreau,K: Zoned School,K: No
+30Q069,P.S. 069 Jackson Heights,K: Zoned School,K: No
+30Q070,P.S. 070,K: Zoned School,K: No
+30Q076,P.S. 076 William Hallet,K: Zoned School,K: No
+30Q078,P.S./I.S. 78Q,"K: Zoned School, MS: Zoned","K: No, MS: No"
+30Q084,P.S. 084 Steinway,K: Zoned School,K: No
+30Q085,P.S. 085 Judge Charles Vallone,K: Zoned School,K: No
+30Q092,P.S. 092 Harry T. Stewart Sr.,K: Zoned School,K: No
+30Q111,P.S. 111 Jacob Blackwell,"K: Zoned School, MS: Unscreened, Zoned","K: No, MS: No"
+30Q112,P.S. 112 Dutch Kills,K: Zoned School,K: No
+30Q122,P.S. 122 Mamie Fay,"K: Zoned School, MS: Composite Score","K: No, MS: Yes"
+30Q126,Albert Shanker School for Visual and Performing Arts,"MS: Composite Score, Limited Unscreened, Zoned",MS: No
+30Q127,P.S. 127 Aerospace Science Magnet School,"K: Zoned School, MS: Screened: Language, Zoned","K: No, MS: No"
+30Q141,I.S. 141 The Steinway,"MS: Limited Unscreened, Zoned",MS: No
+30Q145,I.S. 145 Joseph Pulitzer,"MS: Limited Unscreened, Zoned",MS: No
+30Q148,P.S. 148 Queens,K: Zoned School,K: No
+30Q149,P.S. 149 Christa Mcauliffe,K: Zoned School,K: No
+30Q150,P.S. 150 Queens,K: Zoned School,K: No
+30Q151,P.S. 151 Mary D. Carter,K: Zoned School,K: No
+30Q152,P.S. 152 Gwendoline N. Alleyne School,K: Zoned School,K: No
+30Q166,P.S. 166 Henry Gradstein,K: Zoned School,K: No
+30Q171,P.S. 171 Peter G. Van Alst,K: Zoned School,K: No
+30Q204,I.S. 204 Oliver W. Holmes,"MS: Screened: Language, Unscreened, Zoned",MS: No
+30Q212,P.S. 212,K: Zoned School,K: No
+30Q222,P.S. Q222 - Fire Fighter Christopher A. Santora School,K: Zoned School,K: No
+30Q227,I.S. 227 Louis Armstrong,MS: School-managed Admissions,MS: Yes
+30Q228,P.S. 228 Early Childhood Magnet School of the Arts,K: Zoned School,K: No
+30Q230,I.S. 230,"MS: Unscreened, Zoned",MS: No
+30Q234,P.S. 234,K: Zoned School,K: No
+30Q235,Academy for New Americans,MS: School-managed Admissions,MS: Yes
+30Q258,Energy Tech High School,HS: Limited Unscreened,HS: No
+30Q280,P.S. 280,K: Zoned School,K: No
+30Q286,"Young Women's Leadership School, Astoria","MS: Screened, HS: Screened","MS: Yes, HS: Yes"
+30Q291,Hunters Point Community Middle School,MS: Limited Unscreened,MS: No
+30Q300,The 30th Avenue School (G&T Citywide),"K: Gifted & Talented School, MS: Composite Score","K: Yes, MS: Yes"
+30Q301,Academy for Careers in Television and Film,HS: Limited Unscreened,HS: No
+30Q329,East Elmhurst Community School,K: Zoned School,K: No
+30Q361,The Woodside Community School,K: Zoned School,K: No
+30Q445,William Cullen Bryant High School,"HS: Ed. Opt., Screened, Zoned Guarantee",HS: No
+30Q450,Long Island City High School,"HS: Ed. Opt., Screened, Screened: Language, Zoned Guarantee",HS: No
+30Q501,Frank Sinatra School of the Arts High School,HS: Audition,HS: Yes
+30Q502,Information Technology High School,HS: Ed. Opt.,HS: No
+30Q555,Newcomers High School,HS: Screened: Language,HS: No
+30Q575,Academy of American Studies,"HS: Ed. Opt., Screened",HS: No
+30Q580,Baccalaureate School for Global Education,HS: Screened,HS: Yes
+31R001,P.S. 001 Tottenville,K: Zoned School,K: No
+31R002,I.S. R002 George L. Egbert,"MS: Composite Score, Zoned",MS: No
+31R003,P.S. 003 The Margaret Gioiosa School,K: Zoned School,K: No
+31R004,P.S. 004 Maurice Wollin,K: Zoned School,K: No
+31R005,P.S. 005 Huguenot,K: Zoned School,K: No
+31R006,P.S. 6 Corporal Allan F. Kivlehan School,K: Zoned School,K: No
+31R007,I.S. 007 Elias Bernstein,MS: Zoned,MS: No
+31R008,P.S. 8 Shirlee Solomon,K: Zoned School,K: No
+31R009,Naples Street Elementary School,K: Non-Zoned School,K: No
+31R010,Fort Hill Collaborative Elementary School,K: Zoned School,K: No
+31R011,P.S. 11 Thomas Dongan School,K: Zoned School,K: No
+31R013,P.S. 013 M. L. Lindemeyer,K: Zoned School,K: No
+31R016,P.S. 016 John J. Driscoll,K: Zoned School,K: No
+31R018,P.S. 018 John G. Whittier,K: Zoned School,K: No
+31R019,P.S. 019 The Curtis School,K: Zoned School,K: No
+31R020,P.S. 020 Port Richmond,K: Zoned School,K: No
+31R021,P.S. 21 Margaret Emery-Elm Park,K: Zoned School,K: No
+31R022,P.S. 022 Graniteville,K: Zoned School,K: No
+31R023,P.S. 023 Richmondtown,K: Zoned School,K: No
+31R024,I.S. 024 Myra S. Barnes,MS: Zoned,MS: No
+31R026,P.S. 026 The Carteret School,K: Zoned School,K: No
+31R027,I.S. 027 Anning S. Prall,"MS: Composite Score, Unscreened, Zoned",MS: No
+31R028,The Eagle Academy for Young Men of Staten Island,"MS: Limited Unscreened, HS: Limited Unscreened","MS: No, HS: No"
+31R029,P.S. 029 Bardwell,K: Zoned School,K: No
+31R030,P.S. 030 Westerleigh,K: Zoned School,K: No
+31R031,P.S. 031 William T. Davis,K: Zoned School,K: No
+31R032,P.S. 032 The Gifford School,K: Zoned School,K: No
+31R034,I.S. 034 Tottenville,MS: Zoned,MS: No
+31R035,P.S. 35 The Clove Valley School,K: Zoned School,K: No
+31R036,P.S. 036 J. C. Drumgoole,K: Zoned School,K: No
+31R038,P.S. 038 George Cromwell,K: Zoned School,K: No
+31R039,P.S. 39 Francis J. Murphy Jr.,K: Zoned School,K: No
+31R041,The Stephanie A. Vierno School,K: Zoned School,K: No
+31R042,P.S. 042 Eltingville,K: Zoned School,K: No
+31R044,P.S. 044 Thomas C. Brown,K: Zoned School,K: No
+31R045,P.S. 045 John Tyler,K: Zoned School,K: No
+31R046,P.S. 046 Albert V. Maniscalco,K: Zoned School,K: No
+31R047,CSI High School for International Studies,HS: Limited Unscreened,HS: No
+31R048,P.S. 048 William G. Wilcox,"K: Zoned School, MS: Unscreened","K: No, MS: No"
+31R049,I.S. 49 Berta A. Dreyfus,"MS: Composite Score, Zoned",MS: No
+31R050,P.S. 050 Frank Hankinson,K: Zoned School,K: No
+31R051,I.S. 051 Edwin Markham,"MS: Screened: Language, Zoned",MS: No
+31R052,P.S. 052 John C. Thompson,K: Zoned School,K: No
+31R053,The Barbara Esselborn School,K: Zoned School,K: No
+31R054,P.S. 054 Charles W. Leng,K: Zoned School,K: No
+31R055,P.S. 055 Henry M. Boehm,K: Zoned School,K: No
+31R056,P.S. 56 The Louis Desario School,K: Zoned School,K: No
+31R057,P.S. 057 Hubert H. Humphrey,K: Zoned School,K: No
+31R058,Space Shuttle Columbia School,K: Zoned School,K: No
+31R059,The Harbor View School,K: Non-Zoned School,K: No
+31R060,P.S. 060 Alice Austen,K: Zoned School,K: No
+31R061,I.S. 061 William A Morris,"MS: Unscreened, Zoned",MS: No
+31R062,The Kathleen Grimm School for Leadership and Sustainability,K: Zoned School,K: No
+31R063,Marsh Avenue School for Expeditionary Learning,MS: Limited Unscreened,MS: No
+31R064,Gaynor McCown Expeditionary Learning School,HS: Limited Unscreened,HS: No
+31R065,P.S. 65 The Academy of Innovative Learning,K: Non-Zoned School,K: No
+31R068,The Port Richmond School for Visionary Learning,K: Zoned School,No
+31R069,P.S. 069 Daniel D. Tompkins,K: Zoned School,K: No
+31R072,I.S. 072 Rocco Laurie,MS: Zoned,MS: No
+31R074,P.S. 74 Future Leaders Elementary School,K: Zoned School,K: No
+31R075,I.S. 075 Frank D. Paulo,"MS: Composite Score, Zoned",MS: No
+31R078,P.S. 78,K: Zoned School,K: No
+31R080,The Michael J. Petrides School,"K: Non-Zoned School, MS: Unscreened, HS: Ed. Opt., For Continuing 8th Graders","K: No, MS: No, HS: No"
+31R440,New Dorp High School,"HS: Ed. Opt., Screened, Zoned Guarantee",HS: No
+31R445,Port Richmond High School,"HS: Ed. Opt., Screened, Zoned Guarantee",HS: No
+31R450,Curtis High School,"HS: Ed. Opt., Screened, Unscreened, Zoned Guarantee",HS: No
+31R455,Tottenville High School,"HS: Ed. Opt., Screened, Zoned Guarantee",HS: No
+31R460,Susan E. Wagner High School,"HS: Audition, Ed. Opt., Screened, Zoned Guarantee",HS: No
+31R470,Concord High School,Transfer School: School-managed Admissions,HS: No
+31R600,Ralph R. McKee Career and Technical Education High School,"HS: Ed. Opt., Screened",HS: No
+31R605,Staten Island Technical High School,HS: Test,HS: Yes
+31R861,Staten Island School of Civic Leadership,"K: Zoned School, MS: Zoned","K: No, MS: No"
+32K045,P.S./I.S. 045 Horace E. Greene,"K: Zoned School, MS: Zoned","K: No, MS: No"
+32K075,P.S. 075 Mayda Cortiella,K: Zoned School,K: No
+32K086,P.S. 086 The Irvington,K: Zoned School,K: No
+32K106,P.S. 106 Edward Everett Hale,K: Zoned School,K: No
+32K116,P.S. 116 Elizabeth L Farrell,K: Zoned School,K: No
+32K123,P.S. 123 Suydam,K: Zoned School,K: No
+32K145,P.S. 145 Andrew Jackson,K: Zoned School,K: No
+32K151,P.S. 151 Lyndon B. Johnson,K: Zoned School,K: No
+32K162,J.H.S. 162 The Willoughby,"MS: Screened, Zoned",MS: No
+32K168,The Brooklyn School for Math and Research,HS: Limited Unscreened,HS: No
+32K274,P.S. 274 Kosciusko,K: Zoned School,K: No
+32K291,J.H.S. 291 Roland Hayes,"MS: Screened, Zoned",MS: No
+32K299,P.S. 299 Thomas Warren Field,K: Zoned School,K: No
+32K347,I.S. 347 School of Humanities,"MS: Screened, Zoned",MS: No
+32K349,"I.S. 349 Math, Science & Tech.","MS: Unscreened, Zoned",MS: No
+32K376,P.S. 376,K: Zoned School,K: No
+32K377,P.S. 377 Alejandrina B. De Gautier,"K: Zoned School, MS: Zoned","K: No, MS: No"
+32K383,J.H.S. 383 Philippa Schuyler,MS: Screened,MS: Yes
+32K384,P.S. /I.S. 384 Frances E. Carter,"K: Zoned School, MS: Zoned","K: No, MS: No"
+32K403,Academy for Environmental Leadership,HS: Limited Unscreened,HS: No
+32K545,EBC High School for Public Service - Bushwick,HS: Ed. Opt.,HS: No
+32K549,Bushwick School for Social Justice,HS: Limited Unscreened,HS: No
+32K552,Academy of Urban Planning,HS: Limited Unscreened,HS: No
+32K554,All City Leadership Secondary School,"MS: School-managed Admissions, HS: Limited Unscreened","MS: Yes, HS: No"
+32K556,Bushwick Leaders High School for Academic Excellence,HS: Limited Unscreened,HS: No
+32K562,Evergreen Middle School for Urban Exploration,MS: Limited Unscreened,MS: No
+32K564,Bushwick Community High School,Transfer School: School-managed Admissions,HS: No

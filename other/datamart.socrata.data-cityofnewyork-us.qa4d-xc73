@@ -1,0 +1,1628 @@
+DBN,Community School District,City Council District,School Level,Full Time Health Teachers,F Status Health Teachers,Itinerant Health Teachers,Sum of F Status and Itinerant,Total Part Time and Full Time Health Teachers
+01M015,1,2,Elementary,0,0,0,0,0
+01M019,1,2,Elementary,0,0,0,0,0
+01M020,1,1,Elementary,0,0,0,0,0
+01M034,1,2,K-8,0,0,0,0,0
+01M063,1,2,Elementary,0,0,0,0,0
+01M064,1,2,Elementary,0,0,0,0,0
+01M110,1,1,Elementary,0,0,0,0,0
+01M134,1,1,Elementary,0,0,0,0,0
+01M137,1,1,Elementary,0,0,0,0,0
+01M140,1,1,K-8,0,0,0,0,0
+01M142,1,1,Elementary,0,0,0,0,0
+01M184,1,1,K-8,0,0,0,0,0
+01M188,1,2,K-8,0,0,0,0,0
+01M292,1,1,Secondary School,0,0,0,0,0
+01M301,1,2,Junior High-Intermediate-Middle,0,0,0,0,0
+01M315,1,2,Elementary,0,0,0,0,0
+01M332,1,1,Junior High-Intermediate-Middle,0,0,0,0,0
+01M345,1,1,Junior High-Intermediate-Middle,0,0,0,0,0
+01M361,1,2,Elementary,0,0,0,0,0
+01M363,1,2,Elementary,0,0,0,0,0
+01M364,1,2,Elementary,0,0,0,0,0
+01M378,1,1,Junior High-Intermediate-Middle,0,0,0,0,0
+01M448,1,1,High School,0,0,0,0,0
+01M450,1,2,Secondary School,0,0,0,0,0
+01M458,1,1,High School,0,0,0,0,0
+01M509,1,1,High School,0,0,0,0,0
+01M515,1,1,High School,0,0,0,0,0
+01M539,1,2,K-12 All Grades,1,0,0,0,1
+01M650,1,1,High School,0,0,0,0,0
+01M696,1,2,High School,0,0,0,0,0
+01M839,1,2,Junior High-Intermediate-Middle,0,0,0,0,0
+02M001,2,1,Elementary,0,0,0,0,0
+02M002,2,1,Elementary,0,0,0,0,0
+02M003,2,3,Elementary,0,0,0,0,0
+02M006,2,4,Elementary,0,0,0,0,0
+02M011,2,3,Elementary,0,0,0,0,0
+02M033,2,3,Elementary,0,0,0,0,0
+02M040,2,2,Elementary,0,0,0,0,0
+02M041,2,3,Elementary,0,0,0,0,0
+02M042,2,1,Elementary,0,0,0,0,0
+02M047,2,2,High School,0,0,0,0,0
+02M051,2,3,Elementary,0,0,0,0,0
+02M059,2,4,Elementary,0,0,0,0,0
+02M077,2,5,Elementary,1,0,0,0,1
+02M089,2,1,Elementary,0,0,0,0,0
+02M104,2,2,Junior High-Intermediate-Middle,0,0,0,0,0
+02M111,2,3,K-8,0,0,0,0,0
+02M114,2,5,Junior High-Intermediate-Middle,0,0,0,0,0
+02M116,2,2,Elementary,0,0,0,0,0
+02M124,2,1,Elementary,0,0,0,0,0
+02M126,2,1,K-8,0,0,0,0,0
+02M130,2,1,Elementary,0,0,0,0,0
+02M131,2,1,Junior High-Intermediate-Middle,0,0,0,0,0
+02M135,2,1,High School,0,0,0,0,0
+02M139,2,3,High School,0,0,0,0,0
+02M150,2,1,Elementary,0,0,0,0,0
+02M151,2,5,Early Childhood,0,0,0,0,0
+02M158,2,5,Elementary,0,0,0,0,0
+02M167,2,4,Junior High-Intermediate-Middle,0,0,0,0,0
+02M177,2,5,Junior High-Intermediate-Middle,0,0,0,0,0
+02M183,2,5,Elementary,0,0,0,0,0
+02M198,2,5,Elementary,0,0,0,0,0
+02M212,2,3,Elementary,0,0,0,0,0
+02M217,2,5,K-8,0,0,0,0,0
+02M225,2,5,K-8,0,0,0,0,0
+02M234,2,1,Elementary,0,0,0,0,0
+02M255,2,2,Junior High-Intermediate-Middle,0,0,0,0,0
+02M260,2,2,Secondary School,0,0,0,0,0
+02M267,2,4,Elementary,0,0,0,0,0
+02M276,2,1,K-8,0,0,0,0,0
+02M280,2,1,High School,0,0,0,0,0
+02M281,2,4,Elementary,0,0,0,0,0
+02M282,2,1,High School,0,0,0,0,0
+02M288,2,3,High School,0,0,0,0,0
+02M289,2,1,Junior High-Intermediate-Middle,0,0,0,0,0
+02M290,2,5,Elementary,0,0,0,0,0
+02M294,2,1,High School,0,0,0,0,0
+02M296,2,3,High School,0,0,0,0,0
+02M298,2,1,High School,0,0,0,0,0
+02M300,2,3,High School,0,0,0,0,0
+02M303,2,3,High School,0,0,0,0,0
+02M305,2,1,High School,0,0,0,0,0
+02M308,2,1,High School,0,0,0,0,0
+02M312,2,3,Junior High-Intermediate-Middle,0,0,0,0,0
+02M313,2,3,High School,0,0,0,0,0
+02M316,2,1,High School,0,0,0,0,0
+02M340,2,3,Elementary,0,0,0,0,0
+02M343,2,1,Elementary,0,0,0,0,0
+02M347,2,2,K-8,0,0,0,0,0
+02M374,2,2,High School,0,0,0,0,0
+02M376,2,3,High School,0,0,0,0,0
+02M392,2,3,High School,0,0,0,0,0
+02M393,2,3,High School,0,0,0,0,0
+02M394,2,1,High School,0,0,0,0,0
+02M397,2,1,Early Childhood,0,0,0,0,0
+02M399,2,2,High School,0,0,0,0,0
+02M400,2,3,High School,1,0,0,0,1
+02M407,2,2,Secondary School,0,0,0,0,0
+02M408,2,3,Secondary School,0,0,0,0,0
+02M411,2,2,High School,0,0,0,0,0
+02M412,2,3,High School,0,0,0,0,0
+02M413,2,2,Secondary School,0,0,0,0,0
+02M414,2,3,High School,0,0,0,0,0
+02M416,2,5,High School,0,0,0,0,0
+02M418,2,1,High School,1,0,0,0,1
+02M419,2,3,High School,0,0,0,0,0
+02M420,2,2,High School,1,0,0,0,1
+02M422,2,3,Secondary School,1,0,0,0,1
+02M425,2,1,High School,0,0,0,0,0
+02M427,2,2,High School,0,0,0,0,0
+02M432,2,2,High School,0,0,0,0,0
+02M437,2,3,High School,0,0,0,0,0
+02M438,2,2,High School,0,0,0,0,0
+02M439,2,3,High School,0,0,0,0,0
+02M442,2,2,K-12 All Grades,0,0,0,0,0
+02M449,2,5,High School,0,0,0,0,0
+02M459,2,5,High School,0,0,0,0,0
+02M475,2,1,High School,3,0,0,0,3
+02M489,2,1,High School,0,0,0,0,0
+02M500,2,2,High School,0,0,0,0,0
+02M507,2,3,High School,0,0,0,0,0
+02M519,2,5,High School,0,0,0,0,0
+02M520,2,1,High School,1,0,0,0,1
+02M527,2,5,Elementary,0,0,0,0,0
+02M529,2,4,High School,0,0,0,0,0
+02M531,2,4,High School,0,0,0,0,0
+02M533,2,2,High School,0,0,0,0,0
+02M534,2,3,High School,0,0,0,0,0
+02M542,2,3,High School,0,0,0,0,0
+02M543,2,1,High School,0,0,0,0,0
+02M544,2,3,High School,0,0,0,0,0
+02M545,2,1,High School,0,0,0,0,0
+02M546,2,2,High School,0,0,0,0,0
+02M550,2,3,High School,0,0,0,0,0
+02M551,2,1,High School,0,0,0,0,0
+02M560,2,3,High School,0,0,0,0,0
+02M565,2,5,High School,0,0,0,0,0
+02M570,2,3,High School,0,0,0,0,0
+02M575,2,2,High School,0,0,0,0,0
+02M580,2,1,High School,0,0,0,0,0
+02M586,2,2,High School,0,0,0,0,0
+02M600,2,3,High School,1,0,0,0,1
+02M605,2,3,High School,0,0,0,0,0
+02M615,2,3,High School,0,0,0,0,0
+02M625,2,3,High School,0,0,0,0,0
+02M630,2,4,High School,1,0,0,0,1
+02M655,2,5,Secondary School,0,0,0,0,0
+02M896,2,1,Junior High-Intermediate-Middle,0,0,0,0,0
+02M933,2,3,Junior High-Intermediate-Middle,0,0,0,0,0
+03M009,3,6,Elementary,0,0,0,0,0
+03M054,3,7,Junior High-Intermediate-Middle,0,0,0,0,0
+03M075,3,6,Elementary,0,0,0,0,0
+03M076,3,9,Elementary,0,0,0,0,0
+03M084,3,6,Elementary,0,0,0,0,0
+03M087,3,6,Elementary,0,0,0,0,0
+03M145,3,7,Elementary,0,0,0,0,0
+03M149,3,9,K-8,0,0,0,0,0
+03M163,3,7,Elementary,0,0,0,0,0
+03M165,3,7,K-8,0,0,0,0,0
+03M166,3,6,Elementary,0,0,0,0,0
+03M180,3,9,K-8,0,0,0,0,0
+03M185,3,9,Early Childhood,0,0,0,0,0
+03M191,3,6,Elementary,0,0,0,0,0
+03M199,3,6,Elementary,0,0,0,0,0
+03M208,3,9,Elementary,0,0,0,0,0
+03M241,3,9,K-8,0,0,0,0,0
+03M242,3,9,Elementary,0,0,0,0,0
+03M243,3,6,Junior High-Intermediate-Middle,0,0,0,0,0
+03M245,3,6,Junior High-Intermediate-Middle,0,0,0,0,0
+03M247,3,6,Junior High-Intermediate-Middle,0,0,0,0,0
+03M250,3,6,Junior High-Intermediate-Middle,0,0,0,0,0
+03M256,3,6,Junior High-Intermediate-Middle,0,0,0,0,0
+03M258,3,6,Junior High-Intermediate-Middle,0,0,0,0,0
+03M291,3,6,Secondary School,0,0,0,0,0
+03M299,3,6,High School,0,0,0,0,0
+03M307,3,6,High School,0,1,0,1,1
+03M333,3,6,K-8,0,0,0,0,0
+03M334,3,6,K-8,0,0,0,0,0
+03M402,3,6,High School,0,0,0,0,0
+03M403,3,6,High School,0,0,0,0,0
+03M404,3,6,High School,0,0,0,0,0
+03M415,3,9,Secondary School,0,0,0,0,0
+03M417,3,6,High School,0,0,0,0,0
+03M421,3,7,Junior High-Intermediate-Middle,0,0,0,0,0
+03M452,3,6,Elementary,0,0,0,0,0
+03M479,3,3,High School,0,0,0,0,0
+03M485,3,6,High School,1,0,0,0,1
+03M492,3,6,High School,0,0,0,0,0
+03M494,3,6,High School,0,0,0,0,0
+03M505,3,7,High School,0,0,0,0,0
+03M541,3,6,High School,0,0,0,0,0
+03M859,3,6,K-8,0,0,0,0,0
+03M860,3,9,Secondary School,1,0,0,0,1
+03M862,3,7,Junior High-Intermediate-Middle,0,0,0,0,0
+04M007,4,8,K-8,0,0,0,0,0
+04M012,4,8,K-8,0,0,0,0,0
+04M037,4,8,Elementary,0,0,0,0,0
+04M038,4,8,Elementary,0,0,0,0,0
+04M050,4,8,K-8,0,0,0,0,0
+04M057,4,8,K-8,0,0,0,0,0
+04M072,4,8,Elementary,0,0,0,0,0
+04M083,4,8,Elementary,0,0,0,0,0
+04M096,4,8,K-8,0,0,0,0,0
+04M102,4,8,Elementary,0,0,0,0,0
+04M108,4,8,K-8,0,0,0,0,0
+04M112,4,8,Early Childhood,0,0,0,0,0
+04M146,4,8,Elementary,0,0,0,0,0
+04M155,4,8,Elementary,0,0,0,0,0
+04M171,4,8,K-8,0,0,0,0,0
+04M182,4,8,Elementary,0,0,0,0,0
+04M206,4,8,Elementary,0,0,0,0,0
+04M224,4,8,Junior High-Intermediate-Middle,0,0,0,0,0
+04M372,4,8,Secondary School,0,0,0,0,0
+04M375,4,8,Elementary,0,0,0,0,0
+04M377,4,8,Junior High-Intermediate-Middle,0,0,0,0,0
+04M381,4,8,Junior High-Intermediate-Middle,0,0,0,0,0
+04M406,4,8,Junior High-Intermediate-Middle,0,0,0,0,0
+04M409,4,8,High School,1,0,0,0,1
+04M435,4,8,High School,0,0,0,0,0
+04M495,4,8,High School,0,0,0,0,0
+04M497,4,8,Elementary,0,0,0,0,0
+04M555,4,8,High School,0,0,0,0,0
+04M610,4,8,Secondary School,0,0,0,0,0
+04M680,4,8,High School,0,0,0,0,0
+04M825,4,8,Junior High-Intermediate-Middle,0,0,0,0,0
+04M964,4,8,Elementary,0,0,0,0,0
+05M030,5,9,Elementary,0,0,0,0,0
+05M036,5,7,Elementary,0,0,0,0,0
+05M046,5,9,Elementary,1,0,0,0,1
+05M092,5,9,Elementary,0,0,0,0,0
+05M123,5,9,K-8,0,0,0,0,0
+05M125,5,7,Elementary,0,0,0,0,0
+05M129,5,9,K-8,0,0,0,0,0
+05M133,5,9,Elementary,0,0,0,0,0
+05M148,5,9,Secondary School,0,0,0,0,0
+05M154,5,9,Elementary,0,0,0,0,0
+05M157,5,9,High School,0,0,0,0,0
+05M161,5,9,K-8,0,0,0,0,0
+05M175,5,9,Elementary,0,0,0,0,0
+05M194,5,9,Elementary,0,0,0,0,0
+05M197,5,9,Elementary,0,0,0,0,0
+05M200,5,9,Elementary,0,0,0,0,0
+05M285,5,9,High School,0,0,0,0,0
+05M286,5,7,Junior High-Intermediate-Middle,0,0,0,0,0
+05M302,5,9,Junior High-Intermediate-Middle,0,0,0,0,0
+05M304,5,9,High School,0,0,0,0,0
+05M318,5,9,Elementary,0,0,0,0,0
+05M362,5,7,Junior High-Intermediate-Middle,0,0,0,0,0
+05M367,5,7,Secondary School,0,0,0,0,0
+05M369,5,7,High School,0,0,0,0,0
+05M410,5,7,Junior High-Intermediate-Middle,0,0,0,0,0
+05M469,5,9,Secondary School,0,0,0,0,0
+05M499,5,9,Secondary School,0,0,0,0,0
+05M514,5,7,Junior High-Intermediate-Middle,0,0,0,0,0
+05M517,5,7,Elementary,0,0,0,0,0
+05M670,5,9,Secondary School,0,0,0,0,0
+05M685,5,9,High School,0,0,0,0,0
+05M692,5,9,High School,0,0,0,0,0
+06M004,6,7,Elementary,0,0,0,0,0
+06M005,6,10,Elementary,0,0,0,0,0
+06M008,6,10,Elementary,0,0,0,0,0
+06M018,6,10,K-8,0,0,0,0,0
+06M028,6,7,Elementary,0,0,0,0,0
+06M048,6,10,Elementary,0,0,0,0,0
+06M052,6,10,Junior High-Intermediate-Middle,0,0,0,0,0
+06M098,6,10,Elementary,0,0,0,0,0
+06M103,6,10,Elementary,0,0,0,0,0
+06M115,6,10,Elementary,0,0,0,0,0
+06M128,6,10,Elementary,0,0,0,0,0
+06M132,6,10,Elementary,0,0,0,0,0
+06M143,6,10,Junior High-Intermediate-Middle,0,0,0,0,0
+06M152,6,10,Elementary,0,0,0,0,0
+06M153,6,7,Elementary,0,0,0,0,0
+06M173,6,10,Elementary,0,0,0,0,0
+06M178,6,10,Early Childhood,0,0,0,0,0
+06M187,6,10,K-8,0,0,0,0,0
+06M189,6,10,Elementary,0,0,0,0,0
+06M192,6,7,Elementary,0,0,0,0,0
+06M209,6,7,Junior High-Intermediate-Middle,0,0,0,0,0
+06M210,6,7,K-8,1,0,0,0,1
+06M211,6,10,High School,0,0,0,0,0
+06M218,6,10,Junior High-Intermediate-Middle,0,0,0,0,0
+06M223,6,9,Junior High-Intermediate-Middle,0,0,0,0,0
+06M278,6,10,K-8,0,0,0,0,0
+06M293,6,10,Secondary School,0,0,0,0,0
+06M311,6,10,K-8,0,0,0,0,0
+06M314,6,10,Elementary,0,0,0,0,0
+06M319,6,10,Junior High-Intermediate-Middle,1,0,0,0,1
+06M322,6,10,Junior High-Intermediate-Middle,0,0,0,0,0
+06M324,6,10,Junior High-Intermediate-Middle,0,0,0,0,0
+06M325,6,7,Elementary,0,0,0,0,0
+06M326,6,10,Junior High-Intermediate-Middle,0,0,0,0,0
+06M328,6,10,Junior High-Intermediate-Middle,1,0,0,0,1
+06M346,6,7,Secondary School,0,0,0,0,0
+06M348,6,10,Secondary School,0,0,0,0,0
+06M349,6,10,Junior High-Intermediate-Middle,0,0,0,0,0
+06M366,6,10,Elementary,0,0,0,0,0
+06M368,6,7,Elementary,0,0,0,0,0
+06M423,6,10,High School,0,0,0,0,0
+06M462,6,10,High School,0,0,0,0,0
+06M463,6,10,High School,0,0,0,0,0
+06M467,6,10,High School,0,0,0,0,0
+06M468,6,10,High School,1,0,0,0,1
+06M513,6,10,Elementary,0,0,0,0,0
+06M528,6,10,Junior High-Intermediate-Middle,0,0,0,0,0
+06M540,6,9,High School,0,0,0,0,0
+06M552,6,10,High School,0,0,0,0,0
+07X001,7,17,Elementary,0,0,0,0,0
+07X005,7,8,Elementary,0,0,0,0,0
+07X018,7,8,Elementary,0,0,0,0,0
+07X025,7,8,Elementary,0,0,0,0,0
+07X029,7,17,K-8,0,0,0,0,0
+07X030,7,8,Elementary,0,0,0,0,0
+07X031,7,17,K-8,0,0,0,0,0
+07X043,7,8,Elementary,0,0,0,0,0
+07X049,7,8,Elementary,0,0,0,0,0
+07X065,7,8,Elementary,0,0,0,0,0
+07X151,7,17,Junior High-Intermediate-Middle,0,0,0,0,0
+07X154,7,8,Elementary,0,0,0,0,0
+07X157,7,17,Elementary,0,0,0,0,0
+07X161,7,8,Elementary,0,0,0,0,0
+07X162,7,17,Junior High-Intermediate-Middle,0,0,0,0,0
+07X179,7,8,Elementary,0,0,0,0,0
+07X221,7,8,Secondary School,0,0,0,0,0
+07X223,7,8,Junior High-Intermediate-Middle,0,0,0,0,0
+07X224,7,8,Junior High-Intermediate-Middle,0,0,0,0,0
+07X259,7,8,High School,0,0,0,0,0
+07X277,7,8,Elementary,0,0,0,0,0
+07X296,7,17,Junior High-Intermediate-Middle,0,0,0,0,0
+07X298,7,17,Junior High-Intermediate-Middle,0,0,0,0,0
+07X321,7,17,High School,0,0,0,0,0
+07X334,7,8,High School,0,0,0,0,0
+07X343,7,8,Junior High-Intermediate-Middle,0,0,0,0,0
+07X359,7,17,Elementary,0,0,0,0,0
+07X369,7,8,Elementary,0,0,0,0,0
+07X379,7,17,High School,0,0,0,0,0
+07X381,7,17,High School,0,0,0,0,0
+07X385,7,17,Elementary,0,0,0,0,0
+07X427,7,8,High School,0,0,0,0,0
+07X473,7,17,High School,0,0,0,0,0
+07X495,7,17,High School,0,0,0,0,0
+07X500,7,17,Secondary School,1,0,0,0,1
+07X520,7,8,High School,0,0,0,0,0
+07X522,7,17,High School,0,0,0,0,0
+07X527,7,17,High School,0,0,0,0,0
+07X547,7,17,High School,0,0,0,0,0
+07X548,7,17,High School,0,0,0,0,0
+07X551,7,8,Secondary School,0,0,0,0,0
+07X557,7,8,High School,0,0,0,0,0
+07X600,7,17,High School,0,0,0,0,0
+07X670,7,8,High School,1,0,0,0,1
+08X014,8,13,Elementary,0,0,0,0,0
+08X036,8,18,Elementary,0,0,0,0,0
+08X048,8,17,Elementary,0,0,0,0,0
+08X062,8,8,Elementary,0,0,0,0,0
+08X069,8,18,Elementary,0,0,0,0,0
+08X071,8,13,K-8,0,0,0,0,0
+08X072,8,13,Elementary,0,0,0,0,0
+08X075,8,17,Elementary,0,0,0,0,0
+08X093,8,17,Elementary,0,0,0,0,0
+08X100,8,18,Elementary,0,0,0,0,0
+08X101,8,13,Junior High-Intermediate-Middle,0,0,0,0,0
+08X107,8,18,Elementary,0,0,0,0,0
+08X119,8,18,Elementary,0,0,0,0,0
+08X123,8,18,Junior High-Intermediate-Middle,0,0,0,0,0
+08X125,8,18,Junior High-Intermediate-Middle,0,0,0,0,0
+08X130,8,17,Elementary,0,0,0,0,0
+08X131,8,18,Junior High-Intermediate-Middle,0,0,0,0,0
+08X138,8,18,Elementary,0,0,0,0,0
+08X140,8,17,Elementary,0,0,0,0,0
+08X146,8,16,Elementary,0,0,0,0,0
+08X152,8,17,Elementary,0,0,0,0,0
+08X182,8,18,Elementary,0,0,0,0,0
+08X269,8,17,Junior High-Intermediate-Middle,0,0,0,0,0
+08X282,8,18,High School,0,0,0,0,0
+08X293,8,13,High School,1,0,0,0,1
+08X301,8,16,Junior High-Intermediate-Middle,0,0,0,0,0
+08X302,8,17,Junior High-Intermediate-Middle,0,0,0,0,0
+08X304,8,13,Elementary,0,0,0,0,0
+08X305,8,18,High School,0,0,0,0,0
+08X312,8,18,High School,1,0,0,0,1
+08X320,8,13,High School,0,0,0,0,0
+08X332,8,17,High School,0,0,0,0,0
+08X333,8,17,Elementary,0,0,0,0,0
+08X335,8,17,Elementary,0,0,0,0,0
+08X337,8,18,Junior High-Intermediate-Middle,0,0,0,0,0
+08X348,8,13,High School,0,0,0,0,0
+08X349,8,13,High School,0,0,0,0,0
+08X366,8,13,Junior High-Intermediate-Middle,0,0,0,0,0
+08X367,8,18,Junior High-Intermediate-Middle,1,0,0,0,1
+08X371,8,13,Junior High-Intermediate-Middle,0,0,0,0,0
+08X375,8,18,Junior High-Intermediate-Middle,0,0,0,0,0
+08X376,8,18,Junior High-Intermediate-Middle,0,0,0,0,0
+08X377,8,18,High School,0,0,0,0,0
+08X392,8,13,Elementary,0,0,0,0,0
+08X405,8,13,High School,1,0,0,0,1
+08X424,8,17,Junior High-Intermediate-Middle,0,0,0,0,0
+08X432,8,18,High School,0,0,0,0,0
+08X448,8,18,Junior High-Intermediate-Middle,0,0,0,0,0
+08X452,8,18,High School,0,0,0,0,0
+08X467,8,13,Junior High-Intermediate-Middle,0,0,0,0,0
+08X519,8,17,High School,0,0,0,0,0
+08X530,8,17,High School,0,0,0,0,0
+08X537,8,17,High School,0,0,0,0,0
+08X558,8,13,High School,1,0,0,0,1
+08X559,8,17,High School,0,0,0,0,0
+08X561,8,18,High School,0,0,0,0,0
+08X562,8,18,Junior High-Intermediate-Middle,0,0,0,0,0
+09X004,9,15,K-8,1,0,0,0,1
+09X011,9,16,Elementary,0,0,0,0,0
+09X022,9,16,Junior High-Intermediate-Middle,0,0,0,0,0
+09X028,9,15,Elementary,0,0,0,0,0
+09X035,9,16,Elementary,0,0,0,0,0
+09X042,9,16,Elementary,0,0,0,0,0
+09X053,9,16,Elementary,0,0,0,0,0
+09X055,9,16,Elementary,0,0,0,0,0
+09X058,9,15,Elementary,0,0,0,0,0
+09X063,9,16,Elementary,0,0,0,0,0
+09X064,9,16,Elementary,0,0,0,0,0
+09X070,9,15,Elementary,0,0,0,0,0
+09X073,9,8,Elementary,0,0,0,0,0
+09X088,9,16,Elementary,0,0,0,0,0
+09X109,9,14,Elementary,0,0,0,0,0
+09X110,9,16,Elementary,0,0,0,0,0
+09X114,9,16,Elementary,1,0,0,0,1
+09X117,9,14,Junior High-Intermediate-Middle,1,0,0,0,1
+09X126,9,16,Elementary,0,0,0,0,0
+09X128,9,16,Junior High-Intermediate-Middle,0,0,0,0,0
+09X132,9,16,Elementary,0,0,0,0,0
+09X145,9,16,Junior High-Intermediate-Middle,0,0,0,0,0
+09X163,9,15,Elementary,0,0,0,0,0
+09X170,9,14,Early Childhood,0,0,0,0,0
+09X199,9,16,Elementary,0,0,0,0,0
+09X204,9,14,Elementary,0,0,0,0,0
+09X215,9,16,Junior High-Intermediate-Middle,0,0,0,0,0
+09X218,9,16,K-8,0,0,0,0,0
+09X219,9,16,Junior High-Intermediate-Middle,0,0,0,0,0
+09X227,9,16,High School,0,0,0,0,0
+09X229,9,16,Junior High-Intermediate-Middle,0,0,0,0,0
+09X230,9,16,Elementary,0,0,0,0,0
+09X231,9,15,Secondary School,0,0,0,0,0
+09X232,9,14,Junior High-Intermediate-Middle,0,0,0,0,0
+09X236,9,14,Elementary,0,0,0,0,0
+09X241,9,16,Secondary School,0,0,0,0,0
+09X250,9,16,High School,0,0,0,0,0
+09X252,9,16,High School,0,0,0,0,0
+09X260,9,16,High School,0,0,0,0,0
+09X263,9,16,High School,1,0,0,0,1
+09X274,9,16,Elementary,0,0,0,0,0
+09X276,9,15,High School,0,0,0,0,0
+09X294,9,16,Elementary,0,0,0,0,0
+09X297,9,16,High School,0,0,0,0,0
+09X303,9,14,Junior High-Intermediate-Middle,0,0,0,0,0
+09X311,9,16,Elementary,0,0,0,0,0
+09X313,9,16,Junior High-Intermediate-Middle,0,0,0,0,0
+09X323,9,16,Junior High-Intermediate-Middle,1,0,0,0,1
+09X324,9,16,Junior High-Intermediate-Middle,0,0,0,0,0
+09X325,9,16,Junior High-Intermediate-Middle,0,0,0,0,0
+09X327,9,14,Junior High-Intermediate-Middle,0,0,0,0,0
+09X328,9,16,Junior High-Intermediate-Middle,0,0,0,0,0
+09X329,9,16,High School,0,0,0,0,0
+09X339,9,16,Junior High-Intermediate-Middle,0,0,0,0,0
+09X350,9,16,Secondary School,0,0,0,0,0
+09X361,9,16,Junior High-Intermediate-Middle,0,0,0,0,0
+09X365,9,14,High School,0,0,0,0,0
+09X403,9,16,High School,0,0,0,0,0
+09X404,9,16,High School,0,0,0,0,0
+09X412,9,16,High School,0,0,0,0,0
+09X413,9,16,Secondary School,0,0,0,0,0
+09X414,9,16,High School,1,0,0,0,1
+09X443,9,16,Elementary,0,0,0,0,0
+09X449,9,16,Early Childhood,0,0,0,0,0
+09X454,9,16,Junior High-Intermediate-Middle,0,0,0,0,0
+09X457,9,16,Early Childhood,0,0,0,0,0
+09X505,9,16,Secondary School,1,0,0,0,1
+09X517,9,16,High School,2,0,0,0,2
+09X525,9,15,High School,0,0,0,0,0
+09X543,9,16,High School,0,0,0,0,0
+09X555,9,14,Elementary,0,0,0,0,0
+09X564,9,16,High School,0,0,0,0,0
+09X568,9,14,Junior High-Intermediate-Middle,0,0,0,0,0
+10X003,10,15,K-8,0,0,0,0,0
+10X007,10,11,Elementary,0,0,0,0,0
+10X008,10,11,Elementary,0,0,0,0,0
+10X009,10,15,Elementary,0,0,0,0,0
+10X015,10,14,K-8,0,0,0,0,0
+10X020,10,11,K-8,0,0,0,0,0
+10X023,10,15,Early Childhood,0,0,0,0,0
+10X024,10,11,Elementary,0,0,0,0,0
+10X032,10,15,Elementary,0,0,0,0,0
+10X033,10,14,Elementary,0,0,0,0,0
+10X037,10,11,K-8,0,0,0,0,0
+10X045,10,15,Junior High-Intermediate-Middle,0,0,0,0,0
+10X046,10,15,Elementary,0,0,0,0,0
+10X051,10,15,Elementary,0,0,0,0,0
+10X054,10,15,Elementary,0,0,0,0,0
+10X056,10,11,Elementary,0,0,0,0,0
+10X059,10,15,Elementary,0,0,0,0,0
+10X077,10,11,Elementary,0,0,0,0,0
+10X080,10,11,Junior High-Intermediate-Middle,0,0,0,0,0
+10X081,10,11,Elementary,0,0,0,0,0
+10X085,10,15,Elementary,0,0,0,0,0
+10X086,10,11,Elementary,0,0,0,0,0
+10X091,10,14,Elementary,0,0,0,0,0
+10X094,10,11,Elementary,0,0,0,0,0
+10X095,10,11,K-8,0,0,0,0,0
+10X118,10,15,Junior High-Intermediate-Middle,0,0,0,0,0
+10X141,10,11,Secondary School,0,0,0,0,0
+10X159,10,15,Elementary,0,0,0,0,0
+10X205,10,15,Elementary,0,0,0,0,0
+10X206,10,14,Junior High-Intermediate-Middle,0,0,0,0,0
+10X207,10,11,Elementary,0,0,0,0,0
+10X209,10,15,Early Childhood,0,0,0,0,0
+10X213,10,11,High School,0,0,0,0,0
+10X225,10,15,Secondary School,1,0,0,0,1
+10X226,10,14,Elementary,0,0,0,0,0
+10X228,10,15,Junior High-Intermediate-Middle,0,0,0,0,0
+10X237,10,14,High School,1,0,0,0,1
+10X243,10,15,Secondary School,0,0,0,0,0
+10X244,10,14,Junior High-Intermediate-Middle,0,0,0,0,0
+10X246,10,14,Elementary,0,0,0,0,0
+10X254,10,15,Junior High-Intermediate-Middle,0,0,0,0,0
+10X264,10,15,High School,0,0,0,0,0
+10X268,10,11,High School,0,0,0,0,0
+10X279,10,14,K-8,0,0,0,0,0
+10X280,10,11,K-8,0,0,0,0,0
+10X284,10,11,High School,0,0,0,0,0
+10X291,10,14,Elementary,0,0,0,0,0
+10X306,10,14,Elementary,0,0,0,0,0
+10X307,10,14,Elementary,0,0,0,0,0
+10X308,10,11,Junior High-Intermediate-Middle,0,0,0,0,0
+10X310,10,14,Elementary,0,0,0,0,0
+10X315,10,14,K-8,0,0,0,0,0
+10X319,10,15,High School,0,0,0,0,0
+10X331,10,14,Junior High-Intermediate-Middle,0,0,0,0,0
+10X340,10,11,Elementary,0,0,0,0,0
+10X342,10,11,Secondary School,0,0,0,0,0
+10X344,10,11,Elementary,0,0,0,0,0
+10X351,10,11,High School,0,0,0,0,0
+10X353,10,11,High School,0,0,0,0,0
+10X360,10,14,Elementary,0,0,0,0,0
+10X363,10,14,Junior High-Intermediate-Middle,0,0,0,0,0
+10X368,10,11,Secondary School,0,0,0,0,0
+10X374,10,15,High School,1,0,0,0,1
+10X382,10,14,Elementary,0,0,0,0,0
+10X386,10,14,Elementary,0,0,0,0,0
+10X390,10,14,Junior High-Intermediate-Middle,0,0,0,0,0
+10X391,10,15,Junior High-Intermediate-Middle,0,0,0,0,0
+10X396,10,14,Elementary,0,0,0,0,0
+10X397,10,11,High School,0,0,0,0,0
+10X433,10,11,High School,0,0,0,0,0
+10X434,10,15,High School,0,0,0,0,0
+10X437,10,15,High School,0,0,0,0,0
+10X438,10,15,High School,0,0,0,0,0
+10X439,10,15,High School,1,0,0,0,1
+10X440,10,11,High School,2,0,0,0,2
+10X442,10,11,High School,0,0,0,0,0
+10X445,10,11,High School,0,0,0,0,0
+10X447,10,14,Junior High-Intermediate-Middle,0,0,0,0,0
+10X459,10,14,Junior High-Intermediate-Middle,0,0,0,0,0
+10X477,10,11,High School,0,0,0,0,0
+10X524,10,15,High School,0,0,0,0,0
+10X546,10,11,High School,0,0,0,0,0
+10X549,10,11,High School,0,0,0,0,0
+10X565,10,15,High School,0,0,0,0,0
+10X696,10,11,High School,0,0,0,0,0
+11X016,11,11,Elementary,0,0,0,0,0
+11X019,11,11,K-8,0,0,0,0,0
+11X021,11,12,Elementary,0,0,0,0,0
+11X041,11,12,Elementary,0,0,0,0,0
+11X068,11,12,Elementary,0,0,0,0,0
+11X076,11,12,Elementary,0,0,0,0,0
+11X078,11,12,Elementary,0,0,0,0,0
+11X083,11,13,K-8,0,0,0,0,0
+11X087,11,12,Elementary,0,0,0,0,0
+11X089,11,13,K-8,0,0,0,0,0
+11X096,11,15,Elementary,0,0,0,0,0
+11X097,11,13,Elementary,0,0,0,0,0
+11X103,11,12,Elementary,0,0,0,0,0
+11X105,11,13,Elementary,0,0,0,0,0
+11X106,11,18,Elementary,0,0,0,0,0
+11X108,11,13,Elementary,0,0,0,0,0
+11X111,11,12,Elementary,0,0,0,0,0
+11X112,11,12,Elementary,0,0,0,0,0
+11X121,11,13,Elementary,0,0,0,0,0
+11X127,11,18,Junior High-Intermediate-Middle,0,0,0,0,0
+11X144,11,13,Junior High-Intermediate-Middle,0,0,0,0,0
+11X153,11,12,Elementary,0,0,0,0,0
+11X160,11,12,Elementary,0,0,0,0,0
+11X169,11,12,Early Childhood,1,0,0,0,1
+11X175,11,13,K-8,0,0,0,0,0
+11X178,11,12,Elementary,0,0,0,0,0
+11X180,11,12,Junior High-Intermediate-Middle,0,0,0,0,0
+11X181,11,12,Junior High-Intermediate-Middle,0,0,0,0,0
+11X189,11,12,Elementary,0,0,0,0,0
+11X194,11,18,K-8,0,0,0,0,0
+11X249,11,12,High School,0,0,0,0,0
+11X253,11,12,High School,0,0,0,0,0
+11X265,11,12,High School,1,0,0,0,1
+11X270,11,12,High School,0,0,0,0,0
+11X272,11,12,Junior High-Intermediate-Middle,0,0,0,0,0
+11X275,11,12,High School,0,0,0,0,0
+11X287,11,12,Junior High-Intermediate-Middle,0,0,0,0,0
+11X288,11,13,High School,0,0,0,0,0
+11X289,11,12,Junior High-Intermediate-Middle,0,0,0,0,0
+11X290,11,12,High School,1,0,0,0,1
+11X299,11,13,High School,0,0,0,0,0
+11X326,11,13,Junior High-Intermediate-Middle,0,0,0,0,0
+11X355,11,12,Junior High-Intermediate-Middle,0,0,0,0,0
+11X357,11,13,Elementary,0,0,0,0,0
+11X370,11,12,Junior High-Intermediate-Middle,0,0,0,0,0
+11X418,11,13,High School,0,0,0,0,0
+11X455,11,12,High School,1,0,0,0,1
+11X462,11,12,Junior High-Intermediate-Middle,1,0,0,0,1
+11X468,11,13,Junior High-Intermediate-Middle,0,0,0,0,0
+11X481,11,13,Elementary,0,0,0,0,0
+11X483,11,11,Elementary,0,0,0,0,0
+11X498,11,13,K-8,0,0,0,0,0
+11X508,11,13,High School,0,0,0,0,0
+11X509,11,13,High School,0,0,0,0,0
+11X513,11,12,High School,0,0,0,0,0
+11X514,11,12,High School,0,0,0,0,0
+11X529,11,12,Junior High-Intermediate-Middle,0,0,0,0,0
+11X532,11,12,Junior High-Intermediate-Middle,0,0,0,0,0
+11X542,11,13,High School,0,0,0,0,0
+11X544,11,12,High School,0,0,0,0,0
+11X545,11,12,High School,1,0,0,0,1
+11X556,11,13,Junior High-Intermediate-Middle,0,0,0,0,0
+11X566,11,13,Junior High-Intermediate-Middle,0,0,0,0,0
+11X567,11,18,Elementary,0,0,0,0,0
+12X006,12,17,Elementary,0,0,0,0,0
+12X044,12,17,Elementary,0,0,0,0,0
+12X047,12,18,Elementary,0,0,0,0,0
+12X050,12,17,Elementary,0,0,0,0,0
+12X057,12,15,Elementary,0,0,0,0,0
+12X061,12,17,Elementary,0,0,0,0,0
+12X066,12,17,Elementary,0,0,0,0,0
+12X067,12,17,Elementary,0,0,0,0,0
+12X092,12,17,Elementary,0,0,0,0,0
+12X098,12,17,Junior High-Intermediate-Middle,0,0,0,0,0
+12X129,12,15,Junior High-Intermediate-Middle,1,0,0,0,1
+12X134,12,17,Elementary,0,0,0,0,0
+12X150,12,17,Elementary,0,0,0,0,0
+12X190,12,17,Junior High-Intermediate-Middle,0,0,0,0,0
+12X195,12,18,Elementary,0,0,0,0,0
+12X196,12,18,Elementary,0,0,0,0,0
+12X211,12,17,K-8,0,0,0,0,0
+12X212,12,17,K-8,0,0,0,0,0
+12X214,12,17,K-8,0,0,0,0,0
+12X217,12,17,Junior High-Intermediate-Middle,0,0,0,0,0
+12X242,12,18,Secondary School,0,0,0,0,0
+12X248,12,17,High School,0,0,0,0,0
+12X251,12,17,High School,0,0,0,0,0
+12X267,12,16,Secondary School,0,0,0,0,0
+12X271,12,17,Secondary School,1,0,0,0,1
+12X273,12,15,Junior High-Intermediate-Middle,0,0,0,0,0
+12X278,12,17,High School,0,0,0,0,0
+12X286,12,17,Junior High-Intermediate-Middle,0,0,0,0,0
+12X300,12,15,Elementary,0,0,0,0,0
+12X314,12,17,Elementary,0,0,0,0,0
+12X316,12,15,Junior High-Intermediate-Middle,0,0,0,0,0
+12X318,12,17,Junior High-Intermediate-Middle,0,0,0,0,0
+12X341,12,17,Junior High-Intermediate-Middle,0,0,0,0,0
+12X372,12,17,Secondary School,0,0,0,0,0
+12X383,12,17,Junior High-Intermediate-Middle,0,0,0,0,0
+12X384,12,17,Junior High-Intermediate-Middle,0,0,0,0,0
+12X388,12,18,High School,0,0,0,0,0
+12X446,12,17,High School,0,0,0,0,0
+12X458,12,17,Elementary,0,0,0,0,0
+12X463,12,17,Early Childhood,0,0,0,0,0
+12X478,12,18,High School,0,0,0,0,0
+12X479,12,16,High School,0,0,0,0,0
+12X480,12,17,High School,0,0,0,0,0
+12X511,12,17,High School,0,0,0,0,0
+12X521,12,18,High School,0,0,0,0,0
+12X531,12,18,Elementary,0,0,0,0,0
+12X536,12,18,Elementary,0,0,0,0,0
+12X550,12,18,High School,0,0,0,0,0
+12X682,12,17,High School,0,0,0,0,0
+12X684,12,15,High School,0,0,0,0,0
+12X691,12,18,Elementary,0,0,0,0,0
+12X692,12,18,High School,0,0,0,0,0
+13K003,13,36,Elementary,0,0,0,0,0
+13K008,13,33,Elementary,0,0,0,0,0
+13K009,13,35,Elementary,0,0,0,0,0
+13K011,13,35,Elementary,0,0,0,0,0
+13K020,13,35,Elementary,0,0,0,0,0
+13K044,13,36,Elementary,0,0,0,0,0
+13K046,13,35,Elementary,0,0,0,0,0
+13K054,13,33,Elementary,0,0,0,0,0
+13K056,13,35,Elementary,0,0,0,0,0
+13K067,13,35,Elementary,0,0,0,0,0
+13K093,13,36,Elementary,0,0,0,0,0
+13K113,13,35,Junior High-Intermediate-Middle,0,0,0,0,0
+13K133,13,39,Elementary,0,0,0,0,0
+13K256,13,36,Elementary,0,0,0,0,0
+13K265,13,35,Secondary School,0,0,0,0,0
+13K266,13,39,Junior High-Intermediate-Middle,0,0,0,0,0
+13K270,13,35,Elementary,0,0,0,0,0
+13K282,13,39,K-8,0,0,0,0,0
+13K287,13,35,Elementary,0,0,0,0,0
+13K301,13,36,Junior High-Intermediate-Middle,0,0,0,0,0
+13K305,13,36,Elementary,0,0,0,0,0
+13K307,13,33,Elementary,0,0,0,0,0
+13K313,13,33,Junior High-Intermediate-Middle,0,0,0,0,0
+13K350,13,33,High School,0,0,0,0,0
+13K351,13,35,Junior High-Intermediate-Middle,0,0,0,0,0
+13K412,13,33,High School,0,0,0,0,0
+13K419,13,33,High School,0,0,0,0,0
+13K430,13,35,High School,3,0,0,0,3
+13K439,13,33,High School,0,0,0,0,0
+13K483,13,33,High School,0,0,0,0,0
+13K492,13,35,Junior High-Intermediate-Middle,0,0,0,0,0
+13K499,13,35,High School,0,0,0,0,0
+13K527,13,33,Junior High-Intermediate-Middle,0,0,0,0,0
+13K553,13,36,High School,0,0,0,0,0
+13K575,13,36,High School,0,0,0,0,0
+13K595,13,36,High School,0,0,0,0,0
+13K596,13,33,Junior High-Intermediate-Middle,0,0,0,0,0
+13K605,13,33,High School,0,0,0,0,0
+13K616,13,33,High School,0,0,0,0,0
+13K670,13,35,High School,1,0,0,0,1
+13K674,13,33,High School,0,0,0,0,0
+13K691,13,35,Junior High-Intermediate-Middle,0,0,0,0,0
+14K016,14,33,Elementary,0,0,0,0,0
+14K017,14,34,Elementary,0,0,0,0,0
+14K018,14,34,Elementary,0,0,0,0,0
+14K023,14,36,Elementary,0,0,0,0,0
+14K031,14,33,Elementary,0,0,0,0,0
+14K034,14,33,Elementary,0,0,0,0,0
+14K050,14,34,Junior High-Intermediate-Middle,0,0,0,0,0
+14K059,14,36,Elementary,0,0,0,0,0
+14K071,14,33,Secondary School,0,0,0,0,0
+14K084,14,34,Elementary,0,0,0,0,0
+14K110,14,33,Elementary,0,0,0,0,0
+14K120,14,34,Elementary,0,0,0,0,0
+14K126,14,33,Junior High-Intermediate-Middle,0,0,0,0,0
+14K132,14,34,Elementary,0,0,0,0,0
+14K147,14,34,Elementary,0,0,0,0,0
+14K157,14,33,K-8,0,0,0,0,0
+14K196,14,34,Elementary,0,0,0,0,0
+14K250,14,34,Elementary,0,0,0,0,0
+14K257,14,34,Elementary,0,0,0,0,0
+14K297,14,36,Elementary,0,0,0,0,0
+14K318,14,33,Junior High-Intermediate-Middle,0,0,0,0,0
+14K319,14,34,Early Childhood,0,0,0,0,0
+14K322,14,36,High School,0,0,0,0,0
+14K330,14,36,Junior High-Intermediate-Middle,0,0,0,0,0
+14K380,14,33,Elementary,0,0,0,0,0
+14K414,14,34,Elementary,0,0,0,0,0
+14K449,14,34,High School,0,0,0,0,0
+14K454,14,34,High School,0,0,0,0,0
+14K474,14,34,High School,0,0,0,0,0
+14K477,14,34,High School,0,0,0,0,0
+14K478,14,34,High School,1,0,0,0,1
+14K488,14,33,High School,0,0,0,0,0
+14K558,14,33,High School,0,0,0,0,0
+14K561,14,33,High School,0,0,0,0,0
+14K577,14,34,Junior High-Intermediate-Middle,0,0,0,0,0
+14K582,14,34,Junior High-Intermediate-Middle,0,0,0,0,0
+14K586,14,34,Secondary School,0,0,0,0,0
+14K610,14,33,High School,0,0,0,0,0
+14K614,14,34,Secondary School,0,0,0,0,0
+14K632,14,33,High School,0,0,0,0,0
+14K685,14,33,High School,0,0,0,0,0
+15K001,15,38,Elementary,0,0,0,0,0
+15K010,15,38,Elementary,0,0,0,0,0
+15K015,15,38,Elementary,0,0,0,0,0
+15K024,15,38,Elementary,0,0,0,0,0
+15K029,15,39,Elementary,0,0,0,0,0
+15K032,15,39,Elementary,0,0,0,0,0
+15K038,15,33,Elementary,0,0,0,0,0
+15K039,15,39,Elementary,0,0,0,0,0
+15K051,15,39,Junior High-Intermediate-Middle,0,0,0,0,0
+15K058,15,39,Elementary,0,0,0,0,0
+15K088,15,38,Junior High-Intermediate-Middle,0,0,0,0,0
+15K094,15,38,Elementary,0,0,0,0,0
+15K107,15,39,Elementary,0,0,0,0,0
+15K118,15,39,Elementary,0,0,0,0,0
+15K124,15,39,Elementary,0,0,0,0,0
+15K130,15,39,Elementary,0,0,0,0,0
+15K131,15,39,Elementary,0,0,0,0,0
+15K136,15,38,Junior High-Intermediate-Middle,0,0,0,0,0
+15K146,15,39,Elementary,0,0,0,0,0
+15K154,15,39,Elementary,0,0,0,0,0
+15K169,15,38,Elementary,0,0,0,0,0
+15K172,15,38,Elementary,0,0,0,0,0
+15K230,15,39,Elementary,0,0,0,0,0
+15K261,15,33,Elementary,0,0,0,0,0
+15K295,15,38,Elementary,0,0,0,0,0
+15K321,15,39,Elementary,0,0,0,0,0
+15K423,15,33,High School,0,0,0,0,0
+15K429,15,33,Secondary School,0,0,0,0,0
+15K442,15,39,Junior High-Intermediate-Middle,0,0,0,0,0
+15K443,15,38,Junior High-Intermediate-Middle,0,0,0,0,0
+15K447,15,33,Junior High-Intermediate-Middle,0,0,0,0,0
+15K448,15,39,Secondary School,0,0,0,0,0
+15K462,15,39,High School,0,0,0,0,0
+15K463,15,39,Secondary School,0,0,0,0,0
+15K464,15,39,Secondary School,0,0,0,0,0
+15K497,15,33,Secondary School,0,0,0,0,0
+15K516,15,38,Elementary,0,0,0,0,0
+15K519,15,33,High School,0,0,0,0,0
+15K529,15,39,High School,0,0,0,0,0
+15K592,15,33,High School,0,0,0,0,0
+15K656,15,33,High School,0,0,0,0,0
+15K667,15,38,High School,1,0,0,0,1
+15K676,15,38,Elementary,0,0,0,0,0
+15K684,15,39,High School,0,0,0,0,0
+15K698,15,38,High School,0,0,0,0,0
+15K821,15,38,Junior High-Intermediate-Middle,0,0,0,0,0
+15K839,15,39,K-8,0,0,0,0,0
+16K005,16,41,Elementary,0,0,0,0,0
+16K021,16,36,Elementary,0,0,0,0,0
+16K025,16,36,Elementary,0,0,0,0,0
+16K026,16,36,Elementary,0,0,0,0,0
+16K028,16,41,Elementary,0,0,0,0,0
+16K035,16,36,Junior High-Intermediate-Middle,0,0,0,0,0
+16K040,16,41,Elementary,0,0,0,0,0
+16K057,16,36,Junior High-Intermediate-Middle,0,0,0,0,0
+16K081,16,36,Elementary,0,0,0,0,0
+16K243,16,36,Elementary,0,0,0,0,0
+16K262,16,36,Elementary,0,0,0,0,0
+16K267,16,36,Junior High-Intermediate-Middle,0,0,0,0,0
+16K308,16,36,K-8,0,0,0,0,0
+16K309,16,41,Elementary,0,0,0,0,0
+16K335,16,36,Elementary,0,0,0,0,0
+16K385,16,36,Junior High-Intermediate-Middle,0,0,0,0,0
+16K393,16,36,High School,0,0,0,0,0
+16K455,16,36,High School,0,0,0,0,0
+16K498,16,41,High School,0,0,0,0,0
+16K534,16,36,Junior High-Intermediate-Middle,0,0,0,0,0
+16K584,16,36,Junior High-Intermediate-Middle,0,0,0,0,0
+16K594,16,41,High School,0,0,0,0,0
+16K627,16,36,Elementary,0,0,0,0,0
+16K628,16,36,Early Childhood,0,0,0,0,0
+16K636,16,36,Elementary,0,0,0,0,0
+16K669,16,36,High School,0,0,0,0,0
+16K681,16,36,Junior High-Intermediate-Middle,0,0,0,0,0
+16K688,16,36,High School,0,0,0,0,0
+16K765,16,36,High School,0,0,0,0,0
+17K002,17,40,Junior High-Intermediate-Middle,0,0,0,0,0
+17K006,17,40,Elementary,0,0,0,0,0
+17K012,17,41,Elementary,0,0,0,0,0
+17K061,17,40,Junior High-Intermediate-Middle,2,0,0,0,2
+17K091,17,41,Elementary,0,0,0,0,0
+17K092,17,40,Elementary,0,0,0,0,0
+17K122,17,36,High School,0,0,0,0,0
+17K138,17,36,K-8,0,0,0,0,0
+17K161,17,35,K-8,0,0,0,0,0
+17K167,17,35,Elementary,0,0,0,0,0
+17K181,17,45,K-8,0,0,0,0,0
+17K189,17,41,K-8,0,0,0,0,0
+17K191,17,41,Elementary,0,0,0,0,0
+17K221,17,35,Elementary,0,0,0,0,0
+17K241,17,35,Elementary,0,0,0,0,0
+17K246,17,40,Junior High-Intermediate-Middle,0,0,0,0,0
+17K249,17,40,Elementary,0,0,0,0,0
+17K289,17,36,Elementary,0,0,0,0,0
+17K316,17,35,Elementary,0,0,0,0,0
+17K334,17,36,Junior High-Intermediate-Middle,0,0,0,0,0
+17K340,17,35,Junior High-Intermediate-Middle,0,0,0,0,0
+17K352,17,35,Junior High-Intermediate-Middle,0,0,0,0,0
+17K353,17,35,Junior High-Intermediate-Middle,0,0,0,0,0
+17K354,17,36,Junior High-Intermediate-Middle,0,0,0,0,0
+17K375,17,35,Elementary,0,0,0,0,0
+17K382,17,40,Secondary School,0,0,0,0,0
+17K394,17,36,K-8,0,0,0,0,0
+17K397,17,40,Elementary,0,0,0,0,0
+17K398,17,41,Elementary,0,0,0,0,0
+17K399,17,40,Elementary,0,0,0,0,0
+17K408,17,40,High School,0,0,0,0,0
+17K484,17,41,Junior High-Intermediate-Middle,0,0,0,0,0
+17K489,17,35,High School,0,0,0,0,0
+17K524,17,35,High School,0,0,0,0,0
+17K528,17,35,High School,0,0,0,0,0
+17K531,17,40,Secondary School,0,0,0,0,0
+17K532,17,35,Elementary,0,0,0,0,0
+17K533,17,40,Secondary School,0,0,0,0,0
+17K537,17,40,High School,0,0,0,0,0
+17K539,17,40,High School,0,0,0,0,0
+17K543,17,40,Secondary School,0,0,0,0,0
+17K546,17,40,High School,0,0,0,0,0
+17K547,17,35,High School,0,0,0,0,0
+17K548,17,35,High School,0,0,0,0,0
+17K568,17,41,High School,0,0,0,0,0
+17K590,17,35,Secondary School,0,0,0,0,0
+17K600,17,35,High School,1,0,0,0,1
+17K705,17,35,Elementary,0,0,0,0,0
+17K722,17,41,Junior High-Intermediate-Middle,0,0,0,0,0
+17K745,17,40,High School,0,0,0,0,0
+17K751,17,36,High School,0,0,0,0,0
+17K770,17,41,Elementary,0,0,0,0,0
+18K066,18,42,K-8,0,0,0,0,0
+18K068,18,46,Junior High-Intermediate-Middle,1,0,0,0,1
+18K114,18,46,Elementary,0,0,0,0,0
+18K115,18,46,Elementary,0,0,0,0,0
+18K135,18,41,Elementary,0,0,0,0,0
+18K208,18,45,Elementary,0,0,0,0,0
+18K211,18,46,Junior High-Intermediate-Middle,0,0,0,0,0
+18K219,18,41,Elementary,0,0,0,0,0
+18K233,18,42,Elementary,0,0,0,0,0
+18K235,18,41,K-8,0,0,0,0,0
+18K244,18,45,Elementary,0,0,0,0,0
+18K268,18,41,Elementary,0,0,0,0,0
+18K272,18,46,Elementary,0,0,0,0,0
+18K276,18,46,Elementary,0,0,0,0,0
+18K279,18,46,Elementary,0,0,0,0,0
+18K285,18,45,Junior High-Intermediate-Middle,1,0,0,0,1
+18K366,18,46,Junior High-Intermediate-Middle,0,0,0,0,0
+18K563,18,45,High School,0,1,0,1,1
+18K566,18,46,High School,0,0,0,0,0
+18K567,18,46,High School,0,0,0,0,0
+18K569,18,45,High School,0,0,0,0,0
+18K576,18,46,High School,0,0,0,0,0
+18K578,18,46,High School,0,0,0,0,0
+18K581,18,41,Junior High-Intermediate-Middle,0,0,0,0,0
+18K588,18,41,Junior High-Intermediate-Middle,0,0,0,0,0
+18K589,18,41,High School,0,0,0,0,0
+18K598,18,41,Junior High-Intermediate-Middle,0,0,0,0,0
+18K617,18,46,High School,0,0,0,0,0
+18K629,18,45,High School,0,0,0,0,0
+18K633,18,46,High School,1,0,0,0,1
+18K635,18,46,High School,0,0,0,0,0
+18K637,18,46,High School,0,0,0,0,0
+18K642,18,46,High School,1,0,0,0,1
+18K673,18,41,High School,0,0,0,0,0
+18K763,18,45,Junior High-Intermediate-Middle,0,0,0,0,0
+19K007,19,37,Elementary,0,0,0,0,0
+19K013,19,42,Elementary,0,0,0,0,0
+19K065,19,37,Elementary,0,0,0,0,0
+19K089,19,37,K-8,0,0,0,0,0
+19K108,19,37,Elementary,0,0,0,0,0
+19K149,19,42,Elementary,0,0,0,0,0
+19K158,19,37,Elementary,0,0,0,0,0
+19K159,19,42,Elementary,0,0,0,0,0
+19K171,19,37,Junior High-Intermediate-Middle,0,0,0,0,0
+19K174,19,42,K-8,0,0,0,0,0
+19K190,19,42,Elementary,0,0,0,0,0
+19K202,19,42,K-8,0,0,0,0,0
+19K213,19,42,Elementary,0,0,0,0,0
+19K214,19,37,Elementary,0,0,0,0,0
+19K218,19,42,Junior High-Intermediate-Middle,1,0,0,0,1
+19K224,19,42,Elementary,0,0,0,0,0
+19K273,19,42,Elementary,0,0,0,0,0
+19K290,19,37,Elementary,0,0,0,0,0
+19K292,19,42,Junior High-Intermediate-Middle,0,0,0,0,0
+19K306,19,42,K-8,0,0,0,0,0
+19K311,19,42,Junior High-Intermediate-Middle,0,0,0,0,0
+19K325,19,42,Elementary,0,0,0,0,0
+19K328,19,42,Elementary,0,0,0,0,0
+19K345,19,37,Elementary,0,0,0,0,0
+19K346,19,42,Elementary,0,0,0,0,0
+19K364,19,42,Junior High-Intermediate-Middle,0,0,0,0,0
+19K404,19,42,High School,0,0,0,0,0
+19K409,19,42,Secondary School,0,0,0,0,0
+19K422,19,46,Secondary School,0,0,0,0,0
+19K452,19,42,Junior High-Intermediate-Middle,0,0,0,0,0
+19K502,19,42,High School,0,0,0,0,0
+19K504,19,42,High School,1,0,0,0,1
+19K507,19,42,High School,0,0,0,0,0
+19K510,19,42,High School,1,0,0,0,1
+19K557,19,42,Elementary,0,0,0,0,0
+19K583,19,37,High School,0,0,0,0,0
+19K615,19,37,High School,0,0,0,0,0
+19K618,19,37,High School,0,0,0,0,0
+19K639,19,37,High School,0,0,0,0,0
+19K654,19,42,Junior High-Intermediate-Middle,1,0,0,0,1
+19K659,19,37,High School,0,0,0,0,0
+19K660,19,37,High School,0,0,0,0,0
+19K661,19,37,Junior High-Intermediate-Middle,0,0,0,0,0
+19K662,19,37,Junior High-Intermediate-Middle,0,0,0,0,0
+19K663,19,42,Junior High-Intermediate-Middle,0,0,0,0,0
+19K677,19,42,Elementary,0,0,0,0,0
+19K678,19,42,Junior High-Intermediate-Middle,0,0,0,0,0
+19K683,19,42,High School,0,0,0,0,0
+19K760,19,37,Junior High-Intermediate-Middle,0,0,0,0,0
+19K764,19,37,High School,0,0,0,0,0
+20K030,20,43,K-8,0,0,0,0,0
+20K048,20,44,Elementary,0,0,0,0,0
+20K062,20,40,Junior High-Intermediate-Middle,0,0,0,0,0
+20K069,20,38,Elementary,0,0,0,0,0
+20K102,20,43,Elementary,0,0,0,0,0
+20K104,20,43,K-8,0,0,0,0,0
+20K105,20,38,Elementary,0,0,0,0,0
+20K112,20,43,Elementary,0,0,0,0,0
+20K127,20,43,Elementary,0,0,0,0,0
+20K160,20,44,Elementary,0,0,0,0,0
+20K163,20,43,K-8,0,0,0,0,0
+20K164,20,44,Elementary,0,0,0,0,0
+20K170,20,43,Elementary,0,0,0,0,0
+20K176,20,43,Elementary,0,0,0,0,0
+20K179,20,39,Elementary,0,0,0,0,0
+20K180,20,44,K-8,0,0,0,0,0
+20K185,20,43,Elementary,0,0,0,0,0
+20K186,20,47,Elementary,0,0,0,0,0
+20K187,20,38,Junior High-Intermediate-Middle,0,0,0,0,0
+20K192,20,44,K-8,0,0,0,0,0
+20K200,20,43,Elementary,0,0,0,0,0
+20K201,20,43,Junior High-Intermediate-Middle,0,0,0,0,0
+20K204,20,43,Elementary,0,0,0,0,0
+20K205,20,47,Elementary,0,0,0,0,0
+20K220,20,38,Junior High-Intermediate-Middle,1,0,0,0,1
+20K223,20,44,Junior High-Intermediate-Middle,0,0,0,0,0
+20K227,20,38,Junior High-Intermediate-Middle,0,0,0,0,0
+20K229,20,43,K-8,0,0,0,0,0
+20K247,20,47,Elementary,0,0,0,0,0
+20K259,20,43,Junior High-Intermediate-Middle,0,0,0,0,0
+20K264,20,43,Elementary,0,0,0,0,0
+20K310,20,38,Elementary,0,0,0,0,0
+20K445,20,43,High School,1,0,0,0,1
+20K485,20,43,High School,0,0,0,0,0
+20K490,20,43,High School,1,0,0,0,1
+20K503,20,38,Elementary,0,0,0,0,0
+20K505,20,44,High School,2,0,0,0,2
+20K506,20,38,Elementary,0,0,0,0,0
+20K609,20,44,Secondary School,0,0,0,0,0
+20K682,20,44,Early Childhood,0,0,0,0,0
+20K686,20,44,K-8,0,0,0,0,0
+20K748,20,43,Elementary,0,0,0,0,0
+20K971,20,38,Elementary,0,0,0,0,0
+21K090,21,47,Elementary,0,0,0,0,0
+21K095,21,47,K-8,0,0,0,0,0
+21K096,21,44,Junior High-Intermediate-Middle,0,0,0,0,0
+21K097,21,47,Elementary,0,0,0,0,0
+21K098,21,48,Junior High-Intermediate-Middle,0,0,0,0,0
+21K099,21,44,K-8,0,0,0,0,0
+21K100,21,48,Elementary,0,0,0,0,0
+21K101,21,47,Elementary,0,0,0,0,0
+21K121,21,44,K-8,0,0,0,0,0
+21K128,21,47,Elementary,0,0,0,0,0
+21K153,21,48,Elementary,0,0,0,0,0
+21K177,21,44,Elementary,0,0,0,0,0
+21K188,21,47,Elementary,0,0,0,0,0
+21K199,21,48,Elementary,0,0,0,0,0
+21K209,21,48,K-8,0,0,0,0,0
+21K212,21,47,Elementary,0,0,0,0,0
+21K215,21,47,Elementary,0,0,0,0,0
+21K216,21,47,Elementary,0,0,0,0,0
+21K225,21,48,K-8,0,0,0,0,0
+21K226,21,44,K-8,0,0,0,0,0
+21K228,21,47,Junior High-Intermediate-Middle,0,0,0,0,0
+21K238,21,44,K-8,0,0,0,0,0
+21K239,21,47,Junior High-Intermediate-Middle,0,0,0,0,0
+21K253,21,48,Elementary,0,0,0,0,0
+21K281,21,47,Junior High-Intermediate-Middle,1,0,0,0,1
+21K288,21,47,K-8,0,0,0,0,0
+21K303,21,47,Junior High-Intermediate-Middle,0,0,0,0,0
+21K329,21,47,Elementary,0,0,0,0,0
+21K337,21,47,High School,0,0,0,0,0
+21K344,21,47,High School,0,0,0,0,0
+21K348,21,47,High School,0,0,0,0,0
+21K410,21,47,High School,1,0,0,0,1
+21K468,21,47,Secondary School,0,0,0,0,0
+21K525,21,44,High School,2,0,0,0,2
+21K540,21,47,High School,3,0,0,0,3
+21K559,21,47,High School,0,0,0,0,0
+21K572,21,47,High School,0,0,0,0,0
+21K620,21,48,High School,0,0,0,0,0
+21K690,21,47,Secondary School,1,0,0,0,1
+21K728,21,47,High School,0,0,0,0,0
+22K014,22,48,Junior High-Intermediate-Middle,0,0,0,0,0
+22K052,22,48,Elementary,0,0,0,0,0
+22K078,22,46,Junior High-Intermediate-Middle,0,0,0,0,0
+22K109,22,45,K-8,0,0,0,0,0
+22K119,22,45,Elementary,0,0,0,0,0
+22K134,22,44,Elementary,0,0,0,0,0
+22K139,22,40,Elementary,0,0,0,0,0
+22K152,22,45,Elementary,0,0,0,0,0
+22K193,22,45,Elementary,0,0,0,0,0
+22K194,22,46,Elementary,0,0,0,0,0
+22K195,22,48,Elementary,0,0,0,0,0
+22K197,22,48,Elementary,0,0,0,0,0
+22K198,22,45,Elementary,0,0,0,0,0
+22K203,22,46,Elementary,0,0,0,0,0
+22K206,22,48,K-8,0,0,0,0,0
+22K207,22,46,K-8,0,0,0,0,0
+22K217,22,40,Elementary,0,0,0,0,0
+22K222,22,46,Elementary,0,0,0,0,0
+22K234,22,48,Junior High-Intermediate-Middle,0,0,0,0,0
+22K236,22,46,Elementary,0,0,0,0,0
+22K240,22,45,Junior High-Intermediate-Middle,1,0,0,0,1
+22K245,22,40,Elementary,0,0,0,0,0
+22K251,22,46,Elementary,0,0,0,0,0
+22K254,22,48,Elementary,0,0,0,0,0
+22K255,22,48,Elementary,0,0,0,0,0
+22K269,22,45,Elementary,0,0,0,0,0
+22K277,22,46,Elementary,0,0,0,0,0
+22K278,22,46,Junior High-Intermediate-Middle,0,0,0,0,0
+22K312,22,46,Elementary,0,0,0,0,0
+22K315,22,45,Elementary,0,0,0,0,0
+22K326,22,45,Early Childhood,0,0,0,0,0
+22K361,22,45,Early Childhood,0,0,0,0,0
+22K381,22,48,Junior High-Intermediate-Middle,0,0,0,0,0
+22K405,22,45,High School,1,0,0,0,1
+22K425,22,48,High School,0,0,0,0,0
+22K495,22,48,High School,0,0,0,0,0
+22K535,22,48,High School,0,0,0,0,0
+22K555,22,39,High School,0,0,0,0,0
+22K611,22,48,High School,0,0,0,0,0
+22K630,22,48,High School,0,0,0,0,0
+23K041,23,42,K-8,0,0,0,0,0
+23K073,23,37,K-8,0,0,0,0,0
+23K137,23,41,K-8,0,0,0,0,0
+23K150,23,41,Elementary,0,0,0,0,0
+23K155,23,37,K-8,0,0,0,0,0
+23K156,23,41,Elementary,0,0,0,0,0
+23K165,23,42,K-8,0,0,0,0,0
+23K178,23,41,K-8,0,0,0,0,0
+23K184,23,42,K-8,0,0,0,0,0
+23K284,23,41,K-8,0,0,0,0,0
+23K298,23,37,K-8,0,0,0,0,0
+23K323,23,41,K-8,0,0,0,0,0
+23K327,23,41,K-8,0,0,0,0,0
+23K363,23,37,Junior High-Intermediate-Middle,0,0,0,0,0
+23K392,23,41,Junior High-Intermediate-Middle,0,0,0,0,0
+23K401,23,37,Elementary,0,0,0,0,0
+23K446,23,42,Elementary,0,0,0,0,0
+23K493,23,41,High School,0,0,0,0,0
+23K514,23,41,High School,0,0,0,0,0
+23K518,23,42,Junior High-Intermediate-Middle,0,0,0,0,0
+23K522,23,41,Junior High-Intermediate-Middle,0,0,0,0,0
+23K599,23,37,Elementary,0,0,0,0,0
+23K643,23,42,High School,0,0,0,0,0
+23K644,23,41,Junior High-Intermediate-Middle,0,0,0,0,0
+23K646,23,37,High School,0,0,0,0,0
+23K647,23,42,High School,0,0,0,0,0
+23K664,23,37,Junior High-Intermediate-Middle,0,0,0,0,0
+23K668,23,42,Junior High-Intermediate-Middle,0,0,0,0,0
+23K671,23,41,Junior High-Intermediate-Middle,0,0,0,0,0
+23K697,23,41,Secondary School,0,0,0,0,0
+24Q005,24,25,Junior High-Intermediate-Middle,0,0,0,0,0
+24Q007,24,25,Elementary,0,0,0,0,0
+24Q012,24,26,Elementary,0,0,0,0,0
+24Q013,24,25,Elementary,0,0,0,0,0
+24Q014,24,21,Elementary,0,0,0,0,0
+24Q016,24,21,Elementary,0,0,0,0,0
+24Q019,24,21,Elementary,0,0,0,0,0
+24Q028,24,21,Early Childhood,0,0,0,0,0
+24Q049,24,30,K-8,0,0,0,0,0
+24Q058,24,30,Elementary,0,0,0,0,0
+24Q061,24,21,Junior High-Intermediate-Middle,2,0,0,0,2
+24Q068,24,30,Elementary,0,0,0,0,0
+24Q071,24,30,Elementary,0,0,0,0,0
+24Q073,24,30,Junior High-Intermediate-Middle,0,0,0,0,0
+24Q077,24,34,Junior High-Intermediate-Middle,0,0,0,0,0
+24Q081,24,34,Elementary,0,0,0,0,0
+24Q087,24,30,K-8,0,0,0,0,0
+24Q088,24,30,Elementary,0,0,0,0,0
+24Q089,24,25,Elementary,0,0,0,0,0
+24Q091,24,30,Elementary,0,0,0,0,0
+24Q093,24,30,Junior High-Intermediate-Middle,1,0,0,0,1
+24Q102,24,25,K-8,0,0,0,0,0
+24Q110,24,21,Elementary,0,0,0,0,0
+24Q113,24,30,Junior High-Intermediate-Middle,0,0,0,0,0
+24Q119,24,30,Junior High-Intermediate-Middle,0,0,0,0,0
+24Q125,24,26,Junior High-Intermediate-Middle,0,0,0,0,0
+24Q128,24,30,K-8,0,0,0,0,0
+24Q143,24,21,Elementary,0,0,0,0,0
+24Q153,24,30,Elementary,0,0,0,0,0
+24Q199,24,26,Elementary,0,0,0,0,0
+24Q211,24,25,Elementary,0,0,0,0,0
+24Q229,24,30,Elementary,0,0,0,0,0
+24Q236,24,25,High School,0,0,0,0,0
+24Q239,24,34,Elementary,0,0,0,0,0
+24Q264,24,26,High School,0,0,0,0,0
+24Q267,24,26,High School,0,0,0,0,0
+24Q290,24,30,Elementary,0,0,0,0,0
+24Q293,24,25,High School,0,0,0,0,0
+24Q296,24,25,High School,0,0,0,0,0
+24Q299,24,26,High School,0,0,0,0,0
+24Q305,24,34,Early Childhood,0,0,0,0,0
+24Q307,24,21,Early Childhood,0,0,0,0,0
+24Q311,24,21,Junior High-Intermediate-Middle,0,0,0,0,0
+24Q330,24,21,Elementary,0,0,0,0,0
+24Q343,24,26,Elementary,0,0,0,0,0
+24Q455,24,25,High School,1,0,0,0,1
+24Q485,24,30,High School,0,0,0,0,0
+24Q520,24,26,High School,0,0,0,0,0
+24Q530,24,26,High School,0,0,0,0,0
+24Q550,24,21,High School,0,0,0,0,0
+24Q560,24,26,Secondary School,0,0,0,0,0
+24Q585,24,30,High School,0,0,0,0,0
+24Q600,24,26,High School,1,0,0,0,1
+24Q610,24,26,High School,0,0,0,0,0
+24Q744,24,25,High School,0,0,0,0,0
+24Q877,24,25,Elementary,0,0,0,0,0
+25Q020,25,20,Elementary,0,0,0,0,0
+25Q021,25,19,Elementary,0,0,0,0,0
+25Q022,25,20,Elementary,1,0,0,0,1
+25Q024,25,20,Elementary,0,0,0,0,0
+25Q025,25,19,Junior High-Intermediate-Middle,0,0,0,0,0
+25Q029,25,19,Elementary,0,0,0,0,0
+25Q032,25,19,Elementary,0,0,0,0,0
+25Q079,25,19,Elementary,0,0,0,0,0
+25Q107,25,19,Elementary,0,0,0,0,0
+25Q120,25,20,Elementary,0,0,0,0,0
+25Q129,25,19,Elementary,0,0,0,0,0
+25Q130,25,19,Elementary,0,0,0,0,0
+25Q154,25,24,Elementary,0,0,0,0,0
+25Q163,25,20,Elementary,0,0,0,0,0
+25Q164,25,24,K-8,0,0,0,0,0
+25Q165,25,24,Elementary,0,0,0,0,0
+25Q169,25,19,Elementary,0,0,0,0,0
+25Q184,25,19,Elementary,0,0,0,0,0
+25Q185,25,19,Junior High-Intermediate-Middle,0,0,0,0,0
+25Q189,25,20,Junior High-Intermediate-Middle,0,0,0,0,0
+25Q193,25,19,Elementary,0,0,0,0,0
+25Q194,25,19,Junior High-Intermediate-Middle,0,0,0,0,0
+25Q200,25,24,K-8,0,0,0,0,0
+25Q201,25,24,Elementary,0,0,0,0,0
+25Q209,25,19,Elementary,0,0,0,0,0
+25Q214,25,20,Elementary,0,0,0,0,0
+25Q219,25,24,K-8,0,0,0,0,0
+25Q237,25,20,Junior High-Intermediate-Middle,0,1,0,1,1
+25Q240,25,20,High School,0,0,0,0,0
+25Q241,25,20,High School,0,0,0,0,0
+25Q242,25,20,Elementary,0,0,0,0,0
+25Q244,25,20,Early Childhood,0,0,0,0,0
+25Q250,25,24,Junior High-Intermediate-Middle,0,0,0,0,0
+25Q252,25,24,Secondary School,0,0,0,0,0
+25Q263,25,20,High School,0,0,0,0,0
+25Q281,25,20,Secondary School,1,0,0,0,1
+25Q285,25,19,Secondary School,0,0,0,0,0
+25Q294,25,19,Junior High-Intermediate-Middle,0,0,0,0,0
+25Q425,25,24,High School,3,0,0,0,3
+25Q460,25,20,High School,3,0,0,0,3
+25Q499,25,24,K-8,0,0,0,0,0
+25Q525,25,24,High School,0,0,0,0,0
+25Q540,25,20,High School,0,0,0,0,0
+25Q670,25,24,High School,0,0,0,0,0
+25Q792,25,24,High School,0,0,0,0,0
+26Q018,26,23,Elementary,0,0,0,0,0
+26Q026,26,23,Elementary,0,0,0,0,0
+26Q031,26,19,Elementary,0,0,0,0,0
+26Q041,26,19,Elementary,0,0,0,0,0
+26Q046,26,23,Elementary,0,0,0,0,0
+26Q067,26,19,Junior High-Intermediate-Middle,0,0,0,0,0
+26Q074,26,23,Junior High-Intermediate-Middle,1,0,0,0,1
+26Q094,26,19,Elementary,0,0,0,0,0
+26Q098,26,19,Elementary,0,0,0,0,0
+26Q115,26,23,Elementary,0,0,0,0,0
+26Q133,26,23,Elementary,0,0,0,0,0
+26Q158,26,19,Junior High-Intermediate-Middle,0,0,0,0,0
+26Q159,26,19,Elementary,0,0,0,0,0
+26Q162,26,20,Elementary,0,0,0,0,0
+26Q172,26,23,Junior High-Intermediate-Middle,0,0,0,0,0
+26Q173,26,24,Elementary,0,0,0,0,0
+26Q178,26,23,K-8,0,0,0,0,0
+26Q186,26,23,Elementary,0,0,0,0,0
+26Q188,26,23,Elementary,0,0,0,0,0
+26Q191,26,23,Elementary,0,0,0,0,0
+26Q203,26,23,Elementary,0,0,0,0,0
+26Q205,26,23,Elementary,0,0,0,0,0
+26Q213,26,23,Elementary,0,0,0,0,0
+26Q216,26,24,Junior High-Intermediate-Middle,1,0,0,0,1
+26Q221,26,23,Elementary,0,0,0,0,0
+26Q266,26,23,K-8,0,0,0,0,0
+26Q315,26,23,High School,0,0,0,0,0
+26Q415,26,23,High School,1,0,0,0,1
+26Q430,26,20,High School,2,0,0,0,2
+26Q435,26,23,High School,1,0,0,0,1
+26Q495,26,19,High School,3,0,0,0,3
+26Q566,26,23,High School,0,0,0,0,0
+27Q042,27,31,K-8,0,0,0,0,0
+27Q043,27,31,K-8,2,0,0,0,2
+27Q045,27,28,Elementary,0,0,0,0,0
+27Q047,27,32,K-8,0,0,0,0,0
+27Q051,27,29,Early Childhood,0,0,0,0,0
+27Q053,27,31,Junior High-Intermediate-Middle,0,0,0,0,0
+27Q056,27,32,Elementary,0,0,0,0,0
+27Q060,27,32,Elementary,0,0,0,0,0
+27Q062,27,28,Elementary,0,0,0,0,0
+27Q063,27,32,Elementary,0,0,0,0,0
+27Q064,27,32,Elementary,0,0,0,0,0
+27Q065,27,32,Elementary,0,0,0,0,0
+27Q066,27,32,Elementary,0,0,0,0,0
+27Q090,27,32,Elementary,0,0,0,0,0
+27Q096,27,28,Elementary,0,0,0,0,0
+27Q097,27,32,Elementary,0,0,0,0,0
+27Q100,27,28,Elementary,0,0,0,0,0
+27Q104,27,31,Elementary,0,0,0,0,0
+27Q105,27,31,K-8,0,0,0,0,0
+27Q106,27,31,Elementary,0,0,0,0,0
+27Q108,27,28,Elementary,0,0,0,0,0
+27Q114,27,32,K-8,0,0,0,0,0
+27Q123,27,28,Elementary,0,0,0,0,0
+27Q124,27,28,K-8,0,0,0,0,0
+27Q137,27,32,Junior High-Intermediate-Middle,1,0,0,0,1
+27Q146,27,32,K-8,0,0,0,0,0
+27Q155,27,28,Elementary,0,0,0,0,0
+27Q183,27,31,K-8,2,0,0,0,2
+27Q197,27,31,Elementary,0,0,0,0,0
+27Q202,27,32,Junior High-Intermediate-Middle,0,0,0,0,0
+27Q207,27,32,K-8,0,0,0,0,0
+27Q210,27,32,Junior High-Intermediate-Middle,1,0,0,0,1
+27Q223,27,28,Elementary,0,0,0,0,0
+27Q226,27,28,Junior High-Intermediate-Middle,0,0,0,0,0
+27Q232,27,32,K-8,0,0,0,0,0
+27Q253,27,31,Elementary,0,0,0,0,0
+27Q254,27,32,Elementary,0,0,0,0,0
+27Q260,27,31,High School,0,0,0,0,0
+27Q261,27,28,High School,0,0,0,0,0
+27Q262,27,32,Secondary School,1,0,0,0,1
+27Q273,27,32,Elementary,0,0,0,0,0
+27Q282,27,31,Junior High-Intermediate-Middle,0,0,0,0,0
+27Q297,27,28,Junior High-Intermediate-Middle,0,0,0,0,0
+27Q302,27,31,High School,0,0,0,0,0
+27Q306,27,32,Early Childhood,1,0,0,0,1
+27Q308,27,32,High School,0,0,0,0,0
+27Q309,27,31,Secondary School,1,0,0,0,1
+27Q314,27,28,High School,0,0,0,0,0
+27Q316,27,32,Elementary,0,0,0,0,0
+27Q317,27,32,Elementary,0,0,0,0,0
+27Q318,27,32,Junior High-Intermediate-Middle,1,0,0,0,1
+27Q319,27,31,Junior High-Intermediate-Middle,0,0,0,0,0
+27Q323,27,32,Secondary School,0,0,0,0,0
+27Q324,27,32,High School,0,0,0,0,0
+27Q333,27,31,K-8,0,0,0,0,0
+27Q334,27,28,High School,0,0,0,0,0
+27Q351,27,32,High School,0,0,0,0,0
+27Q362,27,31,Elementary,1,0,0,0,1
+27Q400,27,28,High School,1,0,0,0,1
+27Q475,27,28,High School,1,0,0,0,1
+27Q480,27,32,High School,2,0,0,0,2
+27Q650,27,28,High School,0,0,0,0,0
+28Q008,28,27,Junior High-Intermediate-Middle,1,0,0,0,1
+28Q040,28,28,Elementary,0,0,0,0,0
+28Q048,28,28,Elementary,0,0,0,0,0
+28Q050,28,28,Elementary,0,0,0,0,0
+28Q054,28,29,Elementary,0,0,0,0,0
+28Q055,28,28,Elementary,0,0,0,0,0
+28Q072,28,28,Junior High-Intermediate-Middle,0,0,0,0,0
+28Q080,28,28,Elementary,0,0,0,0,0
+28Q082,28,24,Elementary,0,0,0,0,0
+28Q086,28,24,Elementary,0,0,0,0,0
+28Q099,28,29,Elementary,0,0,0,0,0
+28Q101,28,29,Elementary,0,0,0,0,0
+28Q117,28,24,Elementary,0,0,0,0,0
+28Q121,28,28,Elementary,0,0,0,0,0
+28Q139,28,29,Elementary,0,0,0,0,0
+28Q140,28,27,Elementary,1,0,0,0,1
+28Q144,28,29,Elementary,0,0,0,0,0
+28Q157,28,29,Junior High-Intermediate-Middle,0,0,0,0,0
+28Q160,28,28,Elementary,0,0,0,0,0
+28Q161,28,28,Elementary,0,0,0,0,0
+28Q167,28,29,Secondary School,0,0,0,0,0
+28Q174,28,29,Elementary,0,0,0,0,0
+28Q175,28,29,Elementary,0,0,0,0,0
+28Q182,28,24,Early Childhood,0,0,0,0,0
+28Q190,28,29,Junior High-Intermediate-Middle,0,0,0,0,0
+28Q196,28,29,Elementary,0,0,0,0,0
+28Q206,28,29,Elementary,0,0,0,0,0
+28Q217,28,24,Junior High-Intermediate-Middle,2,0,0,0,2
+28Q220,28,29,Elementary,0,0,0,0,0
+28Q284,28,27,Junior High-Intermediate-Middle,0,0,0,0,0
+28Q287,28,27,Junior High-Intermediate-Middle,0,0,0,0,0
+28Q303,28,29,Early Childhood,0,0,0,0,0
+28Q310,28,24,High School,0,0,0,0,0
+28Q312,28,28,Elementary,0,0,0,0,0
+28Q325,28,24,High School,0,0,0,0,0
+28Q328,28,24,High School,1,0,0,0,1
+28Q332,28,28,Junior High-Intermediate-Middle,0,0,0,0,0
+28Q338,28,24,High School,0,0,0,0,0
+28Q349,28,24,Elementary,0,0,0,0,0
+28Q350,28,24,High School,0,0,0,0,0
+28Q354,28,28,Elementary,0,0,0,0,0
+28Q358,28,24,Junior High-Intermediate-Middle,0,0,0,0,0
+28Q440,28,29,High School,2,0,0,0,2
+28Q505,28,24,High School,1,0,0,0,1
+28Q620,28,24,High School,2,0,0,0,2
+28Q680,28,24,Secondary School,0,0,0,0,0
+28Q686,28,29,High School,0,0,0,0,0
+28Q687,28,27,High School,0,0,0,0,0
+28Q690,28,28,High School,0,0,0,0,0
+28Q896,28,24,Secondary School,1,0,0,0,1
+29Q015,29,27,Elementary,0,0,0,0,0
+29Q033,29,23,Elementary,0,0,0,0,0
+29Q034,29,27,Elementary,1,0,0,0,1
+29Q035,29,23,Elementary,0,0,0,0,0
+29Q036,29,27,Elementary,0,0,0,0,0
+29Q037,29,27,Elementary,0,0,0,0,0
+29Q038,29,31,Elementary,0,0,0,0,0
+29Q052,29,31,Elementary,0,0,0,0,0
+29Q059,29,27,Junior High-Intermediate-Middle,0,0,0,0,0
+29Q095,29,27,Elementary,0,0,0,0,0
+29Q109,29,23,Junior High-Intermediate-Middle,1,0,0,0,1
+29Q116,29,27,K-8,0,0,0,0,0
+29Q118,29,27,Elementary,0,0,0,0,0
+29Q131,29,24,Elementary,0,0,0,0,0
+29Q132,29,31,Elementary,0,0,0,0,0
+29Q134,29,27,Elementary,0,0,0,0,0
+29Q135,29,23,Elementary,0,0,0,0,0
+29Q136,29,27,Elementary,0,0,0,0,0
+29Q138,29,31,K-8,0,0,0,0,0
+29Q147,29,27,K-8,0,0,0,0,0
+29Q156,29,31,K-8,0,0,0,0,0
+29Q176,29,27,Elementary,0,0,0,0,0
+29Q181,29,31,Elementary,0,0,0,0,0
+29Q192,29,27,Junior High-Intermediate-Middle,1,0,0,0,1
+29Q195,29,31,Elementary,0,0,0,0,0
+29Q208,29,23,K-8,0,0,0,0,0
+29Q238,29,27,Junior High-Intermediate-Middle,0,0,0,0,0
+29Q243,29,27,High School,0,0,0,0,0
+29Q248,29,31,High School,0,0,0,0,0
+29Q251,29,31,Elementary,0,0,0,0,0
+29Q259,29,27,Secondary School,0,0,0,0,0
+29Q265,29,31,High School,0,0,0,0,0
+29Q268,29,27,K-8,0,0,0,0,0
+29Q270,29,31,K-8,0,0,0,0,0
+29Q272,29,31,High School,0,0,0,0,0
+29Q283,29,31,Secondary School,0,0,0,0,0
+29Q289,29,31,Junior High-Intermediate-Middle,1,0,0,0,1
+29Q295,29,23,K-8,0,0,0,0,0
+29Q313,29,27,High School,0,0,0,0,0
+29Q326,29,23,High School,0,0,0,0,0
+29Q327,29,27,Secondary School,0,0,0,0,0
+29Q355,29,31,Junior High-Intermediate-Middle,0,0,0,0,0
+29Q356,29,31,Junior High-Intermediate-Middle,0,0,0,0,0
+29Q360,29,27,Elementary,0,0,0,0,0
+29Q492,29,27,High School,1,0,0,0,1
+29Q494,29,27,High School,0,0,0,0,0
+29Q496,29,27,High School,0,0,0,0,0
+29Q498,29,27,High School,0,0,0,0,0
+30Q002,30,22,Elementary,0,0,0,0,0
+30Q010,30,22,Junior High-Intermediate-Middle,0,0,0,0,0
+30Q011,30,26,Elementary,0,0,0,0,0
+30Q017,30,22,Elementary,0,0,0,0,0
+30Q069,30,25,Elementary,0,0,0,0,0
+30Q070,30,22,Elementary,0,0,0,0,0
+30Q076,30,26,Elementary,0,0,0,0,0
+30Q078,30,26,K-8,0,0,0,0,0
+30Q084,30,22,K-8,0,0,0,0,0
+30Q085,30,22,Elementary,0,0,0,0,0
+30Q092,30,21,Elementary,0,0,0,0,0
+30Q111,30,26,K-8,0,0,0,0,0
+30Q112,30,26,Elementary,0,0,0,0,0
+30Q122,30,22,K-8,0,0,0,0,0
+30Q126,30,22,Junior High-Intermediate-Middle,0,0,0,0,0
+30Q127,30,21,K-8,0,0,0,0,0
+30Q141,30,22,Junior High-Intermediate-Middle,0,0,0,0,0
+30Q145,30,25,Junior High-Intermediate-Middle,0,0,0,0,0
+30Q148,30,25,Elementary,0,0,0,0,0
+30Q149,30,25,Elementary,0,0,0,0,0
+30Q150,30,26,Elementary,0,0,0,0,0
+30Q151,30,22,Elementary,0,0,0,0,0
+30Q152,30,26,Elementary,0,0,0,0,0
+30Q166,30,26,Elementary,0,0,0,0,0
+30Q171,30,22,Elementary,0,0,0,0,0
+30Q204,30,26,Junior High-Intermediate-Middle,0,0,0,0,0
+30Q212,30,25,Elementary,0,0,0,0,0
+30Q222,30,25,Early Childhood,0,0,0,0,0
+30Q227,30,21,Junior High-Intermediate-Middle,0,0,0,0,0
+30Q228,30,21,Early Childhood,0,0,0,0,0
+30Q230,30,25,Junior High-Intermediate-Middle,0,0,0,0,0
+30Q234,30,22,Elementary,0,0,0,0,0
+30Q235,30,22,Junior High-Intermediate-Middle,0,0,0,0,0
+30Q258,30,26,High School,0,0,0,0,0
+30Q280,30,25,Elementary,0,0,0,0,0
+30Q286,30,22,Secondary School,0,0,0,0,0
+30Q291,30,26,Junior High-Intermediate-Middle,0,0,0,0,0
+30Q300,30,22,K-8,0,0,0,0,0
+30Q301,30,26,High School,0,0,0,0,0
+30Q329,30,21,Elementary,0,0,0,0,0
+30Q361,30,26,Elementary,0,0,0,0,0
+30Q445,30,26,High School,2,0,0,0,2
+30Q450,30,22,High School,1,0,0,0,1
+30Q501,30,26,High School,0,0,0,0,0
+30Q502,30,26,High School,0,0,0,0,0
+30Q555,30,26,High School,1,0,0,0,1
+30Q575,30,26,High School,0,0,0,0,0
+30Q580,30,26,Secondary School,0,0,0,0,0
+31R001,31,51,Elementary,0,0,0,0,0
+31R002,31,50,Junior High-Intermediate-Middle,0,0,0,0,0
+31R003,31,51,Elementary,0,0,0,0,0
+31R004,31,51,Elementary,0,0,0,0,0
+31R005,31,51,Elementary,0,0,0,0,0
+31R006,31,51,Elementary,0,0,0,0,0
+31R007,31,51,Junior High-Intermediate-Middle,0,0,0,0,0
+31R008,31,51,Elementary,0,0,0,0,0
+31R009,31,50,Elementary,0,0,0,0,0
+31R010,31,49,Elementary,0,0,0,0,0
+31R011,31,50,Elementary,0,0,0,0,0
+31R013,31,49,Elementary,0,0,0,0,0
+31R016,31,49,Elementary,0,0,0,0,0
+31R018,31,49,Elementary,0,0,0,0,0
+31R019,31,49,Elementary,0,0,0,0,0
+31R020,31,49,Elementary,0,0,0,0,0
+31R021,31,49,Elementary,0,0,0,0,0
+31R022,31,49,Elementary,0,0,0,0,0
+31R023,31,50,Elementary,0,0,0,0,0
+31R024,31,51,Junior High-Intermediate-Middle,0,0,0,0,0
+31R026,31,50,Elementary,0,0,0,0,0
+31R027,31,49,Junior High-Intermediate-Middle,0,0,0,0,0
+31R028,31,49,Junior High-Intermediate-Middle,0,0,0,0,0
+31R029,31,50,Elementary,0,0,0,0,0
+31R030,31,50,Elementary,0,0,0,0,0
+31R031,31,49,Elementary,0,0,0,0,0
+31R032,31,51,Elementary,0,0,0,0,0
+31R034,31,51,Junior High-Intermediate-Middle,0,0,0,0,0
+31R035,31,49,Elementary,0,0,0,0,0
+31R036,31,51,Elementary,0,0,0,0,0
+31R038,31,50,Elementary,0,0,0,0,0
+31R039,31,50,Elementary,0,0,0,0,0
+31R041,31,50,Elementary,0,0,0,0,0
+31R042,31,51,Elementary,0,0,0,0,0
+31R044,31,49,Elementary,0,0,0,0,0
+31R045,31,49,Elementary,0,0,0,0,0
+31R046,31,50,Elementary,0,0,0,0,0
+31R047,31,51,High School,0,0,0,0,0
+31R048,31,50,Elementary,0,0,0,0,0
+31R049,31,49,Junior High-Intermediate-Middle,0,0,0,0,0
+31R050,31,50,Elementary,0,0,0,0,0
+31R051,31,50,Junior High-Intermediate-Middle,1,0,0,0,1
+31R052,31,50,Elementary,0,0,0,0,0
+31R053,31,51,Elementary,0,0,0,0,0
+31R054,31,50,Elementary,0,0,0,0,0
+31R055,31,51,Elementary,0,0,0,0,0
+31R056,31,51,Elementary,0,0,0,0,0
+31R057,31,49,Elementary,0,0,0,0,0
+31R058,31,51,Elementary,0,0,0,0,0
+31R059,31,49,Elementary,0,0,0,0,0
+31R060,31,50,Elementary,0,0,0,0,0
+31R061,31,49,Junior High-Intermediate-Middle,0,0,0,0,0
+31R062,31,51,Elementary,0,0,0,0,0
+31R063,31,51,Junior High-Intermediate-Middle,0,0,0,0,0
+31R064,31,51,High School,0,0,0,0,0
+31R065,31,49,Early Childhood,0,0,0,0,0
+31R069,31,51,Elementary,0,0,0,0,0
+31R072,31,51,Junior High-Intermediate-Middle,0,0,0,0,0
+31R074,31,49,Elementary,0,0,0,0,0
+31R075,31,51,Junior High-Intermediate-Middle,0,0,0,0,0
+31R078,31,49,Elementary,0,0,0,0,0
+31R080,31,50,K-12 All Grades,0,0,0,0,0
+31R440,31,50,High School,2,0,0,0,2
+31R445,31,49,High School,0,0,0,0,0
+31R450,31,49,High School,0,1,0,1,1
+31R455,31,51,High School,0,0,0,0,0
+31R460,31,50,High School,1,0,0,0,1
+31R470,31,49,High School,0,0,0,0,0
+31R600,31,49,High School,0,0,0,0,0
+31R605,31,50,High School,0,0,0,0,0
+31R861,31,49,Elementary,0,0,0,0,0
+32K045,32,37,Elementary,0,0,0,0,0
+32K075,32,34,Elementary,0,0,0,0,0
+32K086,32,37,Elementary,0,0,0,0,0
+32K106,32,37,Elementary,0,0,0,0,0
+32K116,32,37,Elementary,0,0,0,0,0
+32K123,32,34,Elementary,0,0,0,0,0
+32K145,32,34,Elementary,0,0,0,0,0
+32K151,32,37,Elementary,0,0,0,0,0
+32K162,32,34,Junior High-Intermediate-Middle,0,0,0,0,0
+32K168,32,37,High School,1,0,0,0,1
+32K274,32,34,Elementary,0,0,0,0,0
+32K291,32,37,Junior High-Intermediate-Middle,0,0,0,0,0
+32K299,32,34,Elementary,0,0,0,0,0
+32K347,32,34,Junior High-Intermediate-Middle,0,0,0,0,0
+32K349,32,34,Junior High-Intermediate-Middle,0,0,0,0,0
+32K376,32,37,Elementary,0,0,0,0,0
+32K377,32,37,K-8,0,0,0,0,0
+32K383,32,37,Junior High-Intermediate-Middle,0,0,0,0,0
+32K384,32,37,K-8,0,0,0,0,0
+32K403,32,37,High School,0,0,0,0,0
+32K545,32,34,High School,1,0,0,0,1
+32K549,32,37,High School,0,0,0,0,0
+32K552,32,37,High School,0,0,0,0,0
+32K554,32,37,Secondary School,0,0,0,0,0
+32K556,32,34,High School,0,0,0,0,0
+32K562,32,37,Junior High-Intermediate-Middle,0,0,0,0,0
+32K564,32,37,High School,0,0,0,0,0
+75K004,75,42,K-8,0,0,0,0,0
+75K036,75,42,K-12 All Grades,0,0,0,0,0
+75K053,75,38,K-12 All Grades,0,0,0,0,0
+75K077,75,48,K-12 All Grades,0,0,0,0,0
+75K140,75,36,K-8,0,0,0,0,0
+75K141,75,40,K-12 All Grades,0,0,0,0,0
+75K231,75,44,K-8,0,0,0,0,0
+75K368,75,36,K-12 All Grades,0,0,0,0,0
+75K369,75,33,K-12 All Grades,0,0,0,0,0
+75K370,75,48,K-12 All Grades,0,0,0,0,0
+75K371,75,38,High School,0,0,0,0,0
+75K372,75,39,Elementary,0,0,0,0,0
+75K373,75,36,High School,0,0,0,0,0
+75K396,75,41,K-12 All Grades,0,0,0,0,0
+75K721,75,47,High School,0,0,0,0,0
+75K753,75,35,High School,0,0,0,0,0
+75K771,75,48,K-12 All Grades,0,0,0,0,0
+75K811,75,48,Secondary School,0,0,0,0,0
+75M035,75,3,K-12 All Grades,0,0,0,0,0
+75M079,75,9,Secondary School,0,0,0,0,0
+75M094,75,1,K-8,1,0,0,0,1
+75M138,75,9,K-12 All Grades,0,0,0,0,0
+75M169,75,4,K-12 All Grades,0,0,0,0,0
+75M226,75,2,K-12 All Grades,0,0,0,0,0
+75M721,75,3,High School,0,0,0,0,0
+75M751,75,2,High School,0,0,0,0,0
+75M811,75,6,K-8,0,0,0,0,0
+75Q004,75,23,K-12 All Grades,0,0,0,0,0
+75Q009,75,30,K-12 All Grades,0,0,0,0,0
+75Q023,75,23,K-12 All Grades,0,0,0,0,0
+75Q075,75,34,K-12 All Grades,0,0,0,0,0
+75Q177,75,20,K-12 All Grades,0,0,0,0,0
+75Q224,75,23,K-8,0,0,0,0,0
+75Q233,75,29,K-12 All Grades,0,0,0,0,0
+75Q255,75,24,K-12 All Grades,0,0,0,0,0
+75Q277,75,26,Secondary School,1,0,0,0,1
+75Q721,75,25,High School,0,0,0,0,0
+75Q752,75,28,High School,0,0,0,0,0
+75Q811,75,23,K-12 All Grades,0,0,0,0,0
+75Q993,75,23,K-12 All Grades,1,0,0,0,1
+75R025,75,51,K-12 All Grades,0,0,0,0,0
+75R037,75,51,K-12 All Grades,0,0,0,0,0
+75R373,75,49,K-8,0,0,0,0,0
+75R721,75,49,Secondary School,0,0,0,0,0
+75X010,75,13,K-12 All Grades,0,0,0,0,0
+75X012,75,13,K-12 All Grades,0,0,0,0,0
+75X017,75,17,K-8,1,0,0,0,1
+75X168,75,8,K-12 All Grades,0,0,0,0,0
+75X176,75,12,K-12 All Grades,0,0,0,0,0
+75X186,75,16,K-12 All Grades,0,0,0,0,0
+75X188,75,15,K-12 All Grades,0,0,0,0,0
+75X352,75,17,K-8,0,0,0,0,0
+75X469,75,11,Elementary,0,0,0,0,0
+75X721,75,13,High School,0,0,0,0,0
+75X723,75,12,K-12 All Grades,0,0,0,0,0
+75X754,75,8,High School,0,0,0,0,0
+75X811,75,17,Secondary School,0,0,0,0,0

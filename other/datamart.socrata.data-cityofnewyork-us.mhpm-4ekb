@@ -1,0 +1,567 @@
+School Year,DBN,Community School District,City Council District,School Name,# of students in grades 6-8,# of students in grades 6-8 who have completed at least one semester of health instruction,%,# of 8th graders,# of 8th graders who have completed at least one semester of health instruction
+2015-16,01M034,1,2,P.S. 034 Franklin D. Roosevelt,177,177,100.00%,50,50
+2015-16,01M140,1,1,P.S. 140 Nathan Straus,189,s,s,68,s
+2015-16,01M184,1,1,P.S. 184m Shuang Wen,221,54,24.40%,52,s
+2015-16,01M188,1,2,P.S. 188 The Island School,177,s,s,61,s
+2015-16,01M292,1,1,Orchard Collegiate Academy,25,11,44.00%,s,s
+2015-16,01M301,1,2,"Technology, Arts, and Sciences Studio",158,48,30.40%,54,48
+2015-16,01M332,1,1,University Neighborhood Middle School,115,s,s,36,s
+2015-16,01M345,1,1,"Collaborative Academy of Science, Technology, & Language-Arts Education",105,25,23.80%,32,s
+2015-16,01M378,1,1,School for Global Leaders,261,171,65.50%,80,79
+2015-16,01M450,1,2,East Side Community School,291,55,18.90%,92,19
+2015-16,01M539,1,2,"New Explorations into Science, Technology and Math High School",403,137,34.00%,137,137
+2015-16,01M839,1,2,Tompkins Square Middle School,367,s,s,120,s
+2015-16,02M104,2,2,J.H.S. 104 Simon Baruch,"1,118",863,77.20%,351,348
+2015-16,02M111,2,3,P.S. 111 Adolph S. Ochs,52,48,92.30%,52,48
+2015-16,02M114,2,5,East Side Middle School,442,s,s,152,s
+2015-16,02M126,2,1,P.S. 126 Jacob August Riis,337,248,73.60%,107,105
+2015-16,02M131,2,1,M.S. 131,421,209,49.60%,141,14
+2015-16,02M167,2,4,J.H.S. 167 Robert F. Wagner,"1,350",s,s,483,s
+2015-16,02M177,2,5,Yorkville East Middle School,136,s,s,s,s
+2015-16,02M217,2,5,P.S./I.S. 217 Roosevelt Island,63,s,s,s,s
+2015-16,02M225,2,5,Ella Baker School,74,s,s,27,s
+2015-16,02M255,2,2,M.S. 255 Salk School of Science,377,s,s,126,s
+2015-16,02M260,2,2,M.S. 260 Clinton School Writers & Artists,280,279,99.60%,96,95
+2015-16,02M276,2,1,Battery Park City School,250,250,100.00%,66,66
+2015-16,02M289,2,1,I.S. 289,287,s,s,90,s
+2015-16,02M312,2,3,New York City Lab Middle School for Collaborative Studies,550,183,33.30%,183,183
+2015-16,02M347,2,2,The 47 American Sign Language & English Lower School,29,s,s,11,s
+2015-16,02M397,2,1,Spruce Street School,61,s,s,s,s
+2015-16,02M407,2,2,Institute for Collaborative Education,205,s,s,73,s
+2015-16,02M408,2,3,Professional Performing Arts High School,92,s,s,32,s
+2015-16,02M413,2,2,School of the Future High School,299,289,96.70%,99,95
+2015-16,02M422,2,3,Quest to Learn,312,312,100.00%,119,119
+2015-16,02M442,2,2,"Ballet Tech, NYC Public School for Dance",68,23,33.80%,23,23
+2015-16,02M655,2,5,Life Sciences Secondary School,85,s,s,43,s
+2015-16,02M896,2,1,Lower Manhattan Community Middle School,392,s,s,127,s
+2015-16,02M933,2,3,City Knoll Middle School,161,85,52.80%,s,s
+2015-16,03M054,3,7,J.H.S. 054 Booker T. Washington,840,s,s,280,s
+2015-16,03M076,3,9,P.S. 076 A. Philip Randolph,166,105,63.20%,59,55
+2015-16,03M149,3,9,P.S. 149 Sojourner Truth,81,48,59.30%,30,27
+2015-16,03M165,3,7,P.S. 165 Robert E. Simon,199,195,98.00%,84,84
+2015-16,03M180,3,9,P.S. 180 Hugo Newman,173,s,s,56,s
+2015-16,03M191,3,6,P.S. 191 Amsterdam,137,s,s,55,s
+2015-16,03M243,3,6,M.S. 243 Center School,169,s,s,52,s
+2015-16,03M245,3,6,M.S. M245 The Computer School,399,130,32.60%,131,130
+2015-16,03M247,3,6,M.S. M247 Dual Language Middle School,200,s,s,66,s
+2015-16,03M250,3,6,M.S. 250 West Side Collaborative Middle School,178,s,s,61,s
+2015-16,03M256,3,6,M.S. 256 Academic & Athletic Excellence,145,31,21.40%,47,s
+2015-16,03M258,3,6,Community Action School - MS 258,236,228,96.60%,92,88
+2015-16,03M291,3,6,West End Secondary School,138,s,s,s,s
+2015-16,03M333,3,6,P.S. 333 Manhattan School for Children,169,s,s,57,s
+2015-16,03M334,3,6,The Anderson School,225,135,60.00%,62,61
+2015-16,03M415,3,9,Wadleigh Secondary School for the Performing & Visual Arts,s,s,s,s,s
+2015-16,03M421,3,7,West Prep Academy,192,133,69.30%,59,s
+2015-16,03M859,3,6,Special Music School,46,s,s,s,s
+2015-16,03M860,3,9,Frederick Douglass Academy II Secondary School,68,27,39.70%,34,23
+2015-16,03M862,3,7,Mott Hall II,345,s,s,114,s
+2015-16,04M007,4,8,P.S. 007 Samuel Stern,137,s,s,39,s
+2015-16,04M012,4,8,Tag Young Scholars,169,163,96.50%,52,48
+2015-16,04M050,4,8,P.S. 050 Vito Marcantonio,88,88,100.00%,s,s
+2015-16,04M057,4,8,James Weldon Johnson,290,287,99.00%,99,98
+2015-16,04M072,4,8,The Lexington Academy,171,s,s,s,s
+2015-16,04M096,4,8,P.S. 096 Joseph Lanzetta,171,s,s,58,s
+2015-16,04M108,4,8,P.S. 108 Assemblyman Angelo Del Toro Educational Complex,283,167,59.00%,96,84
+2015-16,04M171,4,8,P.S. 171 Patrick Henry,291,s,s,100,s
+2015-16,04M206,4,8,P.S. 206 Jose Celso Barbosa,195,135,69.20%,68,68
+2015-16,04M224,4,8,M.S. 224 Manhattan East School for Arts & Academics,164,s,s,69,s
+2015-16,04M372,4,8,Esperanza Preparatory Academy,259,14,5.40%,101,s
+2015-16,04M377,4,8,Renaissance School of the Arts,161,55,34.20%,57,31
+2015-16,04M381,4,8,Global Neighborhood Secondary School,107,87,81.30%,52,52
+2015-16,04M406,4,8,Global Technology Preparatory,157,61,38.90%,60,59
+2015-16,04M610,4,8,Young Women's Leadership School,158,s,s,54,s
+2015-16,04M825,4,8,Isaac Newton Middle School for Math & Science,226,s,s,91,s
+2015-16,04M964,4,8,Central Park East II,s,s,s,s,s
+2015-16,05M046,5,9,P.S. 046 Arthur Tappan,204,195,95.60%,71,71
+2015-16,05M123,5,9,P.S. 123 Mahalia Jackson,174,s,s,62,s
+2015-16,05M129,5,9,P.S. 129 John H. Finley,151,75,49.70%,63,13
+2015-16,05M148,5,9,Eagle Academy for Young Men of Harlem,193,115,59.60%,74,65
+2015-16,05M161,5,9,P.S. 161 Pedro Albizu Campos,359,354,98.60%,122,121
+2015-16,05M286,5,7,Urban Assembly Academy for Future Leaders,150,s,s,s,s
+2015-16,05M302,5,9,KAPPA IV,155,155,100.00%,61,61
+2015-16,05M362,5,7,Columbia Secondary School,289,s,s,98,s
+2015-16,05M410,5,7,The Urban Assembly Institute for New Technologies,113,s,s,48,s
+2015-16,05M499,5,9,Frederick Douglass Academy,274,106,38.70%,103,101
+2015-16,05M514,5,7,New Design Middle School,219,s,s,99,s
+2015-16,05M670,5,9,Thurgood Marshall Academy for Learning and Social Change,171,s,s,58,s
+2015-16,06M018,6,10,P.S. 018 Park Terrace,141,42,29.80%,s,s
+2015-16,06M052,6,10,J.H.S. 052 Inwood,431,408,94.70%,174,151
+2015-16,06M143,6,10,J.H.S. 143 Eleanor Roosevelt,356,149,41.90%,140,140
+2015-16,06M187,6,10,P.S./I.S. 187 Hudson Cliffs,283,171,60.40%,83,78
+2015-16,06M209,6,7,Hamilton Grange Middle School,163,s,s,s,s
+2015-16,06M210,6,7,P.S./I.S. 210 - Twenty-first Century Academy for Community Leadership,151,s,s,47,s
+2015-16,06M218,6,10,I.S. 218 Salome Urena,235,228,97.00%,99,99
+2015-16,06M223,6,9,The Mott Hall School,270,s,s,90,s
+2015-16,06M278,6,10,Paula Hedbavny School,196,128,65.30%,60,60
+2015-16,06M293,6,10,City College Academy of the Arts,261,s,s,87,s
+2015-16,06M311,6,10,Amistad Dual Language School,133,133,100.00%,47,47
+2015-16,06M319,6,10,M.S. 319 - Maria Teresa,528,11,2.10%,186,s
+2015-16,06M322,6,10,Middle School 322,323,200,61.90%,115,115
+2015-16,06M324,6,10,M.S. 324 - Patria Mirabal,464,68,14.70%,167,35
+2015-16,06M326,6,10,M.S. 326 - Writers Today & Leaders Tomorrow,193,30,15.50%,98,s
+2015-16,06M328,6,10,M.S. 328 - Manhattan Middle School for Scientific Inquiry,162,148,91.40%,71,62
+2015-16,06M346,6,7,Community Health Academy of the Heights,277,s,s,99,s
+2015-16,06M348,6,10,Washington Heights Expeditionary Learning School,255,255,100.00%,89,89
+2015-16,06M349,6,10,Harbor Heights,155,s,s,66,s
+2015-16,06M366,6,10,Washington Heights Academy,112,s,s,s,s
+2015-16,06M528,6,10,I.S. 528 Bea Fuller Rodgers School,199,s,s,68,s
+2015-16,07X005,7,8,P.S. 5 Port Morris,260,s,s,93,s
+2015-16,07X029,7,17,P.S./M.S. 029 Melrose School,275,263,95.60%,96,95
+2015-16,07X031,7,17,P.S./M.S. 031 The William Lloyd Garrison,261,s,s,95,s
+2015-16,07X151,7,17,J.H.S. 151 Lou Gehrig,258,95,36.80%,100,89
+2015-16,07X162,7,17,J.H.S. 162 Lola Rodriguez De Tio,369,16,4.30%,128,14
+2015-16,07X221,7,8,South Bronx Preparatory: A College Board School,293,s,s,103,s
+2015-16,07X223,7,8,M.S. 223 The Laboratory School of Finance and Technology,289,226,78.20%,99,95
+2015-16,07X224,7,8,P.S./I.S. 224,379,13,3.40%,129,s
+2015-16,07X296,7,17,South Bronx Academy for Applied Media,336,289,86.00%,125,93
+2015-16,07X298,7,17,Academy of Public Relations,305,305,100.00%,127,127
+2015-16,07X343,7,8,Academy of Applied Mathematics and Technology,298,s,s,98,s
+2015-16,07X500,7,17,Hostos-Lincoln Academy of Science,185,87,47.00%,67,63
+2015-16,07X551,7,8,The Urban Assembly Bronx Academy of Letters,260,171,65.80%,93,93
+2015-16,08X071,8,13,P.S. 071 Rose E. Scala,562,374,66.50%,174,174
+2015-16,08X101,8,13,M.S. X101 Edward R. Byrne,486,s,s,160,s
+2015-16,08X123,8,18,J.H.S. 123 James M. Kieran,352,215,61.10%,138,109
+2015-16,08X125,8,18,J.H.S. 125 Henry Hudson,379,378,99.70%,161,160
+2015-16,08X131,8,18,J.H.S. 131 Albert Einstein,530,144,27.20%,212,14
+2015-16,08X269,8,17,Bronx Studio School for Writers and Artists,260,32,12.30%,85,11
+2015-16,08X301,8,16,M.S. 301 Paul L. Dunbar,221,74,33.50%,79,70
+2015-16,08X302,8,17,M.S. 302 Luisa Dessus Cruz,485,15,3.10%,170,10
+2015-16,08X337,8,18,The School for Inquiry and Social Justice,471,302,64.10%,116,115
+2015-16,08X366,8,13,Urban Assembly Academy of Civic Engagement,90,79,87.80%,48,42
+2015-16,08X367,8,18,"Archimedes Academy for Math, Science and Technology Applications",280,165,58.90%,98,88
+2015-16,08X371,8,13,Urban Institute of Mathematics,292,s,s,90,s
+2015-16,08X375,8,18,The Bronx Mathematics Preparatory School,257,201,78.20%,105,87
+2015-16,08X376,8,18,Antonia Pantoja Preparatory Academy: A College Board School,189,70,37.00%,73,68
+2015-16,08X424,8,17,The Hunts Point School,312,265,84.90%,103,83
+2015-16,08X448,8,18,Soundview Academy for Culture and Scholarship,366,366,100.00%,125,125
+2015-16,08X467,8,13,Mott Hall Community School,258,13,5.00%,81,s
+2015-16,08X562,8,18,Blueprint Middle School,308,305,99.00%,108,107
+2015-16,09X004,9,15,P.S./M.S. 004 Crotona Park West,173,41,23.70%,64,s
+2015-16,09X022,9,16,J.H.S. 022 Jordan L. Mott,424,s,s,150,s
+2015-16,09X117,9,14,I.S. 117 Joseph H. Wade,580,125,21.50%,208,18
+2015-16,09X128,9,16,Mott Hall III,364,233,64.00%,119,118
+2015-16,09X145,9,16,J.H.S. 145 Arturo Toscanini,304,s,s,115,s
+2015-16,09X215,9,16,Kappa,252,21,8.30%,105,11
+2015-16,09X218,9,16,P.S./I.S. 218 Rafael Hernandez Dual Language Magnet School,275,174,63.30%,89,89
+2015-16,09X219,9,16,I.S. 219 New Venture School,315,s,s,102,s
+2015-16,09X229,9,16,I.S. 229 Roland Patterson,260,45,17.30%,93,44
+2015-16,09X231,9,15,Eagle Academy for Young Men,229,45,19.70%,89,45
+2015-16,09X232,9,14,I.S. 232,520,10,1.90%,193,s
+2015-16,09X241,9,16,"Urban Assembly School for Applied Math and Science, The",257,256,99.60%,83,82
+2015-16,09X303,9,14,I.S. X303 Leadership & Community Service,319,172,53.90%,98,91
+2015-16,09X313,9,16,I.S. 313 School of Leadership Development,313,21,6.70%,110,16
+2015-16,09X323,9,16,Bronx Writing Academy,465,12,2.60%,168,10
+2015-16,09X324,9,16,Bronx Early College Academy for Teaching & Learning,216,214,99.10%,71,71
+2015-16,09X325,9,16,Urban Science Academy,289,s,s,106,s
+2015-16,09X327,9,14,Comprehensive Model School Project M.S. 327,293,98,33.50%,97,s
+2015-16,09X328,9,16,New Millennium Business Academy Middle School,183,55,30.10%,51,s
+2015-16,09X339,9,16,I.S. 339,507,248,48.90%,161,83
+2015-16,09X350,9,16,New Directions Secondary School,153,94,61.40%,68,68
+2015-16,09X361,9,16,The Highbridge Green School,385,29,7.50%,120,s
+2015-16,09X413,9,16,Bronx High School for Medical Science,160,s,s,58,s
+2015-16,09X454,9,16,Science and Technology Academy: A Mott Hall School,431,s,s,144,s
+2015-16,09X505,9,16,"Bronx School for Law, Government and Justice",287,267,93.00%,95,86
+2015-16,09X568,9,14,Young Women's Leadership School of the Bronx,245,245,100.00%,80,80
+2015-16,10X003,10,15,P.S. 3 Raul Julia Micro Society,111,s,s,s,s
+2015-16,10X015,10,14,P.S. X015 Institute for Environmental Learning,182,11,6.00%,54,s
+2015-16,10X020,10,11,"P.S./M.S. 20 P.O.George J. Werdann, III",302,92,30.50%,89,89
+2015-16,10X037,10,11,P.S. X037 - Multiple Intelligence School,188,s,s,61,s
+2015-16,10X045,10,15,Thomas C. Giordano Middle School 45,739,387,52.40%,263,81
+2015-16,10X080,10,11,J.H.S. 080 The Mosholu Parkway,655,s,s,219,s
+2015-16,10X086,10,11,P.S. 086 Kingsbridge Heights,213,125,58.70%,s,s
+2015-16,10X095,10,11,P.S. 095 Sheila Mencher,437,304,69.60%,148,147
+2015-16,10X118,10,15,J.H.S. 118 William W. Niles,"1,157",25,2.20%,390,s
+2015-16,10X141,10,11,Riverdale / Kingsbridge Academy (Middle School / High School 141),717,618,86.20%,223,184
+2015-16,10X206,10,14,I.S. 206 Ann Mersereau,244,56,22.90%,109,s
+2015-16,10X225,10,15,Theatre Arts Production Company School,201,187,93.00%,69,59
+2015-16,10X228,10,15,Jonas Bronck Academy,263,175,66.50%,87,87
+2015-16,10X243,10,15,West Bronx Academy for the Future,241,130,53.90%,77,28
+2015-16,10X244,10,14,The New School for Leadership and Journalism,761,337,44.30%,320,31
+2015-16,10X254,10,15,I.S. 254,474,171,36.10%,143,s
+2015-16,10X279,10,14,"P.S. 279 Captain Manuel Rivera, Jr.",375,153,40.80%,127,109
+2015-16,10X280,10,11,P.S./M.S. 280 Mosholu Parkway,296,175,59.10%,96,87
+2015-16,10X308,10,11,Bronx Dance Academy School,271,s,s,93,s
+2015-16,10X315,10,14,P.S. 315 Lab School,106,65,61.30%,50,39
+2015-16,10X331,10,14,The Bronx School of Young Leaders,398,s,s,129,s
+2015-16,10X342,10,11,International School for Liberal Arts,158,59,37.30%,59,59
+2015-16,10X363,10,14,Academy For Personal Leadership And Excellence,454,267,58.80%,155,147
+2015-16,10X368,10,11,In-Tech Academy (M.S. / High School 368),450,303,67.30%,152,136
+2015-16,10X390,10,14,M.S. 390,445,s,s,110,s
+2015-16,10X391,10,15,The Angelo Patri Middle School,506,s,s,154,s
+2015-16,10X447,10,14,Creston Academy,480,s,s,166,s
+2015-16,10X459,10,14,East Fordham Academy for the Arts,343,51,14.90%,152,50
+2015-16,11X019,11,11,P.S. 019 Judith K. Weiss,161,110,68.30%,s,s
+2015-16,11X083,11,13,P.S. 083 Donald Hertz,672,s,s,222,s
+2015-16,11X089,11,13,P.S. 089 Bronx,516,s,s,175,s
+2015-16,11X127,11,18,J.H.S. 127 The Castle Hill,769,519,67.50%,271,271
+2015-16,11X144,11,13,J.H.S. 144 Michelangelo,495,s,s,186,s
+2015-16,11X175,11,13,P.S. 175 City Island,117,s,s,34,s
+2015-16,11X180,11,12,M.S. 180 Dr. Daniel Hale Williams,873,561,64.30%,303,288
+2015-16,11X181,11,12,I.S. 181 Pablo Casals,865,283,32.70%,277,274
+2015-16,11X194,11,18,P.S./M.S. 194,466,s,s,155,s
+2015-16,11X272,11,12,Globe School for Environmental Research,206,67,32.50%,84,13
+2015-16,11X287,11,12,North Bronx School of Empowerment,242,131,54.10%,100,14
+2015-16,11X289,11,12,The Young Scholars Academy of The Bronx,304,109,35.90%,115,106
+2015-16,11X326,11,13,Bronx Green Middle School,394,265,67.30%,134,134
+2015-16,11X355,11,12,Bronx Alliance Middle School,362,s,s,124,s
+2015-16,11X370,11,12,Leaders of Tomorrow,231,51,22.10%,69,51
+2015-16,11X462,11,12,Cornerstone Academy for Social Action Middle School (CASA),251,72,28.70%,79,72
+2015-16,11X468,11,13,Pelham Academy of Academics and Community Engagement,354,135,38.10%,133,132
+2015-16,11X498,11,13,P.S./M.S. 11X498 - VAN NEST ACADEMY,279,s,s,90,s
+2015-16,11X529,11,12,One World Middle School at Edenwald,329,s,s,111,s
+2015-16,11X532,11,12,Baychester Middle School,296,87,29.40%,96,49
+2015-16,11X556,11,13,Bronx Park Middle School,398,s,s,129,s
+2015-16,11X566,11,13,Pelham Gardens Middle School,471,s,s,168,s
+2015-16,12X098,12,17,J.H.S. 098 Herman Ridder,191,107,56.00%,68,10
+2015-16,12X129,12,15,M.S. 129 Academy for Independent Learning and Leadership,532,347,65.20%,171,163
+2015-16,12X190,12,17,E.S.M.T- I.S. 190,244,s,s,82,s
+2015-16,12X211,12,17,P.S. 211,239,146,61.10%,104,76
+2015-16,12X212,12,17,P.S. 212,204,201,98.50%,72,71
+2015-16,12X214,12,17,P.S. 214,441,239,54.20%,139,114
+2015-16,12X217,12,17,School of Performing Arts,303,10,3.30%,100,s
+2015-16,12X242,12,18,Mott Hall V,301,s,s,101,s
+2015-16,12X267,12,16,Bronx Latin,247,156,63.20%,91,s
+2015-16,12X271,12,17,East Bronx Academy for the Future,260,s,s,82,s
+2015-16,12X273,12,15,Frederick Douglass Academy V. Middle School,263,161,61.20%,93,86
+2015-16,12X286,12,17,Fannie Lou Hamer Middle School,272,s,s,86,s
+2015-16,12X316,12,15,Kappa III,367,243,66.20%,120,120
+2015-16,12X318,12,17,"I.S. X318 Math, Science & Technology Through Arts",288,s,s,87,s
+2015-16,12X341,12,17,Accion Academy,152,101,66.40%,64,59
+2015-16,12X372,12,17,Urban Assembly School for Wildlife Conservation,215,s,s,65,s
+2015-16,12X383,12,17,Emolior Academy,251,83,33.10%,87,82
+2015-16,12X384,12,17,Entrada Academy,266,170,63.90%,98,82
+2015-16,13K008,13,33,P.S. 008 Robert Fulton,213,s,s,54,s
+2015-16,13K113,13,35,M.S. 113 Ronald Edmonds Learning Center,397,10,2.50%,168,s
+2015-16,13K265,13,35,Dr. Susan S. McKinney Secondary School of the Arts,s,s,s,s,s
+2015-16,13K266,13,39,M.S. K266 - Park Place Community Middle School,133,s,s,s,s
+2015-16,13K282,13,39,P.S. 282 Park Slope,318,111,34.90%,122,s
+2015-16,13K301,13,36,Satellite East Middle School,93,30,32.30%,29,29
+2015-16,13K313,13,33,Dock Street School,73,28,38.40%,32,27
+2015-16,13K351,13,35,The Urban Assembly Unison School,152,81,53.30%,59,59
+2015-16,13K492,13,35,Academy of Arts and Letters,175,s,s,57,s
+2015-16,13K527,13,33,Urban Assembly Institute of Math and Science for Young Women,167,70,41.90%,58,s
+2015-16,13K596,13,33,M.S. 596 Peace Academy,47,28,59.60%,18,18
+2015-16,13K691,13,35,Fort Greene Preparatory Academy,236,155,65.70%,79,74
+2015-16,14K050,14,34,J.H.S. 050 John D. Wells,211,93,44.10%,93,50
+2015-16,14K071,14,33,Juan Morel Campos Secondary School,238,207,87.00%,89,74
+2015-16,14K084,14,34,P.S. 084 Jose De Diego,133,s,s,s,s
+2015-16,14K126,14,33,John Ericsson Middle School 126,369,222,60.20%,100,91
+2015-16,14K157,14,33,P.S./I.S. 157 The Benjamin Franklin Health & Science Academy,177,146,82.50%,54,42
+2015-16,14K318,14,33,I.S. 318 Eugenio Maria De Hostos,"1,474",104,7.10%,501,76
+2015-16,14K330,14,36,The School for the Urban Environment,73,s,s,s,s
+2015-16,14K577,14,34,Conselyea Preparatory School,506,s,s,171,s
+2015-16,14K582,14,34,M.S. 582,244,243,99.60%,77,76
+2015-16,14K586,14,34,Lyons Community School,179,73,40.80%,72,69
+2015-16,14K614,14,34,Young Women's Leadership School of Brooklyn,134,131,97.80%,44,42
+2015-16,15K051,15,39,M.S. 51 William Alexander,"1,124",366,32.60%,375,s
+2015-16,15K088,15,38,J.H.S. 088 Peter Rouget,"1,258",739,58.70%,410,370
+2015-16,15K136,15,38,I.S. 136 Charles O. Dewey,503,117,23.30%,186,63
+2015-16,15K429,15,33,Digital Arts and Cinema Technology High School,54,s,s,s,s
+2015-16,15K442,15,39,M.S. 442 Carroll Gardens School for Innovation,214,s,s,74,s
+2015-16,15K443,15,38,New Voices School of Academic & Creative Arts,538,s,s,170,s
+2015-16,15K447,15,33,The Math & Science Exploratory School,524,337,64.30%,170,163
+2015-16,15K448,15,39,Brooklyn Secondary School for Collaborative Studies,264,s,s,93,s
+2015-16,15K464,15,39,Park Slope Collegiate,171,51,29.80%,45,39
+2015-16,15K497,15,33,The Boerum Hill School for International Studies,167,26,15.60%,30,s
+2015-16,15K821,15,38,Sunset Park Prep,517,510,98.70%,177,172
+2015-16,15K839,15,39,M.S. 839,s,s,s,s,s
+2015-16,16K035,16,36,M.S. 035 Stephen Decatur,165,49,29.70%,60,48
+2015-16,16K057,16,36,J.H.S. 057 Whitelaw Reid,171,55,32.20%,54,54
+2015-16,16K262,16,36,P.S. 262 El Hajj Malik El Shabazz Elementary School,168,s,s,63,s
+2015-16,16K267,16,36,"M.S. 267 Math, Science & Technology",173,71,41.00%,73,69
+2015-16,16K308,16,36,P.S. 308 Clara Cardwell,167,62,37.10%,62,61
+2015-16,16K385,16,36,"School of Business, Finance and Entrepreneurship",58,44,75.90%,s,s
+2015-16,16K534,16,36,Upper School @ P.S. 25,85,43,50.60%,38,38
+2015-16,16K584,16,36,M.S. 584,93,s,s,37,s
+2015-16,16K681,16,36,Madiba Prep Middle School,171,119,69.60%,76,74
+2015-16,17K002,17,40,Parkside Preparatory Academy,479,427,89.10%,165,130
+2015-16,17K061,17,40,M.S. 061 Dr. Gladstone H. Atwell,800,500,62.50%,242,239
+2015-16,17K138,17,36,P.S. 138 Brooklyn,278,s,s,89,s
+2015-16,17K161,17,35,P.S. 161 The Crown,s,s,s,s,s
+2015-16,17K181,17,45,P.S. 181 Brooklyn,265,156,58.90%,92,65
+2015-16,17K189,17,41,P.S. 189 The Bilingual Center,397,s,s,146,s
+2015-16,17K246,17,40,M.S. 246 Walt Whitman,491,363,73.90%,206,135
+2015-16,17K334,17,36,Middle School for Academic and Social Excellence,74,s,s,40,s
+2015-16,17K340,17,35,I.S. 340,202,196,97.00%,56,51
+2015-16,17K352,17,35,Ebbets Field Middle School,192,89,46.30%,91,88
+2015-16,17K353,17,35,Elijah Stroud Middle School,206,189,91.80%,99,90
+2015-16,17K354,17,36,The School of Integrated Learning,212,s,s,80,s
+2015-16,17K382,17,40,Academy for College Preparation and Career Exploration: A College Board School,133,76,57.10%,53,42
+2015-16,17K394,17,36,M.S. K394,189,181,95.80%,77,72
+2015-16,17K484,17,41,Ronald Edmonds Learning Center II,137,83,60.60%,50,46
+2015-16,17K531,17,40,"School for Human Rights, The",s,s,s,s,s
+2015-16,17K533,17,40,School for Democracy and Leadership,s,s,s,s,s
+2015-16,17K543,17,40,"Science, Technology and Research Early College High School at Erasmus",193,s,s,60,s
+2015-16,17K590,17,35,Medgar Evers College Preparatory School,309,s,s,93,s
+2015-16,17K722,17,41,New Heights Middle School,275,s,s,99,s
+2015-16,18K066,18,42,P.S. 66,315,304,96.50%,109,103
+2015-16,18K068,18,46,I.S. 068 Isaac Bildersee,480,s,s,212,s
+2015-16,18K211,18,46,I.S. 211 John Wilson,590,471,79.80%,225,196
+2015-16,18K235,18,41,P.S. 235 Janice Marie Knight School,294,82,27.90%,82,82
+2015-16,18K285,18,45,I.S. 285 Meyer Levin,712,237,33.30%,300,161
+2015-16,18K366,18,46,The Science And Medicine Middle School,489,54,11.00%,173,54
+2015-16,18K581,18,41,East Flatbush Community Research School,134,64,47.80%,s,s
+2015-16,18K588,18,41,Middle School for Art and Philosophy,221,97,43.90%,94,94
+2015-16,18K598,18,41,Middle School of Marketing and Legal Studies,187,s,s,74,s
+2015-16,18K763,18,45,Brooklyn Science and Engineering Academy,148,147,99.30%,s,s
+2015-16,19K089,19,37,P.S. 089 Cypress Hills,178,177,99.40%,63,63
+2015-16,19K171,19,37,I.S. 171 Abraham Lincoln,552,297,53.80%,256,20
+2015-16,19K218,19,42,J.H.S. 218 James P. Sinnott,436,299,68.60%,184,184
+2015-16,19K292,19,42,J.H.S. 292 Margaret S. Douglas,637,106,16.60%,239,92
+2015-16,19K306,19,42,P.S. 306 Ethan Allen,151,68,45.00%,56,33
+2015-16,19K311,19,42,Essence School,114,s,s,s,s
+2015-16,19K364,19,42,I.S. 364 Gateway,307,188,61.20%,102,58
+2015-16,19K404,19,42,Academy for Young Writers,199,199,100.00%,69,69
+2015-16,19K409,19,42,East New York Family Academy,207,s,s,69,s
+2015-16,19K422,19,46,Spring Creek Community School,221,s,s,73,s
+2015-16,19K452,19,42,Frederick Douglass Academy VIII Middle School,305,300,98.40%,99,97
+2015-16,19K654,19,42,Van Siclen Community Middle School,314,170,54.10%,114,18
+2015-16,19K661,19,37,Vista Academy,359,135,37.60%,129,129
+2015-16,19K662,19,37,Liberty Avenue Middle School,436,400,91.70%,153,143
+2015-16,19K663,19,42,School of the Future Brooklyn,154,110,71.40%,55,12
+2015-16,19K678,19,42,East New York Middle School of Excellence,254,166,65.40%,86,s
+2015-16,19K760,19,37,Highland Park Community School,207,103,49.80%,s,s
+2015-16,20K030,20,43,P.S./I.S. 30 Mary White Ovington,403,403,100.00%,150,150
+2015-16,20K062,20,40,J.H.S. 062 Ditmas,"1,196",692,57.90%,442,s
+2015-16,20K104,20,43,P.S./I.S. 104 The Fort Hamilton School,491,478,97.40%,160,159
+2015-16,20K163,20,43,P.S. 163 Bath Beach,232,115,49.60%,69,56
+2015-16,20K180,20,44,The SEEALL Academy,503,s,s,154,s
+2015-16,20K187,20,38,The Christa McAuliffe School\I.S. 187,992,710,71.60%,368,367
+2015-16,20K192,20,44,P.S. 192 - The Magnet School for Math and Science Inquiry,178,s,s,59,59
+2015-16,20K201,20,43,J.H.S. 201 The Dyker Heights,"1,484","1,464",98.70%,475,474
+2015-16,20K220,20,38,J.H.S. 220 John J. Pershing,"1,441",980,68.00%,460,112
+2015-16,20K223,20,44,J.H.S. 223 The Montauk,"1,013",590,58.20%,343,294
+2015-16,20K227,20,38,J.H.S. 227 Edward B. Shallow,"1,313","1,164",88.70%,446,429
+2015-16,20K229,20,43,P.S. 229 Dyker,321,190,59.20%,91,91
+2015-16,20K259,20,43,J.H.S. 259 William Mckinley,"1,621",591,36.50%,495,495
+2015-16,20K609,20,44,Urban Assembly School for Criminal Justice,197,127,64.50%,s,s
+2015-16,20K686,20,44,Brooklyn School of Inquiry,154,s,s,s,s
+2015-16,21K095,21,47,P.S. 095 The Gravesend,141,s,s,50,s
+2015-16,21K096,21,44,I.S. 096 Seth Low,669,390,58.30%,234,11
+2015-16,21K098,21,48,I.S. 98 Bay Academy,"1,486","1,463",98.40%,465,456
+2015-16,21K099,21,44,P.S. 099 Isaac Asimov,249,249,100.00%,76,76
+2015-16,21K121,21,44,P.S. 121 Nelson A. Rockefeller,85,85,100.00%,31,31
+2015-16,21K209,21,48,P.S. 209 Margaret Mead,180,115,63.90%,68,65
+2015-16,21K225,21,48,P.S. K225 - The Eileen E. Zaglin,387,s,s,140,s
+2015-16,21K226,21,44,P.S. 226 Alfred De B.Mason,296,s,s,90,s
+2015-16,21K228,21,47,I.S. 228 David A. Boody,"1,372",905,66.00%,417,390
+2015-16,21K238,21,44,P.S. 238 Anne Sullivan,172,69,40.10%,47,44
+2015-16,21K239,21,47,Mark Twain I.S. 239 for the Gifted & Talented,"1,333","1,034",77.60%,477,416
+2015-16,21K281,21,47,I.S. 281 Joseph B Cavallaro,"1,191",767,64.40%,416,384
+2015-16,21K288,21,47,P.S. 288 The Shirley Tanyhill,s,s,s,s,s
+2015-16,21K303,21,47,I.S. 303 Herbert S. Eisenberg,506,s,s,188,s
+2015-16,21K468,21,47,Kingsborough Early College School,237,s,s,56,s
+2015-16,21K690,21,47,Brooklyn Studio Secondary School,255,88,34.50%,87,87
+2015-16,22K014,22,48,J.H.S. 014 Shell Bank,560,559,99.80%,194,194
+2015-16,22K078,22,46,J.H.S. 078 Roy H. Mann,653,428,65.50%,258,255
+2015-16,22K109,22,45,P.S. 109,266,265,99.60%,s,s
+2015-16,22K206,22,48,P.S. 206 Joseph F Lamb,358,224,62.60%,114,112
+2015-16,22K207,22,46,P.S. 207 Elizabeth G. Leary,407,261,64.10%,113,112
+2015-16,22K234,22,48,J.H.S. 234 Arthur W. Cunningham,"1,991","1,586",79.70%,638,524
+2015-16,22K240,22,45,Andries Hudde,843,498,59.10%,301,157
+2015-16,22K278,22,46,J.H.S. 278 Marine Park,935,11,1.20%,323,s
+2015-16,22K381,22,48,I. S. 381,304,129,42.40%,112,86
+2015-16,23K041,23,42,P.S. 041 Francis White,159,159,100.00%,40,40
+2015-16,23K137,23,41,P.S./I.S. 137 Rachel Jean Mitchell,95,29,30.50%,34,s
+2015-16,23K155,23,37,P.S./ I.S. 155 Nicholas Herkimer,137,137,100.00%,56,56
+2015-16,23K165,23,42,P.S. 165 Ida Posner,115,39,33.90%,35,34
+2015-16,23K178,23,41,P.S. 178 Saint Clair Mckelway,110,s,s,50,s
+2015-16,23K184,23,42,P.S. 184 Newport,124,17,13.70%,s,s
+2015-16,23K284,23,41,"The Gregory Jocko Jackson School of Sports, Art, and Technology",201,189,94.00%,84,83
+2015-16,23K323,23,41,P.S./I.S. 323,184,35,19.00%,60,33
+2015-16,23K327,23,41,P.S. 327 Dr. Rose B. English,152,57,37.50%,63,s
+2015-16,23K363,23,37,Brownsville Collaborative Middle School,99,68,68.70%,s,s
+2015-16,23K392,23,41,I.S. 392,257,s,s,62,s
+2015-16,23K518,23,42,Kappa V (Knowledge and Power Preparatory Academy),189,118,62.40%,58,58
+2015-16,23K522,23,41,Mott Hall IV,183,118,64.50%,80,77
+2015-16,23K644,23,41,Eagle Academy for Young Men II,256,s,s,99,s
+2015-16,23K664,23,37,Brooklyn Environmental Exploration School (BEES),113,s,s,44,s
+2015-16,23K668,23,42,Riverdale Avenue Middle School,114,65,57.00%,44,39
+2015-16,23K671,23,41,Mott Hall Bridges Academy,199,190,95.50%,66,58
+2015-16,23K697,23,41,Teachers Preparatory High School,71,45,63.40%,24,22
+2015-16,24Q005,24,25,I.S. 5 - The Walter Crowley Intermediate School,"1,828",764,41.80%,595,525
+2015-16,24Q049,24,30,P.S. 049 Dorothy Bonawit Kole,386,s,s,112,s
+2015-16,24Q058,24,30,P.S. 58 - The School of Heroes,127,112,88.20%,s,s
+2015-16,24Q061,24,21,I.S. 061 Leonardo Da Vinci,"2,207",57,2.60%,812,39
+2015-16,24Q073,24,30,I.S. 73 - The Frank Sansivieri Intermediate School,"2,000",969,48.40%,680,376
+2015-16,24Q077,24,34,I.S. 077,"1,027",386,37.60%,356,119
+2015-16,24Q087,24,30,P.S./I.S. 087 Middle Village,175,109,62.30%,s,s
+2015-16,24Q093,24,30,I.S. 093 Ridgewood,"1,143","1,006",88.00%,366,293
+2015-16,24Q102,24,25,P.S. 102 Bayview,382,380,99.50%,117,117
+2015-16,24Q113,24,30,P.S./I.S. 113 Anthony J. Pranzo,363,11,3.00%,110,s
+2015-16,24Q119,24,30,I.S. 119 The Glendale,701,13,1.90%,242,s
+2015-16,24Q125,24,26,I.S. 125 Thom J. McCann Woodside,"1,498",403,26.90%,551,329
+2015-16,24Q128,24,30,"P.S. 128 The Lorraine Tuzzo, Juniper Valley Elementary School",305,199,65.20%,93,93
+2015-16,24Q153,24,30,P.S. 153 Maspeth Elem,146,s,s,s,s
+2015-16,24Q311,24,21,Corona Arts and Sciences Academy,300,147,49.00%,90,33
+2015-16,24Q560,24,26,"Robert F. Wagner, Jr. Secondary School for Arts and Technology",114,s,s,s,s
+2015-16,25Q025,25,19,I.S. 025 Adrien Block,873,11,1.30%,277,s
+2015-16,25Q164,25,24,P.S. 164 Queens Valley,242,240,99.20%,68,68
+2015-16,25Q185,25,19,J.H.S. 185 Edward Bleeker,"1,567",28,1.80%,551,s
+2015-16,25Q189,25,20,J.H.S. 189 Daniel Carter Beard,693,690,99.60%,219,216
+2015-16,25Q194,25,19,J.H.S. 194 William Carr,"1,120","1,049",93.70%,351,338
+2015-16,25Q200,25,24,P.S./M.S. 200 - The Pomonok School & STAR Academy,158,s,s,45,s
+2015-16,25Q219,25,24,P.S. 219 Paul Klapper,253,s,s,83,s
+2015-16,25Q237,25,20,I.S. 237,"1,261","1,124",89.10%,428,365
+2015-16,25Q250,25,24,I.S. 250 The Robert F. Kennedy Community Middle School,391,236,60.40%,114,100
+2015-16,25Q252,25,24,"Queens School of Inquiry, The",235,215,91.50%,79,59
+2015-16,25Q281,25,20,East-West School of International Studies,320,101,31.60%,98,98
+2015-16,25Q285,25,19,World Journalism Preparatory: A College Board School,232,155,66.80%,80,79
+2015-16,25Q294,25,19,BELL Academy,367,367,100.00%,96,96
+2015-16,25Q499,25,24,"The Queens College School for Math, Science and Technology",167,161,96.40%,56,56
+2015-16,26Q067,26,19,J.H.S. 067 Louis Pasteur,897,802,89.40%,287,193
+2015-16,26Q074,26,23,J.H.S. 074 Nathaniel Hawthorne,"1,124",379,33.70%,364,s
+2015-16,26Q158,26,19,M.S. 158 Marie Curie,"1,086",373,34.30%,372,367
+2015-16,26Q172,26,23,Irwin Altman Middle School 172,986,s,s,341,s
+2015-16,26Q178,26,23,P.S./ IS 178 Holliswood,185,s,s,64,s
+2015-16,26Q216,26,24,J.H.S. 216 George J. Ryan,"1,417",478,33.70%,472,472
+2015-16,26Q266,26,23,P.S./I.S. 266,229,s,s,80,s
+2015-16,27Q042,27,31,P.S./M.S 042 R. Vernam,214,144,67.30%,68,68
+2015-16,27Q043,27,31,P.S. 043,245,140,57.10%,69,57
+2015-16,27Q045,27,28,P.S. 045 Clarence Witherspoon,29,s,s,s,s
+2015-16,27Q047,27,32,P.S. 047 Chris Galas,49,s,s,s,s
+2015-16,27Q053,27,31,M.S. 053 Brian Piccolo,317,170,53.60%,105,54
+2015-16,27Q105,27,31,P.S. 105 The Bay School,261,85,32.60%,91,83
+2015-16,27Q114,27,32,P.S./M.S. 114 Belle Harbor,110,s,s,s,s
+2015-16,27Q124,27,28,P.S. 124 Osmond A Church,488,309,63.30%,180,164
+2015-16,27Q137,27,32,M.S. 137 America's School of Heroes,"1,917","1,305",68.10%,636,636
+2015-16,27Q146,27,32,P.S. 146 Howard Beach,205,204,99.50%,67,66
+2015-16,27Q183,27,31,P.S. 183 Dr. Richard R. Green,174,139,79.90%,45,45
+2015-16,27Q202,27,32,J.H.S. 202 Robert H. Goddard,"1,060",951,89.70%,349,289
+2015-16,27Q207,27,32,P.S. 207 Rockwood Park,231,144,62.30%,71,71
+2015-16,27Q210,27,32,J.H.S. 210 Elizabeth Blackwell,"1,882","1,722",91.50%,654,632
+2015-16,27Q226,27,28,J.H.S. 226 Virgil I. Grissom,934,279,29.90%,339,252
+2015-16,27Q232,27,32,P.S. 232 Lindenwood,299,183,61.20%,87,87
+2015-16,27Q262,27,32,Channel View School for Research,232,92,39.70%,58,s
+2015-16,27Q282,27,31,Knowledge and Power Preparatory Academy VI,259,250,96.50%,87,82
+2015-16,27Q297,27,28,Hawtree Creek Middle School,361,90,24.90%,s,s
+2015-16,27Q309,27,31,Academy of Medical Technology: A College Board School,209,199,95.20%,74,71
+2015-16,27Q318,27,32,Waterside School For Leadership,215,40,18.60%,67,39
+2015-16,27Q319,27,31,Village Academy,330,s,s,118,s
+2015-16,27Q323,27,32,Scholars' Academy,756,734,97.10%,263,252
+2015-16,27Q333,27,31,Goldie Maple Academy,124,s,s,44,s
+2015-16,28Q008,28,27,J.H.S. 008 Richard S. Grossley,368,254,69.00%,137,115
+2015-16,28Q072,28,28,Catherine & Count Basie Middle School 72,609,186,30.50%,289,100
+2015-16,28Q099,28,29,P.S. 099 Kew Gardens,79,s,s,s,s
+2015-16,28Q101,28,29,P.S. 101 School in the Gardens,25,s,s,s,s
+2015-16,28Q157,28,29,J.H.S. 157 Stephen A. Halsey,"1,521","1,427",93.80%,503,454
+2015-16,28Q167,28,29,Metropolitan Expeditionary Learning School,368,s,s,116,s
+2015-16,28Q190,28,29,J.H.S. 190 Russell Sage,"1,051","1,005",95.60%,364,323
+2015-16,28Q217,28,24,J.H.S. 217 Robert A. Van Wyck,"1,621","1,036",63.90%,579,514
+2015-16,28Q284,28,27,York Early College Academy,278,183,65.80%,94,91
+2015-16,28Q287,28,27,The Emerson School,346,210,60.70%,105,90
+2015-16,28Q310,28,24,Queens Collegiate: A College Board School,240,151,62.90%,83,s
+2015-16,28Q332,28,28,Redwood Middle School,201,s,s,s,s
+2015-16,28Q358,28,24,M.S. 358,123,s,s,s,s
+2015-16,28Q680,28,24,Queens Gateway to Health Sciences Secondary School,274,183,66.80%,91,91
+2015-16,28Q896,28,24,"Young Women's Leadership School, Queens",236,159,67.40%,s,s
+2015-16,29Q059,29,27,I.S. 059 Springfield Gardens,556,405,72.80%,183,151
+2015-16,29Q109,29,23,Jean Nuzzi Intermediate School,991,343,34.60%,345,339
+2015-16,29Q116,29,27,P.S./I.S. 116 William C. Hughley,169,s,s,43,s
+2015-16,29Q138,29,31,P.S./M.S. 138 Sunrise,314,178,56.70%,94,76
+2015-16,29Q147,29,27,P.S./M.S. 147 Ronald McNair,220,70,31.80%,69,69
+2015-16,29Q192,29,27,I.S. 192 The Linden,522,436,83.50%,177,171
+2015-16,29Q208,29,23,P.S./I.S. 208,269,s,s,87,s
+2015-16,29Q238,29,27,I.S. 238 - Susan B. Anthony Academy,"1,522",884,58.10%,519,393
+2015-16,29Q259,29,27,Pathways College Preparatory School: A College Board School,213,s,s,58,s
+2015-16,29Q268,29,27,P.S./I.S. 268,183,s,s,52,s
+2015-16,29Q270,29,31,The Gordon Parks School,239,138,57.70%,71,71
+2015-16,29Q283,29,31,Preparatory Academy for Writers: A College Board School,165,s,s,53,s
+2015-16,29Q289,29,31,Queens United Middle School,239,229,95.80%,79,79
+2015-16,29Q295,29,23,P.S./I.S. 295,183,111,60.70%,53,48
+2015-16,29Q327,29,27,Eagle Academy for Young Men III,234,234,100.00%,75,75
+2015-16,29Q355,29,31,Collaborative Arts Middle School,400,14,3.50%,149,s
+2015-16,29Q356,29,31,Community Voices Middle School,375,371,98.90%,153,151
+2015-16,30Q010,30,22,I.S. 010 Horace Greeley,794,743,93.60%,300,298
+2015-16,30Q011,30,26,P.S. 011 Kathryn Phelan,145,143,98.60%,s,s
+2015-16,30Q078,30,26,P.S./I.S. 78Q,96,91,94.80%,29,29
+2015-16,30Q084,30,22,P.S. 084 Steinway,14,14,100.00%,s,s
+2015-16,30Q111,30,26,P.S. 111 Jacob Blackwell,98,33,33.70%,34,32
+2015-16,30Q122,30,22,P.S. 122 Mamie Fay,284,284,100.00%,92,92
+2015-16,30Q126,30,22,Albert Shanker School for Visual and Performing Arts,580,209,36.00%,207,207
+2015-16,30Q127,30,21,P.S. 127 Aerospace Science Magnet School,397,391,98.50%,127,125
+2015-16,30Q141,30,22,I.S. 141 The Steinway,"1,148",755,65.80%,387,387
+2015-16,30Q145,30,25,I.S. 145 Joseph Pulitzer,"1,945","1,173",60.30%,684,511
+2015-16,30Q150,30,26,P.S. 150 Queens,104,53,51.00%,s,s
+2015-16,30Q204,30,26,I.S. 204 Oliver W. Holmes,485,455,93.80%,171,166
+2015-16,30Q227,30,21,I.S. 227 Louis Armstrong,"1,386","1,055",76.10%,457,168
+2015-16,30Q230,30,25,I.S. 230,"1,204","1,123",93.30%,334,294
+2015-16,30Q235,30,22,Academy for New Americans,207,s,s,68,s
+2015-16,30Q286,30,22,"Young Women's Leadership School, Astoria",243,79,32.50%,78,78
+2015-16,30Q291,30,26,Hunters Point Community Middle School,369,10,2.70%,122,s
+2015-16,30Q300,30,22,The 30th Avenue School (G&T Citywide),75,s,s,s,s
+2015-16,30Q580,30,26,Baccalaureate School for Global Education,186,92,49.50%,80,45
+2015-16,31R002,31,50,I.S. R002 George L. Egbert,819,557,68.00%,259,208
+2015-16,31R007,31,51,I.S. 007 Elias Bernstein,"1,191",s,s,411,s
+2015-16,31R024,31,51,I.S. 024 Myra S. Barnes,"1,292",887,68.70%,454,443
+2015-16,31R027,31,49,I.S. 027 Anning S. Prall,"1,038",644,62.00%,373,321
+2015-16,31R028,31,49,The Eagle Academy for Young Men of Staten Island,124,39,31.50%,s,s
+2015-16,31R034,31,51,I.S. 034 Tottenville,"1,170","1,122",95.90%,387,356
+2015-16,31R048,31,50,P.S. 048 William G. Wilcox,315,s,s,s,s
+2015-16,31R049,31,49,I.S. 49 Berta A. Dreyfus,785,476,60.60%,279,216
+2015-16,31R051,31,50,I.S. 051 Edwin Markham,"1,284",875,68.20%,468,346
+2015-16,31R061,31,49,I.S. 061 William A Morris,"1,108",752,67.90%,384,341
+2015-16,31R063,31,51,Marsh Avenue School for Expeditionary Learning,437,s,s,137,s
+2015-16,31R072,31,51,I.S. 072 Rocco Laurie,"1,326",848,64.00%,437,413
+2015-16,31R075,31,51,I.S. 075 Frank D. Paulo,"1,386",973,70.20%,470,344
+2015-16,31R080,31,50,The Michael J. Petrides School,284,s,s,s,s
+2015-16,31R861,31,49,Staten Island School of Civic Leadership,298,10,3.40%,97,s
+2015-16,32K045,32,37,P.S./I.S. 045 Horace E. Greene,201,s,s,60,s
+2015-16,32K162,32,34,J.H.S. 162 The Willoughby,472,408,86.40%,168,152
+2015-16,32K291,32,37,J.H.S. 291 Roland Hayes,345,228,66.10%,128,115
+2015-16,32K347,32,34,I.S. 347 School of Humanities,300,s,s,109,s
+2015-16,32K349,32,34,"I.S. 349 Math, Science & Tech.",305,111,36.40%,122,111
+2015-16,32K377,32,37,P.S. 377 Alejandrina B. De Gautier,162,99,61.10%,54,52
+2015-16,32K383,32,37,J.H.S. 383 Philippa Schuyler,894,26,2.90%,283,25
+2015-16,32K384,32,37,P.S. /I.S. 384 Frances E. Carter,203,202,99.50%,79,79
+2015-16,32K554,32,37,All City Leadership Secondary School,181,62,34.30%,61,61
+2015-16,32K562,32,37,Evergreen Middle School for Urban Exploration,302,291,96.40%,111,101
+2015-16,75K036,75,42,P.S. 36,89,89,100.00%,26,26
+2015-16,75K053,75,38,P.S. K053,118,s,s,48,s
+2015-16,75K077,75,48,P.S. K077,57,s,s,20,s
+2015-16,75K140,75,36,P.S. K140,96,94,97.90%,30,30
+2015-16,75K141,75,40,P.S. K141,151,s,s,60,s
+2015-16,75K231,75,44,P.S. K231,58,s,s,25,s
+2015-16,75K368,75,36,P.S. 368,87,47,54.00%,31,21
+2015-16,75K369,75,33,P.S. K369 - Coy L. Cox School,188,85,45.20%,62,36
+2015-16,75K370,75,48,P.S. 370,68,s,s,11,s
+2015-16,75K372,75,39,P.S. 372 -The Children's School,s,s,s,s,s
+2015-16,75K396,75,41,P.S. K396,91,s,s,s,s
+2015-16,75K721,75,47,P.S. K721 - Brooklyn Occupational Training Center,s,s,s,s,s
+2015-16,75K771,75,48,P.S. K771,95,60,63.20%,25,18
+2015-16,75K811,75,48,P.S. K811 Connie Lekas School,45,12,26.70%,19,10
+2015-16,75M035,75,3,P.S. 035,s,s,s,s,s
+2015-16,75M079,75,9,P.S. M079 - Horan School,s,s,s,s,s
+2015-16,75M094,75,1,P.S. M094,69,s,s,26,s
+2015-16,75M138,75,9,P.S. 138,138,10,7.20%,54,s
+2015-16,75M169,75,4,P.S. M169 - Robert F. Kennedy,117,15,12.80%,45,s
+2015-16,75M226,75,2,P.S. M226,62,s,s,21,s
+2015-16,75M721,75,3,P.S. M721 - Manhattan Occupational Training Center,s,s,s,s,s
+2015-16,75M811,75,6,P.S. M811 - Mickey Mantle School,95,23,24.20%,34,10
+2015-16,75Q004,75,23,P.S. Q004,62,62,100.00%,10,10
+2015-16,75Q009,75,30,P.S. 009,204,162,79.40%,73,62
+2015-16,75Q023,75,23,P.S. Q023 @ Queens Children Center,75,16,21.30%,34,12
+2015-16,75Q075,75,34,Robert E. Peary School,154,37,24.00%,s,s
+2015-16,75Q177,75,20,P.S. Q177,137,40,29.20%,59,10
+2015-16,75Q224,75,23,P.S. Q224,73,35,47.90%,20,11
+2015-16,75Q233,75,29,P.S. Q233,81,s,s,s,s
+2015-16,75Q255,75,24,P.S. Q255,85,s,s,s,s
+2015-16,75Q277,75,26,The Riverview School,67,s,s,25,s
+2015-16,75Q811,75,23,P.S. Q811,45,45,100.00%,22,22
+2015-16,75Q993,75,23,P.S. Q993,79,63,79.80%,34,24
+2015-16,75R025,75,51,South Richmond High School I.S./P.S. 25,178,140,78.60%,56,45
+2015-16,75R037,75,51,P.S. R037,62,s,s,10,s
+2015-16,75R373,75,49,P.S. R373,41,40,97.60%,s,s
+2015-16,75R721,75,49,The Richard H. Hungerford School,113,70,61.90%,42,24
+2015-16,75X010,75,13,P.S. X010,107,s,s,27,s
+2015-16,75X012,75,13,P.S. X012 Lewis and Clark School,67,66,98.50%,33,32
+2015-16,75X017,75,17,P.S. X017,143,133,93.00%,64,63
+2015-16,75X168,75,8,P.S. 168,150,s,s,46,s
+2015-16,75X176,75,12,P.S. X176,229,s,s,66,s
+2015-16,75X186,75,16,P186X Walter J. Damrosch School,212,30,14.10%,63,s
+2015-16,75X188,75,15,P.S. X188,201,s,s,s,s
+2015-16,75X352,75,17,The Vida Bogart School for All Children,s,s,s,s,s
+2015-16,75X723,75,12,P.S. 723,168,41,24.40%,54,16
+2015-16,75X754,75,8,J. M. Rapport School Career Development,s,s,s,s,s
+2015-16,75X811,75,17,P.S. X811,s,s,s,s,s
+,,,,Total,"205,605","96,233",46.80%,"69,364","39,747"

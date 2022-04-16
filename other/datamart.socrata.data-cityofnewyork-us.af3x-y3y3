@@ -1,0 +1,604 @@
+DBN,Category Type,Category Values,Total#,Total%,Grade 1#,Grade 1%,Grade 2#,Grade 2%,Grade 4#,Grade 4%,Grade 5#,Grade 5%,Grade 6#,Grade 6%,Grade 7#,Grade 7%,Grade 8#,Grade 8%,Grade 9#,Grade 9%,Grade 10#,Grade 10%,Grade 11#,Grade 11%,Grade 12#,Grade 12%
+02M625,Attendance,0-20% Attendance Rate,16,10.7,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+02M625,Attendance,21-40% Attendance Rate,11,7.4,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+02M625,Attendance,81-100% Attendance Rate,61,40.9,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,56,53.3
+02M625,Attendance,61-80% Attendance Rate,38,25.5,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,29,27.6
+02M625,Attendance,41-60% Attendance Rate,23,15.4,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,11,10.5
+05M469,Attendance,61-80% Attendance Rate,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+05M469,Attendance,41-60% Attendance Rate,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+05M469,Attendance,0-20% Attendance Rate,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+05M469,Attendance,81-100% Attendance Rate,22,62.9,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,22,62.9
+05M685,Attendance,61-80% Attendance Rate,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+05M685,Attendance,41-60% Attendance Rate,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+05M685,Attendance,21-40% Attendance Rate,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+05M685,Attendance,0-20% Attendance Rate,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+05M685,Attendance,81-100% Attendance Rate,17,48.6,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,17,70.8
+07X385,Attendance,61-80% Attendance Rate,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X385,Attendance,81-100% Attendance Rate,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X520,Attendance,41-60% Attendance Rate,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X520,Attendance,21-40% Attendance Rate,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X520,Attendance,0-20% Attendance Rate,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X520,Attendance,61-80% Attendance Rate,17,14.9,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X520,Attendance,81-100% Attendance Rate,86,75.4,s,s,s,s,s,s,s,s,s,s,s,s,s,s,25,59.5,20,87.0,16,80.0,25,86.2
+09X064,Attendance,61-80% Attendance Rate,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X064,Attendance,0-20% Attendance Rate,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X064,Attendance,81-100% Attendance Rate,141,96.6,s,s,s,s,s,s,140,96.6,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X230,Attendance,61-80% Attendance Rate,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X230,Attendance,41-60% Attendance Rate,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X230,Attendance,81-100% Attendance Rate,73,86.9,s,s,s,s,s,s,71,86.6,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X414,Attendance,21-40% Attendance Rate,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X414,Attendance,0-20% Attendance Rate,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X414,Attendance,81-100% Attendance Rate,27,35.1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,27,35.1
+09X414,Attendance,61-80% Attendance Rate,23,29.9,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,23,29.9
+09X414,Attendance,41-60% Attendance Rate,14,18.2,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,14,18.2
+12X050,Attendance,41-60% Attendance Rate,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+12X050,Attendance,81-100% Attendance Rate,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+13K596,Attendance,61-80% Attendance Rate,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+13K596,Attendance,81-100% Attendance Rate,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K322,Attendance,41-60% Attendance Rate,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K322,Attendance,21-40% Attendance Rate,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K322,Attendance,0-20% Attendance Rate,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K322,Attendance,61-80% Attendance Rate,20,29.4,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K322,Attendance,81-100% Attendance Rate,36,52.9,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,19,65.5
+14K330,Attendance,41-60% Attendance Rate,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K330,Attendance,0-20% Attendance Rate,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K330,Attendance,61-80% Attendance Rate,13,15.3,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K330,Attendance,81-100% Attendance Rate,66,77.6,s,s,s,s,s,s,s,s,29,85.3,21,75.0,16,69.6,s,s,s,s,s,s,s,s
+17K167,Attendance,61-80% Attendance Rate,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+17K167,Attendance,81-100% Attendance Rate,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+19K174,Attendance,61-80% Attendance Rate,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+19K174,Attendance,81-100% Attendance Rate,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+22K495,Attendance,21-40% Attendance Rate,17,7.3,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+22K495,Attendance,81-100% Attendance Rate,119,51.3,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X385,To School,07X551,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+22K495,Attendance,61-80% Attendance Rate,44,19.0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+22K495,Attendance,41-60% Attendance Rate,28,12.1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+22K495,Attendance,0-20% Attendance Rate,24,10.3,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+23K073,Attendance,61-80% Attendance Rate,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+23K073,Attendance,0-20% Attendance Rate,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+23K073,Attendance,81-100% Attendance Rate,30,90.9,s,s,s,s,s,s,30,93.8,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+29Q494,Attendance,61-80% Attendance Rate,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+29Q494,Attendance,41-60% Attendance Rate,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+29Q494,Attendance,21-40% Attendance Rate,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+29Q494,Attendance,81-100% Attendance Rate,36,75.0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,36,76.6
+29Q496,Attendance,61-80% Attendance Rate,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+29Q496,Attendance,41-60% Attendance Rate,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+29Q496,Attendance,81-100% Attendance Rate,26,76.5,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,26,81.3
+02M625,To School,79Q950,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+02M625,To School,32K564,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+02M625,To School,30Q575,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+02M625,To School,29Q498,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+02M625,To School,26Q566,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+02M625,To School,26Q430,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+02M625,To School,25Q540,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+02M625,To School,23K646,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+02M625,To School,19K431,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+02M625,To School,18K922,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+02M625,To School,18K642,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+02M625,To School,17K568,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+02M625,To School,15K592,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+02M625,To School,12X446,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+02M625,To School,11X290,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+02M625,To School,08X377,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+02M625,To School,07X548,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+02M625,To School,06M467,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+02M625,To School,06M463,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+02M625,To School,06M462,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+02M625,To School,05M285,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+02M625,To School,03M505,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+02M625,To School,02M586,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+02M625,To School,02M575,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+02M625,To School,02M570,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+02M625,To School,02M543,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+02M625,To School,02M400,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+02M625,To School,02M393,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+02M625,To School,02M300,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+02M625,To School,01M650,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+05M469,To School,05M285,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+05M469,To School,03M505,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+05M685,To School,79Q950,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+05M685,To School,06M457,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+05M685,To School,05M499,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+05M685,To School,02M473,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+05M685,To School,02M420,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X385,To School,84X492,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X385,To School,84X482,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X385,To School,84X389,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X385,To School,84X177,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X385,To School,84M350,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X385,To School,11X289,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X385,To School,10X391,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X385,To School,09X325,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X385,To School,09X219,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X385,To School,07X296,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X385,To School,07X277,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X385,To School,07X224,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X385,To School,07X223,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X385,To School,07X029,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X385,To School,07X151,22,37.3,s,s,s,s,s,s,22,37.3,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X385,To School,07X031,11,18.6,s,s,s,s,s,s,11,18.6,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X520,To School,79Q950,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X520,To School,79Q344,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X520,To School,19K504,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X520,To School,13K605,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X520,To School,13K419,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X520,To School,12X682,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X520,To School,12X511,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X520,To School,12X388,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X520,To School,12X271,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X520,To School,12X242,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X520,To School,11X542,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X520,To School,11X288,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X520,To School,11X275,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X520,To School,11X265,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X520,To School,10X374,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X520,To School,10X351,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X520,To School,10X237,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X520,To School,09X564,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X520,To School,09X505,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X520,To School,09X404,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X520,To School,09X263,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X520,To School,09X260,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X520,To School,09X252,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X520,To School,09X250,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X520,To School,08X561,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X520,To School,08X559,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X520,To School,08X349,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X520,To School,08X293,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X520,To School,07X557,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X520,To School,07X548,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X520,To School,07X500,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X520,To School,07X427,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X520,To School,07X334,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X520,To School,07X321,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X520,To School,07X259,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X520,To School,07X223,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X520,To School,07X221,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X520,To School,06M348,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X520,To School,03M402,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X520,To School,02M534,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X520,To School,02M500,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X520,To School,02M432,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X520,To School,02M308,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X520,To School,02M305,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X520,To School,02M300,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X520,To School,02M296,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X064,To School,84X419,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X064,To School,84X177,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X064,To School,84M388,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X064,To School,21K253,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X064,To School,19K662,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X064,To School,12X384,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X064,To School,11X468,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X064,To School,11X194,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X064,To School,10X391,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X064,To School,10X363,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X064,To School,10X244,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X064,To School,10X206,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X064,To School,10X118,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X064,To School,10X080,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X064,To School,09X505,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X064,To School,09X413,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X064,To School,09X339,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X064,To School,09X325,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X064,To School,09X324,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X064,To School,09X323,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X064,To School,09X313,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X064,To School,09X311,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X064,To School,09X303,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X064,To School,09X294,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X064,To School,09X241,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X064,To School,09X231,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X064,To School,09X229,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X064,To School,09X219,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X064,To School,09X215,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X064,To School,09X128,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X064,To School,09X022,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X064,To School,08X301,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X064,To School,07X031,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X064,To School,04M224,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X064,To School,09X117,34,23.8,s,s,s,s,s,s,34,23.9,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X064,To School,09X327,18,12.6,s,s,s,s,s,s,18,12.7,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X064,To School,09X232,13,9.1,s,s,s,s,s,s,13,9.2,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X230,To School,84X177,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X230,To School,84M065,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X230,To School,75X186,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X230,To School,12X217,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X230,To School,11X556,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X230,To School,11X175,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X230,To School,10X118,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X230,To School,09X568,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X230,To School,09X449,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X230,To School,09X413,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X230,To School,09X324,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X230,To School,09X323,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X230,To School,09X274,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X230,To School,09X232,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X230,To School,09X219,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X230,To School,09X215,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X230,To School,09X128,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X230,To School,08X375,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X230,To School,07X298,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X230,To School,05M286,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X230,To School,09X229,49,60.5,s,s,s,s,s,s,49,62.0,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X414,To School,12X682,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X414,To School,12X511,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X414,To School,11X417,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X414,To School,11X288,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X414,To School,09X404,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X414,To School,02M543,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X414,To School,02M489,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X414,To School,02M437,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X414,To School,02M420,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X414,To School,02M400,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X414,To School,02M316,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X414,To School,02M300,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+12X050,To School,84X482,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+12X050,To School,18K233,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+12X050,To School,12X383,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+12X050,To School,12X372,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+12X050,To School,12X341,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+12X050,To School,12X318,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+12X050,To School,12X316,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+12X050,To School,12X286,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+12X050,To School,12X271,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+12X050,To School,12X242,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+12X050,To School,12X217,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+12X050,To School,12X190,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+12X050,To School,12X098,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+12X050,To School,10X391,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+12X050,To School,09X568,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+12X050,To School,09X339,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+12X050,To School,09X055,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+12X050,To School,08X375,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+12X050,To School,12X129,15,24.2,s,s,s,s,s,s,15,24.2,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+13K596,To School,84K739,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+13K596,To School,84K360,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+13K596,To School,79M973,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+13K596,To School,21K410,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+13K596,To School,19K683,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+13K596,To School,19K661,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+13K596,To School,18K567,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+13K596,To School,17K547,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+13K596,To School,15K592,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+13K596,To School,15K519,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+13K596,To School,15K429,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+13K596,To School,14K586,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+13K596,To School,14K478,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+13K596,To School,14K477,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+13K596,To School,13K691,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+13K596,To School,13K605,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+13K596,To School,13K527,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+13K596,To School,13K492,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+13K596,To School,13K412,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+13K596,To School,13K351,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+13K596,To School,13K350,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+13K596,To School,13K282,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+13K596,To School,13K266,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+13K596,To School,13K265,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+13K596,To School,13K008,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K322,To School,79Q950,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K322,To School,75K371,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K322,To School,31R600,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K322,To School,29Q313,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K322,To School,21K620,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K322,To School,21K525,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K322,To School,19K683,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K322,To School,19K618,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K322,To School,18K563,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K322,To School,17K751,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K322,To School,16K765,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K322,To School,16K498,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K322,To School,15K667,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K322,To School,15K592,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K322,To School,15K519,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K322,To School,15K448,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K322,To School,15K429,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K322,To School,14K632,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K322,To School,14K558,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K322,To School,14K488,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K322,To School,14K478,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K322,To School,14K454,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K322,To School,13K674,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K322,To School,13K499,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K322,To School,13K483,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K322,To School,13K419,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K322,To School,11X455,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K322,To School,02M543,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K322,To School,02M308,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K322,To School,02M298,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K330,To School,79X695,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K330,To School,32K562,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K330,To School,31R440,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K330,To School,27Q319,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K330,To School,25Q460,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K330,To School,23K644,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K330,To School,23K518,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K330,To School,22K278,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K330,To School,22K240,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K330,To School,21K410,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K330,To School,19K639,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K330,To School,19K615,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K330,To School,19K510,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K330,To School,19K507,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K330,To School,19K502,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K330,To School,16K262,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K330,To School,15K656,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K330,To School,15K592,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K330,To School,15K051,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K330,To School,14K614,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K330,To School,14K610,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K330,To School,14K586,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K330,To School,14K582,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K330,To School,14K577,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K330,To School,14K474,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K330,To School,14K318,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K330,To School,14K157,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K330,To School,14K126,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K330,To School,14K084,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K330,To School,14K071,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K330,To School,14K050,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K330,To School,13K605,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K330,To School,13K412,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K330,To School,13K113,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K330,To School,11X272,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K330,To School,08X448,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K330,To School,02M374,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+17K167,To School,32K383,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+17K167,To School,22K240,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+17K167,To School,18K285,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+17K167,To School,17K590,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+17K167,To School,17K531,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+17K167,To School,17K398,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+17K167,To School,17K394,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+17K167,To School,17K354,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+17K167,To School,17K138,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+17K167,To School,17K061,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+17K167,To School,16K584,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+17K167,To School,17K484,16,32.0,s,s,s,s,s,s,16,32.7,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+17K167,To School,17K340,14,28.0,s,s,s,s,s,s,14,28.6,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+19K174,To School,84K711,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+19K174,To School,29Q036,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+19K174,To School,24Q199,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+19K174,To School,23K284,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+19K174,To School,23K184,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+19K174,To School,19K678,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+19K174,To School,19K654,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+19K174,To School,19K452,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+19K174,To School,19K409,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+19K174,To School,19K306,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+19K174,To School,19K292,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+19K174,To School,19K218,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+19K174,To School,19K171,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+19K174,To School,18K581,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+19K174,To School,17K354,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+19K174,To School,17K352,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+19K174,To School,13K301,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+19K174,To School,13K056,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+19K174,To School,19K663,19,43.2,s,s,s,s,s,s,19,43.2,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+22K495,To School,32K564,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+22K495,To School,31R445,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+22K495,To School,22K630,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+22K495,To School,22K425,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+22K495,To School,22K405,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+22K495,To School,21K525,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+22K495,To School,21K344,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+22K495,To School,20K658,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+22K495,To School,20K609,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+22K495,To School,20K490,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+22K495,To School,18K922,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+22K495,To School,18K673,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+22K495,To School,18K642,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+22K495,To School,18K637,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+22K495,To School,18K633,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+22K495,To School,18K629,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+22K495,To School,17K537,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+22K495,To School,17K467,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+22K495,To School,16K498,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+22K495,To School,15K592,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+22K495,To School,14K558,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+22K495,To School,14K488,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+22K495,To School,14K478,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+22K495,To School,02M575,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+23K073,To School,84K777,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+23K073,To School,23K671,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+23K073,To School,23K644,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+23K073,To School,23K522,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+23K073,To School,23K518,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+23K073,To School,23K155,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+23K073,To School,23K137,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+23K073,To School,19K654,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+23K073,To School,13K527,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+23K073,To School,23K664,14,42.4,s,s,s,s,s,s,13,40.6,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+29Q494,To School,28Q505,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+29Q494,To School,25Q467,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+29Q494,To School,02M575,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+29Q496,To School,29Q272,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+29Q496,To School,29Q265,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+29Q496,To School,28Q440,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+29Q496,To School,27Q487,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+29Q496,To School,27Q302,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+02M625,SWD Status,Not SWD,110,73.8,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,82,78.1
+02M625,SWD Status,SWD,39,26.2,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,23,21.9
+05M469,SWD Status,SWD,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+05M469,SWD Status,Not SWD,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+05M685,SWD Status,SWD,13,37.1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+05M685,SWD Status,Not SWD,22,62.9,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X385,SWD Status,Not SWD,33,55.0,s,s,s,s,s,s,33,55.0,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X385,SWD Status,SWD,27,45.0,s,s,s,s,s,s,27,45.0,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X520,SWD Status,SWD,32,28.1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,11,26.2,s,s,s,s,s,s
+07X520,SWD Status,Not SWD,82,71.9,s,s,s,s,s,s,s,s,s,s,s,s,s,s,31,73.8,s,s,s,s,s,s
+09X064,SWD Status,Not SWD,118,80.8,s,s,s,s,s,s,118,81.4,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X064,SWD Status,SWD,28,19.2,s,s,s,s,s,s,27,18.6,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X230,SWD Status,Not SWD,63,75.0,s,s,s,s,s,s,61,74.4,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X230,SWD Status,SWD,21,25.0,s,s,s,s,s,s,21,25.6,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X414,SWD Status,Not SWD,55,71.4,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,55,71.4
+09X414,SWD Status,SWD,22,28.6,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,22,28.6
+12X050,SWD Status,Not SWD,41,64.1,s,s,s,s,s,s,41,64.1,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+12X050,SWD Status,SWD,23,35.9,s,s,s,s,s,s,23,35.9,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+13K596,SWD Status,SWD,18,36.0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+13K596,SWD Status,Not SWD,32,64.0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K322,SWD Status,SWD,18,26.5,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K322,SWD Status,Not SWD,50,73.5,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K330,SWD Status,Not SWD,48,56.5,s,s,s,s,s,s,s,s,21,61.8,14,50.0,13,56.5,s,s,s,s,s,s,s,s
+14K330,SWD Status,SWD,37,43.5,s,s,s,s,s,s,s,s,13,38.2,14,50.0,10,43.5,s,s,s,s,s,s,s,s
+17K167,SWD Status,Not SWD,43,74.1,s,s,s,s,s,s,43,75.4,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+17K167,SWD Status,SWD,15,25.9,s,s,s,s,s,s,14,24.6,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+19K174,SWD Status,Not SWD,30,66.7,s,s,s,s,s,s,29,65.9,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+19K174,SWD Status,SWD,15,33.3,s,s,s,s,s,s,15,34.1,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+22K495,SWD Status,Not SWD,177,76.3,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,156,78.8
+22K495,SWD Status,SWD,55,23.7,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,42,21.2
+23K073,SWD Status,SWD,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+23K073,SWD Status,Not SWD,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+29Q494,SWD Status,SWD,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+29Q494,SWD Status,Not SWD,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+29Q496,SWD Status,SWD,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+29Q496,SWD Status,Not SWD,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+02M625,Discharge,Transferred to a part-time DOE GED progr,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+02M625,Discharge,"Transferred to a YABC, D79 or D75 progra",s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+02M625,Discharge,Transferred to a DOE high school equival,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+02M625,Discharge,Student Address Unknown,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+02M625,Discharge,Received Local Diploma,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+02M625,Discharge,Discharged to a non-public school in NYC,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+02M625,Discharge,Discharged to a non-public school  in NY,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+02M625,Discharge,Discharged to a School outside of NYC,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+02M625,Discharge,Voluntary Withdrawal or Discharge after,12,8.1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+02M625,Discharge,Received Regents Diploma,80,53.7,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,78,74.3
+02M625,Discharge,Transferred to another DOE school or pro,37,24.8,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,11,52.4,s,s,15,14.3
+05M469,Discharge,Voluntary Withdrawal or Discharge after,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+05M469,Discharge,Transferred to another DOE school or pro,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+05M469,Discharge,Received Local Diploma,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+05M469,Discharge,Discharged to a School outside of NYC; M,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+05M469,Discharge,Received Regents Diploma,20,57.1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,20,57.1
+05M685,Discharge,Voluntary Withdrawal or Discharge after,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+05M685,Discharge,Transferred to another DOE school or pro,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+05M685,Discharge,Transferred to a part-time DOE GED progr,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+05M685,Discharge,"Transferred to a YABC, D79 or D75 progra",s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+05M685,Discharge,Received Local Diploma,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+05M685,Discharge,Career Development and Occupational Stud,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+05M685,Discharge,Received Regents Diploma,13,37.1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,13,54.2
+07X385,Discharge,Discharged to a School outside of NYC,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X385,Discharge,Transferred to another DOE school or pro,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X520,Discharge,Transferred to a part-time DOE GED progr,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X520,Discharge,"Transferred to a YABC, D79 or D75 progra",s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X520,Discharge,Received Local Diploma,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X520,Discharge,Discharged to a School outside of NYC,10,8.8,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X520,Discharge,Transferred to another DOE school or pro,75,65.8,s,s,s,s,s,s,s,s,s,s,s,s,s,s,34,81.0,22,95.7,19,95.0,s,s
+07X520,Discharge,Received Regents Diploma,19,16.7,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,19,65.5
+09X064,Discharge,Discharged to a School outside of NYC,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X064,Discharge,Transferred to another DOE school or pro,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X230,Discharge,Discharged to a School outside of NYC; M,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X230,Discharge,Discharged to a School outside of NYC,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X230,Discharge,Transferred to another DOE school or pro,81,96.4,s,s,s,s,s,s,79,96.3,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X414,Discharge,"Transferred to a YABC, D79 or D75 progra",s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X414,Discharge,Career Development and Occupational Stud,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X414,Discharge,Received Regents Diploma,26,33.8,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,26,33.8
+09X414,Discharge,Transferred to another DOE school or pro,20,26.0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,20,26.0
+09X414,Discharge,Received Local Diploma,14,18.2,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,14,18.2
+09X414,Discharge,Voluntary Withdrawal or Discharge after,13,16.9,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,13,16.9
+12X050,Discharge,Discharged to a School outside of NYC; M,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+12X050,Discharge,Discharged to a School outside of NYC,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+12X050,Discharge,Transferred to another DOE school or pro,62,96.9,s,s,s,s,s,s,62,96.9,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+13K596,Discharge,"Transferred to a YABC, D79 or D75 progra",s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+13K596,Discharge,Discharged to a School outside of NYC,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+13K596,Discharge,Transferred to another DOE school or pro,47,94.0,s,s,s,s,s,s,s,s,20,95.2,10,90.9,17,94.4,s,s,s,s,s,s,s,s
+14K322,Discharge,Voluntary Withdrawal or Discharge after,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K322,Discharge,Transferred to a DOE high school equival,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K322,Discharge,Skills and Achievement Commencement Cred,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K322,Discharge,Discharged to a School outside of NYC,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K322,Discharge,Transferred to another DOE school or pro,35,51.5,s,s,s,s,s,s,s,s,s,s,s,s,s,s,15,78.9,s,s,s,s,s,s
+14K322,Discharge,Received Regents Diploma,11,16.2,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,11,37.9
+14K322,Discharge,Received Local Diploma,10,14.7,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,10,34.5
+14K330,Discharge,"Transferred to a YABC, D79 or D75 progra",s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K330,Discharge,Discharged to a School outside of NYC; M,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K330,Discharge,Transferred to another DOE school or pro,83,97.6,s,s,s,s,s,s,s,s,32,94.1,s,s,s,s,s,s,s,s,s,s,s,s
+17K167,Discharge,Discharged to a non-public school in NYC,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+17K167,Discharge,Transferred to another DOE school or pro,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+19K174,Discharge,Transferred to another DOE school or pro,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+22K495,Discharge,"Transferred to a YABC, D79 or D75 progra",s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+22K495,Discharge,Student Address Unknown,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+22K495,Discharge,Over 21 Years of Age,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+22K495,Discharge,Voluntary Withdrawal or Discharge after,14,6.0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+22K495,Discharge,Received Regents Diploma,131,56.5,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,131,66.2
+22K495,Discharge,Transferred to another DOE school or pro,38,16.4,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,22,11.1
+22K495,Discharge,Received Local Diploma,19,8.2,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,19,9.6
+22K495,Discharge,Skills and Achievement Commencement Cred,10,4.3,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,10,5.1
+23K073,Discharge,Transferred to another DOE school or pro,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+29Q494,Discharge,Transferred to another DOE school or pro,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+29Q494,Discharge,"Transferred to a YABC, D79 or D75 progra",s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+29Q494,Discharge,Received Local Diploma,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+29Q494,Discharge,Received Advanced Regents Diploma,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+29Q494,Discharge,Received Regents Diploma,36,75.0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,36,76.6
+29Q496,Discharge,Transferred to another DOE school or pro,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+29Q496,Discharge,Received Local Diploma,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+29Q496,Discharge,Received Advanced Regents Diploma,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+29Q496,Discharge,Received Regents Diploma,23,67.6,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,23,71.9
+02M625,GPA,0-54,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+02M625,GPA,55-64,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+02M625,GPA,75-84,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,44,41.9
+02M625,GPA,85-100,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,28,26.7
+02M625,GPA,65-74,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,19,18.1
+05M469,GPA,85-100,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+05M469,GPA,65-74,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+05M469,GPA,55-64,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+05M469,GPA,0-54,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+05M469,GPA,75-84,10,28.6,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,10,28.6
+05M685,GPA,85-100,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+05M685,GPA,65-74,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+05M685,GPA,55-64,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+05M685,GPA,0-54,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+05M685,GPA,75-84,10,28.6,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,10,41.7
+07X520,GPA,0-54,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X520,GPA,85-100,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X520,GPA,55-64,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X520,GPA,65-74,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,12,28.6,s,s,s,s,s,s
+07X520,GPA,75-84,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,12,28.6,10,43.5,10,50.0,12,41.4
+09X414,GPA,85-100,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X414,GPA,0-54,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X414,GPA,65-74,26,33.8,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,26,33.8
+09X414,GPA,55-64,25,32.5,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,25,32.5
+09X414,GPA,75-84,14,18.2,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,14,18.2
+13K596,GPA,85-100,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K322,GPA,85-100,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K322,GPA,0-54,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K322,GPA,75-84,12,17.6,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K322,GPA,55-64,23,33.8,s,s,s,s,s,s,s,s,s,s,s,s,s,s,11,57.9,s,s,s,s,s,s
+14K322,GPA,65-74,23,33.8,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,10,34.5
+14K330,GPA,55-64,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K330,GPA,0-54,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+22K495,GPA,75-84,59,25.4,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,58,29.3
+22K495,GPA,65-74,59,25.4,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,57,28.8
+22K495,GPA,85-100,40,17.2,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,40,20.2
+22K495,GPA,55-64,32,13.8,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,22,11.1
+22K495,GPA,0-54,37,15.9,s,s,s,s,s,s,s,s,s,s,s,s,s,s,10,90.9,s,s,s,s,18,9.1
+29Q494,GPA,65-74,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+29Q494,GPA,55-64,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+29Q494,GPA,0-54,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+29Q494,GPA,75-84,25,52.1,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,25,53.2
+29Q494,GPA,85-100,14,29.2,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,14,29.8
+29Q496,GPA,85-100,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+29Q496,GPA,55-64,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+29Q496,GPA,75-84,13,38.2,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,13,40.6
+29Q496,GPA,65-74,12,35.3,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,12,37.5
+02M625,Credit Rec,No Credit Recovery,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+05M469,Credit Rec,Credit Recovery,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+05M469,Credit Rec,No Credit Recovery,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+05M685,Credit Rec,No Credit Recovery,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X385,Credit Rec,No Credit Recovery,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+07X520,Credit Rec,No Credit Recovery,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X064,Credit Rec,No Credit Recovery,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X230,Credit Rec,No Credit Recovery,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X414,Credit Rec,No Credit Recovery,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+12X050,Credit Rec,No Credit Recovery,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+13K596,Credit Rec,No Credit Recovery,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K322,Credit Rec,Credit Recovery,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K322,Credit Rec,No Credit Recovery,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K330,Credit Rec,No Credit Recovery,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+17K167,Credit Rec,No Credit Recovery,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+19K174,Credit Rec,No Credit Recovery,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+22K495,Credit Rec,Credit Recovery,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+22K495,Credit Rec,No Credit Recovery,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+23K073,Credit Rec,No Credit Recovery,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+29Q494,Credit Rec,No Credit Recovery,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+29Q496,Credit Rec,Credit Recovery,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+29Q496,Credit Rec,No Credit Recovery,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s

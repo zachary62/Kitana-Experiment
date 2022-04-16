@@ -1,0 +1,2952 @@
+DBN,School Name,Grade,Year,Number Tested,Level 3 or Higher (#),Level 3 or Higher (%)
+01M034,P.S. 034 Franklin D. Roosevelt,7,2014,57,23,40.4
+01M034,P.S. 034 Franklin D. Roosevelt,7,2015,42,11,26.2
+01M034,P.S. 034 Franklin D. Roosevelt,8,2014,53,12,22.6
+01M034,P.S. 034 Franklin D. Roosevelt,8,2015,58,14,24.1
+01M034,P.S. 034 Franklin D. Roosevelt,All Grades,2014,270,75,27.8
+01M034,P.S. 034 Franklin D. Roosevelt,All Grades,2015,267,61,22.8
+01M140,P.S. 140 Nathan Straus,7,2014,63,10,15.9
+01M140,P.S. 140 Nathan Straus,7,2015,64,7,10.9
+01M140,P.S. 140 Nathan Straus,8,2014,68,7,10.3
+01M140,P.S. 140 Nathan Straus,8,2015,59,5,8.5
+01M140,P.S. 140 Nathan Straus,All Grades,2014,286,42,14.7
+01M140,P.S. 140 Nathan Straus,All Grades,2015,274,36,13.1
+01M184,P.S. 184m Shuang Wen,7,2014,61,54,88.5
+01M184,P.S. 184m Shuang Wen,7,2015,38,30,78.9
+01M184,P.S. 184m Shuang Wen,8,2014,61,55,90.2
+01M184,P.S. 184m Shuang Wen,8,2015,59,53,89.8
+01M184,P.S. 184m Shuang Wen,All Grades,2014,385,322,83.6
+01M184,P.S. 184m Shuang Wen,All Grades,2015,387,325,84
+01M188,P.S. 188 The Island School,7,2014,71,8,11.3
+01M188,P.S. 188 The Island School,7,2015,54,5,9.3
+01M188,P.S. 188 The Island School,8,2014,65,6,9.2
+01M188,P.S. 188 The Island School,8,2015,67,2,3
+01M188,P.S. 188 The Island School,All Grades,2014,325,41,12.6
+01M188,P.S. 188 The Island School,All Grades,2015,311,44,14.1
+01M292,Henry Street School for International Studies,7,2014,18,1,5.6
+01M292,Henry Street School for International Studies,7,2015,13,0,0
+01M292,Henry Street School for International Studies,8,2014,31,1,3.2
+01M292,Henry Street School for International Studies,8,2015,18,1,5.6
+01M292,Henry Street School for International Studies,All Grades,2014,61,2,3.3
+01M292,Henry Street School for International Studies,All Grades,2015,47,1,2.1
+01M301,"Technology, Arts, and Sciences Studio",7,2014,49,2,4.1
+01M301,"Technology, Arts, and Sciences Studio",7,2015,44,4,9.1
+01M301,"Technology, Arts, and Sciences Studio",8,2014,58,10,17.2
+01M301,"Technology, Arts, and Sciences Studio",8,2015,50,0,0
+01M301,"Technology, Arts, and Sciences Studio",All Grades,2014,152,14,9.2
+01M301,"Technology, Arts, and Sciences Studio",All Grades,2015,143,7,4.9
+01M332,University Neighborhood Middle School,7,2014,31,4,12.9
+01M332,University Neighborhood Middle School,7,2015,24,1,4.2
+01M332,University Neighborhood Middle School,8,2014,44,7,15.9
+01M332,University Neighborhood Middle School,8,2015,30,7,23.3
+01M332,University Neighborhood Middle School,All Grades,2014,96,14,14.6
+01M332,University Neighborhood Middle School,All Grades,2015,83,13,15.7
+01M345,"Collaborative Academy of Science, Technology, & Language-Arts Education",7,2014,65,8,12.3
+02M114,East Side Middle School,8,2014,141,131,92.9
+01M345,"Collaborative Academy of Science, Technology, & Language-Arts Education",7,2015,27,4,14.8
+01M345,"Collaborative Academy of Science, Technology, & Language-Arts Education",8,2014,71,8,11.3
+01M345,"Collaborative Academy of Science, Technology, & Language-Arts Education",8,2015,67,9,13.4
+01M345,"Collaborative Academy of Science, Technology, & Language-Arts Education",All Grades,2014,159,23,14.5
+01M345,"Collaborative Academy of Science, Technology, & Language-Arts Education",All Grades,2015,126,18,14.3
+01M378,School for Global Leaders,7,2014,68,13,19.1
+01M378,School for Global Leaders,7,2015,72,11,15.3
+01M378,School for Global Leaders,8,2014,92,18,19.6
+01M378,School for Global Leaders,8,2015,74,12,16.2
+01M378,School for Global Leaders,All Grades,2014,236,42,17.8
+01M378,School for Global Leaders,All Grades,2015,225,46,20.4
+01M450,East Side Community School,7,2014,88,22,25
+01M450,East Side Community School,7,2015,57,18,31.6
+01M450,East Side Community School,8,2014,78,31,39.7
+01M450,East Side Community School,8,2015,70,38,54.3
+01M450,East Side Community School,All Grades,2014,254,86,33.9
+01M450,East Side Community School,All Grades,2015,221,99,44.8
+01M539,"New Explorations into Science, Technology and Math High School",7,2014,138,133,96.4
+01M539,"New Explorations into Science, Technology and Math High School",7,2015,136,121,89
+01M539,"New Explorations into Science, Technology and Math High School",8,2014,128,126,98.4
+01M539,"New Explorations into Science, Technology and Math High School",8,2015,134,131,97.8
+01M539,"New Explorations into Science, Technology and Math High School",All Grades,2014,785,752,95.8
+01M539,"New Explorations into Science, Technology and Math High School",All Grades,2015,771,740,96
+01M839,Tompkins Square Middle School,7,2014,121,61,50.4
+01M839,Tompkins Square Middle School,7,2015,117,58,49.6
+01M839,Tompkins Square Middle School,8,2014,112,50,44.6
+01M839,Tompkins Square Middle School,8,2015,75,43,57.3
+01M839,Tompkins Square Middle School,All Grades,2014,352,164,46.6
+01M839,Tompkins Square Middle School,All Grades,2015,292,145,49.7
+02M104,J.H.S. 104 Simon Baruch,7,2014,325,211,64.9
+02M104,J.H.S. 104 Simon Baruch,7,2015,334,203,60.8
+02M104,J.H.S. 104 Simon Baruch,8,2014,369,193,52.3
+02M104,J.H.S. 104 Simon Baruch,8,2015,320,189,59.1
+02M104,J.H.S. 104 Simon Baruch,All Grades,2014,1008,610,60.5
+02M104,J.H.S. 104 Simon Baruch,All Grades,2015,1033,634,61.4
+02M111,P.S. 111 Adolph S. Ochs,7,2014,65,10,15.4
+02M111,P.S. 111 Adolph S. Ochs,7,2015,52,17,32.7
+02M111,P.S. 111 Adolph S. Ochs,8,2014,66,7,10.6
+02M111,P.S. 111 Adolph S. Ochs,8,2015,60,7,11.7
+02M111,P.S. 111 Adolph S. Ochs,All Grades,2014,327,81,24.8
+02M111,P.S. 111 Adolph S. Ochs,All Grades,2015,252,59,23.4
+02M114,East Side Middle School,7,2014,143,132,92.3
+02M114,East Side Middle School,7,2015,152,143,94.1
+02M114,East Side Middle School,8,2015,145,125,86.2
+02M114,East Side Middle School,All Grades,2014,440,402,91.4
+02M114,East Side Middle School,All Grades,2015,448,409,91.3
+02M126,P.S. 126 Jacob August Riis,7,2014,122,93,76.2
+02M126,P.S. 126 Jacob August Riis,7,2015,110,83,75.5
+02M126,P.S. 126 Jacob August Riis,8,2014,119,96,80.7
+02M126,P.S. 126 Jacob August Riis,8,2015,114,89,78.1
+02M126,P.S. 126 Jacob August Riis,All Grades,2014,556,365,65.6
+02M126,P.S. 126 Jacob August Riis,All Grades,2015,527,337,63.9
+02M131,M.S. 131,7,2014,135,58,43
+02M131,M.S. 131,7,2015,119,56,47.1
+02M131,M.S. 131,8,2014,182,96,52.7
+02M131,M.S. 131,8,2015,146,84,57.5
+02M131,M.S. 131,All Grades,2014,426,204,47.9
+02M131,M.S. 131,All Grades,2015,398,203,51
+02M167,J.H.S. 167 Robert F. Wagner,7,2014,412,214,51.9
+02M167,J.H.S. 167 Robert F. Wagner,7,2015,469,296,63.1
+02M167,J.H.S. 167 Robert F. Wagner,8,2014,435,248,57
+02M167,J.H.S. 167 Robert F. Wagner,8,2015,407,237,58.2
+02M167,J.H.S. 167 Robert F. Wagner,All Grades,2014,1308,761,58.2
+02M167,J.H.S. 167 Robert F. Wagner,All Grades,2015,1308,841,64.3
+02M217,P.S./I.S. 217 Roosevelt Island,7,2014,24,4,16.7
+02M217,P.S./I.S. 217 Roosevelt Island,7,2015,17,4,23.5
+02M217,P.S./I.S. 217 Roosevelt Island,8,2014,31,2,6.5
+02M217,P.S./I.S. 217 Roosevelt Island,8,2015,22,0,0
+02M217,P.S./I.S. 217 Roosevelt Island,All Grades,2014,210,95,45.2
+02M217,P.S./I.S. 217 Roosevelt Island,All Grades,2015,207,102,49.3
+02M225,Ella Baker School,7,2014,16,4,25
+02M225,Ella Baker School,7,2015,23,12,52.2
+02M225,Ella Baker School,8,2014,16,0,0
+02M225,Ella Baker School,8,2015,12,5,41.7
+02M225,Ella Baker School,All Grades,2014,107,43,40.2
+02M225,Ella Baker School,All Grades,2015,113,46,40.7
+02M255,M.S. 255 Salk School of Science,7,2014,121,103,85.1
+02M255,M.S. 255 Salk School of Science,7,2015,120,108,90
+02M255,M.S. 255 Salk School of Science,8,2014,125,100,80
+02M255,M.S. 255 Salk School of Science,8,2015,115,77,67
+02M255,M.S. 255 Salk School of Science,All Grades,2014,375,315,84
+02M255,M.S. 255 Salk School of Science,All Grades,2015,365,305,83.6
+02M260,M.S. 260 Clinton School Writers & Artists,7,2014,79,61,77.2
+02M260,M.S. 260 Clinton School Writers & Artists,7,2015,94,68,72.3
+02M260,M.S. 260 Clinton School Writers & Artists,8,2014,87,45,51.7
+02M260,M.S. 260 Clinton School Writers & Artists,8,2015,83,55,66.3
+02M260,M.S. 260 Clinton School Writers & Artists,All Grades,2014,263,176,66.9
+02M260,M.S. 260 Clinton School Writers & Artists,All Grades,2015,264,185,70.1
+02M276,BATTERY PARK CITY SCHOOL,7,2014,90,58,64.4
+02M276,BATTERY PARK CITY SCHOOL,7,2015,61,43,70.5
+02M276,BATTERY PARK CITY SCHOOL,8,2014,88,47,53.4
+02M276,BATTERY PARK CITY SCHOOL,8,2015,87,40,46
+02M276,BATTERY PARK CITY SCHOOL,All Grades,2014,486,324,66.7
+02M276,BATTERY PARK CITY SCHOOL,All Grades,2015,532,352,66.2
+02M289,I.S. 289,7,2014,101,61,60.4
+02M289,I.S. 289,7,2015,92,56,60.9
+02M289,I.S. 289,8,2014,95,56,58.9
+02M289,I.S. 289,8,2015,94,55,58.5
+02M289,I.S. 289,All Grades,2014,289,181,62.6
+02M289,I.S. 289,All Grades,2015,286,179,62.6
+02M312,New York City Lab Middle School for Collaborative Studies,7,2014,186,171,91.9
+02M312,New York City Lab Middle School for Collaborative Studies,7,2015,190,177,93.2
+02M312,New York City Lab Middle School for Collaborative Studies,8,2014,190,160,84.2
+02M312,New York City Lab Middle School for Collaborative Studies,8,2015,172,154,89.5
+02M312,New York City Lab Middle School for Collaborative Studies,All Grades,2014,570,514,90.2
+02M312,New York City Lab Middle School for Collaborative Studies,All Grades,2015,548,505,92.2
+02M347,The 47 American Sign Language & English Lower School,7,2014,16,2,12.5
+02M347,The 47 American Sign Language & English Lower School,7,2015,10,0,0
+02M347,The 47 American Sign Language & English Lower School,8,2014,14,1,7.1
+02M347,The 47 American Sign Language & English Lower School,8,2015,15,2,13.3
+02M347,The 47 American Sign Language & English Lower School,All Grades,2014,85,14,16.5
+02M347,The 47 American Sign Language & English Lower School,All Grades,2015,71,10,14.1
+02M407,Institute for Collaborative Education,7,2014,28,13,46.4
+02M407,Institute for Collaborative Education,7,2015,11,6,54.5
+02M407,Institute for Collaborative Education,8,2014,16,7,43.8
+02M407,Institute for Collaborative Education,8,2015,17,5,29.4
+02M407,Institute for Collaborative Education,All Grades,2014,57,26,45.6
+02M407,Institute for Collaborative Education,All Grades,2015,35,16,45.7
+02M408,Professional Performing Arts High School,7,2014,31,19,61.3
+02M408,Professional Performing Arts High School,7,2015,30,23,76.7
+02M408,Professional Performing Arts High School,8,2014,32,17,53.1
+02M408,Professional Performing Arts High School,8,2015,29,16,55.2
+02M408,Professional Performing Arts High School,All Grades,2014,92,61,66.3
+02M408,Professional Performing Arts High School,All Grades,2015,79,55,69.6
+02M413,School of the Future High School,7,2014,90,62,68.9
+02M413,School of the Future High School,7,2015,99,66,66.7
+02M413,School of the Future High School,8,2014,95,47,49.5
+02M413,School of the Future High School,8,2015,90,52,57.8
+02M413,School of the Future High School,All Grades,2014,291,165,56.7
+02M413,School of the Future High School,All Grades,2015,287,175,61
+02M422,Quest to Learn,7,2014,95,34,35.8
+02M422,Quest to Learn,7,2015,102,41,40.2
+02M422,Quest to Learn,8,2014,81,14,17.3
+02M422,Quest to Learn,8,2015,93,18,19.4
+02M422,Quest to Learn,All Grades,2014,287,105,36.6
+02M422,Quest to Learn,All Grades,2015,287,102,35.5
+02M442,"Ballet Tech, NYC Public School for Dance",7,2014,21,15,71.4
+02M442,"Ballet Tech, NYC Public School for Dance",7,2015,22,20,90.9
+02M442,"Ballet Tech, NYC Public School for Dance",8,2014,24,21,87.5
+02M442,"Ballet Tech, NYC Public School for Dance",8,2015,21,15,71.4
+02M442,"Ballet Tech, NYC Public School for Dance",All Grades,2014,146,112,76.7
+02M442,"Ballet Tech, NYC Public School for Dance",All Grades,2015,148,120,81.1
+02M655,Life Sciences Secondary School,7,2014,33,3,9.1
+02M655,Life Sciences Secondary School,7,2015,34,1,2.9
+02M655,Life Sciences Secondary School,8,2014,34,2,5.9
+02M655,Life Sciences Secondary School,8,2015,31,0,0
+02M655,Life Sciences Secondary School,All Grades,2014,105,7,6.7
+02M655,Life Sciences Secondary School,All Grades,2015,92,1,1.1
+02M896,Lower Manhattan Community Middle School,7,2014,108,48,44.4
+02M896,Lower Manhattan Community Middle School,7,2015,130,53,40.8
+02M896,Lower Manhattan Community Middle School,8,2014,116,51,44
+02M896,Lower Manhattan Community Middle School,8,2015,100,34,34
+02M896,Lower Manhattan Community Middle School,All Grades,2014,346,153,44.2
+02M896,Lower Manhattan Community Middle School,All Grades,2015,353,149,42.2
+03M054,J.H.S. 054 Booker T. Washington,7,2014,255,196,76.9
+03M054,J.H.S. 054 Booker T. Washington,7,2015,279,237,84.9
+03M054,J.H.S. 054 Booker T. Washington,8,2014,253,192,75.9
+03M054,J.H.S. 054 Booker T. Washington,8,2015,247,190,76.9
+03M054,J.H.S. 054 Booker T. Washington,All Grades,2014,793,623,78.6
+03M054,J.H.S. 054 Booker T. Washington,All Grades,2015,795,661,83.1
+03M076,P.S. 076 A. Philip Randolph,7,2014,50,6,12
+03M076,P.S. 076 A. Philip Randolph,7,2015,56,7,12.5
+03M076,P.S. 076 A. Philip Randolph,8,2014,62,11,17.7
+03M076,P.S. 076 A. Philip Randolph,8,2015,51,6,11.8
+03M076,P.S. 076 A. Philip Randolph,All Grades,2014,267,43,16.1
+03M076,P.S. 076 A. Philip Randolph,All Grades,2015,291,42,14.4
+03M149,P.S. 149 Sojourner Truth,7,2014,30,1,3.3
+03M149,P.S. 149 Sojourner Truth,7,2015,29,1,3.4
+03M149,P.S. 149 Sojourner Truth,8,2014,35,5,14.3
+03M149,P.S. 149 Sojourner Truth,8,2015,30,0,0
+03M149,P.S. 149 Sojourner Truth,All Grades,2014,193,15,7.8
+03M149,P.S. 149 Sojourner Truth,All Grades,2015,172,9,5.2
+03M165,P.S. 165 Robert E. Simon,7,2014,79,6,7.6
+03M165,P.S. 165 Robert E. Simon,7,2015,80,3,3.8
+03M165,P.S. 165 Robert E. Simon,8,2014,80,3,3.8
+03M165,P.S. 165 Robert E. Simon,8,2015,81,3,3.7
+03M165,P.S. 165 Robert E. Simon,All Grades,2014,521,104,20
+03M165,P.S. 165 Robert E. Simon,All Grades,2015,490,108,22
+03M180,P.S. 180 Hugo Newman,7,2014,50,9,18
+03M180,P.S. 180 Hugo Newman,7,2015,51,7,13.7
+03M180,P.S. 180 Hugo Newman,8,2014,27,4,14.8
+03M180,P.S. 180 Hugo Newman,8,2015,51,2,3.9
+03M180,P.S. 180 Hugo Newman,All Grades,2014,336,79,23.5
+03M180,P.S. 180 Hugo Newman,All Grades,2015,348,72,20.7
+03M191,P.S. 191 Amsterdam,7,2014,63,3,4.8
+03M191,P.S. 191 Amsterdam,7,2015,50,2,4
+03M191,P.S. 191 Amsterdam,8,2014,68,3,4.4
+03M191,P.S. 191 Amsterdam,8,2015,57,2,3.5
+03M191,P.S. 191 Amsterdam,All Grades,2014,316,29,9.2
+03M191,P.S. 191 Amsterdam,All Grades,2015,269,26,9.7
+03M243,M.S. 243 Center School,7,2014,58,44,75.9
+03M243,M.S. 243 Center School,7,2015,51,43,84.3
+03M243,M.S. 243 Center School,8,2014,53,38,71.7
+03M243,M.S. 243 Center School,8,2015,56,47,83.9
+03M243,M.S. 243 Center School,All Grades,2014,227,175,77.1
+03M243,M.S. 243 Center School,All Grades,2015,226,184,81.4
+03M245,M.S. M245 The Computer School,7,2014,136,67,49.3
+03M245,M.S. M245 The Computer School,7,2015,134,88,65.7
+03M245,M.S. M245 The Computer School,8,2014,130,68,52.3
+03M245,M.S. M245 The Computer School,8,2015,122,44,36.1
+03M245,M.S. M245 The Computer School,All Grades,2014,405,224,55.3
+03M245,M.S. M245 The Computer School,All Grades,2015,387,213,55
+03M247,M.S. M247 Dual Language Middle School,7,2014,67,29,43.3
+03M247,M.S. M247 Dual Language Middle School,7,2015,61,21,34.4
+03M247,M.S. M247 Dual Language Middle School,8,2014,64,29,45.3
+03M247,M.S. M247 Dual Language Middle School,8,2015,69,25,36.2
+03M247,M.S. M247 Dual Language Middle School,All Grades,2014,191,80,41.9
+03M247,M.S. M247 Dual Language Middle School,All Grades,2015,195,60,30.8
+03M250,M.S. 250 West Side Collaborative Middle School,7,2014,67,3,4.5
+03M250,M.S. 250 West Side Collaborative Middle School,7,2015,64,6,9.4
+03M250,M.S. 250 West Side Collaborative Middle School,8,2014,56,10,17.9
+03M250,M.S. 250 West Side Collaborative Middle School,8,2015,62,8,12.9
+03M250,M.S. 250 West Side Collaborative Middle School,All Grades,2014,186,16,8.6
+03M250,M.S. 250 West Side Collaborative Middle School,All Grades,2015,186,28,15.1
+03M256,M.S. 256 Academic & Athletic Excellence,7,2014,51,0,0
+03M256,M.S. 256 Academic & Athletic Excellence,7,2015,45,3,6.7
+03M256,M.S. 256 Academic & Athletic Excellence,8,2014,54,2,3.7
+03M256,M.S. 256 Academic & Athletic Excellence,8,2015,44,0,0
+03M256,M.S. 256 Academic & Athletic Excellence,All Grades,2014,153,4,2.6
+03M256,M.S. 256 Academic & Athletic Excellence,All Grades,2015,133,9,6.8
+03M258,Community Action School - MS 258,7,2014,74,6,8.1
+03M258,Community Action School - MS 258,7,2015,88,14,15.9
+03M258,Community Action School - MS 258,8,2014,81,14,17.3
+03M258,Community Action School - MS 258,8,2015,76,7,9.2
+03M258,Community Action School - MS 258,All Grades,2014,243,41,16.9
+03M258,Community Action School - MS 258,All Grades,2015,239,48,20.1
+03M333,P.S. 333 Manhattan School for Children,7,2014,60,25,41.7
+03M333,P.S. 333 Manhattan School for Children,7,2015,58,28,48.3
+03M333,P.S. 333 Manhattan School for Children,8,2014,56,15,26.8
+03M333,P.S. 333 Manhattan School for Children,8,2015,43,12,27.9
+03M333,P.S. 333 Manhattan School for Children,All Grades,2014,427,230,53.9
+03M333,P.S. 333 Manhattan School for Children,All Grades,2015,407,209,51.4
+03M334,The Anderson School,7,2014,64,64,100
+03M334,The Anderson School,7,2015,62,58,93.5
+03M334,The Anderson School,8,2014,63,61,96.8
+03M334,The Anderson School,8,2015,64,64,100
+03M334,The Anderson School,All Grades,2014,414,407,98.3
+03M334,The Anderson School,All Grades,2015,411,404,98.3
+03M415,Wadleigh Secondary School for the Performing & Visual Arts,7,2014,16,0,0
+03M415,Wadleigh Secondary School for the Performing & Visual Arts,7,2015,18,0,0
+03M415,Wadleigh Secondary School for the Performing & Visual Arts,8,2014,29,0,0
+03M415,Wadleigh Secondary School for the Performing & Visual Arts,8,2015,14,0,0
+03M415,Wadleigh Secondary School for the Performing & Visual Arts,All Grades,2014,69,1,1.4
+03M415,Wadleigh Secondary School for the Performing & Visual Arts,All Grades,2015,45,0,0
+03M421,West Prep Academy,7,2014,62,5,8.1
+03M421,West Prep Academy,7,2015,61,8,13.1
+03M421,West Prep Academy,8,2014,77,4,5.2
+03M421,West Prep Academy,8,2015,58,7,12.1
+03M421,West Prep Academy,All Grades,2014,207,22,10.6
+03M421,West Prep Academy,All Grades,2015,180,30,16.7
+03M859,Special Music School,7,2014,15,13,86.7
+03M859,Special Music School,7,2015,16,16,100
+03M859,Special Music School,8,2014,17,17,100
+03M859,Special Music School,8,2015,17,13,76.5
+03M859,Special Music School,All Grades,2014,94,89,94.7
+03M859,Special Music School,All Grades,2015,92,83,90.2
+03M860,Frederick Douglass Academy II Secondary School,7,2014,22,3,13.6
+03M860,Frederick Douglass Academy II Secondary School,7,2015,31,1,3.2
+03M860,Frederick Douglass Academy II Secondary School,8,2014,55,3,5.5
+03M860,Frederick Douglass Academy II Secondary School,8,2015,23,0,0
+03M860,Frederick Douglass Academy II Secondary School,All Grades,2014,111,7,6.3
+03M860,Frederick Douglass Academy II Secondary School,All Grades,2015,77,8,10.4
+03M862,Mott Hall II,7,2014,113,76,67.3
+03M862,Mott Hall II,7,2015,114,77,67.5
+03M862,Mott Hall II,8,2014,114,71,62.3
+03M862,Mott Hall II,8,2015,110,58,52.7
+03M862,Mott Hall II,All Grades,2014,341,221,64.8
+03M862,Mott Hall II,All Grades,2015,332,210,63.3
+04M007,P.S. 007 Samuel Stern,7,2014,51,10,19.6
+04M007,P.S. 007 Samuel Stern,7,2015,38,2,5.3
+04M007,P.S. 007 Samuel Stern,8,2014,50,9,18
+04M007,P.S. 007 Samuel Stern,8,2015,48,17,35.4
+04M007,P.S. 007 Samuel Stern,All Grades,2014,236,50,21.2
+04M007,P.S. 007 Samuel Stern,All Grades,2015,231,63,27.3
+04M012,Tag Young Scholars,7,2014,50,41,82
+04M012,Tag Young Scholars,7,2015,54,49,90.7
+04M012,Tag Young Scholars,8,2014,53,39,73.6
+04M012,Tag Young Scholars,8,2015,45,27,60
+04M012,Tag Young Scholars,All Grades,2014,359,314,87.5
+04M012,Tag Young Scholars,All Grades,2015,364,327,89.8
+04M013,J.H.S. 013 Jackie Robinson,7,2014,42,2,4.8
+04M013,J.H.S. 013 Jackie Robinson,8,2014,56,2,3.6
+04M013,J.H.S. 013 Jackie Robinson,8,2015,34,1,2.9
+04M013,J.H.S. 013 Jackie Robinson,All Grades,2014,98,4,4.1
+04M013,J.H.S. 013 Jackie Robinson,All Grades,2015,34,1,2.9
+04M050,P.S. 050 Vito Marcantonio,7,2014,47,0,0
+04M050,P.S. 050 Vito Marcantonio,7,2015,35,1,2.9
+04M050,P.S. 050 Vito Marcantonio,8,2014,34,1,2.9
+04M050,P.S. 050 Vito Marcantonio,8,2015,53,0,0
+04M050,P.S. 050 Vito Marcantonio,All Grades,2014,202,19,9.4
+04M050,P.S. 050 Vito Marcantonio,All Grades,2015,210,14,6.7
+04M057,James Weldon Johnson,7,2014,62,15,24.2
+04M057,James Weldon Johnson,7,2015,96,24,25
+04M057,James Weldon Johnson,8,2014,68,19,27.9
+04M057,James Weldon Johnson,8,2015,61,11,18
+04M057,James Weldon Johnson,All Grades,2014,529,163,30.8
+04M057,James Weldon Johnson,All Grades,2015,545,160,29.4
+04M096,P.S. 096 Joseph Lanzetta,7,2014,43,3,7
+04M096,P.S. 096 Joseph Lanzetta,7,2015,55,2,3.6
+04M096,P.S. 096 Joseph Lanzetta,8,2014,56,1,1.8
+04M096,P.S. 096 Joseph Lanzetta,8,2015,45,3,6.7
+04M096,P.S. 096 Joseph Lanzetta,All Grades,2014,317,29,9.1
+04M096,P.S. 096 Joseph Lanzetta,All Grades,2015,297,16,5.4
+04M108,P.S. 108 Assemblyman Angelo Del Toro Educational Complex,7,2014,116,11,9.5
+04M108,P.S. 108 Assemblyman Angelo Del Toro Educational Complex,7,2015,85,11,12.9
+04M108,P.S. 108 Assemblyman Angelo Del Toro Educational Complex,8,2014,90,16,17.8
+04M108,P.S. 108 Assemblyman Angelo Del Toro Educational Complex,8,2015,114,7,6.1
+04M108,P.S. 108 Assemblyman Angelo Del Toro Educational Complex,All Grades,2014,485,90,18.6
+04M108,P.S. 108 Assemblyman Angelo Del Toro Educational Complex,All Grades,2015,439,61,13.9
+04M171,P.S. 171 Patrick Henry,7,2014,94,46,48.9
+04M171,P.S. 171 Patrick Henry,7,2015,102,64,62.7
+04M171,P.S. 171 Patrick Henry,8,2014,85,46,54.1
+04M171,P.S. 171 Patrick Henry,8,2015,87,31,35.6
+04M171,P.S. 171 Patrick Henry,All Grades,2014,485,254,52.4
+04M171,P.S. 171 Patrick Henry,All Grades,2015,495,269,54.3
+04M206,P.S. 206 Jose Celso Barbosa,7,2014,67,12,17.9
+04M206,P.S. 206 Jose Celso Barbosa,7,2015,67,12,17.9
+04M206,P.S. 206 Jose Celso Barbosa,8,2014,51,5,9.8
+04M206,P.S. 206 Jose Celso Barbosa,8,2015,61,5,8.2
+04M206,P.S. 206 Jose Celso Barbosa,All Grades,2014,433,121,27.9
+04M206,P.S. 206 Jose Celso Barbosa,All Grades,2015,454,122,26.9
+04M224,M.S. 224 Manhattan East School for Arts & Academics,7,2014,53,14,26.4
+04M224,M.S. 224 Manhattan East School for Arts & Academics,7,2015,66,21,31.8
+04M224,M.S. 224 Manhattan East School for Arts & Academics,8,2014,76,24,31.6
+04M224,M.S. 224 Manhattan East School for Arts & Academics,8,2015,52,17,32.7
+04M224,M.S. 224 Manhattan East School for Arts & Academics,All Grades,2014,187,59,31.6
+04M224,M.S. 224 Manhattan East School for Arts & Academics,All Grades,2015,160,53,33.1
+04M372,ESPERANZA PREPARATORY ACADEMY,7,2014,80,1,1.3
+04M372,ESPERANZA PREPARATORY ACADEMY,7,2015,86,6,7
+04M372,ESPERANZA PREPARATORY ACADEMY,8,2014,77,5,6.5
+04M372,ESPERANZA PREPARATORY ACADEMY,8,2015,81,0,0
+04M372,ESPERANZA PREPARATORY ACADEMY,All Grades,2014,237,10,4.2
+04M372,ESPERANZA PREPARATORY ACADEMY,All Grades,2015,244,11,4.5
+04M377,Renaissance School of the Arts,7,2014,44,1,2.3
+04M377,Renaissance School of the Arts,7,2015,57,6,10.5
+04M377,Renaissance School of the Arts,8,2014,60,1,1.7
+04M377,Renaissance School of the Arts,8,2015,50,2,4
+04M377,Renaissance School of the Arts,All Grades,2014,151,7,4.6
+04M377,Renaissance School of the Arts,All Grades,2015,162,11,6.8
+04M381,Global Neighborhood Secondary School,7,2014,50,12,24
+04M381,Global Neighborhood Secondary School,7,2015,54,2,3.7
+04M381,Global Neighborhood Secondary School,8,2014,49,13,26.5
+04M381,Global Neighborhood Secondary School,8,2015,48,12,25
+04M381,Global Neighborhood Secondary School,All Grades,2014,146,26,17.8
+04M381,Global Neighborhood Secondary School,All Grades,2015,141,18,12.8
+04M406,Global Technology Preparatory,7,2014,57,2,3.5
+04M406,Global Technology Preparatory,7,2015,67,15,22.4
+04M406,Global Technology Preparatory,8,2014,53,1,1.9
+04M406,Global Technology Preparatory,8,2015,57,11,19.3
+04M406,Global Technology Preparatory,All Grades,2014,176,12,6.8
+04M406,Global Technology Preparatory,All Grades,2015,172,35,20.3
+04M610,Young Women's Leadership School,7,2014,55,9,16.4
+04M610,Young Women's Leadership School,7,2015,50,10,20
+04M610,Young Women's Leadership School,8,2014,52,20,38.5
+04M610,Young Women's Leadership School,8,2015,51,8,15.7
+04M610,Young Women's Leadership School,All Grades,2014,159,38,23.9
+04M610,Young Women's Leadership School,All Grades,2015,154,35,22.7
+04M825,Isaac Newton Middle School for Math & Science,7,2014,94,10,10.6
+04M825,Isaac Newton Middle School for Math & Science,7,2015,89,3,3.4
+04M825,Isaac Newton Middle School for Math & Science,8,2014,114,16,14
+04M825,Isaac Newton Middle School for Math & Science,8,2015,100,7,7
+04M825,Isaac Newton Middle School for Math & Science,All Grades,2014,314,34,10.8
+04M825,Isaac Newton Middle School for Math & Science,All Grades,2015,266,15,5.6
+05M046,P.S. 046 Arthur Tappan,7,2014,81,4,4.9
+05M046,P.S. 046 Arthur Tappan,7,2015,69,5,7.2
+05M046,P.S. 046 Arthur Tappan,8,2014,90,9,10
+05M046,P.S. 046 Arthur Tappan,8,2015,91,9,9.9
+05M046,P.S. 046 Arthur Tappan,All Grades,2014,503,73,14.5
+05M046,P.S. 046 Arthur Tappan,All Grades,2015,494,62,12.6
+05M123,P.S. 123 Mahalia Jackson,7,2014,53,1,1.9
+05M123,P.S. 123 Mahalia Jackson,7,2015,51,1,2
+05M123,P.S. 123 Mahalia Jackson,8,2014,59,1,1.7
+05M123,P.S. 123 Mahalia Jackson,8,2015,52,1,1.9
+05M123,P.S. 123 Mahalia Jackson,All Grades,2014,345,18,5.2
+05M123,P.S. 123 Mahalia Jackson,All Grades,2015,322,19,5.9
+05M129,P.S. 129 John H. Finley,7,2014,56,5,8.9
+05M129,P.S. 129 John H. Finley,7,2015,56,4,7.1
+05M129,P.S. 129 John H. Finley,8,2014,80,4,5
+05M129,P.S. 129 John H. Finley,8,2015,54,2,3.7
+05M129,P.S. 129 John H. Finley,All Grades,2014,360,71,19.7
+05M129,P.S. 129 John H. Finley,All Grades,2015,317,50,15.8
+05M148,Eagle Academy for Young Men of Harlem,7,2015,70,5,7.1
+05M148,Eagle Academy for Young Men of Harlem,All Grades,2015,130,9,6.9
+05M161,P.S. 161 Pedro Albizu Campos,7,2014,112,7,6.3
+05M161,P.S. 161 Pedro Albizu Campos,7,2015,109,16,14.7
+05M161,P.S. 161 Pedro Albizu Campos,8,2014,112,6,5.4
+05M161,P.S. 161 Pedro Albizu Campos,8,2015,118,3,2.5
+05M161,P.S. 161 Pedro Albizu Campos,All Grades,2014,640,121,18.9
+05M161,P.S. 161 Pedro Albizu Campos,All Grades,2015,620,121,19.5
+05M286,I.S. M286 Renaissance Leadership Academy,7,2014,65,5,7.7
+05M286,I.S. M286 Renaissance Leadership Academy,7,2015,38,1,2.6
+05M286,I.S. M286 Renaissance Leadership Academy,8,2014,56,12,21.4
+05M286,I.S. M286 Renaissance Leadership Academy,8,2015,61,2,3.3
+05M286,I.S. M286 Renaissance Leadership Academy,All Grades,2014,163,20,12.3
+05M286,I.S. M286 Renaissance Leadership Academy,All Grades,2015,164,5,3
+05M302,KAPPA IV,7,2014,76,0,0
+05M302,KAPPA IV,7,2015,59,0,0
+05M302,KAPPA IV,8,2014,50,4,8
+05M302,KAPPA IV,8,2015,82,1,1.2
+05M302,KAPPA IV,All Grades,2014,180,4,2.2
+05M302,KAPPA IV,All Grades,2015,185,3,1.6
+05M362,Columbia Secondary School,7,2014,94,70,74.5
+05M362,Columbia Secondary School,7,2015,95,79,83.2
+05M362,Columbia Secondary School,8,2014,95,86,90.5
+05M362,Columbia Secondary School,8,2015,93,80,86
+05M362,Columbia Secondary School,All Grades,2014,284,233,82
+05M362,Columbia Secondary School,All Grades,2015,283,246,86.9
+05M367,Academy for Social Action: A College Board School,7,2014,17,1,5.9
+05M367,Academy for Social Action: A College Board School,8,2014,27,0,0
+05M367,Academy for Social Action: A College Board School,8,2015,16,0,0
+05M367,Academy for Social Action: A College Board School,All Grades,2014,44,1,2.3
+05M367,Academy for Social Action: A College Board School,All Grades,2015,16,0,0
+05M410,The Urban Assembly Institute for New Technologies,7,2014,15,0,0
+05M410,The Urban Assembly Institute for New Technologies,7,2015,37,2,5.4
+05M410,The Urban Assembly Institute for New Technologies,8,2014,40,0,0
+05M410,The Urban Assembly Institute for New Technologies,8,2015,19,0,0
+05M410,The Urban Assembly Institute for New Technologies,All Grades,2014,87,3,3.4
+05M410,The Urban Assembly Institute for New Technologies,All Grades,2015,83,4,4.8
+05M469,Choir Academy of Harlem,7,2014,34,0,0
+05M469,Choir Academy of Harlem,8,2014,36,0,0
+05M469,Choir Academy of Harlem,8,2015,27,0,0
+05M469,Choir Academy of Harlem,All Grades,2014,70,0,0
+05M469,Choir Academy of Harlem,All Grades,2015,27,0,0
+05M499,Frederick Douglass Academy,7,2014,108,7,6.5
+05M499,Frederick Douglass Academy,7,2015,102,14,13.7
+05M499,Frederick Douglass Academy,8,2014,111,4,3.6
+05M499,Frederick Douglass Academy,8,2015,103,4,3.9
+05M499,Frederick Douglass Academy,All Grades,2014,305,17,5.6
+05M499,Frederick Douglass Academy,All Grades,2015,275,31,11.3
+05M514,New Design Middle School,7,2014,101,1,1
+05M514,New Design Middle School,7,2015,88,0,0
+05M514,New Design Middle School,8,2014,110,2,1.8
+05M514,New Design Middle School,8,2015,108,2,1.9
+05M514,New Design Middle School,All Grades,2014,296,5,1.7
+05M514,New Design Middle School,All Grades,2015,260,4,1.5
+05M670,Thurgood Marshall Academy for Learning and Social Change,7,2014,55,17,30.9
+05M670,Thurgood Marshall Academy for Learning and Social Change,7,2015,53,3,5.7
+05M670,Thurgood Marshall Academy for Learning and Social Change,8,2014,61,11,18
+05M670,Thurgood Marshall Academy for Learning and Social Change,8,2015,57,13,22.8
+05M670,Thurgood Marshall Academy for Learning and Social Change,All Grades,2014,165,41,24.8
+05M670,Thurgood Marshall Academy for Learning and Social Change,All Grades,2015,162,22,13.6
+06M018,P.S. 018 Park Terrace,7,2014,50,6,12
+06M018,P.S. 018 Park Terrace,7,2015,50,9,18
+06M018,P.S. 018 Park Terrace,8,2014,59,15,25.4
+06M018,P.S. 018 Park Terrace,8,2015,49,11,22.4
+06M018,P.S. 018 Park Terrace,All Grades,2014,281,52,18.5
+06M018,P.S. 018 Park Terrace,All Grades,2015,262,46,17.6
+06M052,J.H.S. 052 Inwood,7,2014,188,8,4.3
+06M052,J.H.S. 052 Inwood,7,2015,159,13,8.2
+06M052,J.H.S. 052 Inwood,8,2014,181,23,12.7
+06M052,J.H.S. 052 Inwood,8,2015,181,16,8.8
+06M052,J.H.S. 052 Inwood,All Grades,2014,522,57,10.9
+06M052,J.H.S. 052 Inwood,All Grades,2015,471,46,9.8
+06M143,J.H.S. 143 Eleanor Roosevelt,7,2014,132,7,5.3
+06M143,J.H.S. 143 Eleanor Roosevelt,7,2015,123,4,3.3
+06M143,J.H.S. 143 Eleanor Roosevelt,8,2014,164,11,6.7
+06M143,J.H.S. 143 Eleanor Roosevelt,8,2015,130,10,7.7
+06M143,J.H.S. 143 Eleanor Roosevelt,All Grades,2014,414,21,5.1
+06M143,J.H.S. 143 Eleanor Roosevelt,All Grades,2015,370,19,5.1
+06M187,P.S./I.S. 187 Hudson Cliffs,7,2014,90,36,40
+06M187,P.S./I.S. 187 Hudson Cliffs,7,2015,82,31,37.8
+06M187,P.S./I.S. 187 Hudson Cliffs,8,2014,84,33,39.3
+06M187,P.S./I.S. 187 Hudson Cliffs,8,2015,86,32,37.2
+06M187,P.S./I.S. 187 Hudson Cliffs,All Grades,2014,485,215,44.3
+06M187,P.S./I.S. 187 Hudson Cliffs,All Grades,2015,498,240,48.2
+06M210,P.S./I.S. 210 - Twenty-first Century Academy for Community Leadership,7,2014,53,6,11.3
+06M210,P.S./I.S. 210 - Twenty-first Century Academy for Community Leadership,7,2015,48,7,14.6
+06M210,P.S./I.S. 210 - Twenty-first Century Academy for Community Leadership,8,2014,57,4,7
+06M210,P.S./I.S. 210 - Twenty-first Century Academy for Community Leadership,8,2015,50,10,20
+06M210,P.S./I.S. 210 - Twenty-first Century Academy for Community Leadership,All Grades,2014,300,66,22
+06M210,P.S./I.S. 210 - Twenty-first Century Academy for Community Leadership,All Grades,2015,281,81,28.8
+06M218,I.S. 218 Salome Urena,7,2014,78,10,12.8
+06M218,I.S. 218 Salome Urena,7,2015,81,0,0
+06M218,I.S. 218 Salome Urena,8,2014,95,6,6.3
+06M218,I.S. 218 Salome Urena,8,2015,84,8,9.5
+06M218,I.S. 218 Salome Urena,All Grades,2014,237,18,7.6
+06M218,I.S. 218 Salome Urena,All Grades,2015,237,13,5.5
+06M223,The Mott Hall School,7,2014,97,48,49.5
+06M223,The Mott Hall School,7,2015,90,51,56.7
+06M223,The Mott Hall School,8,2014,85,67,78.8
+06M223,The Mott Hall School,8,2015,93,71,76.3
+06M223,The Mott Hall School,All Grades,2014,281,161,57.3
+06M223,The Mott Hall School,All Grades,2015,273,156,57.1
+06M278,Paula Hedbavny School,7,2014,65,29,44.6
+06M278,Paula Hedbavny School,7,2015,61,28,45.9
+06M278,Paula Hedbavny School,8,2014,65,35,53.8
+06M278,Paula Hedbavny School,8,2015,65,35,53.8
+06M278,Paula Hedbavny School,All Grades,2014,370,158,42.7
+06M278,Paula Hedbavny School,All Grades,2015,354,154,43.5
+06M293,City College Academy of the Arts,7,2014,76,33,43.4
+06M293,City College Academy of the Arts,7,2015,88,42,47.7
+06M293,City College Academy of the Arts,8,2014,89,40,44.9
+06M293,City College Academy of the Arts,8,2015,73,36,49.3
+06M293,City College Academy of the Arts,All Grades,2014,252,128,50.8
+06M293,City College Academy of the Arts,All Grades,2015,244,119,48.8
+06M311,Amistad Dual Language School,7,2014,47,13,27.7
+06M311,Amistad Dual Language School,7,2015,47,11,23.4
+06M311,Amistad Dual Language School,8,2014,40,8,20
+06M311,Amistad Dual Language School,8,2015,38,4,10.5
+06M311,Amistad Dual Language School,All Grades,2014,271,67,24.7
+06M311,Amistad Dual Language School,All Grades,2015,258,59,22.9
+06M319,M.S. 319 - Maria Teresa,7,2014,205,30,14.6
+06M319,M.S. 319 - Maria Teresa,7,2015,184,28,15.2
+06M319,M.S. 319 - Maria Teresa,8,2014,224,21,9.4
+06M319,M.S. 319 - Maria Teresa,8,2015,200,16,8
+06M319,M.S. 319 - Maria Teresa,All Grades,2014,614,89,14.5
+06M319,M.S. 319 - Maria Teresa,All Grades,2015,590,73,12.4
+06M322,Middle School 322,7,2014,140,12,8.6
+06M322,Middle School 322,7,2015,101,12,11.9
+06M322,Middle School 322,8,2014,145,26,17.9
+06M322,Middle School 322,8,2015,128,18,14.1
+06M322,Middle School 322,All Grades,2014,374,51,13.6
+06M322,Middle School 322,All Grades,2015,314,42,13.4
+06M324,M.S. 324 - Patria Mirabal,7,2014,156,37,23.7
+06M324,M.S. 324 - Patria Mirabal,7,2015,147,43,29.3
+06M324,M.S. 324 - Patria Mirabal,8,2014,151,53,35.1
+06M324,M.S. 324 - Patria Mirabal,8,2015,148,42,28.4
+06M324,M.S. 324 - Patria Mirabal,All Grades,2014,431,130,30.2
+06M324,M.S. 324 - Patria Mirabal,All Grades,2015,436,129,29.6
+06M326,M.S. 326 - Writers Today & Leaders Tomorrow,7,2014,84,7,8.3
+06M326,M.S. 326 - Writers Today & Leaders Tomorrow,7,2015,72,8,11.1
+06M326,M.S. 326 - Writers Today & Leaders Tomorrow,8,2014,116,7,6
+06M326,M.S. 326 - Writers Today & Leaders Tomorrow,8,2015,92,7,7.6
+06M326,M.S. 326 - Writers Today & Leaders Tomorrow,All Grades,2014,267,19,7.1
+06M326,M.S. 326 - Writers Today & Leaders Tomorrow,All Grades,2015,193,16,8.3
+06M328,M.S. 328 - Manhattan Middle School for Scientific Inquiry,7,2014,102,3,2.9
+06M328,M.S. 328 - Manhattan Middle School for Scientific Inquiry,7,2015,63,0,0
+06M328,M.S. 328 - Manhattan Middle School for Scientific Inquiry,8,2014,113,4,3.5
+06M328,M.S. 328 - Manhattan Middle School for Scientific Inquiry,8,2015,93,2,2.2
+06M328,M.S. 328 - Manhattan Middle School for Scientific Inquiry,All Grades,2014,275,9,3.3
+06M328,M.S. 328 - Manhattan Middle School for Scientific Inquiry,All Grades,2015,202,6,3
+06M346,Community Health Academy of the Heights,7,2014,74,10,13.5
+06M346,Community Health Academy of the Heights,7,2015,98,21,21.4
+06M346,Community Health Academy of the Heights,8,2014,63,2,3.2
+06M346,Community Health Academy of the Heights,8,2015,73,3,4.1
+06M346,Community Health Academy of the Heights,All Grades,2014,234,18,7.7
+06M346,Community Health Academy of the Heights,All Grades,2015,254,30,11.8
+06M348,Washington Heights Expeditionary Learning School,7,2014,93,40,43
+06M348,Washington Heights Expeditionary Learning School,7,2015,87,21,24.1
+06M348,Washington Heights Expeditionary Learning School,8,2014,83,25,30.1
+06M348,Washington Heights Expeditionary Learning School,8,2015,94,27,28.7
+06M348,Washington Heights Expeditionary Learning School,All Grades,2014,263,84,31.9
+06M348,Washington Heights Expeditionary Learning School,All Grades,2015,265,73,27.5
+06M349,Harbor Heights,7,2014,52,1,1.9
+06M349,Harbor Heights,7,2015,49,1,2
+06M349,Harbor Heights,8,2014,61,3,4.9
+06M349,Harbor Heights,8,2015,65,7,10.8
+06M349,Harbor Heights,All Grades,2014,156,4,2.6
+06M349,Harbor Heights,All Grades,2015,137,9,6.6
+06M528,I.S. 528 Bea Fuller Rodgers School,7,2014,72,4,5.6
+06M528,I.S. 528 Bea Fuller Rodgers School,7,2015,66,6,9.1
+06M528,I.S. 528 Bea Fuller Rodgers School,8,2014,84,0,0
+06M528,I.S. 528 Bea Fuller Rodgers School,8,2015,66,6,9.1
+06M528,I.S. 528 Bea Fuller Rodgers School,All Grades,2014,224,6,2.7
+06M528,I.S. 528 Bea Fuller Rodgers School,All Grades,2015,189,19,10.1
+07X005,PS 5 Port Morris,7,2014,81,4,4.9
+07X005,PS 5 Port Morris,7,2015,94,7,7.4
+07X005,PS 5 Port Morris,8,2015,87,0,0
+07X005,PS 5 Port Morris,All Grades,2014,394,29,7.4
+07X005,PS 5 Port Morris,All Grades,2015,515,37,7.2
+07X029,P.S./M.S. 029 Melrose School,7,2014,78,2,2.6
+07X029,P.S./M.S. 029 Melrose School,7,2015,96,5,5.2
+07X029,P.S./M.S. 029 Melrose School,8,2014,79,4,5.1
+07X029,P.S./M.S. 029 Melrose School,8,2015,74,4,5.4
+07X029,P.S./M.S. 029 Melrose School,All Grades,2014,468,43,9.2
+07X029,P.S./M.S. 029 Melrose School,All Grades,2015,485,47,9.7
+07X031,P.S./M.S. 031 The William Lloyd Garrison,7,2014,92,5,5.4
+07X031,P.S./M.S. 031 The William Lloyd Garrison,7,2015,81,5,6.2
+07X031,P.S./M.S. 031 The William Lloyd Garrison,8,2014,77,5,6.5
+07X031,P.S./M.S. 031 The William Lloyd Garrison,8,2015,97,3,3.1
+07X031,P.S./M.S. 031 The William Lloyd Garrison,All Grades,2014,410,36,8.8
+07X031,P.S./M.S. 031 The William Lloyd Garrison,All Grades,2015,433,30,6.9
+07X151,J.H.S. 151 Lou Gehrig,7,2014,83,3,3.6
+07X151,J.H.S. 151 Lou Gehrig,7,2015,92,3,3.3
+07X151,J.H.S. 151 Lou Gehrig,8,2014,99,3,3
+07X151,J.H.S. 151 Lou Gehrig,8,2015,84,4,4.8
+07X151,J.H.S. 151 Lou Gehrig,All Grades,2014,269,9,3.3
+07X151,J.H.S. 151 Lou Gehrig,All Grades,2015,245,9,3.7
+07X162,J.H.S. 162 Lola Rodriguez De Tio,7,2014,118,12,10.2
+07X162,J.H.S. 162 Lola Rodriguez De Tio,7,2015,119,4,3.4
+07X162,J.H.S. 162 Lola Rodriguez De Tio,8,2014,132,4,3
+07X162,J.H.S. 162 Lola Rodriguez De Tio,8,2015,120,3,2.5
+07X162,J.H.S. 162 Lola Rodriguez De Tio,All Grades,2014,365,24,6.6
+07X162,J.H.S. 162 Lola Rodriguez De Tio,All Grades,2015,355,11,3.1
+07X203,M.S. 203,7,2014,77,1,1.3
+07X203,M.S. 203,8,2014,89,0,0
+07X203,M.S. 203,8,2015,72,3,4.2
+07X203,M.S. 203,All Grades,2014,166,1,0.6
+07X203,M.S. 203,All Grades,2015,72,3,4.2
+07X221,South Bronx Preparatory: A College Board School,7,2014,92,10,10.9
+07X221,South Bronx Preparatory: A College Board School,7,2015,106,14,13.2
+07X221,South Bronx Preparatory: A College Board School,8,2014,95,10,10.5
+07X221,South Bronx Preparatory: A College Board School,8,2015,91,7,7.7
+07X221,South Bronx Preparatory: A College Board School,All Grades,2014,290,51,17.6
+07X221,South Bronx Preparatory: A College Board School,All Grades,2015,290,52,17.9
+07X223,M.S. 223 The Laboratory School of Finance and Technology,7,2014,89,37,41.6
+07X223,M.S. 223 The Laboratory School of Finance and Technology,7,2015,99,28,28.3
+07X223,M.S. 223 The Laboratory School of Finance and Technology,8,2014,158,59,37.3
+07X223,M.S. 223 The Laboratory School of Finance and Technology,8,2015,87,30,34.5
+07X223,M.S. 223 The Laboratory School of Finance and Technology,All Grades,2014,345,127,36.8
+07X223,M.S. 223 The Laboratory School of Finance and Technology,All Grades,2015,282,87,30.9
+07X224,P.S. / I.S. 224,7,2014,113,5,4.4
+07X224,P.S. / I.S. 224,7,2015,106,6,5.7
+07X224,P.S. / I.S. 224,8,2014,99,12,12.1
+07X224,P.S. / I.S. 224,8,2015,109,7,6.4
+07X224,P.S. / I.S. 224,All Grades,2014,316,20,6.3
+07X224,P.S. / I.S. 224,All Grades,2015,340,27,7.9
+07X296,South Bronx Academy for Applied Media,7,2014,118,4,3.4
+07X296,South Bronx Academy for Applied Media,7,2015,110,4,3.6
+07X296,South Bronx Academy for Applied Media,8,2014,136,3,2.2
+07X296,South Bronx Academy for Applied Media,8,2015,107,3,2.8
+07X296,South Bronx Academy for Applied Media,All Grades,2014,366,10,2.7
+07X296,South Bronx Academy for Applied Media,All Grades,2015,331,12,3.6
+07X298,Academy of Public Relations,7,2014,124,7,5.6
+07X298,Academy of Public Relations,7,2015,134,4,3
+07X298,Academy of Public Relations,8,2014,88,7,8
+07X298,Academy of Public Relations,8,2015,119,3,2.5
+07X298,Academy of Public Relations,All Grades,2014,350,16,4.6
+07X298,Academy of Public Relations,All Grades,2015,349,12,3.4
+07X343,Academy of Applied Mathematics and Technology,7,2014,97,19,19.6
+07X343,Academy of Applied Mathematics and Technology,7,2015,101,38,37.6
+07X343,Academy of Applied Mathematics and Technology,8,2014,89,10,11.2
+07X343,Academy of Applied Mathematics and Technology,8,2015,99,29,29.3
+07X343,Academy of Applied Mathematics and Technology,All Grades,2014,285,59,20.7
+07X343,Academy of Applied Mathematics and Technology,All Grades,2015,298,101,33.9
+07X500,Hostos-Lincoln Academy of Science,7,2014,65,9,13.8
+07X500,Hostos-Lincoln Academy of Science,7,2015,65,2,3.1
+07X500,Hostos-Lincoln Academy of Science,8,2014,54,14,25.9
+07X500,Hostos-Lincoln Academy of Science,8,2015,42,7,16.7
+07X500,Hostos-Lincoln Academy of Science,All Grades,2014,190,27,14.2
+07X500,Hostos-Lincoln Academy of Science,All Grades,2015,178,15,8.4
+07X551,The Urban Assembly Bronx Academy of Letters,7,2014,72,3,4.2
+07X551,The Urban Assembly Bronx Academy of Letters,7,2015,93,2,2.2
+07X551,The Urban Assembly Bronx Academy of Letters,8,2014,74,2,2.7
+07X551,The Urban Assembly Bronx Academy of Letters,8,2015,73,3,4.1
+07X551,The Urban Assembly Bronx Academy of Letters,All Grades,2014,245,9,3.7
+07X551,The Urban Assembly Bronx Academy of Letters,All Grades,2015,251,18,7.2
+08X071,P.S. 071 Rose E. Scala,7,2014,189,75,39.7
+08X071,P.S. 071 Rose E. Scala,7,2015,177,82,46.3
+08X071,P.S. 071 Rose E. Scala,8,2014,182,72,39.6
+08X071,P.S. 071 Rose E. Scala,8,2015,181,76,42
+08X071,P.S. 071 Rose E. Scala,All Grades,2014,1172,477,40.7
+08X071,P.S. 071 Rose E. Scala,All Grades,2015,1121,493,44
+08X101,M.S. X101 Edward R. Byrne,7,2014,160,55,34.4
+08X101,M.S. X101 Edward R. Byrne,7,2015,165,52,31.5
+08X101,M.S. X101 Edward R. Byrne,8,2014,146,50,34.2
+08X101,M.S. X101 Edward R. Byrne,8,2015,131,42,32.1
+08X101,M.S. X101 Edward R. Byrne,All Grades,2014,477,173,36.3
+08X101,M.S. X101 Edward R. Byrne,All Grades,2015,461,162,35.1
+08X123,J.H.S. 123 James M. Kieran,7,2014,157,3,1.9
+08X123,J.H.S. 123 James M. Kieran,7,2015,131,3,2.3
+08X123,J.H.S. 123 James M. Kieran,8,2014,181,8,4.4
+08X123,J.H.S. 123 James M. Kieran,8,2015,142,0,0
+08X123,J.H.S. 123 James M. Kieran,All Grades,2014,484,16,3.3
+08X123,J.H.S. 123 James M. Kieran,All Grades,2015,393,16,4.1
+08X125,J.H.S. 125 Henry Hudson,7,2014,120,8,6.7
+08X125,J.H.S. 125 Henry Hudson,7,2015,141,12,8.5
+08X125,J.H.S. 125 Henry Hudson,8,2014,193,21,10.9
+08X125,J.H.S. 125 Henry Hudson,8,2015,138,28,20.3
+08X125,J.H.S. 125 Henry Hudson,All Grades,2014,445,37,8.3
+08X125,J.H.S. 125 Henry Hudson,All Grades,2015,385,56,14.5
+08X131,J.H.S. 131 Albert Einstein,7,2014,229,7,3.1
+08X131,J.H.S. 131 Albert Einstein,7,2015,206,7,3.4
+08X131,J.H.S. 131 Albert Einstein,8,2014,250,18,7.2
+08X131,J.H.S. 131 Albert Einstein,8,2015,220,17,7.7
+08X131,J.H.S. 131 Albert Einstein,All Grades,2014,701,41,5.8
+08X131,J.H.S. 131 Albert Einstein,All Grades,2015,559,28,5
+08X269,Bronx Studio School for Writers and Artists,7,2014,58,4,6.9
+08X269,Bronx Studio School for Writers and Artists,7,2015,81,7,8.6
+08X269,Bronx Studio School for Writers and Artists,8,2014,80,13,16.3
+08X269,Bronx Studio School for Writers and Artists,8,2015,58,5,8.6
+08X269,Bronx Studio School for Writers and Artists,All Grades,2014,230,22,9.6
+08X269,Bronx Studio School for Writers and Artists,All Grades,2015,234,18,7.7
+08X301,M.S. 301 Paul L. Dunbar,7,2014,64,1,1.6
+08X301,M.S. 301 Paul L. Dunbar,7,2015,61,5,8.2
+08X301,M.S. 301 Paul L. Dunbar,8,2014,90,3,3.3
+08X301,M.S. 301 Paul L. Dunbar,8,2015,74,0,0
+08X301,M.S. 301 Paul L. Dunbar,All Grades,2014,205,4,2
+08X301,M.S. 301 Paul L. Dunbar,All Grades,2015,185,8,4.3
+08X302,M.S. 302 Luisa Dessus Cruz,7,2014,187,31,16.6
+08X302,M.S. 302 Luisa Dessus Cruz,7,2015,166,21,12.7
+08X302,M.S. 302 Luisa Dessus Cruz,8,2014,218,13,6
+08X302,M.S. 302 Luisa Dessus Cruz,8,2015,186,6,3.2
+08X302,M.S. 302 Luisa Dessus Cruz,All Grades,2014,571,66,11.6
+08X302,M.S. 302 Luisa Dessus Cruz,All Grades,2015,509,60,11.8
+08X337,The School for Inquiry and Social Justice,7,2014,86,24,27.9
+08X337,The School for Inquiry and Social Justice,7,2015,114,39,34.2
+08X337,The School for Inquiry and Social Justice,8,2014,104,31,29.8
+08X337,The School for Inquiry and Social Justice,8,2015,85,30,35.3
+08X337,The School for Inquiry and Social Justice,All Grades,2014,306,92,30.1
+08X337,The School for Inquiry and Social Justice,All Grades,2015,385,146,37.9
+08X366,Urban Assembly Academy of Civic Engagement,7,2014,58,0,0
+08X366,Urban Assembly Academy of Civic Engagement,7,2015,48,2,4.2
+08X366,Urban Assembly Academy of Civic Engagement,8,2014,61,4,6.6
+08X366,Urban Assembly Academy of Civic Engagement,8,2015,64,1,1.6
+08X366,Urban Assembly Academy of Civic Engagement,All Grades,2014,152,5,3.3
+08X366,Urban Assembly Academy of Civic Engagement,All Grades,2015,152,4,2.6
+08X367,"Archimedes Academy for Math, Science and Technology Applications",7,2014,89,12,13.5
+08X367,"Archimedes Academy for Math, Science and Technology Applications",7,2015,100,25,25
+08X367,"Archimedes Academy for Math, Science and Technology Applications",8,2014,87,17,19.5
+08X367,"Archimedes Academy for Math, Science and Technology Applications",8,2015,80,13,16.3
+08X367,"Archimedes Academy for Math, Science and Technology Applications",All Grades,2014,279,57,20.4
+08X367,"Archimedes Academy for Math, Science and Technology Applications",All Grades,2015,268,57,21.3
+08X371,Urban Institute of Mathematics,7,2014,102,22,21.6
+08X371,Urban Institute of Mathematics,7,2015,78,20,25.6
+08X371,Urban Institute of Mathematics,8,2014,99,20,20.2
+08X371,Urban Institute of Mathematics,8,2015,100,16,16
+08X371,Urban Institute of Mathematics,All Grades,2014,278,70,25.2
+08X371,Urban Institute of Mathematics,All Grades,2015,281,62,22.1
+08X375,The Bronx Mathematics Preparatory School,7,2014,89,0,0
+08X375,The Bronx Mathematics Preparatory School,7,2015,93,2,2.2
+08X375,The Bronx Mathematics Preparatory School,8,2014,91,3,3.3
+08X375,The Bronx Mathematics Preparatory School,8,2015,93,0,0
+08X375,The Bronx Mathematics Preparatory School,All Grades,2014,270,7,2.6
+08X375,The Bronx Mathematics Preparatory School,All Grades,2015,261,6,2.3
+08X376,Antonia Pantoja Preparatory Academy: A College Board School,7,2014,70,5,7.1
+08X376,Antonia Pantoja Preparatory Academy: A College Board School,7,2015,72,11,15.3
+08X376,Antonia Pantoja Preparatory Academy: A College Board School,8,2014,67,21,31.3
+08X376,Antonia Pantoja Preparatory Academy: A College Board School,8,2015,69,0,0
+08X376,Antonia Pantoja Preparatory Academy: A College Board School,All Grades,2014,219,34,15.5
+08X376,Antonia Pantoja Preparatory Academy: A College Board School,All Grades,2015,201,15,7.5
+08X424,The Hunts Point School,7,2014,128,3,2.3
+08X424,The Hunts Point School,7,2015,103,11,10.7
+08X424,The Hunts Point School,8,2014,125,4,3.2
+08X424,The Hunts Point School,8,2015,130,3,2.3
+08X424,The Hunts Point School,All Grades,2014,345,15,4.3
+08X424,The Hunts Point School,All Grades,2015,333,18,5.4
+08X448,Soundview Academy for Culture and Scholarship,7,2014,96,5,5.2
+08X448,Soundview Academy for Culture and Scholarship,7,2015,117,18,15.4
+08X448,Soundview Academy for Culture and Scholarship,8,2014,91,9,9.9
+08X448,Soundview Academy for Culture and Scholarship,8,2015,105,9,8.6
+08X448,Soundview Academy for Culture and Scholarship,All Grades,2014,295,33,11.2
+08X448,Soundview Academy for Culture and Scholarship,All Grades,2015,339,60,17.7
+08X467,Mott Hall Community School,7,2014,94,12,12.8
+08X467,Mott Hall Community School,7,2015,61,7,11.5
+08X467,Mott Hall Community School,8,2014,103,18,17.5
+08X467,Mott Hall Community School,8,2015,88,3,3.4
+08X467,Mott Hall Community School,All Grades,2014,252,34,13.5
+08X467,Mott Hall Community School,All Grades,2015,204,22,10.8
+08X562,Blueprint Middle School,7,2014,92,8,8.7
+08X562,Blueprint Middle School,7,2015,102,13,12.7
+08X562,Blueprint Middle School,8,2015,89,5,5.6
+08X562,Blueprint Middle School,All Grades,2014,193,22,11.4
+08X562,Blueprint Middle School,All Grades,2015,287,28,9.8
+09X004,P.S./M.S. 004 Crotona Park West,7,2014,52,31,59.6
+09X004,P.S./M.S. 004 Crotona Park West,7,2015,49,4,8.2
+09X004,P.S./M.S. 004 Crotona Park West,8,2014,51,10,19.6
+09X004,P.S./M.S. 004 Crotona Park West,8,2015,55,13,23.6
+09X004,P.S./M.S. 004 Crotona Park West,All Grades,2014,320,86,26.9
+09X004,P.S./M.S. 004 Crotona Park West,All Grades,2015,299,68,22.7
+09X022,J.H.S. 022 Jordan L. Mott,7,2014,176,3,1.7
+09X022,J.H.S. 022 Jordan L. Mott,7,2015,144,2,1.4
+09X022,J.H.S. 022 Jordan L. Mott,8,2014,192,4,2.1
+09X022,J.H.S. 022 Jordan L. Mott,8,2015,182,5,2.7
+09X022,J.H.S. 022 Jordan L. Mott,All Grades,2014,518,8,1.5
+09X022,J.H.S. 022 Jordan L. Mott,All Grades,2015,459,12,2.6
+09X117,I.S. 117 Joseph H. Wade,7,2014,200,3,1.5
+09X117,I.S. 117 Joseph H. Wade,7,2015,189,7,3.7
+09X117,I.S. 117 Joseph H. Wade,8,2014,226,18,8
+09X117,I.S. 117 Joseph H. Wade,8,2015,195,10,5.1
+09X117,I.S. 117 Joseph H. Wade,All Grades,2014,609,33,5.4
+09X117,I.S. 117 Joseph H. Wade,All Grades,2015,587,29,4.9
+09X128,Mott Hall III,7,2014,111,30,27
+09X128,Mott Hall III,7,2015,127,62,48.8
+09X128,Mott Hall III,8,2014,116,50,43.1
+09X128,Mott Hall III,8,2015,105,34,32.4
+09X128,Mott Hall III,All Grades,2014,361,139,38.5
+09X128,Mott Hall III,All Grades,2015,350,158,45.1
+09X145,J.H.S. 145 Arturo Toscanini,7,2014,134,1,0.7
+09X145,J.H.S. 145 Arturo Toscanini,7,2015,101,3,3
+09X145,J.H.S. 145 Arturo Toscanini,8,2014,146,1,0.7
+09X145,J.H.S. 145 Arturo Toscanini,8,2015,137,0,0
+09X145,J.H.S. 145 Arturo Toscanini,All Grades,2014,376,5,1.3
+09X145,J.H.S. 145 Arturo Toscanini,All Grades,2015,348,12,3.4
+09X215,Kappa,7,2014,104,26,25
+09X215,Kappa,7,2015,99,38,38.4
+09X215,Kappa,8,2014,102,48,47.1
+09X215,Kappa,8,2015,100,21,21
+09X215,Kappa,All Grades,2014,327,109,33.3
+09X215,Kappa,All Grades,2015,297,93,31.3
+09X218,P.S./I.S. 218 Rafael Hernandez Dual Language Magnet School,7,2014,93,12,12.9
+09X218,P.S./I.S. 218 Rafael Hernandez Dual Language Magnet School,7,2015,89,23,25.8
+09X218,P.S./I.S. 218 Rafael Hernandez Dual Language Magnet School,8,2014,88,27,30.7
+09X218,P.S./I.S. 218 Rafael Hernandez Dual Language Magnet School,8,2015,86,20,23.3
+09X218,P.S./I.S. 218 Rafael Hernandez Dual Language Magnet School,All Grades,2014,569,153,26.9
+09X218,P.S./I.S. 218 Rafael Hernandez Dual Language Magnet School,All Grades,2015,589,150,25.5
+09X219,I.S. 219 New Venture School,7,2014,114,6,5.3
+09X219,I.S. 219 New Venture School,7,2015,89,1,1.1
+09X219,I.S. 219 New Venture School,8,2014,122,10,8.2
+09X219,I.S. 219 New Venture School,8,2015,121,2,1.7
+09X219,I.S. 219 New Venture School,All Grades,2014,340,21,6.2
+09X219,I.S. 219 New Venture School,All Grades,2015,298,4,1.3
+09X229,I.S. 229 Roland Patterson,7,2014,66,3,4.5
+09X229,I.S. 229 Roland Patterson,7,2015,81,2,2.5
+09X229,I.S. 229 Roland Patterson,8,2014,66,12,18.2
+09X229,I.S. 229 Roland Patterson,8,2015,67,5,7.5
+09X229,I.S. 229 Roland Patterson,All Grades,2014,202,27,13.4
+09X229,I.S. 229 Roland Patterson,All Grades,2015,230,9,3.9
+09X231,Eagle Academy for Young Men,7,2014,74,3,4.1
+09X231,Eagle Academy for Young Men,7,2015,91,1,1.1
+09X231,Eagle Academy for Young Men,8,2014,84,9,10.7
+09X231,Eagle Academy for Young Men,8,2015,69,13,18.8
+09X231,Eagle Academy for Young Men,All Grades,2014,250,17,6.8
+09X231,Eagle Academy for Young Men,All Grades,2015,232,18,7.8
+09X232,I.S. 232,7,2014,192,43,22.4
+09X232,I.S. 232,7,2015,187,38,20.3
+09X232,I.S. 232,8,2014,176,59,33.5
+09X232,I.S. 232,8,2015,185,35,18.9
+09X232,I.S. 232,All Grades,2014,528,110,20.8
+09X232,I.S. 232,All Grades,2015,529,87,16.4
+09X241,"Urban Assembly School for Applied Math and Science, The",7,2014,86,8,9.3
+09X241,"Urban Assembly School for Applied Math and Science, The",7,2015,88,23,26.1
+09X241,"Urban Assembly School for Applied Math and Science, The",8,2014,83,22,26.5
+09X241,"Urban Assembly School for Applied Math and Science, The",8,2015,90,16,17.8
+09X241,"Urban Assembly School for Applied Math and Science, The",All Grades,2014,252,59,23.4
+09X241,"Urban Assembly School for Applied Math and Science, The",All Grades,2015,267,56,21
+09X303,I.S. X303 Leadership & Community Service,7,2014,105,6,5.7
+09X303,I.S. X303 Leadership & Community Service,7,2015,99,8,8.1
+09X303,I.S. X303 Leadership & Community Service,8,2014,111,28,25.2
+09X303,I.S. X303 Leadership & Community Service,8,2015,96,16,16.7
+09X303,I.S. X303 Leadership & Community Service,All Grades,2014,315,46,14.6
+09X303,I.S. X303 Leadership & Community Service,All Grades,2015,280,36,12.9
+09X313,I.S. 313 School of Leadership Development,7,2014,122,10,8.2
+09X313,I.S. 313 School of Leadership Development,7,2015,102,5,4.9
+09X313,I.S. 313 School of Leadership Development,8,2014,134,7,5.2
+09X313,I.S. 313 School of Leadership Development,8,2015,115,8,7
+09X313,I.S. 313 School of Leadership Development,All Grades,2014,357,19,5.3
+09X313,I.S. 313 School of Leadership Development,All Grades,2015,331,18,5.4
+09X323,Bronx Writing Academy,7,2014,141,10,7.1
+09X323,Bronx Writing Academy,7,2015,150,10,6.7
+09X323,Bronx Writing Academy,8,2014,160,10,6.3
+09X323,Bronx Writing Academy,8,2015,135,14,10.4
+09X323,Bronx Writing Academy,All Grades,2014,467,29,6.2
+09X323,Bronx Writing Academy,All Grades,2015,431,42,9.7
+09X324,Bronx Early College Academy for Teaching & Learning,7,2014,72,2,2.8
+09X324,Bronx Early College Academy for Teaching & Learning,7,2015,68,4,5.9
+09X324,Bronx Early College Academy for Teaching & Learning,8,2014,75,4,5.3
+09X324,Bronx Early College Academy for Teaching & Learning,8,2015,64,1,1.6
+09X324,Bronx Early College Academy for Teaching & Learning,All Grades,2014,220,11,5
+09X324,Bronx Early College Academy for Teaching & Learning,All Grades,2015,212,17,8
+09X325,Urban Science Academy,7,2014,108,2,1.9
+09X325,Urban Science Academy,7,2015,99,2,2
+09X325,Urban Science Academy,8,2014,157,3,1.9
+09X325,Urban Science Academy,8,2015,119,3,2.5
+09X325,Urban Science Academy,All Grades,2014,359,10,2.8
+09X325,Urban Science Academy,All Grades,2015,315,9,2.9
+09X327,Comprehensive Model School Project M.S. 327,7,2014,121,61,50.4
+09X327,Comprehensive Model School Project M.S. 327,7,2015,93,46,49.5
+09X327,Comprehensive Model School Project M.S. 327,8,2014,105,61,58.1
+09X327,Comprehensive Model School Project M.S. 327,8,2015,121,68,56.2
+09X327,Comprehensive Model School Project M.S. 327,All Grades,2014,314,183,58.3
+09X327,Comprehensive Model School Project M.S. 327,All Grades,2015,308,159,51.6
+09X328,New Millennium Business Academy Middle School,7,2014,51,0,0
+09X328,New Millennium Business Academy Middle School,7,2015,59,1,1.7
+09X328,New Millennium Business Academy Middle School,8,2014,66,3,4.5
+09X328,New Millennium Business Academy Middle School,8,2015,43,1,2.3
+09X328,New Millennium Business Academy Middle School,All Grades,2014,176,7,4
+09X328,New Millennium Business Academy Middle School,All Grades,2015,165,6,3.6
+09X339,I.S. 339,7,2014,200,14,7
+09X339,I.S. 339,7,2015,155,6,3.9
+09X339,I.S. 339,8,2014,210,13,6.2
+09X339,I.S. 339,8,2015,191,10,5.2
+09X339,I.S. 339,All Grades,2014,581,35,6
+09X339,I.S. 339,All Grades,2015,528,25,4.7
+09X350,New Directions Secondary School,7,2014,48,0,0
+09X350,New Directions Secondary School,7,2015,47,0,0
+09X350,New Directions Secondary School,8,2015,39,0,0
+09X350,New Directions Secondary School,All Grades,2014,94,0,0
+09X350,New Directions Secondary School,All Grades,2015,110,1,0.9
+09X361,The Highbridge Green School,7,2015,129,6,4.7
+09X361,The Highbridge Green School,All Grades,2015,262,18,6.9
+09X413,Bronx High School for Medical Science,7,2014,60,11,18.3
+09X413,Bronx High School for Medical Science,7,2015,65,16,24.6
+09X413,Bronx High School for Medical Science,8,2014,46,6,13
+09X413,Bronx High School for Medical Science,8,2015,57,10,17.5
+09X413,Bronx High School for Medical Science,All Grades,2014,165,44,26.7
+09X413,Bronx High School for Medical Science,All Grades,2015,175,46,26.3
+09X454,Science and Technology Academy: A Mott Hall School,7,2014,149,40,26.8
+09X454,Science and Technology Academy: A Mott Hall School,7,2015,146,39,26.7
+09X454,Science and Technology Academy: A Mott Hall School,8,2014,136,41,30.1
+09X454,Science and Technology Academy: A Mott Hall School,8,2015,154,40,26
+09X454,Science and Technology Academy: A Mott Hall School,All Grades,2014,405,140,34.6
+09X454,Science and Technology Academy: A Mott Hall School,All Grades,2015,436,149,34.2
+09X505,"Bronx School for Law, Government and Justice",7,2014,94,17,18.1
+09X505,"Bronx School for Law, Government and Justice",7,2015,95,25,26.3
+09X505,"Bronx School for Law, Government and Justice",8,2014,89,38,42.7
+09X505,"Bronx School for Law, Government and Justice",8,2015,91,27,29.7
+09X505,"Bronx School for Law, Government and Justice",All Grades,2014,271,78,28.8
+09X505,"Bronx School for Law, Government and Justice",All Grades,2015,282,80,28.4
+09X568,Young Women's Leadership School of the Bronx,7,2014,90,25,27.8
+09X568,Young Women's Leadership School of the Bronx,7,2015,90,33,36.7
+09X568,Young Women's Leadership School of the Bronx,8,2015,79,22,27.8
+09X568,Young Women's Leadership School of the Bronx,All Grades,2014,182,65,35.7
+09X568,Young Women's Leadership School of the Bronx,All Grades,2015,248,91,36.7
+10X003,P.S. 3 Raul Julia Micro Society,7,2014,56,12,21.4
+10X003,P.S. 3 Raul Julia Micro Society,7,2015,43,9,20.9
+10X003,P.S. 3 Raul Julia Micro Society,8,2014,51,15,29.4
+10X003,P.S. 3 Raul Julia Micro Society,8,2015,57,8,14
+10X003,P.S. 3 Raul Julia Micro Society,All Grades,2014,213,61,28.6
+10X003,P.S. 3 Raul Julia Micro Society,All Grades,2015,201,45,22.4
+10X015,P.S. X015 Institute for Environmental Learning,7,2014,68,17,25
+10X015,P.S. X015 Institute for Environmental Learning,7,2015,59,31,52.5
+10X015,P.S. X015 Institute for Environmental Learning,8,2014,60,21,35
+10X015,P.S. X015 Institute for Environmental Learning,8,2015,66,17,25.8
+10X015,P.S. X015 Institute for Environmental Learning,All Grades,2014,370,154,41.6
+10X015,P.S. X015 Institute for Environmental Learning,All Grades,2015,357,151,42.3
+10X020,"PS/MS 20 P.O.George J. Werdann, III",7,2014,84,19,22.6
+10X020,"PS/MS 20 P.O.George J. Werdann, III",7,2015,95,17,17.9
+10X020,"PS/MS 20 P.O.George J. Werdann, III",8,2014,87,21,24.1
+10X020,"PS/MS 20 P.O.George J. Werdann, III",8,2015,67,17,25.4
+10X020,"PS/MS 20 P.O.George J. Werdann, III",All Grades,2014,626,132,21.1
+10X020,"PS/MS 20 P.O.George J. Werdann, III",All Grades,2015,649,114,17.6
+10X037,P.S. X037 - Multiple Intelligence School,7,2014,80,7,8.8
+10X037,P.S. X037 - Multiple Intelligence School,7,2015,62,14,22.6
+10X037,P.S. X037 - Multiple Intelligence School,8,2014,59,8,13.6
+10X037,P.S. X037 - Multiple Intelligence School,8,2015,80,4,5
+10X037,P.S. X037 - Multiple Intelligence School,All Grades,2014,439,97,22.1
+10X037,P.S. X037 - Multiple Intelligence School,All Grades,2015,432,110,25.5
+10X045,Thomas C. Giordano Middle School 45,7,2014,223,22,9.9
+10X045,Thomas C. Giordano Middle School 45,7,2015,242,24,9.9
+10X045,Thomas C. Giordano Middle School 45,8,2014,292,35,12
+10X045,Thomas C. Giordano Middle School 45,8,2015,226,12,5.3
+10X045,Thomas C. Giordano Middle School 45,All Grades,2014,761,93,12.2
+10X045,Thomas C. Giordano Middle School 45,All Grades,2015,690,48,7
+10X080,J.H.S. 080 The Mosholu Parkway,7,2014,184,8,4.3
+10X080,J.H.S. 080 The Mosholu Parkway,7,2015,197,10,5.1
+10X080,J.H.S. 080 The Mosholu Parkway,8,2014,233,11,4.7
+10X080,J.H.S. 080 The Mosholu Parkway,8,2015,215,2,0.9
+10X080,J.H.S. 080 The Mosholu Parkway,All Grades,2014,591,26,4.4
+10X080,J.H.S. 080 The Mosholu Parkway,All Grades,2015,613,33,5.4
+10X095,P.S. 095 Sheila Mencher,7,2014,166,32,19.3
+10X095,P.S. 095 Sheila Mencher,7,2015,138,25,18.1
+10X095,P.S. 095 Sheila Mencher,8,2014,164,40,24.4
+10X095,P.S. 095 Sheila Mencher,8,2015,154,16,10.4
+10X095,P.S. 095 Sheila Mencher,All Grades,2014,848,183,21.6
+10X095,P.S. 095 Sheila Mencher,All Grades,2015,818,153,18.7
+10X118,J.H.S. 118 William W. Niles,7,2014,400,123,30.8
+10X118,J.H.S. 118 William W. Niles,7,2015,374,96,25.7
+10X118,J.H.S. 118 William W. Niles,8,2014,374,102,27.3
+10X118,J.H.S. 118 William W. Niles,8,2015,393,107,27.2
+10X118,J.H.S. 118 William W. Niles,All Grades,2014,1157,358,30.9
+10X118,J.H.S. 118 William W. Niles,All Grades,2015,1137,339,29.8
+10X141,Riverdale / Kingsbridge Academy (Middle School / High School 141),7,2014,203,73,36
+10X141,Riverdale / Kingsbridge Academy (Middle School / High School 141),7,2015,213,97,45.5
+10X141,Riverdale / Kingsbridge Academy (Middle School / High School 141),8,2014,259,100,38.6
+10X141,Riverdale / Kingsbridge Academy (Middle School / High School 141),8,2015,168,66,39.3
+10X141,Riverdale / Kingsbridge Academy (Middle School / High School 141),All Grades,2014,668,266,39.8
+10X141,Riverdale / Kingsbridge Academy (Middle School / High School 141),All Grades,2015,608,280,46.1
+10X206,I.S. 206 Ann Mersereau,7,2014,78,2,2.6
+10X206,I.S. 206 Ann Mersereau,7,2015,102,5,4.9
+10X206,I.S. 206 Ann Mersereau,8,2014,111,8,7.2
+10X206,I.S. 206 Ann Mersereau,8,2015,81,3,3.7
+10X206,I.S. 206 Ann Mersereau,All Grades,2014,299,19,6.4
+10X206,I.S. 206 Ann Mersereau,All Grades,2015,257,15,5.8
+10X225,Theatre Arts Production Company School,7,2014,81,13,16
+10X225,Theatre Arts Production Company School,7,2015,70,17,24.3
+10X225,Theatre Arts Production Company School,8,2014,82,10,12.2
+10X225,Theatre Arts Production Company School,8,2015,76,12,15.8
+10X225,Theatre Arts Production Company School,All Grades,2014,229,36,15.7
+10X225,Theatre Arts Production Company School,All Grades,2015,223,44,19.7
+10X228,Jonas Bronck Academy,7,2014,86,23,26.7
+10X228,Jonas Bronck Academy,7,2015,87,22,25.3
+10X228,Jonas Bronck Academy,8,2014,84,26,31
+10X228,Jonas Bronck Academy,8,2015,85,35,41.2
+12X242,Mott Hall V,7,2015,98,14,14.3
+10X228,Jonas Bronck Academy,All Grades,2014,256,64,25
+10X228,Jonas Bronck Academy,All Grades,2015,261,79,30.3
+10X243,West Bronx Academy for the Future,7,2014,93,2,2.2
+10X243,West Bronx Academy for the Future,7,2015,84,14,16.7
+10X243,West Bronx Academy for the Future,8,2014,86,13,15.1
+10X243,West Bronx Academy for the Future,8,2015,86,6,7
+10X243,West Bronx Academy for the Future,All Grades,2014,259,21,8.1
+10X243,West Bronx Academy for the Future,All Grades,2015,255,30,11.8
+10X244,The New School for Leadership and Journalism,7,2014,272,63,23.2
+10X244,The New School for Leadership and Journalism,7,2015,299,76,25.4
+10X244,The New School for Leadership and Journalism,8,2014,316,62,19.6
+10X244,The New School for Leadership and Journalism,8,2015,280,28,10
+10X244,The New School for Leadership and Journalism,All Grades,2014,758,161,21.2
+10X244,The New School for Leadership and Journalism,All Grades,2015,749,165,22
+10X254,I.S. 254,7,2014,142,21,14.8
+10X254,I.S. 254,7,2015,136,26,19.1
+10X254,I.S. 254,8,2014,136,35,25.7
+10X254,I.S. 254,8,2015,155,10,6.5
+10X254,I.S. 254,All Grades,2014,407,71,17.4
+10X254,I.S. 254,All Grades,2015,461,56,12.1
+10X279,"P.S. 279 Captain Manuel Rivera, Jr.",7,2014,130,9,6.9
+10X279,"P.S. 279 Captain Manuel Rivera, Jr.",7,2015,115,8,7
+10X279,"P.S. 279 Captain Manuel Rivera, Jr.",8,2014,123,8,6.5
+10X279,"P.S. 279 Captain Manuel Rivera, Jr.",8,2015,136,19,14
+10X279,"P.S. 279 Captain Manuel Rivera, Jr.",All Grades,2014,693,97,14
+10X279,"P.S. 279 Captain Manuel Rivera, Jr.",All Grades,2015,700,113,16.1
+10X280,P.S./M.S. 280 Mosholu Parkway,7,2014,83,21,25.3
+10X280,P.S./M.S. 280 Mosholu Parkway,7,2015,89,17,19.1
+10X280,P.S./M.S. 280 Mosholu Parkway,8,2014,98,26,26.5
+10X280,P.S./M.S. 280 Mosholu Parkway,8,2015,80,25,31.3
+10X280,P.S./M.S. 280 Mosholu Parkway,All Grades,2014,575,172,29.9
+10X280,P.S./M.S. 280 Mosholu Parkway,All Grades,2015,584,190,32.5
+10X308,Bronx Dance Academy School,7,2014,67,20,29.9
+10X308,Bronx Dance Academy School,7,2015,94,16,17
+10X308,Bronx Dance Academy School,8,2014,72,21,29.2
+10X308,Bronx Dance Academy School,8,2015,70,24,34.3
+10X308,Bronx Dance Academy School,All Grades,2014,232,62,26.7
+10X308,Bronx Dance Academy School,All Grades,2015,250,60,24
+10X315,P.S. 315 Lab School,7,2014,35,16,45.7
+10X315,P.S. 315 Lab School,7,2015,51,13,25.5
+10X315,P.S. 315 Lab School,8,2014,30,5,16.7
+10X315,P.S. 315 Lab School,8,2015,34,18,52.9
+10X315,P.S. 315 Lab School,All Grades,2014,188,69,36.7
+10X315,P.S. 315 Lab School,All Grades,2015,202,72,35.6
+10X331,The Bronx School of Young Leaders,7,2014,126,11,8.7
+10X331,The Bronx School of Young Leaders,7,2015,121,5,4.1
+10X331,The Bronx School of Young Leaders,8,2014,130,3,2.3
+10X331,The Bronx School of Young Leaders,8,2015,129,9,7
+10X331,The Bronx School of Young Leaders,All Grades,2014,367,23,6.3
+10X331,The Bronx School of Young Leaders,All Grades,2015,383,23,6
+10X342,International School for Liberal Arts,7,2014,52,2,3.8
+10X342,International School for Liberal Arts,7,2015,56,7,12.5
+10X342,International School for Liberal Arts,8,2014,50,3,6
+10X342,International School for Liberal Arts,8,2015,51,3,5.9
+10X342,International School for Liberal Arts,All Grades,2014,158,12,7.6
+10X342,International School for Liberal Arts,All Grades,2015,162,15,9.3
+10X363,ACADEMY FOR PERSONAL LEADERSHIP AND EXCELLENCE,7,2014,127,5,3.9
+10X363,ACADEMY FOR PERSONAL LEADERSHIP AND EXCELLENCE,7,2015,139,15,10.8
+10X363,ACADEMY FOR PERSONAL LEADERSHIP AND EXCELLENCE,8,2014,129,1,0.8
+10X363,ACADEMY FOR PERSONAL LEADERSHIP AND EXCELLENCE,8,2015,129,6,4.7
+10X363,ACADEMY FOR PERSONAL LEADERSHIP AND EXCELLENCE,All Grades,2014,382,10,2.6
+10X363,ACADEMY FOR PERSONAL LEADERSHIP AND EXCELLENCE,All Grades,2015,385,27,7
+10X368,In-Tech Academy (M.S. / High School 368),7,2014,149,20,13.4
+10X368,In-Tech Academy (M.S. / High School 368),7,2015,143,20,14
+10X368,In-Tech Academy (M.S. / High School 368),8,2014,185,14,7.6
+10X368,In-Tech Academy (M.S. / High School 368),8,2015,152,2,1.3
+10X368,In-Tech Academy (M.S. / High School 368),All Grades,2014,446,54,12.1
+10X368,In-Tech Academy (M.S. / High School 368),All Grades,2015,442,56,12.7
+10X390,M.S. 390,7,2014,100,14,14
+10X390,M.S. 390,7,2015,124,7,5.6
+10X390,M.S. 390,8,2014,165,32,19.4
+10X390,M.S. 390,8,2015,105,8,7.6
+10X390,M.S. 390,All Grades,2014,393,60,15.3
+10X390,M.S. 390,All Grades,2015,376,33,8.8
+10X391,The Angelo Patri Middle School,7,2014,181,8,4.4
+10X391,The Angelo Patri Middle School,7,2015,145,10,6.9
+10X391,The Angelo Patri Middle School,8,2014,225,25,11.1
+10X391,The Angelo Patri Middle School,8,2015,177,4,2.3
+10X391,The Angelo Patri Middle School,All Grades,2014,548,42,7.7
+10X391,The Angelo Patri Middle School,All Grades,2015,482,23,4.8
+10X447,Creston Academy,7,2014,148,27,18.2
+10X447,Creston Academy,7,2015,165,25,15.2
+10X447,Creston Academy,8,2014,153,13,8.5
+10X447,Creston Academy,8,2015,145,28,19.3
+10X447,Creston Academy,All Grades,2014,456,67,14.7
+10X447,Creston Academy,All Grades,2015,465,78,16.8
+10X459,East Fordham Academy for the Arts,7,2014,124,3,2.4
+10X459,East Fordham Academy for the Arts,7,2015,126,1,0.8
+10X459,East Fordham Academy for the Arts,8,2014,110,13,11.8
+12X242,Mott Hall V,8,2014,97,19,19.6
+10X459,East Fordham Academy for the Arts,8,2015,124,5,4
+10X459,East Fordham Academy for the Arts,All Grades,2014,342,20,5.8
+10X459,East Fordham Academy for the Arts,All Grades,2015,347,7,2
+11X019,P.S. 019 Judith K. Weiss,7,2014,52,28,53.8
+11X019,P.S. 019 Judith K. Weiss,7,2015,50,29,58
+11X019,P.S. 019 Judith K. Weiss,8,2014,56,18,32.1
+11X019,P.S. 019 Judith K. Weiss,8,2015,54,25,46.3
+11X019,P.S. 019 Judith K. Weiss,All Grades,2014,336,173,51.5
+11X019,P.S. 019 Judith K. Weiss,All Grades,2015,313,152,48.6
+11X083,P.S. 083 Donald Hertz,7,2014,224,56,25
+11X083,P.S. 083 Donald Hertz,7,2015,216,75,34.7
+11X083,P.S. 083 Donald Hertz,8,2014,228,68,29.8
+11X083,P.S. 083 Donald Hertz,8,2015,200,61,30.5
+11X083,P.S. 083 Donald Hertz,All Grades,2014,1222,436,35.7
+11X083,P.S. 083 Donald Hertz,All Grades,2015,1162,422,36.3
+11X089,P.S. 089 Bronx,7,2014,171,18,10.5
+11X089,P.S. 089 Bronx,7,2015,164,26,15.9
+11X089,P.S. 089 Bronx,8,2014,179,33,18.4
+11X089,P.S. 089 Bronx,8,2015,161,12,7.5
+11X089,P.S. 089 Bronx,All Grades,2014,898,154,17.1
+11X089,P.S. 089 Bronx,All Grades,2015,890,137,15.4
+11X127,J.H.S. 127 The Castle Hill,7,2014,253,73,28.9
+11X127,J.H.S. 127 The Castle Hill,7,2015,246,81,32.9
+11X127,J.H.S. 127 The Castle Hill,8,2014,253,57,22.5
+11X127,J.H.S. 127 The Castle Hill,8,2015,262,64,24.4
+11X127,J.H.S. 127 The Castle Hill,All Grades,2014,730,211,28.9
+11X127,J.H.S. 127 The Castle Hill,All Grades,2015,715,226,31.6
+11X142,MS 142 John Philip Sousa,7,2014,91,2,2.2
+11X142,MS 142 John Philip Sousa,8,2014,80,4,5
+11X142,MS 142 John Philip Sousa,8,2015,106,3,2.8
+11X142,MS 142 John Philip Sousa,All Grades,2014,183,6,3.3
+11X142,MS 142 John Philip Sousa,All Grades,2015,106,3,2.8
+11X144,J.H.S. 144 Michelangelo,7,2014,194,11,5.7
+11X144,J.H.S. 144 Michelangelo,7,2015,163,5,3.1
+11X144,J.H.S. 144 Michelangelo,8,2014,315,23,7.3
+11X144,J.H.S. 144 Michelangelo,8,2015,195,12,6.2
+11X144,J.H.S. 144 Michelangelo,All Grades,2014,668,50,7.5
+11X144,J.H.S. 144 Michelangelo,All Grades,2015,520,37,7.1
+11X175,P.S. 175 City Island,7,2014,44,20,45.5
+11X175,P.S. 175 City Island,7,2015,31,20,64.5
+11X175,P.S. 175 City Island,8,2014,37,5,13.5
+11X175,P.S. 175 City Island,8,2015,46,14,30.4
+11X175,P.S. 175 City Island,All Grades,2014,227,109,48
+11X175,P.S. 175 City Island,All Grades,2015,222,117,52.7
+11X180,M.S. 180 Dr. Daniel Hale Williams,7,2014,292,83,28.4
+11X180,M.S. 180 Dr. Daniel Hale Williams,7,2015,283,94,33.2
+11X180,M.S. 180 Dr. Daniel Hale Williams,8,2014,258,52,20.2
+11X180,M.S. 180 Dr. Daniel Hale Williams,8,2015,282,79,28
+11X180,M.S. 180 Dr. Daniel Hale Williams,All Grades,2014,824,216,26.2
+11X180,M.S. 180 Dr. Daniel Hale Williams,All Grades,2015,841,284,33.8
+11X181,I.S. 181 Pablo Casals,7,2014,301,97,32.2
+11X181,I.S. 181 Pablo Casals,7,2015,278,107,38.5
+11X181,I.S. 181 Pablo Casals,8,2014,252,58,23
+11X181,I.S. 181 Pablo Casals,8,2015,299,97,32.4
+11X181,I.S. 181 Pablo Casals,All Grades,2014,850,287,33.8
+11X181,I.S. 181 Pablo Casals,All Grades,2015,843,291,34.5
+11X194,PS/MS 194,7,2014,150,63,42
+11X194,PS/MS 194,7,2015,154,70,45.5
+11X194,PS/MS 194,8,2014,157,54,34.4
+11X194,PS/MS 194,8,2015,156,51,32.7
+11X194,PS/MS 194,All Grades,2014,940,383,40.7
+11X194,PS/MS 194,All Grades,2015,958,405,42.3
+11X270,Academy for Scholarship and Entrepreneurship: A College Board School,8,2014,87,5,5.7
+11X270,Academy for Scholarship and Entrepreneurship: A College Board School,All Grades,2014,87,5,5.7
+11X272,Globe School for Environmental Research,7,2014,89,8,9
+11X272,Globe School for Environmental Research,7,2015,71,6,8.5
+11X272,Globe School for Environmental Research,8,2014,111,12,10.8
+11X272,Globe School for Environmental Research,8,2015,91,0,0
+11X272,Globe School for Environmental Research,All Grades,2014,273,27,9.9
+11X272,Globe School for Environmental Research,All Grades,2015,218,12,5.5
+11X287,The Forward School,7,2014,70,3,4.3
+11X287,The Forward School,7,2015,86,2,2.3
+11X287,The Forward School,8,2014,65,6,9.2
+11X287,The Forward School,8,2015,70,1,1.4
+11X287,The Forward School,All Grades,2014,237,15,6.3
+11X287,The Forward School,All Grades,2015,234,6,2.6
+11X289,The Young Scholars Academy of The Bronx,7,2014,116,6,5.2
+11X289,The Young Scholars Academy of The Bronx,7,2015,101,11,10.9
+11X289,The Young Scholars Academy of The Bronx,8,2014,91,14,15.4
+11X289,The Young Scholars Academy of The Bronx,8,2015,111,5,4.5
+11X289,The Young Scholars Academy of The Bronx,All Grades,2014,308,37,12
+11X289,The Young Scholars Academy of The Bronx,All Grades,2015,302,20,6.6
+11X322,Aspire Preparatory Middle School,8,2014,93,16,17.2
+11X322,Aspire Preparatory Middle School,All Grades,2014,93,16,17.2
+11X326,Bronx Green Middle School,7,2014,144,10,6.9
+11X326,Bronx Green Middle School,7,2015,130,21,16.2
+11X326,Bronx Green Middle School,8,2014,113,21,18.6
+11X326,Bronx Green Middle School,8,2015,129,5,3.9
+11X326,Bronx Green Middle School,All Grades,2014,387,51,13.2
+11X326,Bronx Green Middle School,All Grades,2015,386,45,11.7
+11X355,Bronx Alliance Middle School,7,2015,106,9,8.5
+11X355,Bronx Alliance Middle School,All Grades,2015,193,16,8.3
+11X370,School of Diplomacy,7,2014,81,3,3.7
+11X370,School of Diplomacy,7,2015,66,5,7.6
+11X370,School of Diplomacy,8,2014,117,6,5.1
+11X370,School of Diplomacy,8,2015,81,6,7.4
+11X370,School of Diplomacy,All Grades,2014,267,15,5.6
+11X370,School of Diplomacy,All Grades,2015,221,14,6.3
+11X462,Cornerstone Academy for Social Action Middle School (CASA),7,2014,90,10,11.1
+11X462,Cornerstone Academy for Social Action Middle School (CASA),7,2015,76,16,21.1
+11X462,Cornerstone Academy for Social Action Middle School (CASA),8,2014,80,17,21.3
+11X462,Cornerstone Academy for Social Action Middle School (CASA),8,2015,84,10,11.9
+11X462,Cornerstone Academy for Social Action Middle School (CASA),All Grades,2014,243,44,18.1
+11X462,Cornerstone Academy for Social Action Middle School (CASA),All Grades,2015,239,60,25.1
+11X468,Pelham Academy of Academics and Community Engagement,7,2014,100,9,9
+11X468,Pelham Academy of Academics and Community Engagement,7,2015,124,22,17.7
+11X468,Pelham Academy of Academics and Community Engagement,8,2014,92,20,21.7
+11X468,Pelham Academy of Academics and Community Engagement,8,2015,93,12,12.9
+11X468,Pelham Academy of Academics and Community Engagement,All Grades,2014,309,43,13.9
+11X468,Pelham Academy of Academics and Community Engagement,All Grades,2015,324,57,17.6
+11X498,PS/MS 11X498 - VAN NEST ACADEMY,7,2014,79,23,29.1
+11X498,PS/MS 11X498 - VAN NEST ACADEMY,7,2015,87,31,35.6
+11X498,PS/MS 11X498 - VAN NEST ACADEMY,8,2014,92,14,15.2
+11X498,PS/MS 11X498 - VAN NEST ACADEMY,8,2015,83,14,16.9
+11X498,PS/MS 11X498 - VAN NEST ACADEMY,All Grades,2014,364,132,36.3
+11X498,PS/MS 11X498 - VAN NEST ACADEMY,All Grades,2015,417,147,35.3
+11X529,One World Middle School at Edenwald,7,2014,112,6,5.4
+11X529,One World Middle School at Edenwald,7,2015,102,25,24.5
+11X529,One World Middle School at Edenwald,8,2014,107,24,22.4
+11X529,One World Middle School at Edenwald,8,2015,122,13,10.7
+11X529,One World Middle School at Edenwald,All Grades,2014,327,50,15.3
+11X529,One World Middle School at Edenwald,All Grades,2015,324,49,15.1
+11X532,Baychester Middle School,7,2014,92,19,20.7
+11X532,Baychester Middle School,7,2015,82,25,30.5
+11X532,Baychester Middle School,8,2014,87,11,12.6
+11X532,Baychester Middle School,8,2015,103,12,11.7
+11X532,Baychester Middle School,All Grades,2014,264,63,23.9
+11X532,Baychester Middle School,All Grades,2015,274,67,24.5
+11X556,Bronx Park Middle School,7,2014,132,3,2.3
+11X556,Bronx Park Middle School,7,2015,121,10,8.3
+11X556,Bronx Park Middle School,8,2015,130,8,6.2
+11X556,Bronx Park Middle School,All Grades,2014,249,14,5.6
+11X556,Bronx Park Middle School,All Grades,2015,384,29,7.6
+11X566,Pelham Gardens Middle School,7,2014,153,17,11.1
+11X566,Pelham Gardens Middle School,7,2015,153,14,9.2
+11X566,Pelham Gardens Middle School,8,2015,152,17,11.2
+11X566,Pelham Gardens Middle School,All Grades,2014,292,28,9.6
+11X566,Pelham Gardens Middle School,All Grades,2015,447,51,11.4
+12X098,J.H.S. 098 Herman Ridder,7,2014,112,14,12.5
+12X098,J.H.S. 098 Herman Ridder,7,2015,67,3,4.5
+12X098,J.H.S. 098 Herman Ridder,8,2014,124,36,29
+12X098,J.H.S. 098 Herman Ridder,8,2015,108,10,9.3
+12X098,J.H.S. 098 Herman Ridder,All Grades,2014,304,60,19.7
+12X098,J.H.S. 098 Herman Ridder,All Grades,2015,247,24,9.7
+12X129,M.S. 129 Academy for Independent Learning and Leadership,7,2014,174,26,14.9
+12X129,M.S. 129 Academy for Independent Learning and Leadership,7,2015,166,35,21.1
+12X129,M.S. 129 Academy for Independent Learning and Leadership,8,2014,167,34,20.4
+12X129,M.S. 129 Academy for Independent Learning and Leadership,8,2015,170,14,8.2
+12X129,M.S. 129 Academy for Independent Learning and Leadership,All Grades,2014,501,84,16.8
+12X129,M.S. 129 Academy for Independent Learning and Leadership,All Grades,2015,533,77,14.4
+12X190,E.S.M.T- I.S. 190,7,2014,90,7,7.8
+12X190,E.S.M.T- I.S. 190,7,2015,69,7,10.1
+12X190,E.S.M.T- I.S. 190,8,2014,74,13,17.6
+12X190,E.S.M.T- I.S. 190,8,2015,82,12,14.6
+12X190,E.S.M.T- I.S. 190,All Grades,2014,245,30,12.2
+12X190,E.S.M.T- I.S. 190,All Grades,2015,227,26,11.5
+12X211,P.S. 211,7,2014,82,12,14.6
+12X211,P.S. 211,7,2015,93,26,28
+12X211,P.S. 211,8,2014,93,20,21.5
+12X211,P.S. 211,8,2015,76,28,36.8
+12X211,P.S. 211,All Grades,2014,407,52,12.8
+12X211,P.S. 211,All Grades,2015,379,82,21.6
+12X212,P.S. 212,7,2014,68,2,2.9
+12X212,P.S. 212,7,2015,66,3,4.5
+12X212,P.S. 212,8,2014,58,1,1.7
+12X212,P.S. 212,8,2015,65,11,16.9
+12X212,P.S. 212,All Grades,2014,313,15,4.8
+12X212,P.S. 212,All Grades,2015,321,49,15.3
+12X214,P.S. 214,7,2014,159,38,23.9
+12X214,P.S. 214,7,2015,137,24,17.5
+12X214,P.S. 214,8,2014,140,30,21.4
+12X214,P.S. 214,8,2015,156,28,17.9
+12X214,P.S. 214,All Grades,2014,660,160,24.2
+12X214,P.S. 214,All Grades,2015,662,137,20.7
+12X217,School of Performing Arts,7,2014,107,6,5.6
+12X217,School of Performing Arts,7,2015,99,0,0
+12X217,School of Performing Arts,8,2014,122,1,0.8
+12X217,School of Performing Arts,8,2015,111,6,5.4
+12X217,School of Performing Arts,All Grades,2014,330,13,3.9
+12X217,School of Performing Arts,All Grades,2015,322,13,4
+12X242,Mott Hall V,7,2014,101,12,11.9
+12X242,Mott Hall V,8,2015,104,10,9.6
+12X242,Mott Hall V,All Grades,2014,300,38,12.7
+12X242,Mott Hall V,All Grades,2015,303,49,16.2
+12X267,Bronx Latin,7,2014,68,10,14.7
+12X267,Bronx Latin,7,2015,87,12,13.8
+12X267,Bronx Latin,8,2014,76,18,23.7
+12X267,Bronx Latin,8,2015,80,9,11.3
+12X267,Bronx Latin,All Grades,2014,236,47,19.9
+12X267,Bronx Latin,All Grades,2015,245,38,15.5
+12X271,East Bronx Academy for the Future,7,2014,82,14,17.1
+12X271,East Bronx Academy for the Future,7,2015,80,15,18.8
+12X271,East Bronx Academy for the Future,8,2014,77,11,14.3
+12X271,East Bronx Academy for the Future,8,2015,80,0,0
+12X271,East Bronx Academy for the Future,All Grades,2014,240,36,15
+12X271,East Bronx Academy for the Future,All Grades,2015,242,20,8.3
+12X273,Frederick Douglass Academy V. Middle School,7,2014,84,14,16.7
+12X273,Frederick Douglass Academy V. Middle School,7,2015,89,6,6.7
+12X273,Frederick Douglass Academy V. Middle School,8,2014,79,5,6.3
+12X273,Frederick Douglass Academy V. Middle School,8,2015,87,3,3.4
+12X273,Frederick Douglass Academy V. Middle School,All Grades,2014,245,27,11
+12X273,Frederick Douglass Academy V. Middle School,All Grades,2015,261,26,10
+12X286,Fannie Lou Hamer Middle School,7,2014,81,7,8.6
+12X286,Fannie Lou Hamer Middle School,7,2015,84,4,4.8
+12X286,Fannie Lou Hamer Middle School,8,2014,80,7,8.8
+12X286,Fannie Lou Hamer Middle School,8,2015,81,10,12.3
+12X286,Fannie Lou Hamer Middle School,All Grades,2014,243,25,10.3
+12X286,Fannie Lou Hamer Middle School,All Grades,2015,258,24,9.3
+12X316,Kappa III,7,2014,107,16,15
+12X316,Kappa III,7,2015,115,44,38.3
+12X316,Kappa III,8,2014,104,36,34.6
+12X316,Kappa III,8,2015,110,18,16.4
+12X316,Kappa III,All Grades,2014,330,96,29.1
+12X316,Kappa III,All Grades,2015,342,89,26
+12X318,"I.S. X318 Math, Science & Technology Through Arts",7,2014,120,6,5
+12X318,"I.S. X318 Math, Science & Technology Through Arts",7,2015,93,3,3.2
+12X318,"I.S. X318 Math, Science & Technology Through Arts",8,2014,104,24,23.1
+12X318,"I.S. X318 Math, Science & Technology Through Arts",8,2015,117,17,14.5
+12X318,"I.S. X318 Math, Science & Technology Through Arts",All Grades,2014,322,37,11.5
+12X318,"I.S. X318 Math, Science & Technology Through Arts",All Grades,2015,307,30,9.8
+12X341,Accion Academy,7,2014,44,1,2.3
+12X341,Accion Academy,7,2015,63,4,6.3
+12X341,Accion Academy,8,2014,56,1,1.8
+12X341,Accion Academy,8,2015,39,0,0
+12X341,Accion Academy,All Grades,2014,163,5,3.1
+12X341,Accion Academy,All Grades,2015,139,10,7.2
+12X372,Urban Assembly School for Wildlife Conservation,7,2014,71,13,18.3
+12X372,Urban Assembly School for Wildlife Conservation,7,2015,65,3,4.6
+12X372,Urban Assembly School for Wildlife Conservation,8,2014,68,9,13.2
+12X372,Urban Assembly School for Wildlife Conservation,8,2015,62,15,24.2
+12X372,Urban Assembly School for Wildlife Conservation,All Grades,2014,204,30,14.7
+12X372,Urban Assembly School for Wildlife Conservation,All Grades,2015,185,25,13.5
+12X383,Emolior Academy,7,2014,78,24,30.8
+12X383,Emolior Academy,7,2015,84,15,17.9
+12X383,Emolior Academy,8,2014,81,14,17.3
+12X383,Emolior Academy,8,2015,79,22,27.8
+12X383,Emolior Academy,All Grades,2014,241,43,17.8
+12X383,Emolior Academy,All Grades,2015,231,44,19
+12X384,Entrada Academy,7,2014,95,2,2.1
+12X384,Entrada Academy,7,2015,95,2,2.1
+12X384,Entrada Academy,8,2014,107,7,6.5
+12X384,Entrada Academy,8,2015,96,6,6.3
+12X384,Entrada Academy,All Grades,2014,297,11,3.7
+12X384,Entrada Academy,All Grades,2015,284,10,3.5
+13K008,P.S. 008 Robert Fulton,7,2014,42,16,38.1
+13K008,P.S. 008 Robert Fulton,7,2015,51,20,39.2
+13K008,P.S. 008 Robert Fulton,8,2015,34,6,17.6
+13K008,P.S. 008 Robert Fulton,All Grades,2014,405,241,59.5
+13K008,P.S. 008 Robert Fulton,All Grades,2015,381,228,59.8
+13K103,Satellite Three,8,2014,56,3,5.4
+13K103,Satellite Three,All Grades,2014,56,3,5.4
+13K113,M.S. 113 Ronald Edmonds Learning Center,7,2014,256,26,10.2
+13K113,M.S. 113 Ronald Edmonds Learning Center,7,2015,167,23,13.8
+13K113,M.S. 113 Ronald Edmonds Learning Center,8,2014,239,37,15.5
+13K113,M.S. 113 Ronald Edmonds Learning Center,8,2015,230,25,10.9
+13K113,M.S. 113 Ronald Edmonds Learning Center,All Grades,2014,691,82,11.9
+13K113,M.S. 113 Ronald Edmonds Learning Center,All Grades,2015,538,55,10.2
+13K265,Dr. Susan S. McKinney Secondary School of the Arts,7,2014,39,2,5.1
+13K265,Dr. Susan S. McKinney Secondary School of the Arts,7,2015,37,1,2.7
+13K265,Dr. Susan S. McKinney Secondary School of the Arts,8,2014,53,4,7.5
+13K265,Dr. Susan S. McKinney Secondary School of the Arts,8,2015,33,2,6.1
+13K265,Dr. Susan S. McKinney Secondary School of the Arts,All Grades,2014,131,10,7.6
+13K265,Dr. Susan S. McKinney Secondary School of the Arts,All Grades,2015,109,6,5.5
+13K266,M.S. K266 - Park Place Community Middle School,7,2014,51,2,3.9
+13K266,M.S. K266 - Park Place Community Middle School,7,2015,31,1,3.2
+13K266,M.S. K266 - Park Place Community Middle School,8,2014,54,7,13
+13K266,M.S. K266 - Park Place Community Middle School,8,2015,49,3,6.1
+13K266,M.S. K266 - Park Place Community Middle School,All Grades,2014,139,10,7.2
+13K266,M.S. K266 - Park Place Community Middle School,All Grades,2015,122,10,8.2
+13K282,P.S. 282 Park Slope,7,2014,93,13,14
+13K282,P.S. 282 Park Slope,7,2015,110,24,21.8
+13K282,P.S. 282 Park Slope,8,2014,121,16,13.2
+13K282,P.S. 282 Park Slope,8,2015,95,5,5.3
+13K282,P.S. 282 Park Slope,All Grades,2014,624,198,31.7
+13K282,P.S. 282 Park Slope,All Grades,2015,572,153,26.7
+13K301,Satellite East Middle School,7,2014,58,1,1.7
+13K301,Satellite East Middle School,7,2015,33,1,3
+13K301,Satellite East Middle School,8,2014,62,3,4.8
+13K301,Satellite East Middle School,8,2015,47,0,0
+13K301,Satellite East Middle School,All Grades,2014,149,5,3.4
+13K301,Satellite East Middle School,All Grades,2015,111,9,8.1
+13K313,Satellite West Middle School,7,2014,38,4,10.5
+13K313,Satellite West Middle School,7,2015,32,7,21.9
+13K313,Satellite West Middle School,8,2014,39,9,23.1
+13K313,Satellite West Middle School,8,2015,37,2,5.4
+13K313,Satellite West Middle School,All Grades,2014,110,19,17.3
+13K313,Satellite West Middle School,All Grades,2015,96,14,14.6
+13K351,The Urban Assembly Unison School,7,2014,73,3,4.1
+13K351,The Urban Assembly Unison School,7,2015,57,4,7
+13K351,The Urban Assembly Unison School,8,2015,80,2,2.5
+13K351,The Urban Assembly Unison School,All Grades,2014,130,8,6.2
+13K351,The Urban Assembly Unison School,All Grades,2015,184,9,4.9
+13K492,Academy of Arts and Letters,7,2014,106,25,23.6
+13K492,Academy of Arts and Letters,7,2015,57,22,38.6
+13K492,Academy of Arts and Letters,8,2014,104,24,23.1
+13K492,Academy of Arts and Letters,8,2015,32,14,43.8
+13K492,Academy of Arts and Letters,All Grades,2014,280,84,30
+13K492,Academy of Arts and Letters,All Grades,2015,158,65,41.1
+13K527,Urban Assembly Institute of Math and Science for Young Women,7,2014,67,9,13.4
+13K527,Urban Assembly Institute of Math and Science for Young Women,7,2015,57,2,3.5
+13K527,Urban Assembly Institute of Math and Science for Young Women,8,2014,79,6,7.6
+13K527,Urban Assembly Institute of Math and Science for Young Women,8,2015,59,5,8.5
+13K527,Urban Assembly Institute of Math and Science for Young Women,All Grades,2014,216,28,13
+13K527,Urban Assembly Institute of Math and Science for Young Women,All Grades,2015,175,10,5.7
+13K596,MS 596 Peace Academy,7,2014,20,0,0
+13K596,MS 596 Peace Academy,7,2015,16,2,12.5
+13K596,MS 596 Peace Academy,8,2014,46,5,10.9
+13K596,MS 596 Peace Academy,8,2015,19,1,5.3
+13K596,MS 596 Peace Academy,All Grades,2014,85,5,5.9
+13K596,MS 596 Peace Academy,All Grades,2015,45,3,6.7
+13K691,Fort Greene Preparatory Academy,7,2014,87,5,5.7
+13K691,Fort Greene Preparatory Academy,7,2015,74,4,5.4
+13K691,Fort Greene Preparatory Academy,8,2014,91,4,4.4
+13K691,Fort Greene Preparatory Academy,8,2015,76,1,1.3
+13K691,Fort Greene Preparatory Academy,All Grades,2014,253,18,7.1
+13K691,Fort Greene Preparatory Academy,All Grades,2015,235,16,6.8
+14K050,J.H.S. 050 John D. Wells,7,2014,88,3,3.4
+14K050,J.H.S. 050 John D. Wells,7,2015,73,6,8.2
+14K050,J.H.S. 050 John D. Wells,8,2014,125,2,1.6
+14K050,J.H.S. 050 John D. Wells,8,2015,87,3,3.4
+14K050,J.H.S. 050 John D. Wells,All Grades,2014,292,11,3.8
+14K050,J.H.S. 050 John D. Wells,All Grades,2015,216,14,6.5
+14K071,Juan Morel Campos Secondary School,7,2014,109,5,4.6
+14K071,Juan Morel Campos Secondary School,7,2015,83,2,2.4
+14K071,Juan Morel Campos Secondary School,8,2014,123,2,1.6
+14K071,Juan Morel Campos Secondary School,8,2015,106,2,1.9
+14K071,Juan Morel Campos Secondary School,All Grades,2014,327,8,2.4
+14K071,Juan Morel Campos Secondary School,All Grades,2015,267,9,3.4
+14K126,John Ericsson Middle School 126,7,2014,69,5,7.2
+14K126,John Ericsson Middle School 126,7,2015,96,9,9.4
+14K126,John Ericsson Middle School 126,8,2014,99,10,10.1
+14K126,John Ericsson Middle School 126,8,2015,82,10,12.2
+14K126,John Ericsson Middle School 126,All Grades,2014,255,21,8.2
+14K126,John Ericsson Middle School 126,All Grades,2015,313,37,11.8
+14K157,P.S. 157 Benjamin Franklin,7,2014,67,6,9
+14K157,P.S./I.S. 157 The Benjamin Franklin Health & Science Academy,7,2015,51,4,7.8
+14K157,P.S. 157 Benjamin Franklin,8,2014,51,4,7.8
+14K157,P.S./I.S. 157 The Benjamin Franklin Health & Science Academy,8,2015,62,7,11.3
+14K157,P.S. 157 Benjamin Franklin,All Grades,2014,339,35,10.3
+14K157,P.S./I.S. 157 The Benjamin Franklin Health & Science Academy,All Grades,2015,331,38,11.5
+14K318,I.S. 318 Eugenio Maria De Hostos,7,2014,547,179,32.7
+14K318,I.S. 318 Eugenio Maria De Hostos,7,2015,506,159,31.4
+14K318,I.S. 318 Eugenio Maria De Hostos,8,2014,516,221,42.8
+14K318,I.S. 318 Eugenio Maria De Hostos,8,2015,530,173,32.6
+14K318,I.S. 318 Eugenio Maria De Hostos,All Grades,2014,1583,525,33.2
+14K318,I.S. 318 Eugenio Maria De Hostos,All Grades,2015,1548,468,30.2
+14K330,The Urban Assembly School for the Urban Environment,7,2014,21,1,4.8
+14K330,The School for the Urban Environment,7,2015,20,0,0
+14K330,The Urban Assembly School for the Urban Environment,8,2014,34,0,0
+14K330,The School for the Urban Environment,8,2015,17,1,5.9
+14K330,The Urban Assembly School for the Urban Environment,All Grades,2014,80,2,2.5
+14K330,The School for the Urban Environment,All Grades,2015,55,6,10.9
+14K577,Conselyea Preparatory School,7,2014,165,53,32.1
+14K577,Conselyea Preparatory School,7,2015,171,54,31.6
+14K577,Conselyea Preparatory School,8,2014,155,54,34.8
+14K577,Conselyea Preparatory School,8,2015,161,22,13.7
+14K577,Conselyea Preparatory School,All Grades,2014,493,161,32.7
+14K577,Conselyea Preparatory School,All Grades,2015,491,130,26.5
+14K582,M.S. 582,7,2014,83,2,2.4
+14K582,M.S. 582,7,2015,75,6,8
+14K582,M.S. 582,8,2014,98,12,12.2
+14K582,M.S. 582,8,2015,84,4,4.8
+14K582,M.S. 582,All Grades,2014,259,18,6.9
+14K582,M.S. 582,All Grades,2015,236,12,5.1
+14K586,Lyons Community School,7,2014,78,1,1.3
+14K586,Lyons Community School,7,2015,68,2,2.9
+14K586,Lyons Community School,8,2014,75,1,1.3
+14K586,Lyons Community School,8,2015,68,0,0
+14K586,Lyons Community School,All Grades,2014,217,6,2.8
+14K586,Lyons Community School,All Grades,2015,169,2,1.2
+14K614,Young Women's Leadership School of Brooklyn,7,2014,50,9,18
+14K614,Young Women's Leadership School of Brooklyn,7,2015,48,11,22.9
+14K614,Young Women's Leadership School of Brooklyn,8,2014,52,10,19.2
+14K614,Young Women's Leadership School of Brooklyn,8,2015,47,6,12.8
+14K614,Young Women's Leadership School of Brooklyn,All Grades,2014,152,38,25
+14K614,Young Women's Leadership School of Brooklyn,All Grades,2015,135,23,17
+15K051,M.S. 51 William Alexander,7,2014,365,271,74.2
+15K051,M.S. 51 William Alexander,7,2015,369,281,76.2
+15K051,M.S. 51 William Alexander,8,2014,368,236,64.1
+15K051,M.S. 51 William Alexander,8,2015,318,217,68.2
+15K051,M.S. 51 William Alexander,All Grades,2014,1110,751,67.7
+15K051,M.S. 51 William Alexander,All Grades,2015,1045,775,74.2
+15K088,J.H.S. 088 Peter Rouget,7,2014,392,116,29.6
+15K088,J.H.S. 088 Peter Rouget,7,2015,412,101,24.5
+15K088,J.H.S. 088 Peter Rouget,8,2014,342,90,26.3
+15K088,J.H.S. 088 Peter Rouget,8,2015,361,107,29.6
+15K088,J.H.S. 088 Peter Rouget,All Grades,2014,1167,314,26.9
+15K088,J.H.S. 088 Peter Rouget,All Grades,2015,1196,369,30.9
+15K136,I.S. 136 Charles O. Dewey,7,2014,141,8,5.7
+15K136,I.S. 136 Charles O. Dewey,7,2015,174,16,9.2
+15K136,I.S. 136 Charles O. Dewey,8,2014,169,9,5.3
+15K136,I.S. 136 Charles O. Dewey,8,2015,147,6,4.1
+15K136,I.S. 136 Charles O. Dewey,All Grades,2014,472,30,6.4
+15K136,I.S. 136 Charles O. Dewey,All Grades,2015,471,32,6.8
+15K429,Brooklyn School for Global Studies,7,2014,32,1,3.1
+15K429,Brooklyn School for Global Studies,7,2015,20,1,5
+15K429,Brooklyn School for Global Studies,8,2014,30,0,0
+15K429,Brooklyn School for Global Studies,8,2015,34,3,8.8
+15K429,Brooklyn School for Global Studies,All Grades,2014,84,4,4.8
+15K429,Brooklyn School for Global Studies,All Grades,2015,80,6,7.5
+15K442,M.S. 442 Carroll Gardens School for Innovation,7,2014,62,5,8.1
+15K442,M.S. 442 Carroll Gardens School for Innovation,7,2015,71,9,12.7
+15K442,M.S. 442 Carroll Gardens School for Innovation,8,2014,58,1,1.7
+15K442,M.S. 442 Carroll Gardens School for Innovation,8,2015,51,0,0
+15K442,M.S. 442 Carroll Gardens School for Innovation,All Grades,2014,184,9,4.9
+15K442,M.S. 442 Carroll Gardens School for Innovation,All Grades,2015,175,22,12.6
+15K443,New Voices School of Academic & Creative Arts,7,2014,176,103,58.5
+15K443,New Voices School of Academic & Creative Arts,7,2015,170,97,57.1
+15K443,New Voices School of Academic & Creative Arts,8,2014,170,55,32.4
+15K443,New Voices School of Academic & Creative Arts,8,2015,148,68,45.9
+15K443,New Voices School of Academic & Creative Arts,All Grades,2014,521,257,49.3
+15K443,New Voices School of Academic & Creative Arts,All Grades,2015,481,267,55.5
+15K447,The Math & Science Exploratory School,7,2014,168,138,82.1
+15K447,The Math & Science Exploratory School,7,2015,167,137,82
+15K447,The Math & Science Exploratory School,8,2014,164,93,56.7
+15K447,The Math & Science Exploratory School,8,2015,99,68,68.7
+15K447,The Math & Science Exploratory School,All Grades,2014,506,351,69.4
+15K447,The Math & Science Exploratory School,All Grades,2015,430,346,80.5
+15K448,Brooklyn Secondary School for Collaborative Studies,7,2014,93,4,4.3
+15K448,Brooklyn Secondary School for Collaborative Studies,7,2015,9,1,11.1
+15K448,Brooklyn Secondary School for Collaborative Studies,8,2014,77,4,5.2
+15K448,Brooklyn Secondary School for Collaborative Studies,8,2015,20,0,0
+15K448,Brooklyn Secondary School for Collaborative Studies,All Grades,2014,257,13,5.1
+15K448,Brooklyn Secondary School for Collaborative Studies,All Grades,2015,52,2,3.8
+15K464,Park Slope Collegiate,7,2014,23,2,8.7
+15K464,Park Slope Collegiate,7,2015,42,13,31
+15K464,Park Slope Collegiate,8,2014,27,0,0
+15K464,Park Slope Collegiate,8,2015,23,2,8.7
+15K464,Park Slope Collegiate,All Grades,2014,91,14,15.4
+15K464,Park Slope Collegiate,All Grades,2015,107,30,28
+15K497,School for International Studies,7,2014,46,3,6.5
+15K497,School for International Studies,7,2015,25,2,8
+15K497,School for International Studies,8,2014,49,3,6.1
+15K497,School for International Studies,8,2015,46,0,0
+15K497,School for International Studies,All Grades,2014,119,7,5.9
+15K497,School for International Studies,All Grades,2015,103,3,2.9
+15K821,Sunset Park Prep,7,2014,171,43,25.1
+15K821,Sunset Park Prep,7,2015,173,78,45.1
+15K821,Sunset Park Prep,8,2014,174,45,25.9
+15K821,Sunset Park Prep,8,2015,172,46,26.7
+15K821,Sunset Park Prep,All Grades,2014,524,151,28.8
+15K821,Sunset Park Prep,All Grades,2015,516,237,45.9
+16K035,M.S. 035 Stephen Decatur,7,2014,65,9,13.8
+16K035,M.S. 035 Stephen Decatur,7,2015,57,10,17.5
+16K035,M.S. 035 Stephen Decatur,8,2014,71,2,2.8
+16K035,M.S. 035 Stephen Decatur,8,2015,56,12,21.4
+16K035,M.S. 035 Stephen Decatur,All Grades,2014,194,21,10.8
+16K035,M.S. 035 Stephen Decatur,All Grades,2015,173,29,16.8
+16K057,J.H.S. 057 Whitelaw Reid,7,2014,63,6,9.5
+16K057,J.H.S. 057 Whitelaw Reid,7,2015,56,10,17.9
+16K057,J.H.S. 057 Whitelaw Reid,8,2014,86,5,5.8
+16K057,J.H.S. 057 Whitelaw Reid,8,2015,65,8,12.3
+16K057,J.H.S. 057 Whitelaw Reid,All Grades,2014,203,20,9.9
+16K057,J.H.S. 057 Whitelaw Reid,All Grades,2015,167,24,14.4
+16K262,P.S. 262 El Hajj Malik El Shabazz Elementary School,7,2014,53,9,17
+16K262,P.S. 262 El Hajj Malik El Shabazz Elementary School,7,2015,59,6,10.2
+16K262,P.S. 262 El Hajj Malik El Shabazz Elementary School,8,2014,68,4,5.9
+16K262,P.S. 262 El Hajj Malik El Shabazz Elementary School,8,2015,42,8,19
+16K262,P.S. 262 El Hajj Malik El Shabazz Elementary School,All Grades,2014,318,53,16.7
+16K262,P.S. 262 El Hajj Malik El Shabazz Elementary School,All Grades,2015,289,63,21.8
+16K267,"M.S. 267 Math, Science & Technology",7,2014,95,7,7.4
+16K267,"M.S. 267 Math, Science & Technology",7,2015,68,16,23.5
+16K267,"M.S. 267 Math, Science & Technology",8,2014,106,13,12.3
+16K267,"M.S. 267 Math, Science & Technology",8,2015,90,19,21.1
+16K267,"M.S. 267 Math, Science & Technology",All Grades,2014,275,46,16.7
+16K267,"M.S. 267 Math, Science & Technology",All Grades,2015,211,48,22.7
+16K308,P.S. 308 Clara Cardwell,7,2014,68,9,13.2
+16K308,P.S. 308 Clara Cardwell,7,2015,54,1,1.9
+16K308,P.S. 308 Clara Cardwell,8,2014,87,14,16.1
+16K308,P.S. 308 Clara Cardwell,8,2015,64,1,1.6
+16K308,P.S. 308 Clara Cardwell,All Grades,2014,331,30,9.1
+16K308,P.S. 308 Clara Cardwell,All Grades,2015,266,9,3.4
+16K385,"School of Business, Finance and Entrepreneurship",7,2014,30,1,3.3
+16K385,"School of Business, Finance and Entrepreneurship",7,2015,23,1,4.3
+16K385,"School of Business, Finance and Entrepreneurship",8,2014,52,1,1.9
+16K385,"School of Business, Finance and Entrepreneurship",8,2015,30,1,3.3
+16K385,"School of Business, Finance and Entrepreneurship",All Grades,2014,109,5,4.6
+16K385,"School of Business, Finance and Entrepreneurship",All Grades,2015,75,8,10.7
+16K393,Frederick Douglass Academy IV Secondary School,8,2014,28,1,3.6
+16K393,Frederick Douglass Academy IV Secondary School,All Grades,2014,28,1,3.6
+16K534,Upper School @ P.S. 25,7,2014,38,0,0
+16K534,Upper School @ P.S. 25,7,2015,44,2,4.5
+16K534,Upper School @ P.S. 25,8,2014,62,2,3.2
+16K534,Upper School @ P.S. 25,8,2015,35,3,8.6
+16K534,Upper School @ P.S. 25,All Grades,2014,139,4,2.9
+16K534,Upper School @ P.S. 25,All Grades,2015,102,5,4.9
+16K584,M.S. 584,7,2014,31,1,3.2
+16K584,M.S. 584,7,2015,42,3,7.1
+16K584,M.S. 584,8,2014,52,3,5.8
+16K584,M.S. 584,8,2015,30,2,6.7
+16K584,M.S. 584,All Grades,2014,118,5,4.2
+16K584,M.S. 584,All Grades,2015,99,5,5.1
+16K681,Madiba Prep Middle School,7,2014,80,1,1.3
+16K681,Madiba Prep Middle School,7,2015,76,5,6.6
+16K681,Madiba Prep Middle School,8,2015,78,1,1.3
+16K681,Madiba Prep Middle School,All Grades,2014,159,8,5
+16K681,Madiba Prep Middle School,All Grades,2015,202,18,8.9
+17K002,Parkside Preparatory Academy,7,2014,152,35,23
+17K002,Parkside Preparatory Academy,7,2015,154,41,26.6
+17K002,Parkside Preparatory Academy,8,2014,155,8,5.2
+17K002,Parkside Preparatory Academy,8,2015,138,15,10.9
+17K002,Parkside Preparatory Academy,All Grades,2014,461,73,15.8
+17K002,Parkside Preparatory Academy,All Grades,2015,458,93,20.3
+17K061,M.S. 061 Dr. Gladstone H. Atwell,7,2014,261,26,10
+17K061,M.S. 061 Dr. Gladstone H. Atwell,7,2015,227,28,12.3
+17K061,M.S. 061 Dr. Gladstone H. Atwell,8,2014,286,30,10.5
+17K061,M.S. 061 Dr. Gladstone H. Atwell,8,2015,256,20,7.8
+17K061,M.S. 061 Dr. Gladstone H. Atwell,All Grades,2014,736,82,11.1
+17K061,M.S. 061 Dr. Gladstone H. Atwell,All Grades,2015,757,116,15.3
+17K138,P.S. 138 Brooklyn,7,2014,78,16,20.5
+17K138,P.S. 138 Brooklyn,7,2015,85,23,27.1
+17K138,P.S. 138 Brooklyn,8,2014,80,14,17.5
+17K138,P.S. 138 Brooklyn,8,2015,83,22,26.5
+17K138,P.S. 138 Brooklyn,All Grades,2014,443,107,24.2
+17K138,P.S. 138 Brooklyn,All Grades,2015,433,115,26.6
+17K161,P.S. 161 The Crown,8,2014,45,1,2.2
+17K161,P.S. 161 The Crown,All Grades,2014,308,77,25
+17K181,P.S. 181 Brooklyn,7,2014,85,4,4.7
+17K181,P.S. 181 Brooklyn,7,2015,98,12,12.2
+17K181,P.S. 181 Brooklyn,8,2014,76,11,14.5
+17K181,P.S. 181 Brooklyn,8,2015,79,5,6.3
+17K181,P.S. 181 Brooklyn,All Grades,2014,647,93,14.4
+17K181,P.S. 181 Brooklyn,All Grades,2015,606,75,12.4
+17K189,P.S. 189 The Bilingual Center,7,2014,138,43,31.2
+17K189,P.S. 189 The Bilingual Center,7,2015,148,66,44.6
+17K189,P.S. 189 The Bilingual Center,8,2014,154,66,42.9
+17K189,P.S. 189 The Bilingual Center,8,2015,128,54,42.2
+17K189,P.S. 189 The Bilingual Center,All Grades,2014,824,341,41.4
+17K189,P.S. 189 The Bilingual Center,All Grades,2015,760,342,45
+17K246,M.S. 246 Walt Whitman,7,2014,213,3,1.4
+17K246,M.S. 246 Walt Whitman,7,2015,191,6,3.1
+17K246,M.S. 246 Walt Whitman,8,2014,205,13,6.3
+17K246,M.S. 246 Walt Whitman,8,2015,226,9,4
+17K246,M.S. 246 Walt Whitman,All Grades,2014,579,28,4.8
+17K246,M.S. 246 Walt Whitman,All Grades,2015,544,27,5
+17K334,Middle School for Academic and Social Excellence,7,2014,58,1,1.7
+17K334,Middle School for Academic and Social Excellence,7,2015,41,0,0
+17K334,Middle School for Academic and Social Excellence,8,2014,66,1,1.5
+17K334,Middle School for Academic and Social Excellence,8,2015,51,1,2
+17K334,Middle School for Academic and Social Excellence,All Grades,2014,160,2,1.3
+17K334,Middle School for Academic and Social Excellence,All Grades,2015,116,2,1.7
+17K340,I.S. 340,7,2014,67,19,28.4
+17K340,I.S. 340,7,2015,53,15,28.3
+17K340,I.S. 340,8,2014,85,13,15.3
+17K340,I.S. 340,8,2015,68,9,13.2
+17K340,I.S. 340,All Grades,2014,206,40,19.4
+17K340,I.S. 340,All Grades,2015,198,39,19.7
+17K352,Ebbets Field Middle School,7,2014,79,2,2.5
+17K352,Ebbets Field Middle School,7,2015,88,9,10.2
+17K352,Ebbets Field Middle School,8,2014,107,9,8.4
+17K352,Ebbets Field Middle School,8,2015,79,2,2.5
+17K352,Ebbets Field Middle School,All Grades,2014,283,17,6
+17K352,Ebbets Field Middle School,All Grades,2015,218,14,6.4
+17K353,Elijah Stroud Middle School,7,2014,91,4,4.4
+17K353,Elijah Stroud Middle School,7,2015,89,1,1.1
+17K353,Elijah Stroud Middle School,8,2014,73,5,6.8
+17K353,Elijah Stroud Middle School,8,2015,90,4,4.4
+17K353,Elijah Stroud Middle School,All Grades,2014,255,13,5.1
+17K353,Elijah Stroud Middle School,All Grades,2015,242,14,5.8
+17K354,The School of Integrated Learning,7,2014,77,32,41.6
+17K354,The School of Integrated Learning,7,2015,73,29,39.7
+17K354,The School of Integrated Learning,8,2014,88,36,40.9
+17K354,The School of Integrated Learning,8,2015,83,24,28.9
+17K354,The School of Integrated Learning,All Grades,2014,230,96,41.7
+17K354,The School of Integrated Learning,All Grades,2015,217,77,35.5
+17K382,Academy for College Preparation and Career Exploration: A College Board School,7,2014,52,9,17.3
+17K382,Academy for College Preparation and Career Exploration: A College Board School,7,2015,48,3,6.3
+17K382,Academy for College Preparation and Career Exploration: A College Board School,8,2014,50,0,0
+17K382,Academy for College Preparation and Career Exploration: A College Board School,8,2015,52,6,11.5
+17K382,Academy for College Preparation and Career Exploration: A College Board School,All Grades,2014,149,13,8.7
+17K382,Academy for College Preparation and Career Exploration: A College Board School,All Grades,2015,145,17,11.7
+17K394,M.S. K394,7,2014,88,3,3.4
+17K394,M.S. K394,7,2015,73,4,5.5
+17K394,M.S. K394,8,2014,58,4,6.9
+17K394,M.S. K394,8,2015,83,5,6
+17K394,M.S. K394,All Grades,2014,378,33,8.7
+17K394,M.S. K394,All Grades,2015,354,39,11
+17K484,Ronald Edmonds Learning Center II,7,2014,47,1,2.1
+17K484,Ronald Edmonds Learning Center II,7,2015,49,4,8.2
+17K484,Ronald Edmonds Learning Center II,8,2014,53,5,9.4
+17K484,Ronald Edmonds Learning Center II,8,2015,49,1,2
+17K484,Ronald Edmonds Learning Center II,All Grades,2014,141,12,8.5
+17K484,Ronald Edmonds Learning Center II,All Grades,2015,141,10,7.1
+17K531,"School for Human Rights, The",7,2014,39,0,0
+17K531,"School for Human Rights, The",7,2015,45,4,8.9
+17K531,"School for Human Rights, The",8,2014,45,4,8.9
+17K531,"School for Human Rights, The",8,2015,42,0,0
+17K531,"School for Human Rights, The",All Grades,2014,137,6,4.4
+17K531,"School for Human Rights, The",All Grades,2015,130,11,8.5
+17K533,School for Democracy and Leadership,7,2014,22,0,0
+17K533,School for Democracy and Leadership,7,2015,16,0,0
+17K533,School for Democracy and Leadership,8,2014,26,6,23.1
+17K533,School for Democracy and Leadership,8,2015,23,1,4.3
+17K533,School for Democracy and Leadership,All Grades,2014,61,7,11.5
+17K533,School for Democracy and Leadership,All Grades,2015,53,2,3.8
+17K543,"Science, Technology and Research Early College High School at Erasmus",7,2014,72,21,29.2
+17K543,"Science, Technology and Research Early College High School at Erasmus",7,2015,54,22,40.7
+17K543,"Science, Technology and Research Early College High School at Erasmus",8,2014,69,23,33.3
+17K543,"Science, Technology and Research Early College High School at Erasmus",8,2015,76,38,50
+17K543,"Science, Technology and Research Early College High School at Erasmus",All Grades,2014,197,69,35
+17K543,"Science, Technology and Research Early College High School at Erasmus",All Grades,2015,188,87,46.3
+17K587,Middle School for the Arts,7,2014,,,
+17K587,Middle School for the Arts,8,2014,87,1,1.1
+17K587,Middle School for the Arts,All Grades,2014,88,1,1.1
+17K590,Medgar Evers College Preparatory School,7,2014,95,61,64.2
+17K590,Medgar Evers College Preparatory School,7,2015,96,69,71.9
+17K590,Medgar Evers College Preparatory School,8,2014,49,28,57.1
+17K590,Medgar Evers College Preparatory School,8,2015,91,54,59.3
+17K590,Medgar Evers College Preparatory School,All Grades,2014,245,157,64.1
+17K590,Medgar Evers College Preparatory School,All Grades,2015,290,221,76.2
+17K722,New Heights Middle School,7,2014,131,1,0.8
+17K722,New Heights Middle School,7,2015,91,7,7.7
+17K722,New Heights Middle School,8,2015,126,9,7.1
+17K722,New Heights Middle School,All Grades,2014,223,2,0.9
+17K722,New Heights Middle School,All Grades,2015,309,25,8.1
+18K066,P.S. 66,7,2014,102,30,29.4
+18K066,P.S. 66,7,2015,109,25,22.9
+18K066,P.S. 66,8,2014,76,24,31.6
+18K066,P.S. 66,8,2015,99,27,27.3
+18K066,P.S. 66,All Grades,2014,527,193,36.6
+18K066,P.S. 66,All Grades,2015,557,184,33
+18K068,I.S. 068 Isaac Bildersee,7,2014,206,9,4.4
+18K068,I.S. 068 Isaac Bildersee,7,2015,196,13,6.6
+18K068,I.S. 068 Isaac Bildersee,8,2014,300,12,4
+18K068,I.S. 068 Isaac Bildersee,8,2015,212,16,7.5
+18K068,I.S. 068 Isaac Bildersee,All Grades,2014,711,31,4.4
+18K068,I.S. 068 Isaac Bildersee,All Grades,2015,525,32,6.1
+18K211,I.S. 211 John Wilson,7,2014,210,29,13.8
+18K211,I.S. 211 John Wilson,7,2015,201,41,20.4
+18K211,I.S. 211 John Wilson,8,2014,246,17,6.9
+18K211,I.S. 211 John Wilson,8,2015,207,28,13.5
+18K211,I.S. 211 John Wilson,All Grades,2014,663,92,13.9
+18K211,I.S. 211 John Wilson,All Grades,2015,581,107,18.4
+18K235,P.S. 235 Lenox School,7,2014,93,82,88.2
+18K235,P.S. 235 Lenox School,7,2015,84,78,92.9
+18K235,P.S. 235 Lenox School,8,2014,104,86,82.7
+18K235,P.S. 235 Lenox School,8,2015,90,77,85.6
+18K235,P.S. 235 Lenox School,All Grades,2014,781,444,56.9
+18K235,P.S. 235 Lenox School,All Grades,2015,737,421,57.1
+18K285,I.S. 285 Meyer Levin,7,2014,288,42,14.6
+18K285,I.S. 285 Meyer Levin,7,2015,288,47,16.3
+18K285,I.S. 285 Meyer Levin,8,2014,325,49,15.1
+18K285,I.S. 285 Meyer Levin,8,2015,276,26,9.4
+18K285,I.S. 285 Meyer Levin,All Grades,2014,896,144,16.1
+18K285,I.S. 285 Meyer Levin,All Grades,2015,785,101,12.9
+18K366,THE SCIENCE AND MEDICINE MIDDLE SCHOOL,7,2014,135,25,18.5
+18K366,THE SCIENCE AND MEDICINE MIDDLE SCHOOL,7,2015,178,33,18.5
+18K366,THE SCIENCE AND MEDICINE MIDDLE SCHOOL,8,2014,62,15,24.2
+18K366,THE SCIENCE AND MEDICINE MIDDLE SCHOOL,8,2015,129,37,28.7
+18K366,THE SCIENCE AND MEDICINE MIDDLE SCHOOL,All Grades,2014,380,79,20.8
+18K366,THE SCIENCE AND MEDICINE MIDDLE SCHOOL,All Grades,2015,494,88,17.8
+18K581,East Flatbush Community Research School,7,2014,72,7,9.7
+18K581,East Flatbush Community Research School,7,2015,66,3,4.5
+18K581,East Flatbush Community Research School,8,2014,91,5,5.5
+18K581,East Flatbush Community Research School,8,2015,68,3,4.4
+18K581,East Flatbush Community Research School,All Grades,2014,220,14,6.4
+18K581,East Flatbush Community Research School,All Grades,2015,171,16,9.4
+18K588,Middle School for Art and Philosophy,7,2014,105,4,3.8
+18K588,Middle School for Art and Philosophy,7,2015,84,8,9.5
+18K588,Middle School for Art and Philosophy,8,2014,114,9,7.9
+18K588,Middle School for Art and Philosophy,8,2015,101,4,4
+18K588,Middle School for Art and Philosophy,All Grades,2014,311,27,8.7
+18K588,Middle School for Art and Philosophy,All Grades,2015,236,17,7.2
+18K598,Middle School of Marketing and Legal Studies,7,2014,100,6,6
+18K598,Middle School of Marketing and Legal Studies,7,2015,79,4,5.1
+18K598,Middle School of Marketing and Legal Studies,8,2014,108,1,0.9
+18K598,Middle School of Marketing and Legal Studies,8,2015,94,4,4.3
+18K598,Middle School of Marketing and Legal Studies,All Grades,2014,294,10,3.4
+18K598,Middle School of Marketing and Legal Studies,All Grades,2015,232,10,4.3
+19K089,P.S. 089 Cypress Hills,7,2014,59,5,8.5
+19K089,P.S. 089 Cypress Hills,7,2015,65,6,9.2
+19K089,P.S. 089 Cypress Hills,8,2014,52,4,7.7
+19K089,P.S. 089 Cypress Hills,8,2015,63,9,14.3
+19K089,P.S. 089 Cypress Hills,All Grades,2014,290,38,13.1
+19K089,P.S. 089 Cypress Hills,All Grades,2015,300,40,13.3
+19K166,J.H.S. 166 George Gershwin,7,2014,98,1,1
+19K166,J.H.S. 166 George Gershwin,8,2014,116,1,0.9
+19K166,J.H.S. 166 George Gershwin,8,2015,92,1,1.1
+19K166,J.H.S. 166 George Gershwin,All Grades,2014,214,2,0.9
+19K166,J.H.S. 166 George Gershwin,All Grades,2015,92,1,1.1
+19K171,I.S. 171 Abraham Lincoln,7,2014,252,27,10.7
+19K171,I.S. 171 Abraham Lincoln,7,2015,244,15,6.1
+19K171,I.S. 171 Abraham Lincoln,8,2014,263,22,8.4
+19K171,I.S. 171 Abraham Lincoln,8,2015,241,30,12.4
+19K171,I.S. 171 Abraham Lincoln,All Grades,2014,757,77,10.2
+19K171,I.S. 171 Abraham Lincoln,All Grades,2015,614,69,11.2
+19K174,P.S. 174 Dumont,7,2014,42,4,9.5
+19K174,P.S. 174 Dumont,8,2014,39,0,0
+19K174,P.S. 174 Dumont,8,2015,40,7,17.5
+19K174,P.S. 174 Dumont,All Grades,2014,214,7,3.3
+19K174,P.S. 174 Dumont,All Grades,2015,129,12,9.3
+19K202,P.S. 202 Ernest S. Jenkyns,7,2014,65,13,20
+19K202,P.S. 202 Ernest S. Jenkyns,8,2014,73,5,6.8
+19K202,P.S. 202 Ernest S. Jenkyns,8,2015,62,8,12.9
+19K202,P.S. 202 Ernest S. Jenkyns,All Grades,2014,365,41,11.2
+19K202,P.S. 202 Ernest S. Jenkyns,All Grades,2015,254,41,16.1
+19K218,J.H.S. 218 James P. Sinnott,7,2014,132,21,15.9
+19K218,J.H.S. 218 James P. Sinnott,7,2015,159,17,10.7
+19K218,J.H.S. 218 James P. Sinnott,8,2014,193,29,15
+19K218,J.H.S. 218 James P. Sinnott,8,2015,137,15,10.9
+19K218,J.H.S. 218 James P. Sinnott,All Grades,2014,473,70,14.8
+19K218,J.H.S. 218 James P. Sinnott,All Grades,2015,426,43,10.1
+19K292,J.H.S. 292 Margaret S. Douglas,7,2014,250,55,22
+19K292,J.H.S. 292 Margaret S. Douglas,7,2015,226,50,22.1
+19K292,J.H.S. 292 Margaret S. Douglas,8,2014,223,61,27.4
+19K292,J.H.S. 292 Margaret S. Douglas,8,2015,252,51,20.2
+19K292,J.H.S. 292 Margaret S. Douglas,All Grades,2014,697,165,23.7
+19K292,J.H.S. 292 Margaret S. Douglas,All Grades,2015,660,155,23.5
+19K302,J.H.S. 302 Rafael Cordero,7,2014,245,24,9.8
+19K302,J.H.S. 302 Rafael Cordero,8,2014,271,17,6.3
+19K302,J.H.S. 302 Rafael Cordero,8,2015,244,18,7.4
+19K302,J.H.S. 302 Rafael Cordero,All Grades,2014,516,41,7.9
+19K302,J.H.S. 302 Rafael Cordero,All Grades,2015,244,18,7.4
+19K306,P.S. 306 Ethan Allen,7,2014,60,1,1.7
+19K306,P.S. 306 Ethan Allen,7,2015,58,6,10.3
+19K306,P.S. 306 Ethan Allen,8,2014,58,1,1.7
+19K306,P.S. 306 Ethan Allen,8,2015,62,1,1.6
+19K306,P.S. 306 Ethan Allen,All Grades,2014,369,30,8.1
+19K306,P.S. 306 Ethan Allen,All Grades,2015,363,23,6.3
+19K311,Essence School,7,2014,45,3,6.7
+19K311,Essence School,7,2015,44,1,2.3
+19K311,Essence School,8,2014,52,2,3.8
+19K311,Essence School,8,2015,40,1,2.5
+19K311,Essence School,All Grades,2014,141,7,5
+19K311,Essence School,All Grades,2015,126,2,1.6
+19K328,P.S. 328 Phyllis Wheatley,8,2014,49,0,0
+19K328,P.S. 328 Phyllis Wheatley,All Grades,2014,188,7,3.7
+19K364,I.S. 364 Gateway,7,2014,122,21,17.2
+19K364,I.S. 364 Gateway,7,2015,110,26,23.6
+19K364,I.S. 364 Gateway,8,2014,120,7,5.8
+19K364,I.S. 364 Gateway,8,2015,125,9,7.2
+19K364,I.S. 364 Gateway,All Grades,2014,360,50,13.9
+19K364,I.S. 364 Gateway,All Grades,2015,337,44,13.1
+19K404,Academy for Young Writers,7,2015,63,0,0
+19K404,Academy for Young Writers,All Grades,2015,139,6,4.3
+19K409,East New York Family Academy,7,2014,70,19,27.1
+19K409,East New York Family Academy,7,2015,68,21,30.9
+19K409,East New York Family Academy,8,2014,45,22,48.9
+19K409,East New York Family Academy,8,2015,62,14,22.6
+19K409,East New York Family Academy,All Grades,2014,182,56,30.8
+19K409,East New York Family Academy,All Grades,2015,194,61,31.4
+19K422,Spring Creek Community School,7,2014,83,5,6
+19K422,Spring Creek Community School,7,2015,70,2,2.9
+19K422,Spring Creek Community School,8,2015,75,10,13.3
+19K422,Spring Creek Community School,All Grades,2014,164,14,8.5
+19K422,Spring Creek Community School,All Grades,2015,224,15,6.7
+19K452,Frederick Douglass Academy VIII Middle School,7,2014,87,34,39.1
+19K452,Frederick Douglass Academy VIII Middle School,7,2015,98,39,39.8
+19K452,Frederick Douglass Academy VIII Middle School,8,2014,100,55,55
+19K452,Frederick Douglass Academy VIII Middle School,8,2015,85,15,17.6
+19K452,Frederick Douglass Academy VIII Middle School,All Grades,2014,293,129,44
+19K452,Frederick Douglass Academy VIII Middle School,All Grades,2015,287,85,29.6
+19K654,Van Siclen Community Middle School,7,2015,113,3,2.7
+19K654,Van Siclen Community Middle School,All Grades,2015,206,4,1.9
+19K661,Vista Academy,7,2015,109,21,19.3
+19K661,Vista Academy,All Grades,2015,218,52,23.9
+19K662,Liberty Avenue Middle School,7,2015,152,24,15.8
+19K662,Liberty Avenue Middle School,All Grades,2015,277,44,15.9
+19K663,School of the Future Brooklyn,7,2015,41,5,12.2
+19K663,School of the Future Brooklyn,All Grades,2015,73,5,6.8
+19K678,East New York Middle School of Excellence,7,2014,80,9,11.3
+19K678,East New York Middle School of Excellence,7,2015,86,3,3.5
+19K678,East New York Middle School of Excellence,8,2014,72,1,1.4
+19K678,East New York Middle School of Excellence,8,2015,81,7,8.6
+19K678,East New York Middle School of Excellence,All Grades,2014,234,11,4.7
+19K678,East New York Middle School of Excellence,All Grades,2015,253,13,5.1
+20K030,PS/IS 30 Mary White Ovington,7,2014,115,57,49.6
+20K030,PS/IS 30 Mary White Ovington,7,2015,153,59,38.6
+20K030,PS/IS 30 Mary White Ovington,8,2014,125,62,49.6
+20K030,PS/IS 30 Mary White Ovington,8,2015,120,45,37.5
+20K030,PS/IS 30 Mary White Ovington,All Grades,2014,391,194,49.6
+20K030,PS/IS 30 Mary White Ovington,All Grades,2015,398,157,39.4
+20K062,J.H.S. 062 Ditmas,7,2014,437,81,18.5
+20K062,J.H.S. 062 Ditmas,7,2015,415,87,21
+20K062,J.H.S. 062 Ditmas,8,2014,434,87,20
+20K062,J.H.S. 062 Ditmas,8,2015,462,84,18.2
+20K062,J.H.S. 062 Ditmas,All Grades,2014,1271,264,20.8
+20K062,J.H.S. 062 Ditmas,All Grades,2015,1249,277,22.2
+20K104,P.S./I.S. 104 The Fort Hamilton School,7,2014,145,66,45.5
+20K104,P.S./I.S. 104 The Fort Hamilton School,7,2015,153,77,50.3
+20K104,P.S./I.S. 104 The Fort Hamilton School,8,2014,140,62,44.3
+20K104,P.S./I.S. 104 The Fort Hamilton School,8,2015,151,49,32.5
+20K104,P.S./I.S. 104 The Fort Hamilton School,All Grades,2014,820,436,53.2
+20K104,P.S./I.S. 104 The Fort Hamilton School,All Grades,2015,818,451,55.1
+20K163,P.S. 163 Bath Beach,7,2014,65,35,53.8
+20K163,P.S. 163 Bath Beach,7,2015,65,30,46.2
+20K163,P.S. 163 Bath Beach,8,2014,58,36,62.1
+20K163,P.S. 163 Bath Beach,8,2015,65,38,58.5
+20K163,P.S. 163 Bath Beach,All Grades,2014,441,243,55.1
+20K163,P.S. 163 Bath Beach,All Grades,2015,441,245,55.6
+20K180,The SEEALL Academy,7,2014,134,78,58.2
+20K180,The SEEALL Academy,7,2015,157,91,58
+20K180,The SEEALL Academy,8,2014,149,93,62.4
+20K180,The SEEALL Academy,8,2015,133,84,63.2
+20K180,The SEEALL Academy,All Grades,2014,778,429,55.1
+20K180,The SEEALL Academy,All Grades,2015,788,421,53.4
+20K187,The Christa McAuliffe School\I.S. 187,7,2014,297,296,99.7
+20K187,The Christa McAuliffe School\I.S. 187,7,2015,343,334,97.4
+20K187,The Christa McAuliffe School\I.S. 187,8,2014,279,279,100
+20K187,The Christa McAuliffe School\I.S. 187,8,2015,293,291,99.3
+23K392,I.S. 392,8,2015,105,27,25.7
+20K187,The Christa McAuliffe School\I.S. 187,All Grades,2014,934,919,98.4
+20K187,The Christa McAuliffe School\I.S. 187,All Grades,2015,976,955,97.8
+20K192,P.S. 192 - The Magnet School for Math and Science Inquiry,7,2014,49,13,26.5
+20K192,P.S. 192 - The Magnet School for Math and Science Inquiry,7,2015,60,22,36.7
+20K192,P.S. 192 - The Magnet School for Math and Science Inquiry,8,2014,67,26,38.8
+20K192,P.S. 192 - The Magnet School for Math and Science Inquiry,8,2015,48,13,27.1
+20K192,P.S. 192 - The Magnet School for Math and Science Inquiry,All Grades,2014,365,124,34
+20K192,P.S. 192 - The Magnet School for Math and Science Inquiry,All Grades,2015,362,115,31.8
+20K201,J.H.S. 201 The Dyker Heights,7,2014,450,300,66.7
+20K201,J.H.S. 201 The Dyker Heights,7,2015,462,318,68.8
+20K201,J.H.S. 201 The Dyker Heights,8,2014,528,355,67.2
+20K201,J.H.S. 201 The Dyker Heights,8,2015,418,273,65.3
+20K201,J.H.S. 201 The Dyker Heights,All Grades,2014,1426,932,65.4
+20K201,J.H.S. 201 The Dyker Heights,All Grades,2015,1347,887,65.9
+20K220,J.H.S. 220 John J. Pershing,7,2014,449,138,30.7
+20K220,J.H.S. 220 John J. Pershing,7,2015,418,166,39.7
+20K220,J.H.S. 220 John J. Pershing,8,2014,466,228,48.9
+20K220,J.H.S. 220 John J. Pershing,8,2015,457,184,40.3
+20K220,J.H.S. 220 John J. Pershing,All Grades,2014,1344,522,38.8
+20K220,J.H.S. 220 John J. Pershing,All Grades,2015,1338,537,40.1
+20K223,J.H.S. 223 The Montauk,7,2014,279,119,42.7
+20K223,J.H.S. 223 The Montauk,7,2015,324,128,39.5
+20K223,J.H.S. 223 The Montauk,8,2014,320,134,41.9
+20K223,J.H.S. 223 The Montauk,8,2015,280,140,50
+20K223,J.H.S. 223 The Montauk,All Grades,2014,920,360,39.1
+20K223,J.H.S. 223 The Montauk,All Grades,2015,924,404,43.7
+20K227,J.H.S. 227 Edward B. Shallow,7,2014,410,152,37.1
+20K227,J.H.S. 227 Edward B. Shallow,7,2015,415,152,36.6
+20K227,J.H.S. 227 Edward B. Shallow,8,2014,489,213,43.6
+20K227,J.H.S. 227 Edward B. Shallow,8,2015,438,195,44.5
+20K227,J.H.S. 227 Edward B. Shallow,All Grades,2014,1276,485,38
+20K227,J.H.S. 227 Edward B. Shallow,All Grades,2015,1246,509,40.9
+20K229,P.S. 229 Dyker,7,2014,95,52,54.7
+20K229,P.S. 229 Dyker,7,2015,90,60,66.7
+20K229,P.S. 229 Dyker,8,2014,100,53,53
+20K229,P.S. 229 Dyker,8,2015,94,51,54.3
+20K229,P.S. 229 Dyker,All Grades,2014,695,509,73.2
+20K229,P.S. 229 Dyker,All Grades,2015,719,517,71.9
+20K259,J.H.S. 259 William Mckinley,7,2014,424,240,56.6
+20K259,J.H.S. 259 William Mckinley,7,2015,472,313,66.3
+20K259,J.H.S. 259 William Mckinley,8,2014,523,314,60
+20K259,J.H.S. 259 William Mckinley,8,2015,430,250,58.1
+20K259,J.H.S. 259 William Mckinley,All Grades,2014,1391,848,61
+20K259,J.H.S. 259 William Mckinley,All Grades,2015,1439,915,63.6
+20K609,Urban Assembly School for Criminal Justice,7,2014,47,15,31.9
+20K609,Urban Assembly School for Criminal Justice,7,2015,57,13,22.8
+20K609,Urban Assembly School for Criminal Justice,8,2014,70,18,25.7
+20K609,Urban Assembly School for Criminal Justice,8,2015,51,15,29.4
+20K609,Urban Assembly School for Criminal Justice,All Grades,2014,181,53,29.3
+20K609,Urban Assembly School for Criminal Justice,All Grades,2015,181,55,30.4
+21K095,P.S. 095 The Gravesend,7,2014,49,23,46.9
+21K095,P.S. 095 The Gravesend,7,2015,57,19,33.3
+21K095,P.S. 095 The Gravesend,8,2014,59,15,25.4
+21K095,P.S. 095 The Gravesend,8,2015,45,1,2.2
+21K095,P.S. 095 The Gravesend,All Grades,2014,514,251,48.8
+21K095,P.S. 095 The Gravesend,All Grades,2015,501,232,46.3
+21K096,I.S. 096 Seth Low,7,2014,242,60,24.8
+21K096,I.S. 096 Seth Low,7,2015,199,56,28.1
+21K096,I.S. 096 Seth Low,8,2014,259,91,35.1
+21K096,I.S. 096 Seth Low,8,2015,247,80,32.4
+21K096,I.S. 096 Seth Low,All Grades,2014,681,201,29.5
+21K096,I.S. 096 Seth Low,All Grades,2015,612,187,30.6
+21K098,I.S. 98 Bay Academy,7,2014,456,396,86.8
+21K098,I.S. 98 Bay Academy,7,2015,472,426,90.3
+21K098,I.S. 98 Bay Academy,8,2014,411,359,87.3
+21K098,I.S. 98 Bay Academy,8,2015,444,380,85.6
+21K098,I.S. 98 Bay Academy,All Grades,2014,1356,1193,88
+21K098,I.S. 98 Bay Academy,All Grades,2015,1428,1271,89
+21K099,P.S. 099 Isaac Asimov,7,2014,77,28,36.4
+21K099,P.S. 099 Isaac Asimov,7,2015,76,23,30.3
+21K099,P.S. 099 Isaac Asimov,8,2014,114,36,31.6
+21K099,P.S. 099 Isaac Asimov,8,2015,79,23,29.1
+21K099,P.S. 099 Isaac Asimov,All Grades,2014,519,221,42.6
+21K099,P.S. 099 Isaac Asimov,All Grades,2015,497,215,43.3
+21K121,P.S. 121 Nelson A. Rockefeller,7,2014,35,17,48.6
+21K121,P.S. 121 Nelson A. Rockefeller,7,2015,32,15,46.9
+21K121,P.S. 121 Nelson A. Rockefeller,8,2014,28,6,21.4
+21K121,P.S. 121 Nelson A. Rockefeller,8,2015,33,19,57.6
+21K121,P.S. 121 Nelson A. Rockefeller,All Grades,2014,200,92,46
+21K121,P.S. 121 Nelson A. Rockefeller,All Grades,2015,211,102,48.3
+21K209,P.S. 209 Margaret Mead,7,2014,69,16,23.2
+21K209,P.S. 209 Margaret Mead,7,2015,65,19,29.2
+21K209,P.S. 209 Margaret Mead,8,2014,50,24,48
+21K209,P.S. 209 Margaret Mead,8,2015,68,24,35.3
+21K209,P.S. 209 Margaret Mead,All Grades,2014,390,175,44.9
+21K209,P.S. 209 Margaret Mead,All Grades,2015,410,172,42
+21K225,P.S. K225 - The Eileen E. Zaglin,7,2014,122,31,25.4
+21K225,P.S. K225 - The Eileen E. Zaglin,7,2015,122,35,28.7
+21K225,P.S. K225 - The Eileen E. Zaglin,8,2014,121,20,16.5
+21K225,P.S. K225 - The Eileen E. Zaglin,8,2015,133,32,24.1
+21K225,P.S. K225 - The Eileen E. Zaglin,All Grades,2014,586,212,36.2
+21K225,P.S. K225 - The Eileen E. Zaglin,All Grades,2015,603,197,32.7
+21K226,P.S. 226 Alfred De B.Mason,7,2014,85,53,62.4
+21K226,P.S. 226 Alfred De B.Mason,7,2015,84,42,50
+21K226,P.S. 226 Alfred De B.Mason,8,2014,87,47,54
+21K226,P.S. 226 Alfred De B.Mason,8,2015,86,41,47.7
+21K226,P.S. 226 Alfred De B.Mason,All Grades,2014,568,282,49.6
+21K226,P.S. 226 Alfred De B.Mason,All Grades,2015,604,260,43
+21K228,I.S. 228 David A. Boody,7,2014,314,119,37.9
+21K228,I.S. 228 David A. Boody,7,2015,392,153,39
+21K228,I.S. 228 David A. Boody,8,2014,329,147,44.7
+21K228,I.S. 228 David A. Boody,8,2015,322,117,36.3
+21K228,I.S. 228 David A. Boody,All Grades,2014,1026,430,41.9
+21K228,I.S. 228 David A. Boody,All Grades,2015,1242,467,37.6
+21K238,P.S. 238 Anne Sullivan,7,2014,59,3,5.1
+21K238,P.S. 238 Anne Sullivan,7,2015,41,7,17.1
+21K238,P.S. 238 Anne Sullivan,8,2014,45,4,8.9
+21K238,P.S. 238 Anne Sullivan,8,2015,63,1,1.6
+21K238,P.S. 238 Anne Sullivan,All Grades,2014,295,70,23.7
+21K238,P.S. 238 Anne Sullivan,All Grades,2015,316,74,23.4
+21K239,Mark Twain I.S. 239 for the Gifted & Talented,7,2014,404,326,80.7
+21K239,Mark Twain I.S. 239 for the Gifted & Talented,7,2015,482,405,84
+21K239,Mark Twain I.S. 239 for the Gifted & Talented,8,2014,385,283,73.5
+21K239,Mark Twain I.S. 239 for the Gifted & Talented,8,2015,364,263,72.3
+21K239,Mark Twain I.S. 239 for the Gifted & Talented,All Grades,2014,1299,1038,80
+21K239,Mark Twain I.S. 239 for the Gifted & Talented,All Grades,2015,1254,1018,81.2
+21K281,I.S. 281 Joseph B Cavallaro,7,2014,399,181,45.4
+21K281,I.S. 281 Joseph B Cavallaro,7,2015,373,201,53.9
+21K281,I.S. 281 Joseph B Cavallaro,8,2014,396,161,40.7
+21K281,I.S. 281 Joseph B Cavallaro,8,2015,412,196,47.6
+21K281,I.S. 281 Joseph B Cavallaro,All Grades,2014,1154,487,42.2
+21K281,I.S. 281 Joseph B Cavallaro,All Grades,2015,1136,542,47.7
+21K288,P.S. 288 The Shirley Tanyhill,7,2014,20,5,25
+21K288,P.S. 288 The Shirley Tanyhill,7,2015,26,6,23.1
+21K288,P.S. 288 The Shirley Tanyhill,8,2014,29,5,17.2
+21K288,P.S. 288 The Shirley Tanyhill,8,2015,25,3,12
+21K288,P.S. 288 The Shirley Tanyhill,All Grades,2014,221,33,14.9
+21K288,P.S. 288 The Shirley Tanyhill,All Grades,2015,253,33,13
+21K303,I.S. 303 Herbert S. Eisenberg,7,2014,188,52,27.7
+21K303,I.S. 303 Herbert S. Eisenberg,7,2015,173,61,35.3
+21K303,I.S. 303 Herbert S. Eisenberg,8,2014,204,67,32.8
+21K303,I.S. 303 Herbert S. Eisenberg,8,2015,197,60,30.5
+21K303,I.S. 303 Herbert S. Eisenberg,All Grades,2014,554,218,39.4
+21K303,I.S. 303 Herbert S. Eisenberg,All Grades,2015,506,195,38.5
+21K468,Kingsborough Early College School,7,2014,74,23,31.1
+21K468,Kingsborough Early College School,7,2015,58,13,22.4
+21K468,Kingsborough Early College School,8,2014,83,40,48.2
+21K468,Kingsborough Early College School,8,2015,70,26,37.1
+21K468,Kingsborough Early College School,All Grades,2014,218,85,39
+21K468,Kingsborough Early College School,All Grades,2015,212,62,29.2
+21K690,Brooklyn Studio Secondary School,7,2014,84,30,35.7
+21K690,Brooklyn Studio Secondary School,7,2015,84,30,35.7
+21K690,Brooklyn Studio Secondary School,8,2014,82,29,35.4
+21K690,Brooklyn Studio Secondary School,8,2015,88,31,35.2
+21K690,Brooklyn Studio Secondary School,All Grades,2014,250,87,34.8
+21K690,Brooklyn Studio Secondary School,All Grades,2015,251,77,30.7
+22K014,J.H.S. 014 Shell Bank,7,2014,181,45,24.9
+22K014,J.H.S. 014 Shell Bank,7,2015,176,38,21.6
+22K014,J.H.S. 014 Shell Bank,8,2014,169,24,14.2
+22K014,J.H.S. 014 Shell Bank,8,2015,173,34,19.7
+22K014,J.H.S. 014 Shell Bank,All Grades,2014,518,102,19.7
+22K014,J.H.S. 014 Shell Bank,All Grades,2015,515,103,20
+22K078,J.H.S. 078 Roy H. Mann,7,2014,312,43,13.8
+22K078,J.H.S. 078 Roy H. Mann,7,2015,255,50,19.6
+22K078,J.H.S. 078 Roy H. Mann,8,2014,319,60,18.8
+22K078,J.H.S. 078 Roy H. Mann,8,2015,303,33,10.9
+22K078,J.H.S. 078 Roy H. Mann,All Grades,2014,879,151,17.2
+22K078,J.H.S. 078 Roy H. Mann,All Grades,2015,743,112,15.1
+22K109,P.S. 109,7,2014,88,7,8
+22K109,P.S. 109,7,2015,82,3,3.7
+22K109,P.S. 109,8,2014,85,5,5.9
+22K109,P.S. 109,8,2015,89,3,3.4
+22K109,P.S. 109,All Grades,2014,395,36,9.1
+22K109,P.S. 109,All Grades,2015,406,34,8.4
+22K206,P.S. 206 Joseph F Lamb,7,2014,116,82,70.7
+22K206,P.S. 206 Joseph F Lamb,7,2015,118,68,57.6
+22K206,P.S. 206 Joseph F Lamb,8,2014,116,82,70.7
+22K206,P.S. 206 Joseph F Lamb,8,2015,111,75,67.6
+22K206,P.S. 206 Joseph F Lamb,All Grades,2014,846,559,66.1
+22K206,P.S. 206 Joseph F Lamb,All Grades,2015,826,516,62.5
+22K207,P.S. 207 Elizabeth G. Leary,7,2014,123,55,44.7
+22K207,P.S. 207 Elizabeth G. Leary,7,2015,110,35,31.8
+22K207,P.S. 207 Elizabeth G. Leary,8,2014,115,26,22.6
+22K207,P.S. 207 Elizabeth G. Leary,8,2015,120,39,32.5
+22K207,P.S. 207 Elizabeth G. Leary,All Grades,2014,831,400,48.1
+22K207,P.S. 207 Elizabeth G. Leary,All Grades,2015,835,411,49.2
+22K234,J.H.S. 234 Arthur W. Cunningham,7,2014,601,393,65.4
+22K234,J.H.S. 234 Arthur W. Cunningham,7,2015,619,404,65.3
+22K234,J.H.S. 234 Arthur W. Cunningham,8,2014,623,380,61
+22K234,J.H.S. 234 Arthur W. Cunningham,8,2015,613,356,58.1
+22K234,J.H.S. 234 Arthur W. Cunningham,All Grades,2014,1847,1193,64.6
+22K234,J.H.S. 234 Arthur W. Cunningham,All Grades,2015,1884,1182,62.7
+22K240,Andries Hudde,7,2014,298,48,16.1
+22K240,Andries Hudde,7,2015,281,48,17.1
+22K240,Andries Hudde,8,2014,315,120,38.1
+22K240,Andries Hudde,8,2015,306,99,32.4
+22K240,Andries Hudde,All Grades,2014,896,212,23.7
+22K240,Andries Hudde,All Grades,2015,850,193,22.7
+22K278,J.H.S. 278 Marine Park,7,2014,360,72,20
+22K278,J.H.S. 278 Marine Park,7,2015,310,90,29
+22K278,J.H.S. 278 Marine Park,8,2014,361,71,19.7
+22K278,J.H.S. 278 Marine Park,8,2015,351,108,30.8
+22K278,J.H.S. 278 Marine Park,All Grades,2014,1045,230,22
+22K278,J.H.S. 278 Marine Park,All Grades,2015,948,300,31.6
+22K381,I. S. 381,7,2014,108,21,19.4
+22K381,I. S. 381,7,2015,116,14,12.1
+22K381,I. S. 381,8,2014,111,26,23.4
+22K381,I. S. 381,8,2015,109,19,17.4
+22K381,I. S. 381,All Grades,2014,359,77,21.4
+22K381,I. S. 381,All Grades,2015,319,45,14.1
+22K555,Brooklyn College Academy,8,2014,31,22,71
+22K555,Brooklyn College Academy,All Grades,2014,31,22,71
+23K041,P.S. 041 Francis White,7,2014,43,4,9.3
+23K041,P.S. 041 Francis White,7,2015,41,1,2.4
+23K041,P.S. 041 Francis White,8,2014,73,11,15.1
+23K041,P.S. 041 Francis White,8,2015,43,6,14
+23K041,P.S. 041 Francis White,All Grades,2014,364,47,12.9
+23K041,P.S. 041 Francis White,All Grades,2015,331,27,8.2
+23K073,P.S. 073 Thomas S. Boyland,7,2014,27,4,14.8
+23K073,P.S. 073 Thomas S. Boyland,8,2014,38,3,7.9
+23K073,P.S. 073 Thomas S. Boyland,8,2015,26,3,11.5
+23K073,P.S. 073 Thomas S. Boyland,All Grades,2014,185,16,8.6
+23K073,P.S. 073 Thomas S. Boyland,All Grades,2015,101,11,10.9
+23K137,P.S./I.S. 137 Rachel Jean Mitchell,7,2014,30,2,6.7
+23K137,P.S./I.S. 137 Rachel Jean Mitchell,7,2015,32,6,18.8
+23K137,P.S./I.S. 137 Rachel Jean Mitchell,8,2014,29,6,20.7
+23K137,P.S./I.S. 137 Rachel Jean Mitchell,8,2015,32,1,3.1
+23K137,P.S./I.S. 137 Rachel Jean Mitchell,All Grades,2014,176,31,17.6
+23K137,P.S./I.S. 137 Rachel Jean Mitchell,All Grades,2015,175,35,20
+23K155,P.S./ I.S. 155 Nicholas Herkimer,7,2014,53,4,7.5
+23K155,P.S./ I.S. 155 Nicholas Herkimer,7,2015,50,1,2
+23K155,P.S./ I.S. 155 Nicholas Herkimer,8,2014,55,13,23.6
+23K155,P.S./ I.S. 155 Nicholas Herkimer,8,2015,59,7,11.9
+23K155,P.S./ I.S. 155 Nicholas Herkimer,All Grades,2014,301,44,14.6
+23K155,P.S./ I.S. 155 Nicholas Herkimer,All Grades,2015,292,28,9.6
+23K165,P.S. 165 Ida Posner,7,2014,45,1,2.2
+23K165,P.S. 165 Ida Posner,7,2015,36,0,0
+23K165,P.S. 165 Ida Posner,8,2014,49,1,2
+23K165,P.S. 165 Ida Posner,8,2015,48,0,0
+23K165,P.S. 165 Ida Posner,All Grades,2014,273,22,8.1
+23K165,P.S. 165 Ida Posner,All Grades,2015,256,20,7.8
+23K178,P.S. 178 Saint Clair Mckelway,7,2014,51,9,17.6
+23K178,P.S. 178 Saint Clair Mckelway,7,2015,42,5,11.9
+23K178,P.S. 178 Saint Clair Mckelway,8,2014,51,4,7.8
+23K178,P.S. 178 Saint Clair Mckelway,8,2015,43,1,2.3
+23K178,P.S. 178 Saint Clair Mckelway,All Grades,2014,261,46,17.6
+23K178,P.S. 178 Saint Clair Mckelway,All Grades,2015,221,36,16.3
+23K184,P.S. 184 Newport,7,2014,44,11,25
+23K184,P.S. 184 Newport,7,2015,33,9,27.3
+23K184,P.S. 184 Newport,8,2014,48,5,10.4
+23K184,P.S. 184 Newport,8,2015,47,5,10.6
+23K184,P.S. 184 Newport,All Grades,2014,296,59,19.9
+23K184,P.S. 184 Newport,All Grades,2015,277,33,11.9
+23K284,P.S. 284 Lew Wallace,7,2014,53,7,13.2
+23K284,P.S. 284 Lew Wallace,7,2015,82,2,2.4
+23K284,P.S. 284 Lew Wallace,8,2014,77,8,10.4
+23K284,P.S. 284 Lew Wallace,8,2015,55,3,5.5
+23K284,P.S. 284 Lew Wallace,All Grades,2014,377,37,9.8
+23K284,P.S. 284 Lew Wallace,All Grades,2015,357,33,9.2
+23K298,P.S. 298 Dr. Betty Shabazz,8,2014,31,0,0
+23K298,P.S. 298 Dr. Betty Shabazz,All Grades,2014,131,3,2.3
+23K323,P.S./I.S. 323,7,2014,53,6,11.3
+23K323,P.S./I.S. 323,7,2015,64,13,20.3
+23K323,P.S./I.S. 323,8,2014,65,13,20
+23K323,P.S./I.S. 323,8,2015,56,9,16.1
+23K323,P.S./I.S. 323,All Grades,2014,304,48,15.8
+23K323,P.S./I.S. 323,All Grades,2015,275,38,13.8
+23K327,P.S. 327 Dr. Rose B. English,7,2014,52,3,5.8
+23K327,P.S. 327 Dr. Rose B. English,7,2015,69,2,2.9
+23K327,P.S. 327 Dr. Rose B. English,8,2014,72,2,2.8
+23K327,P.S. 327 Dr. Rose B. English,8,2015,58,0,0
+23K327,P.S. 327 Dr. Rose B. English,All Grades,2014,378,36,9.5
+23K327,P.S. 327 Dr. Rose B. English,All Grades,2015,356,12,3.4
+23K363,Brownsville Collaborative Middle School,7,2014,68,3,4.4
+23K363,Brownsville Collaborative Middle School,7,2015,40,0,0
+23K363,Brownsville Collaborative Middle School,8,2015,64,5,7.8
+23K363,Brownsville Collaborative Middle School,All Grades,2014,113,3,2.7
+23K363,Brownsville Collaborative Middle School,All Grades,2015,135,6,4.4
+23K392,I.S. 392,7,2014,104,54,51.9
+23K392,I.S. 392,7,2015,62,35,56.5
+23K392,I.S. 392,8,2014,93,60,64.5
+23K392,I.S. 392,All Grades,2014,261,147,56.3
+23K392,I.S. 392,All Grades,2015,267,121,45.3
+23K493,Brooklyn Collegiate: A College Board School,8,2014,41,1,2.4
+23K493,Brooklyn Collegiate: A College Board School,All Grades,2014,41,1,2.4
+23K518,Kappa V,7,2014,76,13,17.1
+23K518,Kappa V,7,2015,57,6,10.5
+23K518,Kappa V,8,2014,89,6,6.7
+23K518,Kappa V,8,2015,74,5,6.8
+23K518,Kappa V,All Grades,2014,229,24,10.5
+23K518,Kappa V,All Grades,2015,186,19,10.2
+23K522,Mott Hall IV,7,2014,49,0,0
+23K522,Mott Hall IV,7,2015,78,3,3.8
+23K522,Mott Hall IV,8,2014,70,12,17.1
+23K522,Mott Hall IV,8,2015,52,0,0
+23K522,Mott Hall IV,All Grades,2014,200,16,8
+23K522,Mott Hall IV,All Grades,2015,175,6,3.4
+23K634,General D. Chappie James Middle School of Science,7,2014,34,2,5.9
+23K634,General D. Chappie James Middle School of Science,8,2014,41,0,0
+23K634,General D. Chappie James Middle School of Science,8,2015,27,0,0
+23K634,General D. Chappie James Middle School of Science,All Grades,2014,75,2,2.7
+23K634,General D. Chappie James Middle School of Science,All Grades,2015,27,0,0
+23K644,Eagle Academy for Young Men II,7,2014,89,22,24.7
+23K644,Eagle Academy for Young Men II,7,2015,92,19,20.7
+23K644,Eagle Academy for Young Men II,8,2014,96,1,1
+23K644,Eagle Academy for Young Men II,8,2015,89,3,3.4
+23K644,Eagle Academy for Young Men II,All Grades,2014,281,36,12.8
+23K644,Eagle Academy for Young Men II,All Grades,2015,254,29,11.4
+23K664,Brooklyn Environmental Exploration School (BEES),7,2015,48,1,2.1
+23K664,Brooklyn Environmental Exploration School (BEES),All Grades,2015,82,4,4.9
+23K668,Riverdale Avenue Middle School,7,2015,47,8,17
+23K668,Riverdale Avenue Middle School,All Grades,2015,78,12,15.4
+23K671,Mott Hall Bridges Academy,7,2014,71,2,2.8
+23K671,Mott Hall Bridges Academy,7,2015,61,5,8.2
+23K671,Mott Hall Bridges Academy,8,2014,72,15,20.8
+23K671,Mott Hall Bridges Academy,8,2015,61,5,8.2
+23K671,Mott Hall Bridges Academy,All Grades,2014,204,31,15.2
+23K671,Mott Hall Bridges Academy,All Grades,2015,186,21,11.3
+23K697,Teachers Preparatory High School,7,2014,28,2,7.1
+23K697,Teachers Preparatory High School,7,2015,18,1,5.6
+23K697,Teachers Preparatory High School,8,2014,41,9,22
+23K697,Teachers Preparatory High School,8,2015,29,8,27.6
+23K697,Teachers Preparatory High School,All Grades,2014,85,14,16.5
+23K697,Teachers Preparatory High School,All Grades,2015,68,13,19.1
+24Q005,I.S. 5 - The Walter Crowley Intermediate School,7,2014,591,271,45.9
+24Q005,I.S. 5 - The Walter Crowley Intermediate School,7,2015,564,278,49.3
+24Q005,I.S. 5 - The Walter Crowley Intermediate School,8,2014,507,265,52.3
+24Q005,I.S. 5 - The Walter Crowley Intermediate School,8,2015,602,299,49.7
+24Q005,I.S. 5 - The Walter Crowley Intermediate School,All Grades,2014,1593,766,48.1
+24Q005,I.S. 5 - The Walter Crowley Intermediate School,All Grades,2015,1745,838,48
+24Q049,P.S. 049 Dorothy Bonawit Kole,7,2014,133,77,57.9
+24Q049,P.S. 049 Dorothy Bonawit Kole,7,2015,111,68,61.3
+24Q049,P.S. 049 Dorothy Bonawit Kole,8,2014,101,52,51.5
+24Q049,P.S. 049 Dorothy Bonawit Kole,8,2015,127,71,55.9
+24Q049,P.S. 049 Dorothy Bonawit Kole,All Grades,2014,748,419,56
+24Q049,P.S. 049 Dorothy Bonawit Kole,All Grades,2015,761,423,55.6
+24Q061,I.S. 061 Leonardo Da Vinci,7,2014,740,182,24.6
+24Q061,I.S. 061 Leonardo Da Vinci,7,2015,765,169,22.1
+24Q061,I.S. 061 Leonardo Da Vinci,8,2014,819,154,18.8
+24Q061,I.S. 061 Leonardo Da Vinci,8,2015,753,127,16.9
+24Q061,I.S. 061 Leonardo Da Vinci,All Grades,2014,2298,501,21.8
+24Q061,I.S. 061 Leonardo Da Vinci,All Grades,2015,2205,440,20
+24Q073,I.S. 73 - The Frank Sansivieri Intermediate School,7,2014,677,258,38.1
+24Q073,I.S. 73 - The Frank Sansivieri Intermediate School,7,2015,658,344,52.3
+24Q073,I.S. 73 - The Frank Sansivieri Intermediate School,8,2014,594,264,44.4
+24Q073,I.S. 73 - The Frank Sansivieri Intermediate School,8,2015,670,246,36.7
+24Q073,I.S. 73 - The Frank Sansivieri Intermediate School,All Grades,2014,1660,728,43.9
+24Q073,I.S. 73 - The Frank Sansivieri Intermediate School,All Grades,2015,1858,837,45
+24Q077,I.S. 077,7,2014,376,56,14.9
+24Q077,I.S. 077,7,2015,336,53,15.8
+24Q077,I.S. 077,8,2014,367,83,22.6
+24Q077,I.S. 077,8,2015,384,54,14.1
+24Q077,I.S. 077,All Grades,2014,1064,207,19.5
+24Q077,I.S. 077,All Grades,2015,1053,190,18
+24Q087,P.S. / I.S. 087 Middle Village,7,2014,63,8,12.7
+24Q087,P.S. / I.S. 087 Middle Village,7,2015,58,16,27.6
+24Q087,P.S. / I.S. 087 Middle Village,8,2014,77,11,14.3
+24Q087,P.S. / I.S. 087 Middle Village,8,2015,44,7,15.9
+24Q087,P.S. / I.S. 087 Middle Village,All Grades,2014,364,103,28.3
+24Q087,P.S. / I.S. 087 Middle Village,All Grades,2015,299,108,36.1
+24Q093,I.S. 093 Ridgewood,7,2014,414,102,24.6
+24Q093,I.S. 093 Ridgewood,7,2015,366,118,32.2
+24Q093,I.S. 093 Ridgewood,8,2014,426,154,36.2
+24Q093,I.S. 093 Ridgewood,8,2015,402,92,22.9
+24Q093,I.S. 093 Ridgewood,All Grades,2014,1171,371,31.7
+24Q093,I.S. 093 Ridgewood,All Grades,2015,1152,302,26.2
+24Q102,P.S. 102 Bayview,7,2014,123,71,57.7
+24Q102,P.S. 102 Bayview,7,2015,120,66,55
+24Q102,P.S. 102 Bayview,8,2014,117,69,59
+24Q102,P.S. 102 Bayview,8,2015,117,70,59.8
+24Q102,P.S. 102 Bayview,All Grades,2014,799,432,54.1
+24Q102,P.S. 102 Bayview,All Grades,2015,816,397,48.7
+24Q113,P.S./I.S. 113 Anthony J. Pranzo,7,2014,99,37,37.4
+24Q113,P.S./I.S. 113 Anthony J. Pranzo,7,2015,113,45,39.8
+24Q113,P.S./I.S. 113 Anthony J. Pranzo,8,2014,116,42,36.2
+24Q113,P.S./I.S. 113 Anthony J. Pranzo,8,2015,99,48,48.5
+24Q113,P.S./I.S. 113 Anthony J. Pranzo,All Grades,2014,683,371,54.3
+24Q113,P.S./I.S. 113 Anthony J. Pranzo,All Grades,2015,662,383,57.9
+24Q119,I.S. 119 The Glendale,7,2014,272,168,61.8
+24Q119,I.S. 119 The Glendale,7,2015,240,167,69.6
+24Q119,I.S. 119 The Glendale,8,2014,278,161,57.9
+24Q119,I.S. 119 The Glendale,8,2015,251,150,59.8
+24Q119,I.S. 119 The Glendale,All Grades,2014,791,486,61.4
+24Q119,I.S. 119 The Glendale,All Grades,2015,763,492,64.5
+24Q125,I.S. 125 Thom J. McCann Woodside,7,2014,585,264,45.1
+24Q125,I.S. 125 Thom J. McCann Woodside,7,2015,532,256,48.1
+24Q125,I.S. 125 Thom J. McCann Woodside,8,2014,576,299,51.9
+24Q125,I.S. 125 Thom J. McCann Woodside,8,2015,598,318,53.2
+24Q125,I.S. 125 Thom J. McCann Woodside,All Grades,2014,1719,784,45.6
+24Q125,I.S. 125 Thom J. McCann Woodside,All Grades,2015,1514,707,46.7
+24Q128,"P.S. 128 The Lorraine Tuzzo, Juniper Valley Elementary School",7,2014,84,60,71.4
+24Q128,"P.S. 128 The Lorraine Tuzzo, Juniper Valley Elementary School",7,2015,95,55,57.9
+24Q128,"P.S. 128 The Lorraine Tuzzo, Juniper Valley Elementary School",8,2014,76,55,72.4
+24Q128,"P.S. 128 The Lorraine Tuzzo, Juniper Valley Elementary School",8,2015,77,47,61
+24Q128,"P.S. 128 The Lorraine Tuzzo, Juniper Valley Elementary School",All Grades,2014,532,358,67.3
+24Q128,"P.S. 128 The Lorraine Tuzzo, Juniper Valley Elementary School",All Grades,2015,564,344,61
+24Q311,Corona Arts and Sciences Academy,7,2015,90,21,23.3
+24Q311,Corona Arts and Sciences Academy,All Grades,2015,207,50,24.2
+24Q560,"Robert F. Wagner, Jr. Secondary School for Arts and Technology",7,2014,55,37,67.3
+24Q560,"Robert F. Wagner, Jr. Secondary School for Arts and Technology",7,2015,40,35,87.5
+24Q560,"Robert F. Wagner, Jr. Secondary School for Arts and Technology",8,2014,54,41,75.9
+24Q560,"Robert F. Wagner, Jr. Secondary School for Arts and Technology",8,2015,54,33,61.1
+24Q560,"Robert F. Wagner, Jr. Secondary School for Arts and Technology",All Grades,2014,109,78,71.6
+24Q560,"Robert F. Wagner, Jr. Secondary School for Arts and Technology",All Grades,2015,94,68,72.3
+25Q025,I.S. 025 Adrien Block,7,2014,262,152,58
+25Q025,I.S. 025 Adrien Block,7,2015,245,144,58.8
+25Q025,I.S. 025 Adrien Block,8,2014,275,150,54.5
+25Q025,I.S. 025 Adrien Block,8,2015,280,166,59.3
+25Q025,I.S. 025 Adrien Block,All Grades,2014,766,432,56.4
+25Q025,I.S. 025 Adrien Block,All Grades,2015,792,463,58.5
+25Q164,P.S. 164 Queens Valley,7,2014,76,45,59.2
+25Q164,P.S. 164 Queens Valley,7,2015,67,35,52.2
+25Q164,P.S. 164 Queens Valley,8,2014,85,44,51.8
+25Q164,P.S. 164 Queens Valley,8,2015,72,40,55.6
+25Q164,P.S. 164 Queens Valley,All Grades,2014,388,236,60.8
+25Q164,P.S. 164 Queens Valley,All Grades,2015,392,231,58.9
+25Q185,J.H.S. 185 Edward Bleeker,7,2014,476,286,60.1
+25Q185,J.H.S. 185 Edward Bleeker,7,2015,532,337,63.3
+25Q185,J.H.S. 185 Edward Bleeker,8,2014,494,304,61.5
+25Q185,J.H.S. 185 Edward Bleeker,8,2015,483,285,59
+25Q185,J.H.S. 185 Edward Bleeker,All Grades,2014,1493,957,64.1
+25Q185,J.H.S. 185 Edward Bleeker,All Grades,2015,1495,923,61.7
+25Q189,J.H.S. 189 Daniel Carter Beard,7,2014,237,99,41.8
+25Q189,J.H.S. 189 Daniel Carter Beard,7,2015,216,89,41.2
+25Q189,J.H.S. 189 Daniel Carter Beard,8,2014,292,127,43.5
+25Q189,J.H.S. 189 Daniel Carter Beard,8,2015,238,107,45
+25Q189,J.H.S. 189 Daniel Carter Beard,All Grades,2014,732,321,43.9
+25Q189,J.H.S. 189 Daniel Carter Beard,All Grades,2015,674,320,47.5
+25Q194,J.H.S. 194 William Carr,7,2014,330,168,50.9
+25Q194,J.H.S. 194 William Carr,7,2015,332,180,54.2
+25Q194,J.H.S. 194 William Carr,8,2014,347,175,50.4
+25Q194,J.H.S. 194 William Carr,8,2015,323,139,43
+25Q194,J.H.S. 194 William Carr,All Grades,2014,1020,529,51.9
+25Q194,J.H.S. 194 William Carr,All Grades,2015,1011,520,51.4
+25Q200,PS/MS 200 - The Pomonok School & STAR Academy,7,2014,54,14,25.9
+25Q200,PS/MS 200 - The Pomonok School & STAR Academy,7,2015,52,14,26.9
+25Q200,PS/MS 200 - The Pomonok School & STAR Academy,8,2014,59,15,25.4
+25Q200,PS/MS 200 - The Pomonok School & STAR Academy,8,2015,52,15,28.8
+25Q200,PS/MS 200 - The Pomonok School & STAR Academy,All Grades,2014,293,88,30
+25Q200,PS/MS 200 - The Pomonok School & STAR Academy,All Grades,2015,297,91,30.6
+25Q219,P.S. 219 Paul Klapper,7,2014,63,37,58.7
+25Q219,P.S. 219 Paul Klapper,7,2015,79,48,60.8
+25Q219,P.S. 219 Paul Klapper,8,2014,60,20,33.3
+25Q219,P.S. 219 Paul Klapper,8,2015,61,27,44.3
+25Q219,P.S. 219 Paul Klapper,All Grades,2014,377,172,45.6
+25Q219,P.S. 219 Paul Klapper,All Grades,2015,400,193,48.3
+25Q237,I.S. 237,7,2014,371,206,55.5
+25Q237,I.S. 237,7,2015,406,255,62.8
+25Q237,I.S. 237,8,2014,391,220,56.3
+25Q237,I.S. 237,8,2015,364,207,56.9
+25Q237,I.S. 237,All Grades,2014,1168,694,59.4
+25Q237,I.S. 237,All Grades,2015,1143,680,59.5
+25Q250,I.S. 250 The Robert F. Kennedy Community Middle School,7,2014,109,18,16.5
+25Q250,I.S. 250 The Robert F. Kennedy Community Middle School,7,2015,105,19,18.1
+25Q250,I.S. 250 The Robert F. Kennedy Community Middle School,8,2014,116,30,25.9
+25Q250,I.S. 250 The Robert F. Kennedy Community Middle School,8,2015,123,26,21.1
+25Q250,I.S. 250 The Robert F. Kennedy Community Middle School,All Grades,2014,319,73,22.9
+25Q250,I.S. 250 The Robert F. Kennedy Community Middle School,All Grades,2015,353,70,19.8
+25Q252,"Queens School of Inquiry, The",7,2014,83,28,33.7
+25Q252,"Queens School of Inquiry, The",7,2015,80,37,46.3
+25Q252,"Queens School of Inquiry, The",8,2014,102,47,46.1
+25Q252,"Queens School of Inquiry, The",8,2015,79,19,24.1
+25Q252,"Queens School of Inquiry, The",All Grades,2014,271,114,42.1
+25Q252,"Queens School of Inquiry, The",All Grades,2015,241,85,35.3
+25Q281,East-West School of International Studies,7,2014,80,60,75
+25Q281,East-West School of International Studies,7,2015,95,60,63.2
+25Q281,East-West School of International Studies,8,2014,90,57,63.3
+25Q281,East-West School of International Studies,8,2015,81,54,66.7
+25Q281,East-West School of International Studies,All Grades,2014,266,186,69.9
+25Q281,East-West School of International Studies,All Grades,2015,286,195,68.2
+25Q285,World Journalism Preparatory: A College Board School,7,2014,77,30,39
+25Q285,World Journalism Preparatory: A College Board School,7,2015,81,32,39.5
+25Q285,World Journalism Preparatory: A College Board School,8,2014,76,15,19.7
+25Q285,World Journalism Preparatory: A College Board School,8,2015,73,28,38.4
+25Q285,World Journalism Preparatory: A College Board School,All Grades,2014,232,86,37.1
+25Q285,World Journalism Preparatory: A College Board School,All Grades,2015,228,95,41.7
+25Q294,BELL Academy,7,2014,142,59,41.5
+25Q294,BELL Academy,7,2015,95,55,57.9
+25Q294,BELL Academy,8,2014,126,64,50.8
+25Q294,BELL Academy,8,2015,136,66,48.5
+25Q294,BELL Academy,All Grades,2014,365,187,51.2
+25Q294,BELL Academy,All Grades,2015,362,212,58.6
+25Q499,"The Queens College School for Math, Science and Technology",7,2014,61,40,65.6
+25Q499,"The Queens College School for Math, Science and Technology",7,2015,63,47,74.6
+25Q499,"The Queens College School for Math, Science and Technology",8,2014,51,40,78.4
+25Q499,"The Queens College School for Math, Science and Technology",8,2015,59,35,59.3
+25Q499,"The Queens College School for Math, Science and Technology",All Grades,2014,337,240,71.2
+25Q499,"The Queens College School for Math, Science and Technology",All Grades,2015,334,234,70.1
+26Q067,J.H.S. 067 Louis Pasteur,7,2014,277,202,72.9
+26Q067,J.H.S. 067 Louis Pasteur,7,2015,269,215,79.9
+26Q067,J.H.S. 067 Louis Pasteur,8,2014,296,168,56.8
+26Q067,J.H.S. 067 Louis Pasteur,8,2015,249,210,84.3
+26Q067,J.H.S. 067 Louis Pasteur,All Grades,2014,862,616,71.5
+26Q067,J.H.S. 067 Louis Pasteur,All Grades,2015,821,667,81.2
+26Q074,J.H.S. 074 Nathaniel Hawthorne,7,2014,298,223,74.8
+26Q074,J.H.S. 074 Nathaniel Hawthorne,7,2015,340,260,76.5
+26Q074,J.H.S. 074 Nathaniel Hawthorne,8,2014,335,259,77.3
+26Q074,J.H.S. 074 Nathaniel Hawthorne,8,2015,299,213,71.2
+26Q074,J.H.S. 074 Nathaniel Hawthorne,All Grades,2014,974,757,77.8
+26Q074,J.H.S. 074 Nathaniel Hawthorne,All Grades,2015,1014,772,76.1
+26Q158,M.S. 158 Marie Curie,7,2014,347,239,68.9
+26Q158,M.S. 158 Marie Curie,7,2015,350,247,70.6
+26Q158,M.S. 158 Marie Curie,8,2014,404,280,69.3
+26Q158,M.S. 158 Marie Curie,8,2015,350,243,69.4
+26Q158,M.S. 158 Marie Curie,All Grades,2014,1100,765,69.5
+26Q158,M.S. 158 Marie Curie,All Grades,2015,1020,719,70.5
+26Q172,Irwin Altman Middle School 172,7,2014,309,174,56.3
+26Q172,Irwin Altman Middle School 172,7,2015,324,189,58.3
+26Q172,Irwin Altman Middle School 172,8,2014,311,184,59.2
+26Q172,Irwin Altman Middle School 172,8,2015,317,139,43.8
+26Q172,Irwin Altman Middle School 172,All Grades,2014,950,549,57.8
+26Q172,Irwin Altman Middle School 172,All Grades,2015,938,499,53.2
+26Q178,P.S./ IS 178 Holliswood,7,2014,49,25,51
+26Q178,P.S./ IS 178 Holliswood,7,2015,59,36,61
+26Q178,P.S./ IS 178 Holliswood,8,2014,68,56,82.4
+26Q178,P.S./ IS 178 Holliswood,8,2015,48,36,75
+26Q178,P.S./ IS 178 Holliswood,All Grades,2014,361,245,67.9
+26Q178,P.S./ IS 178 Holliswood,All Grades,2015,344,230,66.9
+26Q216,J.H.S. 216 George J. Ryan,7,2014,472,331,70.1
+26Q216,J.H.S. 216 George J. Ryan,7,2015,440,302,68.6
+26Q216,J.H.S. 216 George J. Ryan,8,2014,448,280,62.5
+26Q216,J.H.S. 216 George J. Ryan,8,2015,495,336,67.9
+26Q216,J.H.S. 216 George J. Ryan,All Grades,2014,1351,922,68.2
+26Q216,J.H.S. 216 George J. Ryan,All Grades,2015,1364,927,68
+26Q266,P.S. / I.S. 266,7,2014,92,61,66.3
+26Q266,P.S. / I.S. 266,7,2015,80,58,72.5
+26Q266,P.S. / I.S. 266,8,2014,70,49,70
+26Q266,P.S. / I.S. 266,8,2015,94,61,64.9
+26Q266,P.S. / I.S. 266,All Grades,2014,439,299,68.1
+26Q266,P.S. / I.S. 266,All Grades,2015,435,287,66
+27Q042,P.S./M.S 042 R. Vernam,7,2014,56,3,5.4
+27Q042,P.S./M.S 042 R. Vernam,7,2015,67,2,3
+27Q042,P.S./M.S 042 R. Vernam,8,2014,49,1,2
+27Q042,P.S./M.S 042 R. Vernam,8,2015,51,0,0
+27Q042,P.S./M.S 042 R. Vernam,All Grades,2014,373,20,5.4
+27Q042,P.S./M.S 042 R. Vernam,All Grades,2015,390,18,4.6
+27Q043,P.S. 043,7,2014,88,15,17
+27Q043,P.S. 043,7,2015,76,8,10.5
+27Q043,P.S. 043,8,2014,103,13,12.6
+27Q043,P.S. 043,8,2015,82,5,6.1
+27Q043,P.S. 043,All Grades,2014,624,108,17.3
+27Q043,P.S. 043,All Grades,2015,578,99,17.1
+27Q047,P.S. 047 Chris Galas,7,2014,11,6,54.5
+27Q047,P.S. 047 Chris Galas,7,2015,23,12,52.2
+27Q047,P.S. 047 Chris Galas,8,2014,16,6,37.5
+27Q047,P.S. 047 Chris Galas,8,2015,10,5,50
+27Q047,P.S. 047 Chris Galas,All Grades,2014,125,79,63.2
+27Q047,P.S. 047 Chris Galas,All Grades,2015,111,66,59.5
+27Q053,M.S. 053 Brian Piccolo,7,2014,117,5,4.3
+27Q053,M.S. 053 Brian Piccolo,7,2015,101,4,4
+27Q053,M.S. 053 Brian Piccolo,8,2014,130,4,3.1
+27Q053,M.S. 053 Brian Piccolo,8,2015,130,2,1.5
+27Q053,M.S. 053 Brian Piccolo,All Grades,2014,343,10,2.9
+27Q053,M.S. 053 Brian Piccolo,All Grades,2015,340,17,5
+27Q105,P.S. 105 The Bay School,7,2014,89,7,7.9
+27Q105,P.S. 105 The Bay School,7,2015,90,8,8.9
+27Q105,P.S. 105 The Bay School,8,2014,84,0,0
+27Q105,P.S. 105 The Bay School,8,2015,86,9,10.5
+27Q105,P.S. 105 The Bay School,All Grades,2014,502,33,6.6
+27Q105,P.S. 105 The Bay School,All Grades,2015,487,63,12.9
+27Q114,P.S. / M.S. 114 Belle Harbor,7,2014,32,4,12.5
+27Q114,P.S. / M.S. 114 Belle Harbor,7,2015,28,9,32.1
+27Q114,P.S. / M.S. 114 Belle Harbor,8,2014,34,9,26.5
+27Q114,P.S. / M.S. 114 Belle Harbor,8,2015,34,9,26.5
+27Q114,P.S. / M.S. 114 Belle Harbor,All Grades,2014,408,220,53.9
+27Q114,P.S. / M.S. 114 Belle Harbor,All Grades,2015,371,218,58.8
+27Q124,P.S. 124 Osmond A Church,7,2014,178,67,37.6
+27Q124,P.S. 124 Osmond A Church,7,2015,172,53,30.8
+27Q124,P.S. 124 Osmond A Church,8,2014,135,60,44.4
+27Q124,P.S. 124 Osmond A Church,8,2015,168,70,41.7
+27Q124,P.S. 124 Osmond A Church,All Grades,2014,923,383,41.5
+27Q124,P.S. 124 Osmond A Church,All Grades,2015,920,398,43.3
+27Q137,M.S. 137 America's School of Heroes,7,2014,645,210,32.6
+27Q137,M.S. 137 America's School of Heroes,7,2015,583,199,34.1
+27Q137,M.S. 137 America's School of Heroes,8,2014,672,241,35.9
+27Q137,M.S. 137 America's School of Heroes,8,2015,659,232,35.2
+27Q137,M.S. 137 America's School of Heroes,All Grades,2014,1883,676,35.9
+27Q137,M.S. 137 America's School of Heroes,All Grades,2015,1876,739,39.4
+27Q146,P.S. 146 Howard Beach,7,2014,58,22,37.9
+27Q146,P.S. 146 Howard Beach,7,2015,67,26,38.8
+27Q146,P.S. 146 Howard Beach,8,2014,68,16,23.5
+27Q146,P.S. 146 Howard Beach,8,2015,51,19,37.3
+27Q146,P.S. 146 Howard Beach,All Grades,2014,431,162,37.6
+27Q146,P.S. 146 Howard Beach,All Grades,2015,416,192,46.2
+27Q183,P.S. 183 Dr. Richard R. Green,7,2014,31,5,16.1
+27Q183,P.S. 183 Dr. Richard R. Green,7,2015,48,6,12.5
+27Q183,P.S. 183 Dr. Richard R. Green,8,2014,39,7,17.9
+27Q183,P.S. 183 Dr. Richard R. Green,8,2015,50,4,8
+27Q183,P.S. 183 Dr. Richard R. Green,All Grades,2014,291,31,10.7
+27Q183,P.S. 183 Dr. Richard R. Green,All Grades,2015,344,32,9.3
+27Q202,J.H.S. 202 Robert H. Goddard,7,2014,341,113,33.1
+27Q202,J.H.S. 202 Robert H. Goddard,7,2015,338,101,29.9
+27Q202,J.H.S. 202 Robert H. Goddard,8,2014,359,112,31.2
+27Q202,J.H.S. 202 Robert H. Goddard,8,2015,357,94,26.3
+27Q202,J.H.S. 202 Robert H. Goddard,All Grades,2014,1001,321,32.1
+27Q202,J.H.S. 202 Robert H. Goddard,All Grades,2015,1030,314,30.5
+27Q207,P.S. 207 Rockwood Park,7,2014,74,41,55.4
+27Q207,P.S. 207 Rockwood Park,7,2015,72,47,65.3
+27Q207,P.S. 207 Rockwood Park,8,2014,69,43,62.3
+27Q207,P.S. 207 Rockwood Park,8,2015,73,29,39.7
+27Q207,P.S. 207 Rockwood Park,All Grades,2014,501,291,58.1
+27Q207,P.S. 207 Rockwood Park,All Grades,2015,456,258,56.6
+27Q210,J.H.S. 210 Elizabeth Blackwell,7,2014,616,204,33.1
+27Q210,J.H.S. 210 Elizabeth Blackwell,7,2015,623,207,33.2
+27Q210,J.H.S. 210 Elizabeth Blackwell,8,2014,652,182,27.9
+27Q210,J.H.S. 210 Elizabeth Blackwell,8,2015,631,195,30.9
+27Q210,J.H.S. 210 Elizabeth Blackwell,All Grades,2014,1867,566,30.3
+27Q210,J.H.S. 210 Elizabeth Blackwell,All Grades,2015,1835,601,32.8
+27Q226,J.H.S. 226 Virgil I. Grissom,7,2014,445,80,18
+27Q226,J.H.S. 226 Virgil I. Grissom,7,2015,318,49,15.4
+27Q226,J.H.S. 226 Virgil I. Grissom,8,2014,389,58,14.9
+27Q226,J.H.S. 226 Virgil I. Grissom,8,2015,433,68,15.7
+27Q226,J.H.S. 226 Virgil I. Grissom,All Grades,2014,1146,188,16.4
+27Q226,J.H.S. 226 Virgil I. Grissom,All Grades,2015,1004,175,17.4
+27Q232,P.S. 232 Lindenwood,7,2014,101,47,46.5
+27Q232,P.S. 232 Lindenwood,7,2015,91,46,50.5
+27Q232,P.S. 232 Lindenwood,8,2014,74,51,68.9
+27Q232,P.S. 232 Lindenwood,8,2015,99,57,57.6
+27Q232,P.S. 232 Lindenwood,All Grades,2014,673,324,48.1
+27Q232,P.S. 232 Lindenwood,All Grades,2015,715,354,49.5
+27Q262,Channel View School for Research,7,2014,74,25,33.8
+27Q262,Channel View School for Research,7,2015,53,19,35.8
+27Q262,Channel View School for Research,8,2014,64,12,18.8
+27Q262,Channel View School for Research,8,2015,71,8,11.3
+27Q262,Channel View School for Research,All Grades,2014,187,50,26.7
+27Q262,Channel View School for Research,All Grades,2015,195,33,16.9
+27Q282,Knowledge and Power Preparatory Academy VI,7,2014,88,20,22.7
+27Q282,Knowledge and Power Preparatory Academy VI,7,2015,89,11,12.4
+27Q282,Knowledge and Power Preparatory Academy VI,8,2014,81,20,24.7
+27Q282,Knowledge and Power Preparatory Academy VI,8,2015,85,10,11.8
+27Q282,Knowledge and Power Preparatory Academy VI,All Grades,2014,257,54,21
+27Q282,Knowledge and Power Preparatory Academy VI,All Grades,2015,260,49,18.8
+27Q297,Hawtree Creek Middle School,7,2015,98,9,9.2
+27Q297,Hawtree Creek Middle School,All Grades,2015,249,51,20.5
+27Q302,"Queens High School for Information, Research, and Technology",7,2015,,,
+27Q302,"Queens High School for Information, Research, and Technology",All Grades,2015,,,
+27Q309,Academy of Medical Technology: A College Board School,7,2014,68,4,5.9
+27Q309,Academy of Medical Technology: A College Board School,7,2015,76,6,7.9
+27Q309,Academy of Medical Technology: A College Board School,8,2014,77,4,5.2
+27Q309,Academy of Medical Technology: A College Board School,8,2015,70,1,1.4
+27Q309,Academy of Medical Technology: A College Board School,All Grades,2014,214,11,5.1
+27Q309,Academy of Medical Technology: A College Board School,All Grades,2015,219,14,6.4
+27Q318,WATERSIDE SCHOOL FOR LEADERSHIP,7,2014,50,8,16
+27Q318,WATERSIDE SCHOOL FOR LEADERSHIP,7,2015,62,2,3.2
+27Q318,WATERSIDE SCHOOL FOR LEADERSHIP,8,2014,59,1,1.7
+27Q318,WATERSIDE SCHOOL FOR LEADERSHIP,8,2015,54,8,14.8
+27Q318,WATERSIDE SCHOOL FOR LEADERSHIP,All Grades,2014,167,11,6.6
+27Q318,WATERSIDE SCHOOL FOR LEADERSHIP,All Grades,2015,185,18,9.7
+27Q319,VILLAGE ACADEMY,7,2014,124,16,12.9
+27Q319,VILLAGE ACADEMY,7,2015,104,15,14.4
+27Q319,VILLAGE ACADEMY,8,2014,85,8,9.4
+27Q319,VILLAGE ACADEMY,8,2015,116,6,5.2
+27Q319,VILLAGE ACADEMY,All Grades,2014,318,33,10.4
+27Q319,VILLAGE ACADEMY,All Grades,2015,315,27,8.6
+27Q323,Scholars' Academy,7,2014,263,238,90.5
+27Q323,Scholars' Academy,7,2015,257,236,91.8
+27Q323,Scholars' Academy,8,2014,260,254,97.7
+27Q323,Scholars' Academy,8,2015,263,251,95.4
+27Q323,Scholars' Academy,All Grades,2014,782,740,94.6
+27Q323,Scholars' Academy,All Grades,2015,782,725,92.7
+27Q333,Goldie Maple Academy,7,2014,40,9,22.5
+27Q333,Goldie Maple Academy,7,2015,47,22,46.8
+27Q333,Goldie Maple Academy,8,2014,40,17,42.5
+27Q333,Goldie Maple Academy,8,2015,35,21,60
+27Q333,Goldie Maple Academy,All Grades,2014,287,80,27.9
+27Q333,Goldie Maple Academy,All Grades,2015,267,81,30.3
+28Q008,J.H.S. 008 Richard S. Grossley,7,2014,207,15,7.2
+28Q008,J.H.S. 008 Richard S. Grossley,7,2015,122,2,1.6
+28Q008,J.H.S. 008 Richard S. Grossley,8,2014,216,28,13
+28Q008,J.H.S. 008 Richard S. Grossley,8,2015,203,27,13.3
+28Q008,J.H.S. 008 Richard S. Grossley,All Grades,2014,550,48,8.7
+28Q008,J.H.S. 008 Richard S. Grossley,All Grades,2015,460,38,8.3
+28Q072,Catherine & Count Basie Middle School 72,7,2014,289,27,9.3
+28Q072,Catherine & Count Basie Middle School 72,7,2015,278,36,13
+28Q072,Catherine & Count Basie Middle School 72,8,2014,318,44,13.8
+28Q072,Catherine & Count Basie Middle School 72,8,2015,290,36,12.4
+28Q072,Catherine & Count Basie Middle School 72,All Grades,2014,860,112,13
+28Q072,Catherine & Count Basie Middle School 72,All Grades,2015,732,97,13.3
+28Q157,J.H.S. 157 Stephen A. Halsey,7,2014,451,226,50.1
+28Q157,J.H.S. 157 Stephen A. Halsey,7,2015,478,268,56.1
+28Q157,J.H.S. 157 Stephen A. Halsey,8,2014,451,234,51.9
+28Q157,J.H.S. 157 Stephen A. Halsey,8,2015,440,249,56.6
+28Q157,J.H.S. 157 Stephen A. Halsey,All Grades,2014,1364,750,55
+28Q157,J.H.S. 157 Stephen A. Halsey,All Grades,2015,1375,794,57.7
+28Q167,Metropolitan Expeditionary Learning School,7,2014,121,41,33.9
+28Q167,Metropolitan Expeditionary Learning School,7,2015,116,45,38.8
+28Q167,Metropolitan Expeditionary Learning School,8,2014,111,24,21.6
+28Q167,Metropolitan Expeditionary Learning School,8,2015,107,17,15.9
+28Q167,Metropolitan Expeditionary Learning School,All Grades,2014,361,130,36
+28Q167,Metropolitan Expeditionary Learning School,All Grades,2015,345,105,30.4
+28Q190,J.H.S. 190 Russell Sage,7,2014,329,155,47.1
+28Q190,J.H.S. 190 Russell Sage,7,2015,353,162,45.9
+28Q190,J.H.S. 190 Russell Sage,8,2014,354,193,54.5
+28Q190,J.H.S. 190 Russell Sage,8,2015,351,175,49.9
+28Q190,J.H.S. 190 Russell Sage,All Grades,2014,984,500,50.8
+28Q190,J.H.S. 190 Russell Sage,All Grades,2015,1002,492,49.1
+28Q217,J.H.S. 217 Robert A. Van Wyck,7,2014,528,152,28.8
+28Q217,J.H.S. 217 Robert A. Van Wyck,7,2015,519,190,36.6
+28Q217,J.H.S. 217 Robert A. Van Wyck,8,2014,575,161,28
+28Q217,J.H.S. 217 Robert A. Van Wyck,8,2015,544,94,17.3
+28Q217,J.H.S. 217 Robert A. Van Wyck,All Grades,2014,1587,481,30.3
+28Q217,J.H.S. 217 Robert A. Van Wyck,All Grades,2015,1550,466,30.1
+28Q284,York Early College Academy,7,2014,88,49,55.7
+28Q284,York Early College Academy,7,2015,94,68,72.3
+28Q284,York Early College Academy,8,2014,87,43,49.4
+28Q284,York Early College Academy,8,2015,88,35,39.8
+28Q284,York Early College Academy,All Grades,2014,268,158,59
+28Q284,York Early College Academy,All Grades,2015,274,156,56.9
+28Q287,The Emerson School,7,2015,97,15,15.5
+28Q287,The Emerson School,All Grades,2015,222,32,14.4
+28Q310,Queens Collegiate: A College Board School,7,2014,76,21,27.6
+28Q310,Queens Collegiate: A College Board School,7,2015,83,17,20.5
+28Q310,Queens Collegiate: A College Board School,8,2014,81,16,19.8
+28Q310,Queens Collegiate: A College Board School,8,2015,76,10,13.2
+28Q310,Queens Collegiate: A College Board School,All Grades,2014,244,65,26.6
+28Q310,Queens Collegiate: A College Board School,All Grades,2015,243,58,23.9
+28Q680,Queens Gateway to Health Sciences Secondary School,7,2014,97,61,62.9
+28Q680,Queens Gateway to Health Sciences Secondary School,7,2015,92,74,80.4
+28Q680,Queens Gateway to Health Sciences Secondary School,8,2014,107,77,72
+28Q680,Queens Gateway to Health Sciences Secondary School,8,2015,98,62,63.3
+28Q680,Queens Gateway to Health Sciences Secondary School,All Grades,2014,304,222,73
+28Q680,Queens Gateway to Health Sciences Secondary School,All Grades,2015,287,224,78
+28Q896,"Young Women's Leadership School, Queens",7,2014,75,26,34.7
+28Q896,"Young Women's Leadership School, Queens",7,2015,75,29,38.7
+28Q896,"Young Women's Leadership School, Queens",8,2014,83,24,28.9
+28Q896,"Young Women's Leadership School, Queens",8,2015,70,34,48.6
+28Q896,"Young Women's Leadership School, Queens",All Grades,2014,230,86,37.4
+28Q896,"Young Women's Leadership School, Queens",All Grades,2015,227,113,49.8
+29Q059,I.S. 059 Springfield Gardens,7,2014,165,20,12.1
+29Q059,I.S. 059 Springfield Gardens,7,2015,164,29,17.7
+29Q059,I.S. 059 Springfield Gardens,8,2014,208,31,14.9
+29Q059,I.S. 059 Springfield Gardens,8,2015,166,18,10.8
+29Q059,I.S. 059 Springfield Gardens,All Grades,2014,543,81,14.9
+29Q059,I.S. 059 Springfield Gardens,All Grades,2015,483,67,13.9
+29Q109,Jean Nuzzi Intermediate School,7,2014,347,68,19.6
+29Q109,Jean Nuzzi Intermediate School,7,2015,311,95,30.5
+29Q109,Jean Nuzzi Intermediate School,8,2014,390,80,20.5
+29Q109,Jean Nuzzi Intermediate School,8,2015,356,87,24.4
+29Q109,Jean Nuzzi Intermediate School,All Grades,2014,1044,253,24.2
+29Q109,Jean Nuzzi Intermediate School,All Grades,2015,939,276,29.4
+29Q116,PS/IS 116 William C. Hughley,7,2014,51,11,21.6
+29Q116,PS/IS 116 William C. Hughley,7,2015,48,3,6.3
+29Q116,PS/IS 116 William C. Hughley,8,2014,55,5,9.1
+29Q116,PS/IS 116 William C. Hughley,8,2015,43,7,16.3
+29Q116,PS/IS 116 William C. Hughley,All Grades,2014,380,54,14.2
+29Q116,PS/IS 116 William C. Hughley,All Grades,2015,387,52,13.4
+29Q138,P.S./ M.S.138 Sunrise,7,2014,96,16,16.7
+29Q138,P.S./ M.S.138 Sunrise,7,2015,95,13,13.7
+29Q138,P.S./ M.S.138 Sunrise,8,2014,103,10,9.7
+29Q138,P.S./ M.S.138 Sunrise,8,2015,100,2,2
+29Q138,P.S./ M.S.138 Sunrise,All Grades,2014,530,62,11.7
+29Q138,P.S./ M.S.138 Sunrise,All Grades,2015,523,52,9.9
+29Q147,PS/MS 147 Ronald McNair,7,2014,79,7,8.9
+29Q147,PS/MS 147 Ronald McNair,7,2015,71,0,0
+29Q147,PS/MS 147 Ronald McNair,8,2014,67,3,4.5
+29Q147,PS/MS 147 Ronald McNair,8,2015,80,12,15
+29Q147,PS/MS 147 Ronald McNair,All Grades,2014,425,56,13.2
+29Q147,PS/MS 147 Ronald McNair,All Grades,2015,427,66,15.5
+29Q156,P.S. 156 Laurelton,7,2014,78,11,14.1
+29Q156,P.S. 156 Laurelton,8,2014,69,3,4.3
+29Q156,P.S. 156 Laurelton,8,2015,69,7,10.1
+29Q156,P.S. 156 Laurelton,All Grades,2014,310,33,10.6
+29Q156,P.S. 156 Laurelton,All Grades,2015,210,27,12.9
+29Q192,I.S. 192 The Linden,7,2014,166,13,7.8
+29Q192,I.S. 192 The Linden,7,2015,144,8,5.6
+29Q192,I.S. 192 The Linden,8,2014,201,36,17.9
+29Q192,I.S. 192 The Linden,8,2015,165,12,7.3
+29Q192,I.S. 192 The Linden,All Grades,2014,504,56,11.1
+29Q192,I.S. 192 The Linden,All Grades,2015,490,33,6.7
+29Q208,P.S. / I.S. 208,7,2014,90,38,42.2
+29Q208,P.S. / I.S. 208,7,2015,84,44,52.4
+29Q208,P.S. / I.S. 208,8,2014,81,35,43.2
+29Q208,P.S. / I.S. 208,8,2015,81,36,44.4
+29Q208,P.S. / I.S. 208,All Grades,2014,515,241,46.8
+29Q208,P.S. / I.S. 208,All Grades,2015,483,228,47.2
+29Q238,I.S. 238 - Susan B. Anthony Academy,7,2014,509,75,14.7
+29Q238,I.S. 238 - Susan B. Anthony Academy,7,2015,488,67,13.7
+29Q238,I.S. 238 - Susan B. Anthony Academy,8,2014,519,103,19.8
+29Q238,I.S. 238 - Susan B. Anthony Academy,8,2015,560,94,16.8
+29Q238,I.S. 238 - Susan B. Anthony Academy,All Grades,2014,1480,281,19
+29Q238,I.S. 238 - Susan B. Anthony Academy,All Grades,2015,1510,244,16.2
+29Q259,Pathways College Preparatory School: A College Board School,7,2014,75,15,20
+29Q259,Pathways College Preparatory School: A College Board School,7,2015,52,2,3.8
+29Q259,Pathways College Preparatory School: A College Board School,8,2014,81,17,21
+29Q259,Pathways College Preparatory School: A College Board School,8,2015,79,4,5.1
+29Q259,Pathways College Preparatory School: A College Board School,All Grades,2014,207,49,23.7
+29Q259,Pathways College Preparatory School: A College Board School,All Grades,2015,205,18,8.8
+29Q268,PS/IS 268,7,2014,59,8,13.6
+29Q268,PS/IS 268,7,2015,48,17,35.4
+29Q268,PS/IS 268,8,2014,49,20,40.8
+29Q268,PS/IS 268,8,2015,43,12,27.9
+29Q268,PS/IS 268,All Grades,2014,380,122,32.1
+29Q268,PS/IS 268,All Grades,2015,332,116,34.9
+29Q270,The Gordon Parks School,7,2014,61,7,11.5
+29Q270,The Gordon Parks School,7,2015,72,21,29.2
+29Q270,The Gordon Parks School,8,2014,64,10,15.6
+29Q270,The Gordon Parks School,8,2015,59,8,13.6
+29Q270,The Gordon Parks School,All Grades,2014,419,112,26.7
+29Q270,The Gordon Parks School,All Grades,2015,440,133,30.2
+29Q283,Preparatory Academy for Writers: A College Board School,7,2014,53,22,41.5
+29Q283,Preparatory Academy for Writers: A College Board School,7,2015,60,12,20
+29Q283,Preparatory Academy for Writers: A College Board School,8,2014,66,16,24.2
+29Q283,Preparatory Academy for Writers: A College Board School,8,2015,51,7,13.7
+29Q283,Preparatory Academy for Writers: A College Board School,All Grades,2014,175,55,31.4
+29Q283,Preparatory Academy for Writers: A College Board School,All Grades,2015,170,39,22.9
+29Q289,Queens United Middle School,7,2015,74,8,10.8
+29Q289,Queens United Middle School,All Grades,2015,144,14,9.7
+29Q295,P.S./I.S. 295,7,2014,60,29,48.3
+29Q295,P.S./I.S. 295,7,2015,53,10,18.9
+29Q295,P.S./I.S. 295,8,2014,58,40,69
+29Q295,P.S./I.S. 295,8,2015,55,26,47.3
+29Q295,P.S./I.S. 295,All Grades,2014,344,170,49.4
+29Q295,P.S./I.S. 295,All Grades,2015,332,138,41.6
+29Q327,Eagle Academy for Young Men III,7,2014,92,17,18.5
+29Q327,Eagle Academy for Young Men III,7,2015,82,24,29.3
+29Q327,Eagle Academy for Young Men III,8,2014,77,8,10.4
+29Q327,Eagle Academy for Young Men III,8,2015,92,10,10.9
+29Q327,Eagle Academy for Young Men III,All Grades,2014,261,41,15.7
+29Q327,Eagle Academy for Young Men III,All Grades,2015,255,48,18.8
+29Q355,Collaborative Arts Middle School,7,2014,153,9,5.9
+29Q355,Collaborative Arts Middle School,7,2015,149,17,11.4
+29Q355,Collaborative Arts Middle School,8,2014,144,11,7.6
+29Q355,Collaborative Arts Middle School,8,2015,145,5,3.4
+29Q355,Collaborative Arts Middle School,All Grades,2014,442,38,8.6
+29Q355,Collaborative Arts Middle School,All Grades,2015,427,33,7.7
+29Q356,Community Voices Middle School,7,2014,159,10,6.3
+29Q356,Community Voices Middle School,7,2015,138,9,6.5
+29Q356,Community Voices Middle School,8,2014,146,13,8.9
+29Q356,Community Voices Middle School,8,2015,156,12,7.7
+29Q356,Community Voices Middle School,All Grades,2014,449,29,6.5
+29Q356,Community Voices Middle School,All Grades,2015,409,32,7.8
+30Q010,I.S. 010 Horace Greeley,7,2014,317,102,32.2
+30Q010,I.S. 010 Horace Greeley,7,2015,279,94,33.7
+30Q010,I.S. 010 Horace Greeley,8,2014,318,134,42.1
+30Q010,I.S. 010 Horace Greeley,8,2015,308,104,33.8
+30Q010,I.S. 010 Horace Greeley,All Grades,2014,890,279,31.3
+30Q010,I.S. 010 Horace Greeley,All Grades,2015,831,295,35.5
+30Q078,P.S./I.S. 78Q,7,2015,31,5,16.1
+30Q078,P.S./I.S. 78Q,All Grades,2015,190,97,51.1
+30Q084,P.S. 084 Steinway,7,2014,19,5,26.3
+30Q084,P.S. 084 Steinway,7,2015,16,3,18.8
+30Q084,P.S. 084 Steinway,8,2014,24,3,12.5
+30Q084,P.S. 084 Steinway,8,2015,17,6,35.3
+30Q084,P.S. 084 Steinway,All Grades,2014,181,63,34.8
+30Q084,P.S. 084 Steinway,All Grades,2015,162,62,38.3
+30Q111,P.S. 111 Jacob Blackwell,7,2014,47,6,12.8
+30Q111,P.S. 111 Jacob Blackwell,7,2015,36,2,5.6
+30Q111,P.S. 111 Jacob Blackwell,8,2014,30,2,6.7
+30Q111,P.S. 111 Jacob Blackwell,8,2015,44,3,6.8
+30Q111,P.S. 111 Jacob Blackwell,All Grades,2014,240,20,8.3
+30Q111,P.S. 111 Jacob Blackwell,All Grades,2015,208,12,5.8
+30Q122,P.S. 122 Mamie Fay,7,2014,90,88,97.8
+30Q122,P.S. 122 Mamie Fay,7,2015,95,93,97.9
+30Q122,P.S. 122 Mamie Fay,8,2014,89,87,97.8
+30Q122,P.S. 122 Mamie Fay,8,2015,90,78,86.7
+30Q122,P.S. 122 Mamie Fay,All Grades,2014,802,595,74.2
+30Q122,P.S. 122 Mamie Fay,All Grades,2015,775,582,75.1
+30Q126,Albert Shanker School for Visual and Performing Arts,7,2014,161,17,10.6
+30Q126,Albert Shanker School for Visual and Performing Arts,7,2015,193,58,30.1
+30Q126,Albert Shanker School for Visual and Performing Arts,8,2014,153,29,19
+30Q126,Albert Shanker School for Visual and Performing Arts,8,2015,162,22,13.6
+30Q126,Albert Shanker School for Visual and Performing Arts,All Grades,2014,515,98,19
+30Q126,Albert Shanker School for Visual and Performing Arts,All Grades,2015,542,136,25.1
+30Q127,P.S. 127 Aerospace Science Magne,7,2014,140,26,18.6
+30Q127,P.S. 127 Aerospace Science Magne,7,2015,141,18,12.8
+30Q127,P.S. 127 Aerospace Science Magne,8,2014,123,25,20.3
+30Q127,P.S. 127 Aerospace Science Magne,8,2015,131,22,16.8
+30Q127,P.S. 127 Aerospace Science Magne,All Grades,2014,868,163,18.8
+30Q127,P.S. 127 Aerospace Science Magne,All Grades,2015,879,182,20.7
+30Q141,I.S. 141 The Steinway,7,2014,394,201,51
+30Q141,I.S. 141 The Steinway,7,2015,377,217,57.6
+30Q141,I.S. 141 The Steinway,8,2014,410,172,42
+30Q141,I.S. 141 The Steinway,8,2015,386,159,41.2
+30Q141,I.S. 141 The Steinway,All Grades,2014,1174,621,52.9
+30Q141,I.S. 141 The Steinway,All Grades,2015,1150,574,49.9
+30Q145,I.S. 145 Joseph Pulitzer,7,2014,686,119,17.3
+30Q145,I.S. 145 Joseph Pulitzer,7,2015,659,173,26.3
+30Q145,I.S. 145 Joseph Pulitzer,8,2014,719,231,32.1
+30Q145,I.S. 145 Joseph Pulitzer,8,2015,702,172,24.5
+30Q145,I.S. 145 Joseph Pulitzer,All Grades,2014,2042,514,25.2
+30Q145,I.S. 145 Joseph Pulitzer,All Grades,2015,2019,536,26.5
+30Q204,I.S. 204 Oliver W. Holmes,7,2014,244,53,21.7
+30Q204,I.S. 204 Oliver W. Holmes,7,2015,172,39,22.7
+30Q204,I.S. 204 Oliver W. Holmes,8,2014,255,73,28.6
+30Q204,I.S. 204 Oliver W. Holmes,8,2015,238,95,39.9
+30Q204,I.S. 204 Oliver W. Holmes,All Grades,2014,678,165,24.3
+30Q204,I.S. 204 Oliver W. Holmes,All Grades,2015,563,178,31.6
+30Q227,I.S. 227 Louis Armstrong,7,2014,521,317,60.8
+30Q227,I.S. 227 Louis Armstrong,7,2015,451,266,59
+30Q227,I.S. 227 Louis Armstrong,8,2014,501,267,53.3
+30Q227,I.S. 227 Louis Armstrong,8,2015,499,288,57.7
+30Q227,I.S. 227 Louis Armstrong,All Grades,2014,1658,955,57.6
+30Q227,I.S. 227 Louis Armstrong,All Grades,2015,1575,958,60.8
+30Q230,I.S. 230,7,2014,320,164,51.3
+30Q230,I.S. 230,7,2015,325,195,60
+30Q230,I.S. 230,8,2014,330,179,54.2
+30Q230,I.S. 230,8,2015,328,188,57.3
+30Q230,I.S. 230,All Grades,2014,974,511,52.5
+30Q230,I.S. 230,All Grades,2015,1044,586,56.1
+30Q235,Academy for New Americans,7,2014,51,6,11.8
+30Q235,Academy for New Americans,7,2015,54,9,16.7
+30Q235,Academy for New Americans,8,2014,73,12,16.4
+30Q235,Academy for New Americans,8,2015,50,9,18
+30Q235,Academy for New Americans,All Grades,2014,151,22,14.6
+30Q235,Academy for New Americans,All Grades,2015,136,24,17.6
+30Q286,"Young Women's Leadership School, Astoria",7,2014,85,25,29.4
+30Q286,"Young Women's Leadership School, Astoria",7,2015,79,31,39.2
+30Q286,"Young Women's Leadership School, Astoria",8,2014,89,44,49.4
+30Q286,"Young Women's Leadership School, Astoria",8,2015,84,19,22.6
+30Q286,"Young Women's Leadership School, Astoria",All Grades,2014,257,118,45.9
+30Q286,"Young Women's Leadership School, Astoria",All Grades,2015,249,102,41
+30Q291,Hunters Point Community Middle School,7,2015,126,46,36.5
+30Q291,Hunters Point Community Middle School,All Grades,2015,219,87,39.7
+30Q580,Baccalaureate School for Global Education,7,2014,84,82,97.6
+30Q580,Baccalaureate School for Global Education,7,2015,80,80,100
+30Q580,Baccalaureate School for Global Education,8,2014,108,108,100
+30Q580,Baccalaureate School for Global Education,8,2015,82,81,98.8
+30Q580,Baccalaureate School for Global Education,All Grades,2014,192,190,99
+30Q580,Baccalaureate School for Global Education,All Grades,2015,162,161,99.4
+31R002,I.S. R002 George L. Egbert,7,2014,288,78,27.1
+31R002,I.S. R002 George L. Egbert,7,2015,211,53,25.1
+31R002,I.S. R002 George L. Egbert,8,2014,349,97,27.8
+31R002,I.S. R002 George L. Egbert,8,2015,263,81,30.8
+31R002,I.S. R002 George L. Egbert,All Grades,2014,872,239,27.4
+31R002,I.S. R002 George L. Egbert,All Grades,2015,728,205,28.2
+31R007,I.S. 007 Elias Bernstein,7,2014,399,261,65.4
+31R007,I.S. 007 Elias Bernstein,7,2015,388,237,61.1
+31R007,I.S. 007 Elias Bernstein,8,2014,391,175,44.8
+31R007,I.S. 007 Elias Bernstein,8,2015,370,210,56.8
+31R007,I.S. 007 Elias Bernstein,All Grades,2014,1185,688,58.1
+31R007,I.S. 007 Elias Bernstein,All Grades,2015,1157,674,58.3
+31R024,I.S. 024 Myra S. Barnes,7,2014,463,200,43.2
+31R024,I.S. 024 Myra S. Barnes,7,2015,423,192,45.4
+31R024,I.S. 024 Myra S. Barnes,8,2014,473,174,36.8
+31R024,I.S. 024 Myra S. Barnes,8,2015,401,131,32.7
+31R024,I.S. 024 Myra S. Barnes,All Grades,2014,1367,596,43.6
+31R024,I.S. 024 Myra S. Barnes,All Grades,2015,1253,523,41.7
+31R027,I.S. 027 Anning S. Prall,7,2014,375,83,22.1
+31R027,I.S. 027 Anning S. Prall,7,2015,362,88,24.3
+31R027,I.S. 027 Anning S. Prall,8,2014,364,92,25.3
+31R027,I.S. 027 Anning S. Prall,8,2015,379,88,23.2
+31R027,I.S. 027 Anning S. Prall,All Grades,2014,1106,270,24.4
+31R027,I.S. 027 Anning S. Prall,All Grades,2015,1077,279,25.9
+31R034,I.S. 034 Tottenville,7,2014,388,166,42.8
+31R034,I.S. 034 Tottenville,7,2015,370,182,49.2
+31R034,I.S. 034 Tottenville,8,2014,363,215,59.2
+31R034,I.S. 034 Tottenville,8,2015,357,205,57.4
+31R034,I.S. 034 Tottenville,All Grades,2014,1129,558,49.4
+31R034,I.S. 034 Tottenville,All Grades,2015,1101,533,48.4
+31R048,P.S. 048 William G. Wilcox,7,2015,92,61,66.3
+31R048,P.S. 048 William G. Wilcox,All Grades,2015,536,336,62.7
+31R049,I.S. 49 Berta A. Dreyfus,7,2014,251,33,13.1
+31R049,I.S. 49 Berta A. Dreyfus,7,2015,256,38,14.8
+31R049,I.S. 49 Berta A. Dreyfus,8,2014,266,44,16.5
+31R049,I.S. 49 Berta A. Dreyfus,8,2015,247,26,10.5
+31R049,I.S. 49 Berta A. Dreyfus,All Grades,2014,766,101,13.2
+31R049,I.S. 49 Berta A. Dreyfus,All Grades,2015,724,87,12
+31R051,I.S. 051 Edwin Markham,7,2014,371,41,11.1
+31R051,I.S. 051 Edwin Markham,7,2015,414,72,17.4
+31R051,I.S. 051 Edwin Markham,8,2014,298,32,10.7
+31R051,I.S. 051 Edwin Markham,8,2015,374,39,10.4
+31R051,I.S. 051 Edwin Markham,All Grades,2014,1093,157,14.4
+31R051,I.S. 051 Edwin Markham,All Grades,2015,1153,198,17.2
+31R061,I.S. 061 William A Morris,7,2014,338,38,11.2
+31R061,I.S. 061 William A Morris,7,2015,374,58,15.5
+31R061,I.S. 061 William A Morris,8,2014,423,84,19.9
+31R061,I.S. 061 William A Morris,8,2015,336,50,14.9
+31R061,I.S. 061 William A Morris,All Grades,2014,1139,184,16.2
+31R061,I.S. 061 William A Morris,All Grades,2015,1093,171,15.6
+31R063,Marsh Avenue School for Expeditionary Learning,7,2014,144,66,45.8
+31R063,Marsh Avenue School for Expeditionary Learning,7,2015,138,76,55.1
+31R063,Marsh Avenue School for Expeditionary Learning,8,2014,141,51,36.2
+31R063,Marsh Avenue School for Expeditionary Learning,8,2015,141,63,44.7
+31R063,Marsh Avenue School for Expeditionary Learning,All Grades,2014,434,193,44.5
+31R063,Marsh Avenue School for Expeditionary Learning,All Grades,2015,423,206,48.7
+31R072,I.S. 072 Rocco Laurie,7,2014,408,196,48
+31R072,I.S. 072 Rocco Laurie,7,2015,398,146,36.7
+31R072,I.S. 072 Rocco Laurie,8,2014,443,208,47
+31R072,I.S. 072 Rocco Laurie,8,2015,418,166,39.7
+31R072,I.S. 072 Rocco Laurie,All Grades,2014,1230,572,46.5
+31R072,I.S. 072 Rocco Laurie,All Grades,2015,1214,462,38.1
+31R075,I.S. 075 Frank D. Paulo,7,2014,374,202,54
+31R075,I.S. 075 Frank D. Paulo,7,2015,450,264,58.7
+31R075,I.S. 075 Frank D. Paulo,8,2014,477,229,48
+31R075,I.S. 075 Frank D. Paulo,8,2015,369,172,46.6
+31R075,I.S. 075 Frank D. Paulo,All Grades,2014,1323,699,52.8
+31R075,I.S. 075 Frank D. Paulo,All Grades,2015,1301,717,55.1
+31R080,The Michael J. Petrides School,7,2014,96,47,49
+31R080,The Michael J. Petrides School,7,2015,93,41,44.1
+31R080,The Michael J. Petrides School,8,2014,95,55,57.9
+31R080,The Michael J. Petrides School,8,2015,93,19,20.4
+31R080,The Michael J. Petrides School,All Grades,2014,567,271,47.8
+31R080,The Michael J. Petrides School,All Grades,2015,566,237,41.9
+31R861,Staten Island School of Civic Leadership,7,2014,92,65,70.7
+31R861,Staten Island School of Civic Leadership,7,2015,94,50,53.2
+31R861,Staten Island School of Civic Leadership,8,2014,103,42,40.8
+31R861,Staten Island School of Civic Leadership,8,2015,94,37,39.4
+31R861,Staten Island School of Civic Leadership,All Grades,2014,487,261,53.6
+31R861,Staten Island School of Civic Leadership,All Grades,2015,528,241,45.6
+32K045,P.S./I.S. 045 Horace E. Greene,7,2014,71,11,15.5
+32K045,P.S./I.S. 045 Horace E. Greene,7,2015,58,10,17.2
+32K045,P.S./I.S. 045 Horace E. Greene,8,2014,53,16,30.2
+32K045,P.S./I.S. 045 Horace E. Greene,8,2015,64,3,4.7
+32K045,P.S./I.S. 045 Horace E. Greene,All Grades,2014,484,133,27.5
+32K045,P.S./I.S. 045 Horace E. Greene,All Grades,2015,463,114,24.6
+32K162,J.H.S. 162 The Willoughby,7,2014,163,17,10.4
+32K162,J.H.S. 162 The Willoughby,7,2015,154,20,13
+32K162,J.H.S. 162 The Willoughby,8,2014,138,19,13.8
+32K162,J.H.S. 162 The Willoughby,8,2015,157,15,9.6
+32K162,J.H.S. 162 The Willoughby,All Grades,2014,453,72,15.9
+32K162,J.H.S. 162 The Willoughby,All Grades,2015,456,48,10.5
+32K291,J.H.S. 291 Roland Hayes,7,2014,164,13,7.9
+32K291,J.H.S. 291 Roland Hayes,7,2015,126,6,4.8
+32K291,J.H.S. 291 Roland Hayes,8,2014,195,3,1.5
+32K291,J.H.S. 291 Roland Hayes,8,2015,156,16,10.3
+32K291,J.H.S. 291 Roland Hayes,All Grades,2014,483,26,5.4
+32K291,J.H.S. 291 Roland Hayes,All Grades,2015,383,31,8.1
+32K296,I.S. 296 - The Anna Gonzalez Community School,8,2014,94,3,3.2
+32K296,I.S. 296 - The Anna Gonzalez Community School,All Grades,2014,94,3,3.2
+32K347,I.S. 347 School of Humanities,7,2014,115,19,16.5
+32K347,I.S. 347 School of Humanities,7,2015,112,18,16.1
+32K347,I.S. 347 School of Humanities,8,2014,151,18,11.9
+32K347,I.S. 347 School of Humanities,8,2015,114,11,9.6
+32K347,I.S. 347 School of Humanities,All Grades,2014,381,56,14.7
+32K347,I.S. 347 School of Humanities,All Grades,2015,314,37,11.8
+32K349,"I.S. 349 Math, Science & Tech.",7,2014,130,13,10
+32K349,"I.S. 349 Math, Science & Tech.",7,2015,119,9,7.6
+32K349,"I.S. 349 Math, Science & Tech.",8,2014,136,19,14
+32K349,"I.S. 349 Math, Science & Tech.",8,2015,132,10,7.6
+32K349,"I.S. 349 Math, Science & Tech.",All Grades,2014,390,40,10.3
+32K349,"I.S. 349 Math, Science & Tech.",All Grades,2015,350,34,9.7
+32K377,P.S. 377 Alejandrina B. De Gautier,7,2014,56,9,16.1
+32K377,P.S. 377 Alejandrina B. De Gautier,7,2015,53,10,18.9
+32K377,P.S. 377 Alejandrina B. De Gautier,8,2014,71,4,5.6
+32K377,P.S. 377 Alejandrina B. De Gautier,8,2015,52,7,13.5
+32K377,P.S. 377 Alejandrina B. De Gautier,All Grades,2014,333,39,11.7
+32K377,P.S. 377 Alejandrina B. De Gautier,All Grades,2015,306,38,12.4
+32K383,J.H.S. 383 Philippa Schuyler,7,2014,263,63,24
+32K383,J.H.S. 383 Philippa Schuyler,7,2015,291,94,32.3
+32K383,J.H.S. 383 Philippa Schuyler,8,2014,253,104,41.1
+32K383,J.H.S. 383 Philippa Schuyler,8,2015,250,45,18
+32K383,J.H.S. 383 Philippa Schuyler,All Grades,2014,905,319,35.2
+32K383,J.H.S. 383 Philippa Schuyler,All Grades,2015,904,307,34
+32K384,P.S. /I.S. 384 Frances E. Carter,7,2014,81,6,7.4
+32K384,P.S. /I.S. 384 Frances E. Carter,7,2015,81,9,11.1
+32K384,P.S. /I.S. 384 Frances E. Carter,8,2014,52,5,9.6
+32K384,P.S. /I.S. 384 Frances E. Carter,8,2015,69,8,11.6
+32K384,P.S. /I.S. 384 Frances E. Carter,All Grades,2014,421,86,20.4
+32K384,P.S. /I.S. 384 Frances E. Carter,All Grades,2015,406,76,18.7
+32K554,All City Leadership Secondary School,7,2014,60,37,61.7
+32K554,All City Leadership Secondary School,7,2015,60,43,71.7
+32K554,All City Leadership Secondary School,8,2014,65,48,73.8
+32K554,All City Leadership Secondary School,8,2015,60,37,61.7
+32K554,All City Leadership Secondary School,All Grades,2014,185,135,73
+32K554,All City Leadership Secondary School,All Grades,2015,180,135,75
+32K562,Evergreen Middle School for Urban Exploration,7,2014,131,1,0.8
+32K562,Evergreen Middle School for Urban Exploration,7,2015,108,3,2.8
+32K562,Evergreen Middle School for Urban Exploration,8,2014,,,
+32K562,Evergreen Middle School for Urban Exploration,8,2015,127,0,0
+32K562,Evergreen Middle School for Urban Exploration,All Grades,2014,244,3,1.2
+32K562,Evergreen Middle School for Urban Exploration,All Grades,2015,332,5,1.5

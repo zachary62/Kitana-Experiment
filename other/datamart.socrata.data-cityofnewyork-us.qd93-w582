@@ -1,0 +1,1324 @@
+DBN,SchoolName,ByGroup,Demographic,GPA,#,% within Demographic,Total # within Demographic
+02M429,Legacy School for Integrated Studies,Age by GPA,13 yrs old,All,s,s,s
+02M429,Legacy School for Integrated Studies,Age by GPA,13 yrs old,0-54,s,s,s
+02M429,Legacy School for Integrated Studies,Age by GPA,13 yrs old,55-64,s,s,s
+02M429,Legacy School for Integrated Studies,Age by GPA,13 yrs old,65-74,s,s,s
+02M429,Legacy School for Integrated Studies,Age by GPA,13 yrs old,75-84,s,s,s
+02M429,Legacy School for Integrated Studies,Age by GPA,13 yrs old,85-100,s,s,s
+02M429,Legacy School for Integrated Studies,Age by GPA,15 yrs old,All,s,s,s
+02M429,Legacy School for Integrated Studies,Age by GPA,15 yrs old,0-54,s,s,s
+02M429,Legacy School for Integrated Studies,Age by GPA,15 yrs old,55-64,s,s,s
+02M429,Legacy School for Integrated Studies,Age by GPA,15 yrs old,65-74,s,s,s
+02M429,Legacy School for Integrated Studies,Age by GPA,15 yrs old,75-84,s,s,s
+02M429,Legacy School for Integrated Studies,Age by GPA,15 yrs old,85-100,s,s,s
+02M429,Legacy School for Integrated Studies,Age by GPA,16 yrs old,All,18,1.0000,18
+02M429,Legacy School for Integrated Studies,Age by GPA,16 yrs old,0-54,s,s,18
+02M429,Legacy School for Integrated Studies,Age by GPA,16 yrs old,75-84,s,s,18
+02M429,Legacy School for Integrated Studies,Age by GPA,16 yrs old,55-64,s,s,18
+02M429,Legacy School for Integrated Studies,Age by GPA,16 yrs old,85-100,s,s,18
+02M429,Legacy School for Integrated Studies,Age by GPA,16 yrs old,65-74,s,s,18
+02M429,Legacy School for Integrated Studies,Age by GPA,17 yrs old,All,32,1.0000,32
+02M429,Legacy School for Integrated Studies,Age by GPA,17 yrs old,85-100,s,s,32
+02M429,Legacy School for Integrated Studies,Age by GPA,17 yrs old,0-54,s,s,32
+02M429,Legacy School for Integrated Studies,Age by GPA,17 yrs old,75-84,s,s,32
+02M429,Legacy School for Integrated Studies,Age by GPA,17 yrs old,55-64,11,0.3438,32
+02M429,Legacy School for Integrated Studies,Age by GPA,17 yrs old,65-74,11,0.3438,32
+02M429,Legacy School for Integrated Studies,Age by GPA,18 yrs old,All,17,1.0000,17
+02M429,Legacy School for Integrated Studies,Age by GPA,18 yrs old,0-54,s,s,17
+02M429,Legacy School for Integrated Studies,Age by GPA,18 yrs old,85-100,s,s,17
+02M429,Legacy School for Integrated Studies,Age by GPA,18 yrs old,55-64,s,s,17
+02M429,Legacy School for Integrated Studies,Age by GPA,18 yrs old,75-84,s,s,17
+02M429,Legacy School for Integrated Studies,Age by GPA,18 yrs old,65-74,s,s,17
+02M429,Legacy School for Integrated Studies,Age by GPA,19 yrs old,All,11,1.0000,11
+02M429,Legacy School for Integrated Studies,Age by GPA,19 yrs old,0-54,s,s,11
+02M429,Legacy School for Integrated Studies,Age by GPA,19 yrs old,85-100,s,s,11
+02M429,Legacy School for Integrated Studies,Age by GPA,19 yrs old,55-64,s,s,11
+02M429,Legacy School for Integrated Studies,Age by GPA,19 yrs old,75-84,s,s,11
+02M429,Legacy School for Integrated Studies,Age by GPA,19 yrs old,65-74,s,s,11
+02M429,Legacy School for Integrated Studies,Age by GPA,20 yrs old,All,s,s,s
+02M429,Legacy School for Integrated Studies,Age by GPA,20 yrs old,0-54,s,s,s
+02M429,Legacy School for Integrated Studies,Age by GPA,20 yrs old,75-84,s,s,s
+02M429,Legacy School for Integrated Studies,Age by GPA,20 yrs old,85-100,s,s,s
+02M429,Legacy School for Integrated Studies,Age by GPA,20 yrs old,55-64,s,s,s
+02M429,Legacy School for Integrated Studies,Age by GPA,20 yrs old,65-74,s,s,s
+02M429,Legacy School for Integrated Studies,Age by GPA,21 yrs old or older,All,s,s,s
+02M429,Legacy School for Integrated Studies,Age by GPA,21 yrs old or older,0-54,s,s,s
+02M429,Legacy School for Integrated Studies,Age by GPA,21 yrs old or older,55-64,s,s,s
+02M429,Legacy School for Integrated Studies,Age by GPA,21 yrs old or older,65-74,s,s,s
+02M429,Legacy School for Integrated Studies,Age by GPA,21 yrs old or older,75-84,s,s,s
+02M429,Legacy School for Integrated Studies,Age by GPA,21 yrs old or older,85-100,s,s,s
+02M429,Legacy School for Integrated Studies,All Students by GPA,all,All,83,1.0000,83
+02M429,Legacy School for Integrated Studies,All Students by GPA,all,0-54,s,s,83
+02M429,Legacy School for Integrated Studies,All Students by GPA,all,85-100,s,s,83
+02M429,Legacy School for Integrated Studies,All Students by GPA,all,75-84,16,0.1928,83
+02M429,Legacy School for Integrated Studies,All Students by GPA,all,55-64,23,0.2771,83
+02M429,Legacy School for Integrated Studies,All Students by GPA,all,65-74,36,0.4337,83
+02M429,Legacy School for Integrated Studies,Disability Status by GPA,Non-SWD,All,54,1.0000,54
+02M429,Legacy School for Integrated Studies,Disability Status by GPA,Non-SWD,0-54,s,s,54
+02M429,Legacy School for Integrated Studies,Disability Status by GPA,Non-SWD,85-100,s,s,54
+02M429,Legacy School for Integrated Studies,Disability Status by GPA,Non-SWD,55-64,10,0.1852,54
+02M429,Legacy School for Integrated Studies,Disability Status by GPA,Non-SWD,75-84,12,0.2222,54
+02M429,Legacy School for Integrated Studies,Disability Status by GPA,Non-SWD,65-74,26,0.4815,54
+02M429,Legacy School for Integrated Studies,Disability Status by GPA,SWD,All,29,1.0000,29
+02M429,Legacy School for Integrated Studies,Disability Status by GPA,SWD,0-54,s,s,29
+02M429,Legacy School for Integrated Studies,Disability Status by GPA,SWD,85-100,s,s,29
+02M429,Legacy School for Integrated Studies,Disability Status by GPA,SWD,75-84,s,s,29
+02M429,Legacy School for Integrated Studies,Disability Status by GPA,SWD,65-74,10,0.3448,29
+02M429,Legacy School for Integrated Studies,Disability Status by GPA,SWD,55-64,13,0.4483,29
+02M429,Legacy School for Integrated Studies,English Language Learner Status by GPA,Ell,All,s,s,s
+02M429,Legacy School for Integrated Studies,English Language Learner Status by GPA,Ell,0-54,s,s,s
+02M429,Legacy School for Integrated Studies,English Language Learner Status by GPA,Ell,65-74,s,s,s
+02M429,Legacy School for Integrated Studies,English Language Learner Status by GPA,Ell,75-84,s,s,s
+02M429,Legacy School for Integrated Studies,English Language Learner Status by GPA,Ell,85-100,s,s,s
+02M429,Legacy School for Integrated Studies,English Language Learner Status by GPA,Ell,55-64,s,s,s
+02M429,Legacy School for Integrated Studies,English Language Learner Status by GPA,Non-Ell,All,80,1.0000,80
+02M429,Legacy School for Integrated Studies,English Language Learner Status by GPA,Non-Ell,0-54,s,s,80
+02M429,Legacy School for Integrated Studies,English Language Learner Status by GPA,Non-Ell,85-100,s,s,80
+02M429,Legacy School for Integrated Studies,English Language Learner Status by GPA,Non-Ell,75-84,16,0.2000,80
+02M429,Legacy School for Integrated Studies,English Language Learner Status by GPA,Non-Ell,55-64,20,0.2500,80
+02M429,Legacy School for Integrated Studies,English Language Learner Status by GPA,Non-Ell,65-74,36,0.4500,80
+02M429,Legacy School for Integrated Studies,Ethnicity by GPA,Asian,All,s,s,s
+02M429,Legacy School for Integrated Studies,Ethnicity by GPA,Asian,0-54,s,s,s
+02M429,Legacy School for Integrated Studies,Ethnicity by GPA,Asian,55-64,s,s,s
+02M429,Legacy School for Integrated Studies,Ethnicity by GPA,Asian,65-74,s,s,s
+02M429,Legacy School for Integrated Studies,Ethnicity by GPA,Asian,75-84,s,s,s
+02M429,Legacy School for Integrated Studies,Ethnicity by GPA,Asian,85-100,s,s,s
+02M429,Legacy School for Integrated Studies,Ethnicity by GPA,Black,All,37,1.0000,37
+02M429,Legacy School for Integrated Studies,Ethnicity by GPA,Black,0-54,s,s,37
+02M429,Legacy School for Integrated Studies,Ethnicity by GPA,Black,85-100,s,s,37
+02M429,Legacy School for Integrated Studies,Ethnicity by GPA,Black,75-84,s,s,37
+02M429,Legacy School for Integrated Studies,Ethnicity by GPA,Black,55-64,s,s,37
+02M429,Legacy School for Integrated Studies,Ethnicity by GPA,Black,65-74,20,0.5405,37
+02M429,Legacy School for Integrated Studies,Ethnicity by GPA,Hispanic,All,44,1.0000,44
+02M429,Legacy School for Integrated Studies,Ethnicity by GPA,Hispanic,0-54,s,s,44
+02M429,Legacy School for Integrated Studies,Ethnicity by GPA,Hispanic,85-100,s,s,44
+02M429,Legacy School for Integrated Studies,Ethnicity by GPA,Hispanic,75-84,s,s,44
+02M429,Legacy School for Integrated Studies,Ethnicity by GPA,Hispanic,55-64,13,0.2955,44
+02M429,Legacy School for Integrated Studies,Ethnicity by GPA,Hispanic,65-74,16,0.3636,44
+02M429,Legacy School for Integrated Studies,Ethnicity by GPA,Other,All,s,s,s
+02M429,Legacy School for Integrated Studies,Ethnicity by GPA,Other,0-54,s,s,s
+02M429,Legacy School for Integrated Studies,Ethnicity by GPA,Other,55-64,s,s,s
+02M429,Legacy School for Integrated Studies,Ethnicity by GPA,Other,65-74,s,s,s
+02M429,Legacy School for Integrated Studies,Ethnicity by GPA,Other,75-84,s,s,s
+02M429,Legacy School for Integrated Studies,Ethnicity by GPA,Other,85-100,s,s,s
+02M429,Legacy School for Integrated Studies,Ethnicity by GPA,White,All,s,s,s
+02M429,Legacy School for Integrated Studies,Ethnicity by GPA,White,0-54,s,s,s
+02M429,Legacy School for Integrated Studies,Ethnicity by GPA,White,65-74,s,s,s
+02M429,Legacy School for Integrated Studies,Ethnicity by GPA,White,85-100,s,s,s
+02M429,Legacy School for Integrated Studies,Ethnicity by GPA,White,55-64,s,s,s
+02M429,Legacy School for Integrated Studies,Ethnicity by GPA,White,75-84,s,s,s
+02M429,Legacy School for Integrated Studies,Gender by GPA,Female,All,41,1.0000,41
+02M429,Legacy School for Integrated Studies,Gender by GPA,Female,0-54,s,s,41
+02M429,Legacy School for Integrated Studies,Gender by GPA,Female,85-100,s,s,41
+02M429,Legacy School for Integrated Studies,Gender by GPA,Female,75-84,s,s,41
+02M429,Legacy School for Integrated Studies,Gender by GPA,Female,55-64,s,s,41
+02M429,Legacy School for Integrated Studies,Gender by GPA,Female,65-74,21,0.5122,41
+02M429,Legacy School for Integrated Studies,Gender by GPA,Male,All,42,1.0000,42
+02M429,Legacy School for Integrated Studies,Gender by GPA,Male,0-54,s,s,42
+02M429,Legacy School for Integrated Studies,Gender by GPA,Male,85-100,s,s,42
+02M429,Legacy School for Integrated Studies,Gender by GPA,Male,75-84,s,s,42
+02M429,Legacy School for Integrated Studies,Gender by GPA,Male,55-64,14,0.3333,42
+02M429,Legacy School for Integrated Studies,Gender by GPA,Male,65-74,15,0.3571,42
+02M429,Legacy School for Integrated Studies,Grade by GPA,Grade 10,All,14,1.0000,14
+02M429,Legacy School for Integrated Studies,Grade by GPA,Grade 10,0-54,s,s,14
+02M429,Legacy School for Integrated Studies,Grade by GPA,Grade 10,75-84,s,s,14
+02M429,Legacy School for Integrated Studies,Grade by GPA,Grade 10,85-100,s,s,14
+02M429,Legacy School for Integrated Studies,Grade by GPA,Grade 10,65-74,s,s,14
+02M429,Legacy School for Integrated Studies,Grade by GPA,Grade 10,55-64,11,0.7857,14
+02M429,Legacy School for Integrated Studies,Grade by GPA,Grade 11,All,s,s,s
+02M429,Legacy School for Integrated Studies,Grade by GPA,Grade 11,0-54,s,s,s
+02M429,Legacy School for Integrated Studies,Grade by GPA,Grade 11,65-74,s,s,s
+02M429,Legacy School for Integrated Studies,Grade by GPA,Grade 11,75-84,s,s,s
+02M429,Legacy School for Integrated Studies,Grade by GPA,Grade 11,85-100,s,s,s
+02M429,Legacy School for Integrated Studies,Grade by GPA,Grade 11,55-64,s,s,s
+02M429,Legacy School for Integrated Studies,Grade by GPA,Grade 12,All,58,1.0000,58
+02M429,Legacy School for Integrated Studies,Grade by GPA,Grade 12,0-54,s,s,58
+02M429,Legacy School for Integrated Studies,Grade by GPA,Grade 12,55-64,s,s,58
+02M429,Legacy School for Integrated Studies,Grade by GPA,Grade 12,85-100,s,s,58
+02M429,Legacy School for Integrated Studies,Grade by GPA,Grade 12,75-84,16,0.2759,58
+02M429,Legacy School for Integrated Studies,Grade by GPA,Grade 12,65-74,33,0.5690,58
+02M429,Legacy School for Integrated Studies,Grade by GPA,Grade 9,All,s,s,s
+02M429,Legacy School for Integrated Studies,Grade by GPA,Grade 9,65-74,s,s,s
+02M429,Legacy School for Integrated Studies,Grade by GPA,Grade 9,75-84,s,s,s
+02M429,Legacy School for Integrated Studies,Grade by GPA,Grade 9,85-100,s,s,s
+02M429,Legacy School for Integrated Studies,Grade by GPA,Grade 9,0-54,s,s,s
+02M429,Legacy School for Integrated Studies,Grade by GPA,Grade 9,55-64,s,s,s
+02M460,Washington Irving High School,Age by GPA,13 yrs old,All,s,s,s
+02M460,Washington Irving High School,Age by GPA,13 yrs old,0-54,s,s,s
+02M460,Washington Irving High School,Age by GPA,13 yrs old,55-64,s,s,s
+02M460,Washington Irving High School,Age by GPA,13 yrs old,65-74,s,s,s
+02M460,Washington Irving High School,Age by GPA,13 yrs old,75-84,s,s,s
+02M460,Washington Irving High School,Age by GPA,13 yrs old,85-100,s,s,s
+02M460,Washington Irving High School,Age by GPA,15 yrs old,All,s,s,s
+02M460,Washington Irving High School,Age by GPA,15 yrs old,0-54,s,s,s
+02M460,Washington Irving High School,Age by GPA,15 yrs old,55-64,s,s,s
+02M460,Washington Irving High School,Age by GPA,15 yrs old,75-84,s,s,s
+02M460,Washington Irving High School,Age by GPA,15 yrs old,85-100,s,s,s
+02M460,Washington Irving High School,Age by GPA,15 yrs old,65-74,s,s,s
+02M460,Washington Irving High School,Age by GPA,16 yrs old,All,62,1.0000,62
+02M460,Washington Irving High School,Age by GPA,16 yrs old,0-54,s,s,62
+02M460,Washington Irving High School,Age by GPA,16 yrs old,55-64,s,s,62
+02M460,Washington Irving High School,Age by GPA,16 yrs old,85-100,s,s,62
+02M460,Washington Irving High School,Age by GPA,16 yrs old,75-84,16,0.2581,62
+02M460,Washington Irving High School,Age by GPA,16 yrs old,65-74,29,0.4677,62
+02M460,Washington Irving High School,Age by GPA,17 yrs old,All,116,1.0000,116
+02M460,Washington Irving High School,Age by GPA,17 yrs old,0-54,s,s,116
+02M460,Washington Irving High School,Age by GPA,17 yrs old,85-100,s,s,116
+02M460,Washington Irving High School,Age by GPA,17 yrs old,55-64,19,0.1638,116
+02M460,Washington Irving High School,Age by GPA,17 yrs old,65-74,37,0.3190,116
+02M460,Washington Irving High School,Age by GPA,17 yrs old,75-84,40,0.3448,116
+02M460,Washington Irving High School,Age by GPA,18 yrs old,All,80,1.0000,80
+02M460,Washington Irving High School,Age by GPA,18 yrs old,0-54,s,s,80
+02M460,Washington Irving High School,Age by GPA,18 yrs old,85-100,s,s,80
+02M460,Washington Irving High School,Age by GPA,18 yrs old,75-84,13,0.1625,80
+02M460,Washington Irving High School,Age by GPA,18 yrs old,55-64,20,0.2500,80
+02M460,Washington Irving High School,Age by GPA,18 yrs old,65-74,38,0.4750,80
+02M460,Washington Irving High School,Age by GPA,19 yrs old,All,44,1.0000,44
+02M460,Washington Irving High School,Age by GPA,19 yrs old,0-54,s,s,44
+02M460,Washington Irving High School,Age by GPA,19 yrs old,85-100,s,s,44
+02M460,Washington Irving High School,Age by GPA,19 yrs old,75-84,s,s,44
+02M460,Washington Irving High School,Age by GPA,19 yrs old,55-64,14,0.3182,44
+02M460,Washington Irving High School,Age by GPA,19 yrs old,65-74,21,0.4773,44
+02M460,Washington Irving High School,Age by GPA,20 yrs old,All,14,1.0000,14
+02M460,Washington Irving High School,Age by GPA,20 yrs old,0-54,s,s,14
+02M460,Washington Irving High School,Age by GPA,20 yrs old,85-100,s,s,14
+02M460,Washington Irving High School,Age by GPA,20 yrs old,75-84,s,s,14
+02M460,Washington Irving High School,Age by GPA,20 yrs old,55-64,s,s,14
+02M460,Washington Irving High School,Age by GPA,20 yrs old,65-74,s,s,14
+02M460,Washington Irving High School,Age by GPA,21 yrs old or older,All,s,s,s
+02M460,Washington Irving High School,Age by GPA,21 yrs old or older,0-54,s,s,s
+02M460,Washington Irving High School,Age by GPA,21 yrs old or older,55-64,s,s,s
+02M460,Washington Irving High School,Age by GPA,21 yrs old or older,85-100,s,s,s
+02M460,Washington Irving High School,Age by GPA,21 yrs old or older,75-84,s,s,s
+02M460,Washington Irving High School,Age by GPA,21 yrs old or older,65-74,s,s,s
+02M460,Washington Irving High School,All Students by GPA,all,All,320,1.0000,320
+02M460,Washington Irving High School,All Students by GPA,all,0-54,10,0.0313,320
+02M460,Washington Irving High School,All Students by GPA,all,85-100,30,0.0938,320
+02M460,Washington Irving High School,All Students by GPA,all,55-64,62,0.1938,320
+02M460,Washington Irving High School,All Students by GPA,all,75-84,81,0.2531,320
+02M460,Washington Irving High School,All Students by GPA,all,65-74,137,0.4281,320
+02M460,Washington Irving High School,Disability Status by GPA,Non-SWD,All,248,1.0000,248
+02M460,Washington Irving High School,Disability Status by GPA,Non-SWD,0-54,s,s,248
+02M460,Washington Irving High School,Disability Status by GPA,Non-SWD,85-100,s,s,248
+02M460,Washington Irving High School,Disability Status by GPA,Non-SWD,55-64,42,0.1694,248
+02M460,Washington Irving High School,Disability Status by GPA,Non-SWD,75-84,69,0.2782,248
+02M460,Washington Irving High School,Disability Status by GPA,Non-SWD,65-74,103,0.4153,248
+02M460,Washington Irving High School,Disability Status by GPA,SWD,All,72,1.0000,72
+02M460,Washington Irving High School,Disability Status by GPA,SWD,85-100,s,s,72
+02M460,Washington Irving High School,Disability Status by GPA,SWD,0-54,s,s,72
+02M460,Washington Irving High School,Disability Status by GPA,SWD,75-84,12,0.1667,72
+02M460,Washington Irving High School,Disability Status by GPA,SWD,55-64,20,0.2778,72
+02M460,Washington Irving High School,Disability Status by GPA,SWD,65-74,34,0.4722,72
+02M460,Washington Irving High School,English Language Learner Status by GPA,Ell,All,56,1.0000,56
+02M460,Washington Irving High School,English Language Learner Status by GPA,Ell,85-100,s,s,56
+02M460,Washington Irving High School,English Language Learner Status by GPA,Ell,0-54,s,s,56
+02M460,Washington Irving High School,English Language Learner Status by GPA,Ell,75-84,11,0.1964,56
+02M460,Washington Irving High School,English Language Learner Status by GPA,Ell,55-64,13,0.2321,56
+02M460,Washington Irving High School,English Language Learner Status by GPA,Ell,65-74,30,0.5357,56
+02M460,Washington Irving High School,English Language Learner Status by GPA,Non-Ell,All,264,1.0000,264
+02M460,Washington Irving High School,English Language Learner Status by GPA,Non-Ell,0-54,s,s,264
+02M460,Washington Irving High School,English Language Learner Status by GPA,Non-Ell,85-100,s,s,264
+02M460,Washington Irving High School,English Language Learner Status by GPA,Non-Ell,55-64,49,0.1856,264
+02M460,Washington Irving High School,English Language Learner Status by GPA,Non-Ell,75-84,70,0.2652,264
+02M460,Washington Irving High School,English Language Learner Status by GPA,Non-Ell,65-74,107,0.4053,264
+02M460,Washington Irving High School,Ethnicity by GPA,Asian,All,17,1.0000,17
+02M460,Washington Irving High School,Ethnicity by GPA,Asian,0-54,s,s,17
+02M460,Washington Irving High School,Ethnicity by GPA,Asian,55-64,s,s,17
+02M460,Washington Irving High School,Ethnicity by GPA,Asian,85-100,s,s,17
+02M460,Washington Irving High School,Ethnicity by GPA,Asian,65-74,s,s,17
+02M460,Washington Irving High School,Ethnicity by GPA,Asian,75-84,s,s,17
+02M460,Washington Irving High School,Ethnicity by GPA,Black,All,124,1.0000,124
+02M460,Washington Irving High School,Ethnicity by GPA,Black,0-54,s,s,124
+02M460,Washington Irving High School,Ethnicity by GPA,Black,85-100,s,s,124
+02M460,Washington Irving High School,Ethnicity by GPA,Black,55-64,24,0.1935,124
+02M460,Washington Irving High School,Ethnicity by GPA,Black,75-84,34,0.2742,124
+02M460,Washington Irving High School,Ethnicity by GPA,Black,65-74,54,0.4355,124
+02M460,Washington Irving High School,Ethnicity by GPA,Hispanic,All,170,1.0000,170
+02M460,Washington Irving High School,Ethnicity by GPA,Hispanic,0-54,s,s,170
+02M460,Washington Irving High School,Ethnicity by GPA,Hispanic,85-100,s,s,170
+02M460,Washington Irving High School,Ethnicity by GPA,Hispanic,55-64,36,0.2118,170
+02M460,Washington Irving High School,Ethnicity by GPA,Hispanic,75-84,37,0.2176,170
+02M460,Washington Irving High School,Ethnicity by GPA,Hispanic,65-74,75,0.4412,170
+02M460,Washington Irving High School,Ethnicity by GPA,Other,All,s,s,s
+02M460,Washington Irving High School,Ethnicity by GPA,Other,0-54,s,s,s
+02M460,Washington Irving High School,Ethnicity by GPA,Other,55-64,s,s,s
+02M460,Washington Irving High School,Ethnicity by GPA,Other,75-84,s,s,s
+02M460,Washington Irving High School,Ethnicity by GPA,Other,85-100,s,s,s
+02M460,Washington Irving High School,Ethnicity by GPA,Other,65-74,s,s,s
+02M460,Washington Irving High School,Ethnicity by GPA,White,All,s,s,s
+02M460,Washington Irving High School,Ethnicity by GPA,White,0-54,s,s,s
+02M460,Washington Irving High School,Ethnicity by GPA,White,55-64,s,s,s
+02M460,Washington Irving High School,Ethnicity by GPA,White,65-74,s,s,s
+02M460,Washington Irving High School,Ethnicity by GPA,White,85-100,s,s,s
+02M460,Washington Irving High School,Ethnicity by GPA,White,75-84,s,s,s
+02M460,Washington Irving High School,Gender by GPA,Female,All,159,1.0000,159
+02M460,Washington Irving High School,Gender by GPA,Female,0-54,s,s,159
+02M460,Washington Irving High School,Gender by GPA,Female,55-64,s,s,159
+02M460,Washington Irving High School,Gender by GPA,Female,85-100,23,0.1447,159
+02M460,Washington Irving High School,Gender by GPA,Female,75-84,48,0.3019,159
+02M460,Washington Irving High School,Gender by GPA,Female,65-74,66,0.4151,159
+02M460,Washington Irving High School,Gender by GPA,Male,All,161,1.0000,161
+02M460,Washington Irving High School,Gender by GPA,Male,0-54,s,s,161
+02M460,Washington Irving High School,Gender by GPA,Male,85-100,s,s,161
+02M460,Washington Irving High School,Gender by GPA,Male,75-84,33,0.2050,161
+02M460,Washington Irving High School,Gender by GPA,Male,55-64,44,0.2733,161
+02M460,Washington Irving High School,Gender by GPA,Male,65-74,71,0.4410,161
+02M460,Washington Irving High School,Grade by GPA,Grade 10,All,30,1.0000,30
+02M460,Washington Irving High School,Grade by GPA,Grade 10,85-100,s,s,30
+02M460,Washington Irving High School,Grade by GPA,Grade 10,75-84,s,s,30
+02M460,Washington Irving High School,Grade by GPA,Grade 10,0-54,s,s,30
+02M460,Washington Irving High School,Grade by GPA,Grade 10,65-74,s,s,30
+02M460,Washington Irving High School,Grade by GPA,Grade 10,55-64,17,0.5667,30
+02M460,Washington Irving High School,Grade by GPA,Grade 11,All,50,1.0000,50
+02M460,Washington Irving High School,Grade by GPA,Grade 11,0-54,s,s,50
+02M460,Washington Irving High School,Grade by GPA,Grade 11,85-100,s,s,50
+02M460,Washington Irving High School,Grade by GPA,Grade 11,75-84,s,s,50
+02M460,Washington Irving High School,Grade by GPA,Grade 11,55-64,15,0.3000,50
+02M460,Washington Irving High School,Grade by GPA,Grade 11,65-74,32,0.6400,50
+02M460,Washington Irving High School,Grade by GPA,Grade 12,All,230,1.0000,230
+02M460,Washington Irving High School,Grade by GPA,Grade 12,0-54,s,s,230
+02M460,Washington Irving High School,Grade by GPA,Grade 12,55-64,s,s,230
+02M460,Washington Irving High School,Grade by GPA,Grade 12,85-100,29,0.1261,230
+02M460,Washington Irving High School,Grade by GPA,Grade 12,75-84,77,0.3348,230
+02M460,Washington Irving High School,Grade by GPA,Grade 12,65-74,97,0.4217,230
+02M460,Washington Irving High School,Grade by GPA,Grade 9,All,10,1.0000,10
+02M460,Washington Irving High School,Grade by GPA,Grade 9,75-84,s,s,10
+02M460,Washington Irving High School,Grade by GPA,Grade 9,85-100,s,s,10
+02M460,Washington Irving High School,Grade by GPA,Grade 9,65-74,s,s,10
+02M460,Washington Irving High School,Grade by GPA,Grade 9,55-64,s,s,10
+02M460,Washington Irving High School,Grade by GPA,Grade 9,0-54,s,s,10
+03M283,Manhattan Theatre Lab High School,Age by GPA,13 yrs old,All,s,s,s
+03M283,Manhattan Theatre Lab High School,Age by GPA,13 yrs old,0-54,s,s,s
+03M283,Manhattan Theatre Lab High School,Age by GPA,13 yrs old,55-64,s,s,s
+03M283,Manhattan Theatre Lab High School,Age by GPA,13 yrs old,65-74,s,s,s
+03M283,Manhattan Theatre Lab High School,Age by GPA,13 yrs old,75-84,s,s,s
+03M283,Manhattan Theatre Lab High School,Age by GPA,13 yrs old,85-100,s,s,s
+03M283,Manhattan Theatre Lab High School,Age by GPA,15 yrs old,All,s,s,s
+03M283,Manhattan Theatre Lab High School,Age by GPA,15 yrs old,0-54,s,s,s
+03M283,Manhattan Theatre Lab High School,Age by GPA,15 yrs old,55-64,s,s,s
+03M283,Manhattan Theatre Lab High School,Age by GPA,15 yrs old,65-74,s,s,s
+03M283,Manhattan Theatre Lab High School,Age by GPA,15 yrs old,75-84,s,s,s
+03M283,Manhattan Theatre Lab High School,Age by GPA,15 yrs old,85-100,s,s,s
+03M283,Manhattan Theatre Lab High School,Age by GPA,16 yrs old,All,46,1.0000,46
+03M283,Manhattan Theatre Lab High School,Age by GPA,16 yrs old,0-54,s,s,46
+03M283,Manhattan Theatre Lab High School,Age by GPA,16 yrs old,55-64,s,s,46
+03M283,Manhattan Theatre Lab High School,Age by GPA,16 yrs old,85-100,s,s,46
+03M283,Manhattan Theatre Lab High School,Age by GPA,16 yrs old,65-74,14,0.3043,46
+03M283,Manhattan Theatre Lab High School,Age by GPA,16 yrs old,75-84,15,0.3261,46
+03M283,Manhattan Theatre Lab High School,Age by GPA,17 yrs old,All,63,1.0000,63
+03M283,Manhattan Theatre Lab High School,Age by GPA,17 yrs old,0-54,s,s,63
+03M283,Manhattan Theatre Lab High School,Age by GPA,17 yrs old,85-100,s,s,63
+03M283,Manhattan Theatre Lab High School,Age by GPA,17 yrs old,55-64,15,0.2381,63
+03M283,Manhattan Theatre Lab High School,Age by GPA,17 yrs old,75-84,19,0.3016,63
+03M283,Manhattan Theatre Lab High School,Age by GPA,17 yrs old,65-74,23,0.3651,63
+03M283,Manhattan Theatre Lab High School,Age by GPA,18 yrs old,All,24,1.0000,24
+03M283,Manhattan Theatre Lab High School,Age by GPA,18 yrs old,0-54,s,s,24
+03M283,Manhattan Theatre Lab High School,Age by GPA,18 yrs old,85-100,s,s,24
+03M283,Manhattan Theatre Lab High School,Age by GPA,18 yrs old,55-64,s,s,24
+03M283,Manhattan Theatre Lab High School,Age by GPA,18 yrs old,75-84,s,s,24
+03M283,Manhattan Theatre Lab High School,Age by GPA,18 yrs old,65-74,10,0.4167,24
+03M283,Manhattan Theatre Lab High School,Age by GPA,19 yrs old,All,s,s,s
+03M283,Manhattan Theatre Lab High School,Age by GPA,19 yrs old,0-54,s,s,s
+03M283,Manhattan Theatre Lab High School,Age by GPA,19 yrs old,55-64,s,s,s
+03M283,Manhattan Theatre Lab High School,Age by GPA,19 yrs old,85-100,s,s,s
+03M283,Manhattan Theatre Lab High School,Age by GPA,19 yrs old,75-84,s,s,s
+03M283,Manhattan Theatre Lab High School,Age by GPA,19 yrs old,65-74,s,s,s
+03M283,Manhattan Theatre Lab High School,Age by GPA,20 yrs old,All,s,s,s
+03M283,Manhattan Theatre Lab High School,Age by GPA,20 yrs old,0-54,s,s,s
+03M283,Manhattan Theatre Lab High School,Age by GPA,20 yrs old,75-84,s,s,s
+03M283,Manhattan Theatre Lab High School,Age by GPA,20 yrs old,85-100,s,s,s
+03M283,Manhattan Theatre Lab High School,Age by GPA,20 yrs old,55-64,s,s,s
+03M283,Manhattan Theatre Lab High School,Age by GPA,20 yrs old,65-74,s,s,s
+03M283,Manhattan Theatre Lab High School,Age by GPA,21 yrs old or older,All,s,s,s
+03M283,Manhattan Theatre Lab High School,Age by GPA,21 yrs old or older,0-54,s,s,s
+03M283,Manhattan Theatre Lab High School,Age by GPA,21 yrs old or older,55-64,s,s,s
+03M283,Manhattan Theatre Lab High School,Age by GPA,21 yrs old or older,65-74,s,s,s
+03M283,Manhattan Theatre Lab High School,Age by GPA,21 yrs old or older,75-84,s,s,s
+03M283,Manhattan Theatre Lab High School,Age by GPA,21 yrs old or older,85-100,s,s,s
+03M283,Manhattan Theatre Lab High School,All Students by GPA,all,All,143,1.0000,143
+03M283,Manhattan Theatre Lab High School,All Students by GPA,all,0-54,s,s,143
+03M283,Manhattan Theatre Lab High School,All Students by GPA,all,85-100,s,s,143
+03M283,Manhattan Theatre Lab High School,All Students by GPA,all,55-64,29,0.2028,143
+03M283,Manhattan Theatre Lab High School,All Students by GPA,all,75-84,42,0.2937,143
+03M283,Manhattan Theatre Lab High School,All Students by GPA,all,65-74,53,0.3706,143
+03M283,Manhattan Theatre Lab High School,Disability Status by GPA,Non-SWD,All,111,1.0000,111
+03M283,Manhattan Theatre Lab High School,Disability Status by GPA,Non-SWD,0-54,s,s,111
+03M283,Manhattan Theatre Lab High School,Disability Status by GPA,Non-SWD,85-100,s,s,111
+03M283,Manhattan Theatre Lab High School,Disability Status by GPA,Non-SWD,55-64,19,0.1712,111
+03M283,Manhattan Theatre Lab High School,Disability Status by GPA,Non-SWD,75-84,36,0.3243,111
+03M283,Manhattan Theatre Lab High School,Disability Status by GPA,Non-SWD,65-74,40,0.3604,111
+03M283,Manhattan Theatre Lab High School,Disability Status by GPA,SWD,All,32,1.0000,32
+03M283,Manhattan Theatre Lab High School,Disability Status by GPA,SWD,85-100,s,s,32
+03M283,Manhattan Theatre Lab High School,Disability Status by GPA,SWD,0-54,s,s,32
+03M283,Manhattan Theatre Lab High School,Disability Status by GPA,SWD,75-84,s,s,32
+03M283,Manhattan Theatre Lab High School,Disability Status by GPA,SWD,55-64,10,0.3125,32
+03M283,Manhattan Theatre Lab High School,Disability Status by GPA,SWD,65-74,13,0.4063,32
+03M283,Manhattan Theatre Lab High School,English Language Learner Status by GPA,Ell,All,17,1.0000,17
+03M283,Manhattan Theatre Lab High School,English Language Learner Status by GPA,Ell,75-84,s,s,17
+03M283,Manhattan Theatre Lab High School,English Language Learner Status by GPA,Ell,85-100,s,s,17
+03M283,Manhattan Theatre Lab High School,English Language Learner Status by GPA,Ell,0-54,s,s,17
+03M283,Manhattan Theatre Lab High School,English Language Learner Status by GPA,Ell,55-64,s,s,17
+03M283,Manhattan Theatre Lab High School,English Language Learner Status by GPA,Ell,65-74,s,s,17
+03M283,Manhattan Theatre Lab High School,English Language Learner Status by GPA,Non-Ell,All,126,1.0000,126
+03M283,Manhattan Theatre Lab High School,English Language Learner Status by GPA,Non-Ell,0-54,s,s,126
+03M283,Manhattan Theatre Lab High School,English Language Learner Status by GPA,Non-Ell,85-100,s,s,126
+03M283,Manhattan Theatre Lab High School,English Language Learner Status by GPA,Non-Ell,55-64,24,0.1905,126
+03M283,Manhattan Theatre Lab High School,English Language Learner Status by GPA,Non-Ell,75-84,41,0.3254,126
+03M283,Manhattan Theatre Lab High School,English Language Learner Status by GPA,Non-Ell,65-74,46,0.3651,126
+03M283,Manhattan Theatre Lab High School,Ethnicity by GPA,Asian,All,s,s,s
+03M283,Manhattan Theatre Lab High School,Ethnicity by GPA,Asian,0-54,s,s,s
+03M283,Manhattan Theatre Lab High School,Ethnicity by GPA,Asian,55-64,s,s,s
+03M283,Manhattan Theatre Lab High School,Ethnicity by GPA,Asian,65-74,s,s,s
+03M283,Manhattan Theatre Lab High School,Ethnicity by GPA,Asian,85-100,s,s,s
+03M283,Manhattan Theatre Lab High School,Ethnicity by GPA,Asian,75-84,s,s,s
+03M283,Manhattan Theatre Lab High School,Ethnicity by GPA,Black,All,62,1.0000,62
+03M283,Manhattan Theatre Lab High School,Ethnicity by GPA,Black,0-54,s,s,62
+03M283,Manhattan Theatre Lab High School,Ethnicity by GPA,Black,85-100,s,s,62
+03M283,Manhattan Theatre Lab High School,Ethnicity by GPA,Black,55-64,10,0.1613,62
+03M283,Manhattan Theatre Lab High School,Ethnicity by GPA,Black,75-84,19,0.3065,62
+03M283,Manhattan Theatre Lab High School,Ethnicity by GPA,Black,65-74,25,0.4032,62
+03M283,Manhattan Theatre Lab High School,Ethnicity by GPA,Hispanic,All,76,1.0000,76
+03M283,Manhattan Theatre Lab High School,Ethnicity by GPA,Hispanic,0-54,s,s,76
+03M283,Manhattan Theatre Lab High School,Ethnicity by GPA,Hispanic,85-100,s,s,76
+03M283,Manhattan Theatre Lab High School,Ethnicity by GPA,Hispanic,55-64,19,0.2500,76
+03M283,Manhattan Theatre Lab High School,Ethnicity by GPA,Hispanic,75-84,19,0.2500,76
+03M283,Manhattan Theatre Lab High School,Ethnicity by GPA,Hispanic,65-74,28,0.3684,76
+03M283,Manhattan Theatre Lab High School,Ethnicity by GPA,Other,All,s,s,s
+03M283,Manhattan Theatre Lab High School,Ethnicity by GPA,Other,0-54,s,s,s
+03M283,Manhattan Theatre Lab High School,Ethnicity by GPA,Other,55-64,s,s,s
+03M283,Manhattan Theatre Lab High School,Ethnicity by GPA,Other,65-74,s,s,s
+03M283,Manhattan Theatre Lab High School,Ethnicity by GPA,Other,75-84,s,s,s
+03M283,Manhattan Theatre Lab High School,Ethnicity by GPA,Other,85-100,s,s,s
+03M283,Manhattan Theatre Lab High School,Ethnicity by GPA,White,All,s,s,s
+03M283,Manhattan Theatre Lab High School,Ethnicity by GPA,White,0-54,s,s,s
+03M283,Manhattan Theatre Lab High School,Ethnicity by GPA,White,55-64,s,s,s
+03M283,Manhattan Theatre Lab High School,Ethnicity by GPA,White,65-74,s,s,s
+03M283,Manhattan Theatre Lab High School,Ethnicity by GPA,White,75-84,s,s,s
+03M283,Manhattan Theatre Lab High School,Ethnicity by GPA,White,85-100,s,s,s
+03M283,Manhattan Theatre Lab High School,Gender by GPA,Female,All,86,1.0000,86
+03M283,Manhattan Theatre Lab High School,Gender by GPA,Female,0-54,s,s,86
+03M283,Manhattan Theatre Lab High School,Gender by GPA,Female,85-100,s,s,86
+03M283,Manhattan Theatre Lab High School,Gender by GPA,Female,55-64,14,0.1628,86
+03M283,Manhattan Theatre Lab High School,Gender by GPA,Female,75-84,27,0.3140,86
+03M283,Manhattan Theatre Lab High School,Gender by GPA,Female,65-74,31,0.3605,86
+03M283,Manhattan Theatre Lab High School,Gender by GPA,Male,All,57,1.0000,57
+03M283,Manhattan Theatre Lab High School,Gender by GPA,Male,0-54,s,s,57
+03M283,Manhattan Theatre Lab High School,Gender by GPA,Male,85-100,s,s,57
+03M283,Manhattan Theatre Lab High School,Gender by GPA,Male,55-64,15,0.2632,57
+03M283,Manhattan Theatre Lab High School,Gender by GPA,Male,75-84,15,0.2632,57
+03M283,Manhattan Theatre Lab High School,Gender by GPA,Male,65-74,22,0.3860,57
+03M283,Manhattan Theatre Lab High School,Grade by GPA,Grade 10,All,20,1.0000,20
+03M283,Manhattan Theatre Lab High School,Grade by GPA,Grade 10,75-84,s,s,20
+03M283,Manhattan Theatre Lab High School,Grade by GPA,Grade 10,85-100,s,s,20
+03M283,Manhattan Theatre Lab High School,Grade by GPA,Grade 10,65-74,s,s,20
+03M283,Manhattan Theatre Lab High School,Grade by GPA,Grade 10,0-54,s,s,20
+03M283,Manhattan Theatre Lab High School,Grade by GPA,Grade 10,55-64,13,0.6500,20
+03M283,Manhattan Theatre Lab High School,Grade by GPA,Grade 11,All,16,1.0000,16
+03M283,Manhattan Theatre Lab High School,Grade by GPA,Grade 11,0-54,s,s,16
+03M283,Manhattan Theatre Lab High School,Grade by GPA,Grade 11,75-84,s,s,16
+03M283,Manhattan Theatre Lab High School,Grade by GPA,Grade 11,85-100,s,s,16
+03M283,Manhattan Theatre Lab High School,Grade by GPA,Grade 11,65-74,s,s,16
+03M283,Manhattan Theatre Lab High School,Grade by GPA,Grade 11,55-64,10,0.6250,16
+03M283,Manhattan Theatre Lab High School,Grade by GPA,Grade 12,All,105,1.0000,105
+03M283,Manhattan Theatre Lab High School,Grade by GPA,Grade 12,0-54,s,s,105
+03M283,Manhattan Theatre Lab High School,Grade by GPA,Grade 12,55-64,s,s,105
+03M283,Manhattan Theatre Lab High School,Grade by GPA,Grade 12,85-100,14,0.1333,105
+03M283,Manhattan Theatre Lab High School,Grade by GPA,Grade 12,75-84,42,0.4000,105
+03M283,Manhattan Theatre Lab High School,Grade by GPA,Grade 12,65-74,44,0.4190,105
+03M283,Manhattan Theatre Lab High School,Grade by GPA,Grade 9,All,s,s,s
+03M283,Manhattan Theatre Lab High School,Grade by GPA,Grade 9,65-74,s,s,s
+03M283,Manhattan Theatre Lab High School,Grade by GPA,Grade 9,75-84,s,s,s
+03M283,Manhattan Theatre Lab High School,Grade by GPA,Grade 9,85-100,s,s,s
+03M283,Manhattan Theatre Lab High School,Grade by GPA,Grade 9,0-54,s,s,s
+03M283,Manhattan Theatre Lab High School,Grade by GPA,Grade 9,55-64,s,s,s
+07X203,M.S. 203,Age by GPA,13 yrs old,All,s,s,s
+07X203,M.S. 203,Age by GPA,13 yrs old,55-64,s,s,s
+07X203,M.S. 203,Age by GPA,13 yrs old,65-74,s,s,s
+07X203,M.S. 203,Age by GPA,13 yrs old,75-84,s,s,s
+07X203,M.S. 203,Age by GPA,13 yrs old,85-100,s,s,s
+07X203,M.S. 203,Age by GPA,13 yrs old,0-54,s,s,s
+07X203,M.S. 203,Age by GPA,15 yrs old,All,s,s,s
+07X203,M.S. 203,Age by GPA,15 yrs old,0-54,s,s,s
+07X203,M.S. 203,Age by GPA,15 yrs old,55-64,s,s,s
+07X203,M.S. 203,Age by GPA,15 yrs old,65-74,s,s,s
+07X203,M.S. 203,Age by GPA,15 yrs old,75-84,s,s,s
+07X203,M.S. 203,Age by GPA,15 yrs old,85-100,s,s,s
+07X203,M.S. 203,Age by GPA,16 yrs old,All,s,s,s
+07X203,M.S. 203,Age by GPA,16 yrs old,0-54,s,s,s
+07X203,M.S. 203,Age by GPA,16 yrs old,55-64,s,s,s
+07X203,M.S. 203,Age by GPA,16 yrs old,65-74,s,s,s
+07X203,M.S. 203,Age by GPA,16 yrs old,75-84,s,s,s
+07X203,M.S. 203,Gender by GPA,Female,55-64,s,s,s
+07X203,M.S. 203,Age by GPA,16 yrs old,85-100,s,s,s
+07X203,M.S. 203,Age by GPA,17 yrs old,All,s,s,s
+07X203,M.S. 203,Age by GPA,17 yrs old,0-54,s,s,s
+07X203,M.S. 203,Age by GPA,17 yrs old,55-64,s,s,s
+07X203,M.S. 203,Age by GPA,17 yrs old,65-74,s,s,s
+07X203,M.S. 203,Age by GPA,17 yrs old,75-84,s,s,s
+07X203,M.S. 203,Age by GPA,17 yrs old,85-100,s,s,s
+07X203,M.S. 203,Age by GPA,18 yrs old,All,s,s,s
+07X203,M.S. 203,Age by GPA,18 yrs old,0-54,s,s,s
+07X203,M.S. 203,Age by GPA,18 yrs old,55-64,s,s,s
+07X203,M.S. 203,Age by GPA,18 yrs old,65-74,s,s,s
+07X203,M.S. 203,Age by GPA,18 yrs old,75-84,s,s,s
+07X203,M.S. 203,Age by GPA,18 yrs old,85-100,s,s,s
+07X203,M.S. 203,Age by GPA,19 yrs old,All,s,s,s
+07X203,M.S. 203,Age by GPA,19 yrs old,0-54,s,s,s
+07X203,M.S. 203,Age by GPA,19 yrs old,55-64,s,s,s
+07X203,M.S. 203,Age by GPA,19 yrs old,65-74,s,s,s
+07X203,M.S. 203,Age by GPA,19 yrs old,75-84,s,s,s
+07X203,M.S. 203,Age by GPA,19 yrs old,85-100,s,s,s
+07X203,M.S. 203,Age by GPA,20 yrs old,All,s,s,s
+07X203,M.S. 203,Age by GPA,20 yrs old,0-54,s,s,s
+07X203,M.S. 203,Age by GPA,20 yrs old,55-64,s,s,s
+07X203,M.S. 203,Age by GPA,20 yrs old,65-74,s,s,s
+07X203,M.S. 203,Age by GPA,20 yrs old,75-84,s,s,s
+07X203,M.S. 203,Age by GPA,20 yrs old,85-100,s,s,s
+07X203,M.S. 203,Age by GPA,21 yrs old or older,All,s,s,s
+07X203,M.S. 203,Age by GPA,21 yrs old or older,0-54,s,s,s
+07X203,M.S. 203,Age by GPA,21 yrs old or older,55-64,s,s,s
+07X203,M.S. 203,Age by GPA,21 yrs old or older,65-74,s,s,s
+07X203,M.S. 203,Age by GPA,21 yrs old or older,75-84,s,s,s
+07X203,M.S. 203,Age by GPA,21 yrs old or older,85-100,s,s,s
+07X203,M.S. 203,All Students by GPA,all,All,s,s,s
+07X203,M.S. 203,All Students by GPA,all,55-64,s,s,s
+07X203,M.S. 203,All Students by GPA,all,65-74,s,s,s
+07X203,M.S. 203,All Students by GPA,all,75-84,s,s,s
+07X203,M.S. 203,All Students by GPA,all,85-100,s,s,s
+07X203,M.S. 203,All Students by GPA,all,0-54,s,s,s
+07X203,M.S. 203,Disability Status by GPA,Non-SWD,All,s,s,s
+07X203,M.S. 203,Disability Status by GPA,Non-SWD,0-54,s,s,s
+07X203,M.S. 203,Disability Status by GPA,Non-SWD,55-64,s,s,s
+07X203,M.S. 203,Disability Status by GPA,Non-SWD,65-74,s,s,s
+07X203,M.S. 203,Disability Status by GPA,Non-SWD,75-84,s,s,s
+07X203,M.S. 203,Disability Status by GPA,Non-SWD,85-100,s,s,s
+07X203,M.S. 203,Disability Status by GPA,SWD,All,s,s,s
+07X203,M.S. 203,Disability Status by GPA,SWD,55-64,s,s,s
+07X203,M.S. 203,Disability Status by GPA,SWD,65-74,s,s,s
+07X203,M.S. 203,Disability Status by GPA,SWD,75-84,s,s,s
+07X203,M.S. 203,Disability Status by GPA,SWD,85-100,s,s,s
+07X203,M.S. 203,Disability Status by GPA,SWD,0-54,s,s,s
+07X203,M.S. 203,English Language Learner Status by GPA,Ell,All,s,s,s
+07X203,M.S. 203,English Language Learner Status by GPA,Ell,55-64,s,s,s
+07X203,M.S. 203,English Language Learner Status by GPA,Ell,65-74,s,s,s
+07X203,M.S. 203,English Language Learner Status by GPA,Ell,75-84,s,s,s
+07X203,M.S. 203,English Language Learner Status by GPA,Ell,85-100,s,s,s
+07X203,M.S. 203,English Language Learner Status by GPA,Ell,0-54,s,s,s
+07X203,M.S. 203,English Language Learner Status by GPA,Non-Ell,All,s,s,s
+07X203,M.S. 203,English Language Learner Status by GPA,Non-Ell,0-54,s,s,s
+07X203,M.S. 203,English Language Learner Status by GPA,Non-Ell,55-64,s,s,s
+07X203,M.S. 203,English Language Learner Status by GPA,Non-Ell,65-74,s,s,s
+07X203,M.S. 203,English Language Learner Status by GPA,Non-Ell,75-84,s,s,s
+07X203,M.S. 203,English Language Learner Status by GPA,Non-Ell,85-100,s,s,s
+07X203,M.S. 203,Ethnicity by GPA,Asian,All,s,s,s
+07X203,M.S. 203,Ethnicity by GPA,Asian,0-54,s,s,s
+07X203,M.S. 203,Ethnicity by GPA,Asian,55-64,s,s,s
+07X203,M.S. 203,Ethnicity by GPA,Asian,65-74,s,s,s
+07X203,M.S. 203,Ethnicity by GPA,Asian,75-84,s,s,s
+07X203,M.S. 203,Ethnicity by GPA,Asian,85-100,s,s,s
+07X203,M.S. 203,Ethnicity by GPA,Black,All,s,s,s
+07X203,M.S. 203,Ethnicity by GPA,Black,0-54,s,s,s
+07X203,M.S. 203,Ethnicity by GPA,Black,55-64,s,s,s
+07X203,M.S. 203,Ethnicity by GPA,Black,65-74,s,s,s
+07X203,M.S. 203,Ethnicity by GPA,Black,75-84,s,s,s
+07X203,M.S. 203,Ethnicity by GPA,Black,85-100,s,s,s
+07X203,M.S. 203,Ethnicity by GPA,Hispanic,All,s,s,s
+07X203,M.S. 203,Ethnicity by GPA,Hispanic,55-64,s,s,s
+07X203,M.S. 203,Ethnicity by GPA,Hispanic,65-74,s,s,s
+07X203,M.S. 203,Ethnicity by GPA,Hispanic,75-84,s,s,s
+07X203,M.S. 203,Ethnicity by GPA,Hispanic,85-100,s,s,s
+07X203,M.S. 203,Ethnicity by GPA,Hispanic,0-54,s,s,s
+07X203,M.S. 203,Ethnicity by GPA,Other,All,s,s,s
+07X203,M.S. 203,Ethnicity by GPA,Other,0-54,s,s,s
+07X203,M.S. 203,Ethnicity by GPA,Other,55-64,s,s,s
+07X203,M.S. 203,Ethnicity by GPA,Other,65-74,s,s,s
+07X203,M.S. 203,Ethnicity by GPA,Other,75-84,s,s,s
+07X203,M.S. 203,Ethnicity by GPA,Other,85-100,s,s,s
+07X203,M.S. 203,Ethnicity by GPA,White,All,s,s,s
+07X203,M.S. 203,Ethnicity by GPA,White,0-54,s,s,s
+07X203,M.S. 203,Ethnicity by GPA,White,55-64,s,s,s
+07X203,M.S. 203,Ethnicity by GPA,White,65-74,s,s,s
+07X203,M.S. 203,Ethnicity by GPA,White,75-84,s,s,s
+07X203,M.S. 203,Ethnicity by GPA,White,85-100,s,s,s
+07X203,M.S. 203,Gender by GPA,Female,All,s,s,s
+07X203,M.S. 203,Gender by GPA,Female,0-54,s,s,s
+07X203,M.S. 203,Gender by GPA,Female,65-74,s,s,s
+07X203,M.S. 203,Gender by GPA,Female,75-84,s,s,s
+07X203,M.S. 203,Gender by GPA,Female,85-100,s,s,s
+07X203,M.S. 203,Gender by GPA,Male,All,s,s,s
+07X203,M.S. 203,Gender by GPA,Male,55-64,s,s,s
+07X203,M.S. 203,Gender by GPA,Male,65-74,s,s,s
+07X203,M.S. 203,Gender by GPA,Male,75-84,s,s,s
+07X203,M.S. 203,Gender by GPA,Male,85-100,s,s,s
+07X203,M.S. 203,Gender by GPA,Male,0-54,s,s,s
+07X203,M.S. 203,Grade by GPA,Grade 10,All,s,s,s
+07X203,M.S. 203,Grade by GPA,Grade 10,0-54,s,s,s
+07X203,M.S. 203,Grade by GPA,Grade 10,55-64,s,s,s
+07X203,M.S. 203,Grade by GPA,Grade 10,65-74,s,s,s
+07X203,M.S. 203,Grade by GPA,Grade 10,75-84,s,s,s
+07X203,M.S. 203,Grade by GPA,Grade 10,85-100,s,s,s
+07X203,M.S. 203,Grade by GPA,Grade 11,All,s,s,s
+07X203,M.S. 203,Grade by GPA,Grade 11,0-54,s,s,s
+07X203,M.S. 203,Grade by GPA,Grade 11,55-64,s,s,s
+07X203,M.S. 203,Grade by GPA,Grade 11,65-74,s,s,s
+07X203,M.S. 203,Grade by GPA,Grade 11,75-84,s,s,s
+07X203,M.S. 203,Grade by GPA,Grade 11,85-100,s,s,s
+07X203,M.S. 203,Grade by GPA,Grade 12,All,s,s,s
+07X203,M.S. 203,Grade by GPA,Grade 12,0-54,s,s,s
+07X203,M.S. 203,Grade by GPA,Grade 12,55-64,s,s,s
+07X203,M.S. 203,Grade by GPA,Grade 12,65-74,s,s,s
+07X203,M.S. 203,Grade by GPA,Grade 12,75-84,s,s,s
+07X203,M.S. 203,Grade by GPA,Grade 12,85-100,s,s,s
+07X203,M.S. 203,Grade by GPA,Grade 9,All,s,s,s
+07X203,M.S. 203,Grade by GPA,Grade 9,55-64,s,s,s
+07X203,M.S. 203,Grade by GPA,Grade 9,65-74,s,s,s
+07X203,M.S. 203,Grade by GPA,Grade 9,75-84,s,s,s
+07X203,M.S. 203,Grade by GPA,Grade 9,85-100,s,s,s
+07X203,M.S. 203,Grade by GPA,Grade 9,0-54,s,s,s
+07X655,Samuel Gompers Career and Technical Education High School,Age by GPA,13 yrs old,All,s,s,s
+07X655,Samuel Gompers Career and Technical Education High School,Age by GPA,13 yrs old,0-54,s,s,s
+07X655,Samuel Gompers Career and Technical Education High School,Age by GPA,13 yrs old,55-64,s,s,s
+07X655,Samuel Gompers Career and Technical Education High School,Age by GPA,13 yrs old,65-74,s,s,s
+07X655,Samuel Gompers Career and Technical Education High School,Age by GPA,13 yrs old,75-84,s,s,s
+07X655,Samuel Gompers Career and Technical Education High School,Age by GPA,13 yrs old,85-100,s,s,s
+07X655,Samuel Gompers Career and Technical Education High School,Age by GPA,15 yrs old,All,s,s,s
+07X655,Samuel Gompers Career and Technical Education High School,Age by GPA,15 yrs old,0-54,s,s,s
+07X655,Samuel Gompers Career and Technical Education High School,Age by GPA,15 yrs old,55-64,s,s,s
+07X655,Samuel Gompers Career and Technical Education High School,Age by GPA,15 yrs old,75-84,s,s,s
+07X655,Samuel Gompers Career and Technical Education High School,Age by GPA,15 yrs old,65-74,s,s,s
+07X655,Samuel Gompers Career and Technical Education High School,Age by GPA,15 yrs old,85-100,s,s,s
+07X655,Samuel Gompers Career and Technical Education High School,Age by GPA,16 yrs old,All,39,1.0000,39
+07X655,Samuel Gompers Career and Technical Education High School,Age by GPA,16 yrs old,0-54,s,s,39
+07X655,Samuel Gompers Career and Technical Education High School,Age by GPA,16 yrs old,85-100,s,s,39
+07X655,Samuel Gompers Career and Technical Education High School,Age by GPA,16 yrs old,75-84,s,s,39
+07X655,Samuel Gompers Career and Technical Education High School,Age by GPA,16 yrs old,55-64,s,s,39
+07X655,Samuel Gompers Career and Technical Education High School,Age by GPA,16 yrs old,65-74,20,0.5128,39
+07X655,Samuel Gompers Career and Technical Education High School,Age by GPA,17 yrs old,All,93,1.0000,93
+07X655,Samuel Gompers Career and Technical Education High School,Age by GPA,17 yrs old,0-54,s,s,93
+07X655,Samuel Gompers Career and Technical Education High School,Age by GPA,17 yrs old,85-100,s,s,93
+07X655,Samuel Gompers Career and Technical Education High School,Age by GPA,17 yrs old,75-84,23,0.2473,93
+07X655,Samuel Gompers Career and Technical Education High School,Age by GPA,17 yrs old,55-64,24,0.2581,93
+07X655,Samuel Gompers Career and Technical Education High School,Age by GPA,17 yrs old,65-74,34,0.3656,93
+07X655,Samuel Gompers Career and Technical Education High School,Age by GPA,18 yrs old,All,87,1.0000,87
+07X655,Samuel Gompers Career and Technical Education High School,Age by GPA,18 yrs old,85-100,s,s,87
+07X655,Samuel Gompers Career and Technical Education High School,Age by GPA,18 yrs old,75-84,s,s,87
+07X655,Samuel Gompers Career and Technical Education High School,Age by GPA,18 yrs old,0-54,12,0.1379,87
+07X655,Samuel Gompers Career and Technical Education High School,Age by GPA,18 yrs old,65-74,27,0.3103,87
+07X655,Samuel Gompers Career and Technical Education High School,Age by GPA,18 yrs old,55-64,38,0.4368,87
+07X655,Samuel Gompers Career and Technical Education High School,Age by GPA,19 yrs old,All,30,1.0000,30
+07X655,Samuel Gompers Career and Technical Education High School,Age by GPA,19 yrs old,85-100,s,s,30
+07X655,Samuel Gompers Career and Technical Education High School,Age by GPA,19 yrs old,0-54,s,s,30
+07X655,Samuel Gompers Career and Technical Education High School,Age by GPA,19 yrs old,75-84,s,s,30
+07X655,Samuel Gompers Career and Technical Education High School,Age by GPA,19 yrs old,55-64,s,s,30
+07X655,Samuel Gompers Career and Technical Education High School,Age by GPA,19 yrs old,65-74,12,0.4000,30
+07X655,Samuel Gompers Career and Technical Education High School,Age by GPA,20 yrs old,All,13,1.0000,13
+07X655,Samuel Gompers Career and Technical Education High School,Age by GPA,20 yrs old,0-54,s,s,13
+07X655,Samuel Gompers Career and Technical Education High School,Age by GPA,20 yrs old,85-100,s,s,13
+07X655,Samuel Gompers Career and Technical Education High School,Age by GPA,20 yrs old,75-84,s,s,13
+07X655,Samuel Gompers Career and Technical Education High School,Age by GPA,20 yrs old,65-74,s,s,13
+07X655,Samuel Gompers Career and Technical Education High School,Age by GPA,20 yrs old,55-64,s,s,13
+07X655,Samuel Gompers Career and Technical Education High School,Age by GPA,21 yrs old or older,All,s,s,s
+07X655,Samuel Gompers Career and Technical Education High School,Age by GPA,21 yrs old or older,0-54,s,s,s
+07X655,Samuel Gompers Career and Technical Education High School,Age by GPA,21 yrs old or older,55-64,s,s,s
+07X655,Samuel Gompers Career and Technical Education High School,Age by GPA,21 yrs old or older,75-84,s,s,s
+07X655,Samuel Gompers Career and Technical Education High School,Age by GPA,21 yrs old or older,85-100,s,s,s
+07X655,Samuel Gompers Career and Technical Education High School,Age by GPA,21 yrs old or older,65-74,s,s,s
+07X655,Samuel Gompers Career and Technical Education High School,All Students by GPA,all,All,265,1.0000,265
+07X655,Samuel Gompers Career and Technical Education High School,All Students by GPA,all,85-100,14,0.0528,265
+07X655,Samuel Gompers Career and Technical Education High School,All Students by GPA,all,0-54,22,0.0830,265
+07X655,Samuel Gompers Career and Technical Education High School,All Students by GPA,all,75-84,45,0.1698,265
+07X655,Samuel Gompers Career and Technical Education High School,All Students by GPA,all,55-64,85,0.3208,265
+07X655,Samuel Gompers Career and Technical Education High School,All Students by GPA,all,65-74,99,0.3736,265
+07X655,Samuel Gompers Career and Technical Education High School,Disability Status by GPA,Non-SWD,All,202,1.0000,202
+07X655,Samuel Gompers Career and Technical Education High School,Disability Status by GPA,Non-SWD,85-100,14,0.0693,202
+07X655,Samuel Gompers Career and Technical Education High School,Disability Status by GPA,Non-SWD,0-54,17,0.0842,202
+07X655,Samuel Gompers Career and Technical Education High School,Disability Status by GPA,Non-SWD,75-84,38,0.1881,202
+07X655,Samuel Gompers Career and Technical Education High School,Disability Status by GPA,Non-SWD,55-64,56,0.2772,202
+07X655,Samuel Gompers Career and Technical Education High School,Disability Status by GPA,Non-SWD,65-74,77,0.3812,202
+07X655,Samuel Gompers Career and Technical Education High School,Disability Status by GPA,SWD,All,63,1.0000,63
+07X655,Samuel Gompers Career and Technical Education High School,Disability Status by GPA,SWD,85-100,s,s,63
+07X655,Samuel Gompers Career and Technical Education High School,Disability Status by GPA,SWD,0-54,s,s,63
+07X655,Samuel Gompers Career and Technical Education High School,Disability Status by GPA,SWD,75-84,s,s,63
+07X655,Samuel Gompers Career and Technical Education High School,Disability Status by GPA,SWD,65-74,22,0.3492,63
+07X655,Samuel Gompers Career and Technical Education High School,Disability Status by GPA,SWD,55-64,29,0.4603,63
+07X655,Samuel Gompers Career and Technical Education High School,English Language Learner Status by GPA,Ell,All,33,1.0000,33
+07X655,Samuel Gompers Career and Technical Education High School,English Language Learner Status by GPA,Ell,0-54,s,s,33
+07X655,Samuel Gompers Career and Technical Education High School,English Language Learner Status by GPA,Ell,85-100,s,s,33
+07X655,Samuel Gompers Career and Technical Education High School,English Language Learner Status by GPA,Ell,75-84,s,s,33
+07X655,Samuel Gompers Career and Technical Education High School,English Language Learner Status by GPA,Ell,55-64,10,0.3030,33
+07X655,Samuel Gompers Career and Technical Education High School,English Language Learner Status by GPA,Ell,65-74,12,0.3636,33
+07X655,Samuel Gompers Career and Technical Education High School,English Language Learner Status by GPA,Non-Ell,All,232,1.0000,232
+07X655,Samuel Gompers Career and Technical Education High School,English Language Learner Status by GPA,Non-Ell,85-100,12,0.0517,232
+07X655,Samuel Gompers Career and Technical Education High School,English Language Learner Status by GPA,Non-Ell,0-54,20,0.0862,232
+07X655,Samuel Gompers Career and Technical Education High School,English Language Learner Status by GPA,Non-Ell,75-84,38,0.1638,232
+07X655,Samuel Gompers Career and Technical Education High School,English Language Learner Status by GPA,Non-Ell,55-64,75,0.3233,232
+07X655,Samuel Gompers Career and Technical Education High School,English Language Learner Status by GPA,Non-Ell,65-74,87,0.3750,232
+07X655,Samuel Gompers Career and Technical Education High School,Ethnicity by GPA,Asian,All,s,s,s
+07X655,Samuel Gompers Career and Technical Education High School,Ethnicity by GPA,Asian,0-54,s,s,s
+07X655,Samuel Gompers Career and Technical Education High School,Ethnicity by GPA,Asian,55-64,s,s,s
+07X655,Samuel Gompers Career and Technical Education High School,Ethnicity by GPA,Asian,75-84,s,s,s
+Dataset Keywords,No Data,,,,,,
+07X655,Samuel Gompers Career and Technical Education High School,Ethnicity by GPA,Asian,85-100,s,s,s
+07X655,Samuel Gompers Career and Technical Education High School,Ethnicity by GPA,Asian,65-74,s,s,s
+07X655,Samuel Gompers Career and Technical Education High School,Ethnicity by GPA,Black,All,80,1.0000,80
+07X655,Samuel Gompers Career and Technical Education High School,Ethnicity by GPA,Black,85-100,s,s,80
+07X655,Samuel Gompers Career and Technical Education High School,Ethnicity by GPA,Black,0-54,s,s,80
+07X655,Samuel Gompers Career and Technical Education High School,Ethnicity by GPA,Black,75-84,13,0.1625,80
+07X655,Samuel Gompers Career and Technical Education High School,Ethnicity by GPA,Black,55-64,26,0.3250,80
+07X655,Samuel Gompers Career and Technical Education High School,Ethnicity by GPA,Black,65-74,29,0.3625,80
+07X655,Samuel Gompers Career and Technical Education High School,Ethnicity by GPA,Hispanic,All,178,1.0000,178
+07X655,Samuel Gompers Career and Technical Education High School,Ethnicity by GPA,Hispanic,85-100,10,0.0562,178
+07X655,Samuel Gompers Career and Technical Education High School,Ethnicity by GPA,Hispanic,0-54,12,0.0674,178
+07X655,Samuel Gompers Career and Technical Education High School,Ethnicity by GPA,Hispanic,75-84,31,0.1742,178
+07X655,Samuel Gompers Career and Technical Education High School,Ethnicity by GPA,Hispanic,55-64,56,0.3146,178
+07X655,Samuel Gompers Career and Technical Education High School,Ethnicity by GPA,Hispanic,65-74,69,0.3876,178
+07X655,Samuel Gompers Career and Technical Education High School,Ethnicity by GPA,Other,All,s,s,s
+07X655,Samuel Gompers Career and Technical Education High School,Ethnicity by GPA,Other,65-74,s,s,s
+07X655,Samuel Gompers Career and Technical Education High School,Ethnicity by GPA,Other,75-84,s,s,s
+07X655,Samuel Gompers Career and Technical Education High School,Ethnicity by GPA,Other,85-100,s,s,s
+07X655,Samuel Gompers Career and Technical Education High School,Ethnicity by GPA,Other,0-54,s,s,s
+07X655,Samuel Gompers Career and Technical Education High School,Ethnicity by GPA,Other,55-64,s,s,s
+07X655,Samuel Gompers Career and Technical Education High School,Ethnicity by GPA,White,All,s,s,s
+07X655,Samuel Gompers Career and Technical Education High School,Ethnicity by GPA,White,55-64,s,s,s
+07X655,Samuel Gompers Career and Technical Education High School,Ethnicity by GPA,White,65-74,s,s,s
+07X655,Samuel Gompers Career and Technical Education High School,Ethnicity by GPA,White,85-100,s,s,s
+07X655,Samuel Gompers Career and Technical Education High School,Ethnicity by GPA,White,0-54,s,s,s
+07X655,Samuel Gompers Career and Technical Education High School,Ethnicity by GPA,White,75-84,s,s,s
+07X655,Samuel Gompers Career and Technical Education High School,Gender by GPA,Female,All,56,1.0000,56
+07X655,Samuel Gompers Career and Technical Education High School,Gender by GPA,Female,85-100,s,s,56
+07X655,Samuel Gompers Career and Technical Education High School,Gender by GPA,Female,0-54,s,s,56
+07X655,Samuel Gompers Career and Technical Education High School,Gender by GPA,Female,75-84,10,0.1786,56
+07X655,Samuel Gompers Career and Technical Education High School,Gender by GPA,Female,55-64,17,0.3036,56
+07X655,Samuel Gompers Career and Technical Education High School,Gender by GPA,Female,65-74,22,0.3929,56
+07X655,Samuel Gompers Career and Technical Education High School,Gender by GPA,Male,All,209,1.0000,209
+07X655,Samuel Gompers Career and Technical Education High School,Gender by GPA,Male,85-100,12,0.0574,209
+07X655,Samuel Gompers Career and Technical Education High School,Gender by GPA,Male,0-54,17,0.0813,209
+07X655,Samuel Gompers Career and Technical Education High School,Gender by GPA,Male,75-84,35,0.1675,209
+Dataset Category,No Data,,,,,,
+07X655,Samuel Gompers Career and Technical Education High School,Gender by GPA,Male,55-64,68,0.3254,209
+07X655,Samuel Gompers Career and Technical Education High School,Gender by GPA,Male,65-74,77,0.3684,209
+07X655,Samuel Gompers Career and Technical Education High School,Grade by GPA,Grade 10,All,18,1.0000,18
+07X655,Samuel Gompers Career and Technical Education High School,Grade by GPA,Grade 10,65-74,s,s,18
+07X655,Samuel Gompers Career and Technical Education High School,Grade by GPA,Grade 10,75-84,s,s,18
+07X655,Samuel Gompers Career and Technical Education High School,Grade by GPA,Grade 10,85-100,s,s,18
+07X655,Samuel Gompers Career and Technical Education High School,Grade by GPA,Grade 10,0-54,s,s,18
+07X655,Samuel Gompers Career and Technical Education High School,Grade by GPA,Grade 10,55-64,16,0.8889,18
+07X655,Samuel Gompers Career and Technical Education High School,Grade by GPA,Grade 11,All,22,1.0000,22
+07X655,Samuel Gompers Career and Technical Education High School,Grade by GPA,Grade 11,0-54,s,s,22
+07X655,Samuel Gompers Career and Technical Education High School,Grade by GPA,Grade 11,75-84,s,s,22
+07X655,Samuel Gompers Career and Technical Education High School,Grade by GPA,Grade 11,85-100,s,s,22
+07X655,Samuel Gompers Career and Technical Education High School,Grade by GPA,Grade 11,65-74,s,s,22
+07X655,Samuel Gompers Career and Technical Education High School,Grade by GPA,Grade 11,55-64,17,0.7727,22
+07X655,Samuel Gompers Career and Technical Education High School,Grade by GPA,Grade 12,All,197,1.0000,197
+07X655,Samuel Gompers Career and Technical Education High School,Grade by GPA,Grade 12,0-54,s,s,197
+07X655,Samuel Gompers Career and Technical Education High School,Grade by GPA,Grade 12,85-100,s,s,197
+07X655,Samuel Gompers Career and Technical Education High School,Grade by GPA,Grade 12,55-64,44,0.2234,197
+07X655,Samuel Gompers Career and Technical Education High School,Grade by GPA,Grade 12,75-84,45,0.2284,197
+07X655,Samuel Gompers Career and Technical Education High School,Grade by GPA,Grade 12,65-74,94,0.4772,197
+07X655,Samuel Gompers Career and Technical Education High School,Grade by GPA,Grade 9,All,28,1.0000,28
+07X655,Samuel Gompers Career and Technical Education High School,Grade by GPA,Grade 9,65-74,s,s,28
+07X655,Samuel Gompers Career and Technical Education High School,Grade by GPA,Grade 9,75-84,s,s,28
+07X655,Samuel Gompers Career and Technical Education High School,Grade by GPA,Grade 9,85-100,s,s,28
+07X655,Samuel Gompers Career and Technical Education High School,Grade by GPA,Grade 9,55-64,s,s,28
+07X655,Samuel Gompers Career and Technical Education High School,Grade by GPA,Grade 9,0-54,20,0.7143,28
+08X295,Gateway School for Environmental Research and Technology,Age by GPA,13 yrs old,All,s,s,s
+08X295,Gateway School for Environmental Research and Technology,Age by GPA,13 yrs old,0-54,s,s,s
+08X295,Gateway School for Environmental Research and Technology,Age by GPA,13 yrs old,55-64,s,s,s
+08X295,Gateway School for Environmental Research and Technology,Age by GPA,13 yrs old,65-74,s,s,s
+08X295,Gateway School for Environmental Research and Technology,Age by GPA,13 yrs old,75-84,s,s,s
+08X295,Gateway School for Environmental Research and Technology,Age by GPA,13 yrs old,85-100,s,s,s
+08X295,Gateway School for Environmental Research and Technology,Age by GPA,15 yrs old,All,s,s,s
+08X295,Gateway School for Environmental Research and Technology,Age by GPA,15 yrs old,0-54,s,s,s
+08X295,Gateway School for Environmental Research and Technology,Age by GPA,15 yrs old,55-64,s,s,s
+08X295,Gateway School for Environmental Research and Technology,Age by GPA,15 yrs old,65-74,s,s,s
+08X295,Gateway School for Environmental Research and Technology,Age by GPA,15 yrs old,75-84,s,s,s
+08X295,Gateway School for Environmental Research and Technology,Age by GPA,15 yrs old,85-100,s,s,s
+08X295,Gateway School for Environmental Research and Technology,Age by GPA,16 yrs old,All,33,1.0000,33
+08X295,Gateway School for Environmental Research and Technology,Age by GPA,16 yrs old,85-100,s,s,33
+08X295,Gateway School for Environmental Research and Technology,Age by GPA,16 yrs old,0-54,s,s,33
+08X295,Gateway School for Environmental Research and Technology,Age by GPA,16 yrs old,75-84,s,s,33
+08X295,Gateway School for Environmental Research and Technology,Age by GPA,16 yrs old,55-64,s,s,33
+08X295,Gateway School for Environmental Research and Technology,Age by GPA,16 yrs old,65-74,11,0.3333,33
+08X295,Gateway School for Environmental Research and Technology,Age by GPA,17 yrs old,All,70,1.0000,70
+08X295,Gateway School for Environmental Research and Technology,Age by GPA,17 yrs old,85-100,s,s,70
+08X295,Gateway School for Environmental Research and Technology,Age by GPA,17 yrs old,0-54,s,s,70
+08X295,Gateway School for Environmental Research and Technology,Age by GPA,17 yrs old,55-64,12,0.1714,70
+08X295,Gateway School for Environmental Research and Technology,Age by GPA,17 yrs old,65-74,21,0.3000,70
+08X295,Gateway School for Environmental Research and Technology,Age by GPA,17 yrs old,75-84,21,0.3000,70
+08X295,Gateway School for Environmental Research and Technology,Age by GPA,18 yrs old,All,51,1.0000,51
+08X295,Gateway School for Environmental Research and Technology,Age by GPA,18 yrs old,0-54,s,s,51
+08X295,Gateway School for Environmental Research and Technology,Age by GPA,18 yrs old,85-100,s,s,51
+08X295,Gateway School for Environmental Research and Technology,Age by GPA,18 yrs old,55-64,12,0.2353,51
+08X295,Gateway School for Environmental Research and Technology,Age by GPA,18 yrs old,75-84,13,0.2549,51
+08X295,Gateway School for Environmental Research and Technology,Age by GPA,18 yrs old,65-74,20,0.3922,51
+08X295,Gateway School for Environmental Research and Technology,Age by GPA,19 yrs old,All,25,1.0000,25
+08X295,Gateway School for Environmental Research and Technology,Age by GPA,19 yrs old,85-100,s,s,25
+08X295,Gateway School for Environmental Research and Technology,Age by GPA,19 yrs old,0-54,s,s,25
+08X295,Gateway School for Environmental Research and Technology,Age by GPA,19 yrs old,75-84,s,s,25
+08X295,Gateway School for Environmental Research and Technology,Age by GPA,19 yrs old,55-64,s,s,25
+08X295,Gateway School for Environmental Research and Technology,Age by GPA,19 yrs old,65-74,13,0.5200,25
+08X295,Gateway School for Environmental Research and Technology,Age by GPA,20 yrs old,All,s,s,s
+08X295,Gateway School for Environmental Research and Technology,Age by GPA,20 yrs old,0-54,s,s,s
+08X295,Gateway School for Environmental Research and Technology,Age by GPA,20 yrs old,75-84,s,s,s
+08X295,Gateway School for Environmental Research and Technology,Age by GPA,20 yrs old,85-100,s,s,s
+08X295,Gateway School for Environmental Research and Technology,Age by GPA,20 yrs old,55-64,s,s,s
+08X295,Gateway School for Environmental Research and Technology,Age by GPA,20 yrs old,65-74,s,s,s
+08X295,Gateway School for Environmental Research and Technology,Age by GPA,21 yrs old or older,All,s,s,s
+08X295,Gateway School for Environmental Research and Technology,Age by GPA,21 yrs old or older,0-54,s,s,s
+08X295,Gateway School for Environmental Research and Technology,Age by GPA,21 yrs old or older,55-64,s,s,s
+08X295,Gateway School for Environmental Research and Technology,Age by GPA,21 yrs old or older,65-74,s,s,s
+08X295,Gateway School for Environmental Research and Technology,Age by GPA,21 yrs old or older,75-84,s,s,s
+08X295,Gateway School for Environmental Research and Technology,Age by GPA,21 yrs old or older,85-100,s,s,s
+08X295,Gateway School for Environmental Research and Technology,All Students by GPA,all,All,186,1.0000,186
+08X295,Gateway School for Environmental Research and Technology,All Students by GPA,all,85-100,13,0.0699,186
+08X295,Gateway School for Environmental Research and Technology,All Students by GPA,all,0-54,17,0.0914,186
+08X295,Gateway School for Environmental Research and Technology,All Students by GPA,all,55-64,43,0.2312,186
+08X295,Gateway School for Environmental Research and Technology,All Students by GPA,all,75-84,44,0.2366,186
+08X295,Gateway School for Environmental Research and Technology,All Students by GPA,all,65-74,69,0.3710,186
+08X295,Gateway School for Environmental Research and Technology,Disability Status by GPA,Non-SWD,All,127,1.0000,127
+08X295,Gateway School for Environmental Research and Technology,Disability Status by GPA,Non-SWD,0-54,s,s,127
+08X295,Gateway School for Environmental Research and Technology,Disability Status by GPA,Non-SWD,85-100,s,s,127
+08X295,Gateway School for Environmental Research and Technology,Disability Status by GPA,Non-SWD,55-64,24,0.1890,127
+08X295,Gateway School for Environmental Research and Technology,Disability Status by GPA,Non-SWD,75-84,33,0.2598,127
+08X295,Gateway School for Environmental Research and Technology,Disability Status by GPA,Non-SWD,65-74,49,0.3858,127
+08X295,Gateway School for Environmental Research and Technology,Disability Status by GPA,SWD,All,59,1.0000,59
+08X295,Gateway School for Environmental Research and Technology,Disability Status by GPA,SWD,85-100,s,s,59
+08X295,Gateway School for Environmental Research and Technology,Disability Status by GPA,SWD,0-54,s,s,59
+08X295,Gateway School for Environmental Research and Technology,Disability Status by GPA,SWD,75-84,11,0.1864,59
+08X295,Gateway School for Environmental Research and Technology,Disability Status by GPA,SWD,55-64,19,0.3220,59
+08X295,Gateway School for Environmental Research and Technology,Disability Status by GPA,SWD,65-74,20,0.3390,59
+08X295,Gateway School for Environmental Research and Technology,English Language Learner Status by GPA,Ell,All,24,1.0000,24
+08X295,Gateway School for Environmental Research and Technology,English Language Learner Status by GPA,Ell,85-100,s,s,24
+08X295,Gateway School for Environmental Research and Technology,English Language Learner Status by GPA,Ell,0-54,s,s,24
+08X295,Gateway School for Environmental Research and Technology,English Language Learner Status by GPA,Ell,75-84,s,s,24
+08X295,Gateway School for Environmental Research and Technology,English Language Learner Status by GPA,Ell,65-74,s,s,24
+08X295,Gateway School for Environmental Research and Technology,English Language Learner Status by GPA,Ell,55-64,s,s,24
+08X295,Gateway School for Environmental Research and Technology,English Language Learner Status by GPA,Non-Ell,All,162,1.0000,162
+08X295,Gateway School for Environmental Research and Technology,English Language Learner Status by GPA,Non-Ell,85-100,12,0.0741,162
+08X295,Gateway School for Environmental Research and Technology,English Language Learner Status by GPA,Non-Ell,0-54,14,0.0864,162
+08X295,Gateway School for Environmental Research and Technology,English Language Learner Status by GPA,Non-Ell,55-64,35,0.2160,162
+08X295,Gateway School for Environmental Research and Technology,English Language Learner Status by GPA,Non-Ell,75-84,39,0.2407,162
+08X295,Gateway School for Environmental Research and Technology,English Language Learner Status by GPA,Non-Ell,65-74,62,0.3827,162
+08X295,Gateway School for Environmental Research and Technology,Ethnicity by GPA,Asian,All,11,1.0000,11
+08X295,Gateway School for Environmental Research and Technology,Ethnicity by GPA,Asian,0-54,s,s,11
+08X295,Gateway School for Environmental Research and Technology,Ethnicity by GPA,Asian,55-64,s,s,11
+08X295,Gateway School for Environmental Research and Technology,Ethnicity by GPA,Asian,65-74,s,s,11
+08X295,Gateway School for Environmental Research and Technology,Ethnicity by GPA,Asian,75-84,s,s,11
+08X295,Gateway School for Environmental Research and Technology,Ethnicity by GPA,Asian,85-100,s,s,11
+08X295,Gateway School for Environmental Research and Technology,Ethnicity by GPA,Black,All,59,1.0000,59
+08X295,Gateway School for Environmental Research and Technology,Ethnicity by GPA,Black,0-54,s,s,59
+08X295,Gateway School for Environmental Research and Technology,Ethnicity by GPA,Black,85-100,s,s,59
+08X295,Gateway School for Environmental Research and Technology,Ethnicity by GPA,Black,55-64,16,0.2712,59
+08X295,Gateway School for Environmental Research and Technology,Ethnicity by GPA,Black,75-84,16,0.2712,59
+08X295,Gateway School for Environmental Research and Technology,Ethnicity by GPA,Black,65-74,19,0.3220,59
+08X295,Gateway School for Environmental Research and Technology,Ethnicity by GPA,Hispanic,All,112,1.0000,112
+08X295,Gateway School for Environmental Research and Technology,Ethnicity by GPA,Hispanic,85-100,s,s,112
+08X295,Gateway School for Environmental Research and Technology,Ethnicity by GPA,Hispanic,0-54,s,s,112
+08X295,Gateway School for Environmental Research and Technology,Ethnicity by GPA,Hispanic,75-84,25,0.2232,112
+08X295,Gateway School for Environmental Research and Technology,Ethnicity by GPA,Hispanic,55-64,26,0.2321,112
+08X295,Gateway School for Environmental Research and Technology,Ethnicity by GPA,Hispanic,65-74,46,0.4107,112
+08X295,Gateway School for Environmental Research and Technology,Ethnicity by GPA,Other,All,s,s,s
+08X295,Gateway School for Environmental Research and Technology,Ethnicity by GPA,Other,0-54,s,s,s
+08X295,Gateway School for Environmental Research and Technology,Ethnicity by GPA,Other,55-64,s,s,s
+08X295,Gateway School for Environmental Research and Technology,Ethnicity by GPA,Other,65-74,s,s,s
+08X295,Gateway School for Environmental Research and Technology,Ethnicity by GPA,Other,75-84,s,s,s
+08X295,Gateway School for Environmental Research and Technology,Ethnicity by GPA,Other,85-100,s,s,s
+08X295,Gateway School for Environmental Research and Technology,Ethnicity by GPA,White,All,s,s,s
+08X295,Gateway School for Environmental Research and Technology,Ethnicity by GPA,White,55-64,s,s,s
+08X295,Gateway School for Environmental Research and Technology,Ethnicity by GPA,White,75-84,s,s,s
+08X295,Gateway School for Environmental Research and Technology,Ethnicity by GPA,White,0-54,s,s,s
+08X295,Gateway School for Environmental Research and Technology,Ethnicity by GPA,White,85-100,s,s,s
+08X295,Gateway School for Environmental Research and Technology,Ethnicity by GPA,White,65-74,s,s,s
+08X295,Gateway School for Environmental Research and Technology,Gender by GPA,Female,All,73,1.0000,73
+08X295,Gateway School for Environmental Research and Technology,Gender by GPA,Female,0-54,s,s,73
+08X295,Gateway School for Environmental Research and Technology,Gender by GPA,Female,85-100,s,s,73
+08X295,Gateway School for Environmental Research and Technology,Gender by GPA,Female,55-64,13,0.1781,73
+08X295,Gateway School for Environmental Research and Technology,Gender by GPA,Female,75-84,22,0.3014,73
+08X295,Gateway School for Environmental Research and Technology,Gender by GPA,Female,65-74,26,0.3562,73
+08X295,Gateway School for Environmental Research and Technology,Gender by GPA,Male,All,113,1.0000,113
+08X295,Gateway School for Environmental Research and Technology,Gender by GPA,Male,85-100,s,s,113
+08X295,Gateway School for Environmental Research and Technology,Gender by GPA,Male,0-54,s,s,113
+08X295,Gateway School for Environmental Research and Technology,Gender by GPA,Male,75-84,22,0.1947,113
+08X295,Gateway School for Environmental Research and Technology,Gender by GPA,Male,55-64,30,0.2655,113
+08X295,Gateway School for Environmental Research and Technology,Gender by GPA,Male,65-74,43,0.3805,113
+08X295,Gateway School for Environmental Research and Technology,Grade by GPA,Grade 10,All,17,1.0000,17
+08X295,Gateway School for Environmental Research and Technology,Grade by GPA,Grade 10,75-84,s,s,17
+08X295,Gateway School for Environmental Research and Technology,Grade by GPA,Grade 10,85-100,s,s,17
+08X295,Gateway School for Environmental Research and Technology,Grade by GPA,Grade 10,65-74,s,s,17
+08X295,Gateway School for Environmental Research and Technology,Grade by GPA,Grade 10,0-54,s,s,17
+08X295,Gateway School for Environmental Research and Technology,Grade by GPA,Grade 10,55-64,14,0.8235,17
+08X295,Gateway School for Environmental Research and Technology,Grade by GPA,Grade 11,All,16,1.0000,16
+08X295,Gateway School for Environmental Research and Technology,Grade by GPA,Grade 11,0-54,s,s,16
+08X295,Gateway School for Environmental Research and Technology,Grade by GPA,Grade 11,75-84,s,s,16
+08X295,Gateway School for Environmental Research and Technology,Grade by GPA,Grade 11,85-100,s,s,16
+08X295,Gateway School for Environmental Research and Technology,Grade by GPA,Grade 11,65-74,s,s,16
+08X295,Gateway School for Environmental Research and Technology,Grade by GPA,Grade 11,55-64,11,0.6875,16
+08X295,Gateway School for Environmental Research and Technology,Grade by GPA,Grade 12,All,137,1.0000,137
+08X295,Gateway School for Environmental Research and Technology,Grade by GPA,Grade 12,0-54,s,s,137
+08X295,Gateway School for Environmental Research and Technology,Grade by GPA,Grade 12,85-100,s,s,137
+08X295,Gateway School for Environmental Research and Technology,Grade by GPA,Grade 12,55-64,17,0.1241,137
+08X295,Gateway School for Environmental Research and Technology,Grade by GPA,Grade 12,75-84,44,0.3212,137
+08X295,Gateway School for Environmental Research and Technology,Grade by GPA,Grade 12,65-74,63,0.4599,137
+08X295,Gateway School for Environmental Research and Technology,Grade by GPA,Grade 9,All,16,1.0000,16
+08X295,Gateway School for Environmental Research and Technology,Grade by GPA,Grade 9,65-74,s,s,16
+08X295,Gateway School for Environmental Research and Technology,Grade by GPA,Grade 9,75-84,s,s,16
+08X295,Gateway School for Environmental Research and Technology,Grade by GPA,Grade 9,85-100,s,s,16
+08X295,Gateway School for Environmental Research and Technology,Grade by GPA,Grade 9,55-64,s,s,16
+08X295,Gateway School for Environmental Research and Technology,Grade by GPA,Grade 9,0-54,15,0.9375,16
+08X650,Jane Addams High School for Academic Careers,Age by GPA,13 yrs old,All,s,s,s
+08X650,Jane Addams High School for Academic Careers,Age by GPA,13 yrs old,0-54,s,s,s
+08X650,Jane Addams High School for Academic Careers,Age by GPA,13 yrs old,55-64,s,s,s
+08X650,Jane Addams High School for Academic Careers,Age by GPA,13 yrs old,65-74,s,s,s
+08X650,Jane Addams High School for Academic Careers,Age by GPA,13 yrs old,75-84,s,s,s
+08X650,Jane Addams High School for Academic Careers,Age by GPA,13 yrs old,85-100,s,s,s
+08X650,Jane Addams High School for Academic Careers,Age by GPA,15 yrs old,All,s,s,s
+08X650,Jane Addams High School for Academic Careers,Age by GPA,15 yrs old,0-54,s,s,s
+08X650,Jane Addams High School for Academic Careers,Age by GPA,15 yrs old,55-64,s,s,s
+08X650,Jane Addams High School for Academic Careers,Age by GPA,15 yrs old,65-74,s,s,s
+08X650,Jane Addams High School for Academic Careers,Age by GPA,15 yrs old,75-84,s,s,s
+08X650,Jane Addams High School for Academic Careers,Age by GPA,15 yrs old,85-100,s,s,s
+08X650,Jane Addams High School for Academic Careers,Age by GPA,16 yrs old,All,56,1.0000,56
+08X650,Jane Addams High School for Academic Careers,Age by GPA,16 yrs old,0-54,s,s,56
+08X650,Jane Addams High School for Academic Careers,Age by GPA,16 yrs old,85-100,s,s,56
+08X650,Jane Addams High School for Academic Careers,Age by GPA,16 yrs old,55-64,11,0.1964,56
+08X650,Jane Addams High School for Academic Careers,Age by GPA,16 yrs old,65-74,16,0.2857,56
+08X650,Jane Addams High School for Academic Careers,Age by GPA,16 yrs old,75-84,21,0.3750,56
+08X650,Jane Addams High School for Academic Careers,Age by GPA,17 yrs old,All,115,1.0000,115
+08X650,Jane Addams High School for Academic Careers,Age by GPA,17 yrs old,85-100,s,s,115
+08X650,Jane Addams High School for Academic Careers,Age by GPA,17 yrs old,0-54,s,s,115
+08X650,Jane Addams High School for Academic Careers,Age by GPA,17 yrs old,55-64,22,0.1913,115
+08X650,Jane Addams High School for Academic Careers,Age by GPA,17 yrs old,75-84,28,0.2435,115
+08X650,Jane Addams High School for Academic Careers,Age by GPA,17 yrs old,65-74,38,0.3304,115
+08X650,Jane Addams High School for Academic Careers,Age by GPA,18 yrs old,All,82,1.0000,82
+08X650,Jane Addams High School for Academic Careers,Age by GPA,18 yrs old,85-100,s,s,82
+08X650,Jane Addams High School for Academic Careers,Age by GPA,18 yrs old,0-54,s,s,82
+08X650,Jane Addams High School for Academic Careers,Age by GPA,18 yrs old,75-84,13,0.1585,82
+08X650,Jane Addams High School for Academic Careers,Age by GPA,18 yrs old,55-64,28,0.3415,82
+08X650,Jane Addams High School for Academic Careers,Age by GPA,18 yrs old,65-74,34,0.4146,82
+08X650,Jane Addams High School for Academic Careers,Age by GPA,19 yrs old,All,43,1.0000,43
+08X650,Jane Addams High School for Academic Careers,Age by GPA,19 yrs old,75-84,s,s,43
+08X650,Jane Addams High School for Academic Careers,Age by GPA,19 yrs old,85-100,s,s,43
+08X650,Jane Addams High School for Academic Careers,Age by GPA,19 yrs old,0-54,s,s,43
+08X650,Jane Addams High School for Academic Careers,Age by GPA,19 yrs old,65-74,14,0.3256,43
+08X650,Jane Addams High School for Academic Careers,Age by GPA,19 yrs old,55-64,27,0.6279,43
+08X650,Jane Addams High School for Academic Careers,Age by GPA,20 yrs old,All,13,1.0000,13
+08X650,Jane Addams High School for Academic Careers,Age by GPA,20 yrs old,0-54,s,s,13
+08X650,Jane Addams High School for Academic Careers,Age by GPA,20 yrs old,75-84,s,s,13
+08X650,Jane Addams High School for Academic Careers,Age by GPA,20 yrs old,85-100,s,s,13
+08X650,Jane Addams High School for Academic Careers,Age by GPA,20 yrs old,65-74,s,s,13
+08X650,Jane Addams High School for Academic Careers,Age by GPA,20 yrs old,55-64,s,s,13
+08X650,Jane Addams High School for Academic Careers,Age by GPA,21 yrs old or older,All,s,s,s
+08X650,Jane Addams High School for Academic Careers,Age by GPA,21 yrs old or older,0-54,s,s,s
+08X650,Jane Addams High School for Academic Careers,Age by GPA,21 yrs old or older,75-84,s,s,s
+08X650,Jane Addams High School for Academic Careers,Age by GPA,21 yrs old or older,85-100,s,s,s
+08X650,Jane Addams High School for Academic Careers,Age by GPA,21 yrs old or older,55-64,s,s,s
+08X650,Jane Addams High School for Academic Careers,Age by GPA,21 yrs old or older,65-74,s,s,s
+08X650,Jane Addams High School for Academic Careers,All Students by GPA,all,All,311,1.0000,311
+08X650,Jane Addams High School for Academic Careers,All Students by GPA,all,85-100,13,0.0418,311
+08X650,Jane Addams High School for Academic Careers,All Students by GPA,all,0-54,31,0.0997,311
+08X650,Jane Addams High School for Academic Careers,All Students by GPA,all,75-84,62,0.1994,311
+08X650,Jane Addams High School for Academic Careers,All Students by GPA,all,55-64,98,0.3151,311
+08X650,Jane Addams High School for Academic Careers,All Students by GPA,all,65-74,107,0.3441,311
+08X650,Jane Addams High School for Academic Careers,Disability Status by GPA,Non-SWD,All,242,1.0000,242
+08X650,Jane Addams High School for Academic Careers,Disability Status by GPA,Non-SWD,85-100,13,0.0537,242
+08X650,Jane Addams High School for Academic Careers,Disability Status by GPA,Non-SWD,0-54,22,0.0909,242
+08X650,Jane Addams High School for Academic Careers,Disability Status by GPA,Non-SWD,75-84,50,0.2066,242
+08X650,Jane Addams High School for Academic Careers,Disability Status by GPA,Non-SWD,55-64,71,0.2934,242
+08X650,Jane Addams High School for Academic Careers,Disability Status by GPA,Non-SWD,65-74,86,0.3554,242
+08X650,Jane Addams High School for Academic Careers,Disability Status by GPA,SWD,All,69,1.0000,69
+08X650,Jane Addams High School for Academic Careers,Disability Status by GPA,SWD,85-100,s,s,69
+08X650,Jane Addams High School for Academic Careers,Disability Status by GPA,SWD,0-54,s,s,69
+08X650,Jane Addams High School for Academic Careers,Disability Status by GPA,SWD,75-84,12,0.1739,69
+08X650,Jane Addams High School for Academic Careers,Disability Status by GPA,SWD,65-74,21,0.3043,69
+08X650,Jane Addams High School for Academic Careers,Disability Status by GPA,SWD,55-64,27,0.3913,69
+08X650,Jane Addams High School for Academic Careers,English Language Learner Status by GPA,Ell,All,29,1.0000,29
+08X650,Jane Addams High School for Academic Careers,English Language Learner Status by GPA,Ell,85-100,s,s,29
+08X650,Jane Addams High School for Academic Careers,English Language Learner Status by GPA,Ell,0-54,s,s,29
+08X650,Jane Addams High School for Academic Careers,English Language Learner Status by GPA,Ell,65-74,s,s,29
+08X650,Jane Addams High School for Academic Careers,English Language Learner Status by GPA,Ell,75-84,s,s,29
+08X650,Jane Addams High School for Academic Careers,English Language Learner Status by GPA,Ell,55-64,s,s,29
+08X650,Jane Addams High School for Academic Careers,English Language Learner Status by GPA,Non-Ell,All,282,1.0000,282
+08X650,Jane Addams High School for Academic Careers,English Language Learner Status by GPA,Non-Ell,85-100,13,0.0461,282
+08X650,Jane Addams High School for Academic Careers,English Language Learner Status by GPA,Non-Ell,0-54,26,0.0922,282
+08X650,Jane Addams High School for Academic Careers,English Language Learner Status by GPA,Non-Ell,75-84,54,0.1915,282
+08X650,Jane Addams High School for Academic Careers,English Language Learner Status by GPA,Non-Ell,55-64,89,0.3156,282
+08X650,Jane Addams High School for Academic Careers,English Language Learner Status by GPA,Non-Ell,65-74,100,0.3546,282
+08X650,Jane Addams High School for Academic Careers,Ethnicity by GPA,Asian,All,s,s,s
+08X650,Jane Addams High School for Academic Careers,Ethnicity by GPA,Asian,55-64,s,s,s
+08X650,Jane Addams High School for Academic Careers,Ethnicity by GPA,Asian,0-54,s,s,s
+08X650,Jane Addams High School for Academic Careers,Ethnicity by GPA,Asian,65-74,s,s,s
+08X650,Jane Addams High School for Academic Careers,Ethnicity by GPA,Asian,75-84,s,s,s
+08X650,Jane Addams High School for Academic Careers,Ethnicity by GPA,Asian,85-100,s,s,s
+08X650,Jane Addams High School for Academic Careers,Ethnicity by GPA,Black,All,113,1.0000,113
+08X650,Jane Addams High School for Academic Careers,Ethnicity by GPA,Black,85-100,s,s,113
+08X650,Jane Addams High School for Academic Careers,Ethnicity by GPA,Black,0-54,s,s,113
+08X650,Jane Addams High School for Academic Careers,Ethnicity by GPA,Black,75-84,30,0.2655,113
+08X650,Jane Addams High School for Academic Careers,Ethnicity by GPA,Black,65-74,35,0.3097,113
+08X650,Jane Addams High School for Academic Careers,Ethnicity by GPA,Black,55-64,43,0.3805,113
+08X650,Jane Addams High School for Academic Careers,Ethnicity by GPA,Hispanic,All,192,1.0000,192
+08X650,Jane Addams High School for Academic Careers,Ethnicity by GPA,Hispanic,85-100,12,0.0625,192
+08X650,Jane Addams High School for Academic Careers,Ethnicity by GPA,Hispanic,0-54,25,0.1302,192
+08X650,Jane Addams High School for Academic Careers,Ethnicity by GPA,Hispanic,75-84,31,0.1615,192
+08X650,Jane Addams High School for Academic Careers,Ethnicity by GPA,Hispanic,55-64,55,0.2865,192
+08X650,Jane Addams High School for Academic Careers,Ethnicity by GPA,Hispanic,65-74,69,0.3594,192
+08X650,Jane Addams High School for Academic Careers,Ethnicity by GPA,Other,All,s,s,s
+08X650,Jane Addams High School for Academic Careers,Ethnicity by GPA,Other,0-54,s,s,s
+08X650,Jane Addams High School for Academic Careers,Ethnicity by GPA,Other,55-64,s,s,s
+08X650,Jane Addams High School for Academic Careers,Ethnicity by GPA,Other,75-84,s,s,s
+08X650,Jane Addams High School for Academic Careers,Ethnicity by GPA,Other,85-100,s,s,s
+08X650,Jane Addams High School for Academic Careers,Ethnicity by GPA,Other,65-74,s,s,s
+08X650,Jane Addams High School for Academic Careers,Ethnicity by GPA,White,All,s,s,s
+08X650,Jane Addams High School for Academic Careers,Ethnicity by GPA,White,0-54,s,s,s
+08X650,Jane Addams High School for Academic Careers,Ethnicity by GPA,White,55-64,s,s,s
+08X650,Jane Addams High School for Academic Careers,Ethnicity by GPA,White,75-84,s,s,s
+08X650,Jane Addams High School for Academic Careers,Ethnicity by GPA,White,85-100,s,s,s
+08X650,Jane Addams High School for Academic Careers,Ethnicity by GPA,White,65-74,s,s,s
+08X650,Jane Addams High School for Academic Careers,Gender by GPA,Female,All,221,1.0000,221
+08X650,Jane Addams High School for Academic Careers,Gender by GPA,Female,85-100,s,s,221
+08X650,Jane Addams High School for Academic Careers,Gender by GPA,Female,0-54,s,s,221
+08X650,Jane Addams High School for Academic Careers,Gender by GPA,Female,75-84,52,0.2353,221
+08X650,Jane Addams High School for Academic Careers,Gender by GPA,Female,55-64,72,0.3258,221
+08X650,Jane Addams High School for Academic Careers,Gender by GPA,Female,65-74,76,0.3439,221
+08X650,Jane Addams High School for Academic Careers,Gender by GPA,Male,All,90,1.0000,90
+08X650,Jane Addams High School for Academic Careers,Gender by GPA,Male,85-100,s,s,90
+08X650,Jane Addams High School for Academic Careers,Gender by GPA,Male,75-84,s,s,90
+08X650,Jane Addams High School for Academic Careers,Gender by GPA,Male,0-54,16,0.1778,90
+08X650,Jane Addams High School for Academic Careers,Gender by GPA,Male,55-64,26,0.2889,90
+08X650,Jane Addams High School for Academic Careers,Gender by GPA,Male,65-74,31,0.3444,90
+08X650,Jane Addams High School for Academic Careers,Grade by GPA,Grade 10,All,12,1.0000,12
+08X650,Jane Addams High School for Academic Careers,Grade by GPA,Grade 10,65-74,s,s,12
+08X650,Jane Addams High School for Academic Careers,Grade by GPA,Grade 10,75-84,s,s,12
+08X650,Jane Addams High School for Academic Careers,Grade by GPA,Grade 10,85-100,s,s,12
+08X650,Jane Addams High School for Academic Careers,Grade by GPA,Grade 10,0-54,s,s,12
+08X650,Jane Addams High School for Academic Careers,Grade by GPA,Grade 10,55-64,10,0.8333,12
+08X650,Jane Addams High School for Academic Careers,Grade by GPA,Grade 11,All,40,1.0000,40
+08X650,Jane Addams High School for Academic Careers,Grade by GPA,Grade 11,75-84,s,s,40
+08X650,Jane Addams High School for Academic Careers,Grade by GPA,Grade 11,85-100,s,s,40
+08X650,Jane Addams High School for Academic Careers,Grade by GPA,Grade 11,0-54,s,s,40
+08X650,Jane Addams High School for Academic Careers,Grade by GPA,Grade 11,65-74,s,s,40
+08X650,Jane Addams High School for Academic Careers,Grade by GPA,Grade 11,55-64,30,0.7500,40
+08X650,Jane Addams High School for Academic Careers,Grade by GPA,Grade 12,All,230,1.0000,230
+08X650,Jane Addams High School for Academic Careers,Grade by GPA,Grade 12,0-54,s,s,230
+08X650,Jane Addams High School for Academic Careers,Grade by GPA,Grade 12,85-100,s,s,230
+08X650,Jane Addams High School for Academic Careers,Grade by GPA,Grade 12,55-64,53,0.2304,230
+08X650,Jane Addams High School for Academic Careers,Grade by GPA,Grade 12,75-84,62,0.2696,230
+08X650,Jane Addams High School for Academic Careers,Grade by GPA,Grade 12,65-74,102,0.4435,230
+08X650,Jane Addams High School for Academic Careers,Grade by GPA,Grade 9,All,29,1.0000,29
+08X650,Jane Addams High School for Academic Careers,Grade by GPA,Grade 9,65-74,s,s,29
+08X650,Jane Addams High School for Academic Careers,Grade by GPA,Grade 9,75-84,s,s,29
+08X650,Jane Addams High School for Academic Careers,Grade by GPA,Grade 9,85-100,s,s,29
+08X650,Jane Addams High School for Academic Careers,Grade by GPA,Grade 9,55-64,s,s,29
+08X650,Jane Addams High School for Academic Careers,Grade by GPA,Grade 9,0-54,24,0.8276,29
+10X660,Grace Dodge Career and Technical Education High School,Age by GPA,13 yrs old,All,s,s,s
+10X660,Grace Dodge Career and Technical Education High School,Age by GPA,13 yrs old,0-54,s,s,s
+10X660,Grace Dodge Career and Technical Education High School,Age by GPA,13 yrs old,55-64,s,s,s
+10X660,Grace Dodge Career and Technical Education High School,Age by GPA,13 yrs old,65-74,s,s,s
+10X660,Grace Dodge Career and Technical Education High School,Age by GPA,13 yrs old,75-84,s,s,s
+10X660,Grace Dodge Career and Technical Education High School,Age by GPA,13 yrs old,85-100,s,s,s
+10X660,Grace Dodge Career and Technical Education High School,Age by GPA,15 yrs old,All,s,s,s
+10X660,Grace Dodge Career and Technical Education High School,Age by GPA,15 yrs old,0-54,s,s,s
+10X660,Grace Dodge Career and Technical Education High School,Age by GPA,15 yrs old,55-64,s,s,s
+10X660,Grace Dodge Career and Technical Education High School,Age by GPA,15 yrs old,65-74,s,s,s
+10X660,Grace Dodge Career and Technical Education High School,Age by GPA,15 yrs old,75-84,s,s,s
+10X660,Grace Dodge Career and Technical Education High School,Age by GPA,15 yrs old,85-100,s,s,s
+10X660,Grace Dodge Career and Technical Education High School,Age by GPA,16 yrs old,All,80,1.0000,80
+10X660,Grace Dodge Career and Technical Education High School,Age by GPA,16 yrs old,85-100,s,s,80
+10X660,Grace Dodge Career and Technical Education High School,Age by GPA,16 yrs old,0-54,s,s,80
+10X660,Grace Dodge Career and Technical Education High School,Age by GPA,16 yrs old,75-84,19,0.2375,80
+10X660,Grace Dodge Career and Technical Education High School,Age by GPA,16 yrs old,65-74,21,0.2625,80
+10X660,Grace Dodge Career and Technical Education High School,Age by GPA,16 yrs old,55-64,23,0.2875,80
+10X660,Grace Dodge Career and Technical Education High School,Age by GPA,17 yrs old,All,169,1.0000,169
+10X660,Grace Dodge Career and Technical Education High School,Age by GPA,17 yrs old,85-100,s,s,169
+10X660,Grace Dodge Career and Technical Education High School,Age by GPA,17 yrs old,0-54,s,s,169
+10X660,Grace Dodge Career and Technical Education High School,Age by GPA,17 yrs old,55-64,29,0.1716,169
+10X660,Grace Dodge Career and Technical Education High School,Age by GPA,17 yrs old,75-84,41,0.2426,169
+10X660,Grace Dodge Career and Technical Education High School,Age by GPA,17 yrs old,65-74,63,0.3728,169
+10X660,Grace Dodge Career and Technical Education High School,Age by GPA,18 yrs old,All,130,1.0000,130
+10X660,Grace Dodge Career and Technical Education High School,Age by GPA,18 yrs old,85-100,s,s,130
+10X660,Grace Dodge Career and Technical Education High School,Age by GPA,18 yrs old,0-54,s,s,130
+10X660,Grace Dodge Career and Technical Education High School,Age by GPA,18 yrs old,75-84,20,0.1538,130
+10X660,Grace Dodge Career and Technical Education High School,Age by GPA,18 yrs old,65-74,42,0.3231,130
+10X660,Grace Dodge Career and Technical Education High School,Age by GPA,18 yrs old,55-64,52,0.4000,130
+10X660,Grace Dodge Career and Technical Education High School,Age by GPA,19 yrs old,All,71,1.0000,71
+10X660,Grace Dodge Career and Technical Education High School,Age by GPA,19 yrs old,85-100,s,s,71
+10X660,Grace Dodge Career and Technical Education High School,Age by GPA,19 yrs old,0-54,s,s,71
+10X660,Grace Dodge Career and Technical Education High School,Age by GPA,19 yrs old,75-84,s,s,71
+10X660,Grace Dodge Career and Technical Education High School,Age by GPA,19 yrs old,55-64,23,0.3239,71
+10X660,Grace Dodge Career and Technical Education High School,Age by GPA,19 yrs old,65-74,29,0.4085,71
+10X660,Grace Dodge Career and Technical Education High School,Age by GPA,20 yrs old,All,28,1.0000,28
+10X660,Grace Dodge Career and Technical Education High School,Age by GPA,20 yrs old,85-100,s,s,28
+10X660,Grace Dodge Career and Technical Education High School,Age by GPA,20 yrs old,0-54,s,s,28
+10X660,Grace Dodge Career and Technical Education High School,Age by GPA,20 yrs old,75-84,s,s,28
+10X660,Grace Dodge Career and Technical Education High School,Age by GPA,20 yrs old,65-74,12,0.4286,28
+10X660,Grace Dodge Career and Technical Education High School,Age by GPA,20 yrs old,55-64,13,0.4643,28
+10X660,Grace Dodge Career and Technical Education High School,Age by GPA,21 yrs old or older,All,s,s,s
+10X660,Grace Dodge Career and Technical Education High School,Age by GPA,21 yrs old or older,0-54,s,s,s
+10X660,Grace Dodge Career and Technical Education High School,Age by GPA,21 yrs old or older,75-84,s,s,s
+10X660,Grace Dodge Career and Technical Education High School,Age by GPA,21 yrs old or older,85-100,s,s,s
+10X660,Grace Dodge Career and Technical Education High School,Age by GPA,21 yrs old or older,65-74,s,s,s
+10X660,Grace Dodge Career and Technical Education High School,Age by GPA,21 yrs old or older,55-64,s,s,s
+10X660,Grace Dodge Career and Technical Education High School,All Students by GPA,all,All,484,1.0000,484
+10X660,Grace Dodge Career and Technical Education High School,All Students by GPA,all,85-100,21,0.0434,484
+10X660,Grace Dodge Career and Technical Education High School,All Students by GPA,all,0-54,60,0.1240,484
+10X660,Grace Dodge Career and Technical Education High School,All Students by GPA,all,75-84,90,0.1860,484
+10X660,Grace Dodge Career and Technical Education High School,All Students by GPA,all,55-64,144,0.2975,484
+10X660,Grace Dodge Career and Technical Education High School,All Students by GPA,all,65-74,169,0.3492,484
+10X660,Grace Dodge Career and Technical Education High School,Disability Status by GPA,Non-SWD,All,336,1.0000,336
+10X660,Grace Dodge Career and Technical Education High School,Disability Status by GPA,Non-SWD,85-100,17,0.0506,336
+10X660,Grace Dodge Career and Technical Education High School,Disability Status by GPA,Non-SWD,0-54,36,0.1071,336
+10X660,Grace Dodge Career and Technical Education High School,Disability Status by GPA,Non-SWD,75-84,70,0.2083,336
+10X660,Grace Dodge Career and Technical Education High School,Disability Status by GPA,Non-SWD,55-64,88,0.2619,336
+Why is this data collected?,No Data,,,,,,
+10X660,Grace Dodge Career and Technical Education High School,Disability Status by GPA,Non-SWD,65-74,125,0.3720,336
+10X660,Grace Dodge Career and Technical Education High School,Disability Status by GPA,SWD,All,148,1.0000,148
+10X660,Grace Dodge Career and Technical Education High School,Disability Status by GPA,SWD,85-100,s,s,148
+10X660,Grace Dodge Career and Technical Education High School,Disability Status by GPA,SWD,75-84,s,s,148
+10X660,Grace Dodge Career and Technical Education High School,Disability Status by GPA,SWD,0-54,24,0.1622,148
+10X660,Grace Dodge Career and Technical Education High School,Disability Status by GPA,SWD,65-74,44,0.2973,148
+10X660,Grace Dodge Career and Technical Education High School,Disability Status by GPA,SWD,55-64,56,0.3784,148
+10X660,Grace Dodge Career and Technical Education High School,English Language Learner Status by GPA,Ell,All,101,1.0000,101
+10X660,Grace Dodge Career and Technical Education High School,English Language Learner Status by GPA,Ell,85-100,s,s,101
+10X660,Grace Dodge Career and Technical Education High School,English Language Learner Status by GPA,Ell,0-54,s,s,101
+10X660,Grace Dodge Career and Technical Education High School,English Language Learner Status by GPA,Ell,75-84,17,0.1683,101
+10X660,Grace Dodge Career and Technical Education High School,English Language Learner Status by GPA,Ell,55-64,34,0.3366,101
+10X660,Grace Dodge Career and Technical Education High School,English Language Learner Status by GPA,Ell,65-74,36,0.3564,101
+10X660,Grace Dodge Career and Technical Education High School,English Language Learner Status by GPA,Non-Ell,All,383,1.0000,383
+10X660,Grace Dodge Career and Technical Education High School,English Language Learner Status by GPA,Non-Ell,85-100,20,0.0522,383
+10X660,Grace Dodge Career and Technical Education High School,English Language Learner Status by GPA,Non-Ell,0-54,47,0.1227,383
+10X660,Grace Dodge Career and Technical Education High School,English Language Learner Status by GPA,Non-Ell,75-84,73,0.1906,383
+10X660,Grace Dodge Career and Technical Education High School,English Language Learner Status by GPA,Non-Ell,55-64,110,0.2872,383
+10X660,Grace Dodge Career and Technical Education High School,English Language Learner Status by GPA,Non-Ell,65-74,133,0.3473,383
+10X660,Grace Dodge Career and Technical Education High School,Ethnicity by GPA,Asian,All,s,s,s
+10X660,Grace Dodge Career and Technical Education High School,Ethnicity by GPA,Asian,0-54,s,s,s
+10X660,Grace Dodge Career and Technical Education High School,Ethnicity by GPA,Asian,65-74,s,s,s
+10X660,Grace Dodge Career and Technical Education High School,Ethnicity by GPA,Asian,75-84,s,s,s
+10X660,Grace Dodge Career and Technical Education High School,Ethnicity by GPA,Asian,85-100,s,s,s
+10X660,Grace Dodge Career and Technical Education High School,Ethnicity by GPA,Asian,55-64,s,s,s
+10X660,Grace Dodge Career and Technical Education High School,Ethnicity by GPA,Black,All,134,1.0000,134
+10X660,Grace Dodge Career and Technical Education High School,Ethnicity by GPA,Black,85-100,s,s,134
+10X660,Grace Dodge Career and Technical Education High School,Ethnicity by GPA,Black,0-54,s,s,134
+10X660,Grace Dodge Career and Technical Education High School,Ethnicity by GPA,Black,75-84,23,0.1716,134
+10X660,Grace Dodge Career and Technical Education High School,Ethnicity by GPA,Black,55-64,34,0.2537,134
+10X660,Grace Dodge Career and Technical Education High School,Ethnicity by GPA,Black,65-74,57,0.4254,134
+10X660,Grace Dodge Career and Technical Education High School,Ethnicity by GPA,Hispanic,All,339,1.0000,339
+10X660,Grace Dodge Career and Technical Education High School,Ethnicity by GPA,Hispanic,85-100,14,0.0413,339
+10X660,Grace Dodge Career and Technical Education High School,Ethnicity by GPA,Hispanic,0-54,45,0.1327,339
+10X660,Grace Dodge Career and Technical Education High School,Ethnicity by GPA,Hispanic,75-84,64,0.1888,339
+10X660,Grace Dodge Career and Technical Education High School,Ethnicity by GPA,Hispanic,55-64,105,0.3097,339
+10X660,Grace Dodge Career and Technical Education High School,Ethnicity by GPA,Hispanic,65-74,111,0.3274,339
+10X660,Grace Dodge Career and Technical Education High School,Ethnicity by GPA,Other,All,s,s,s
+10X660,Grace Dodge Career and Technical Education High School,Ethnicity by GPA,Other,0-54,s,s,s
+10X660,Grace Dodge Career and Technical Education High School,Ethnicity by GPA,Other,65-74,s,s,s
+10X660,Grace Dodge Career and Technical Education High School,Ethnicity by GPA,Other,85-100,s,s,s
+10X660,Grace Dodge Career and Technical Education High School,Ethnicity by GPA,Other,55-64,s,s,s
+10X660,Grace Dodge Career and Technical Education High School,Ethnicity by GPA,Other,75-84,s,s,s
+10X660,Grace Dodge Career and Technical Education High School,Ethnicity by GPA,White,All,s,s,s
+10X660,Grace Dodge Career and Technical Education High School,Ethnicity by GPA,White,0-54,s,s,s
+10X660,Grace Dodge Career and Technical Education High School,Ethnicity by GPA,White,65-74,s,s,s
+10X660,Grace Dodge Career and Technical Education High School,Ethnicity by GPA,White,75-84,s,s,s
+10X660,Grace Dodge Career and Technical Education High School,Ethnicity by GPA,White,85-100,s,s,s
+10X660,Grace Dodge Career and Technical Education High School,Ethnicity by GPA,White,55-64,s,s,s
+10X660,Grace Dodge Career and Technical Education High School,Gender by GPA,Female,All,271,1.0000,271
+10X660,Grace Dodge Career and Technical Education High School,Gender by GPA,Female,85-100,16,0.0590,271
+10X660,Grace Dodge Career and Technical Education High School,Gender by GPA,Female,0-54,32,0.1181,271
+10X660,Grace Dodge Career and Technical Education High School,Gender by GPA,Female,75-84,48,0.1771,271
+10X660,Grace Dodge Career and Technical Education High School,Gender by GPA,Female,55-64,72,0.2657,271
+10X660,Grace Dodge Career and Technical Education High School,Gender by GPA,Female,65-74,103,0.3801,271
+10X660,Grace Dodge Career and Technical Education High School,Gender by GPA,Male,All,213,1.0000,213
+10X660,Grace Dodge Career and Technical Education High School,Gender by GPA,Male,85-100,s,s,213
+10X660,Grace Dodge Career and Technical Education High School,Gender by GPA,Male,0-54,s,s,213
+10X660,Grace Dodge Career and Technical Education High School,Gender by GPA,Male,75-84,42,0.1972,213
+10X660,Grace Dodge Career and Technical Education High School,Gender by GPA,Male,65-74,66,0.3099,213
+10X660,Grace Dodge Career and Technical Education High School,Gender by GPA,Male,55-64,72,0.3380,213
+10X660,Grace Dodge Career and Technical Education High School,Grade by GPA,Grade 10,All,83,1.0000,83
+10X660,Grace Dodge Career and Technical Education High School,Grade by GPA,Grade 10,75-84,s,s,83
+10X660,Grace Dodge Career and Technical Education High School,Grade by GPA,Grade 10,85-100,s,s,83
+10X660,Grace Dodge Career and Technical Education High School,Grade by GPA,Grade 10,65-74,s,s,83
+10X660,Grace Dodge Career and Technical Education High School,Grade by GPA,Grade 10,0-54,33,0.3976,83
+10X660,Grace Dodge Career and Technical Education High School,Grade by GPA,Grade 10,55-64,44,0.5301,83
+10X660,Grace Dodge Career and Technical Education High School,Grade by GPA,Grade 11,All,37,1.0000,37
+10X660,Grace Dodge Career and Technical Education High School,Grade by GPA,Grade 11,85-100,s,s,37
+10X660,Grace Dodge Career and Technical Education High School,Grade by GPA,Grade 11,65-74,s,s,37
+10X660,Grace Dodge Career and Technical Education High School,Grade by GPA,Grade 11,75-84,s,s,37
+10X660,Grace Dodge Career and Technical Education High School,Grade by GPA,Grade 11,0-54,s,s,37
+10X660,Grace Dodge Career and Technical Education High School,Grade by GPA,Grade 11,55-64,30,0.8108,37
+10X660,Grace Dodge Career and Technical Education High School,Grade by GPA,Grade 12,All,340,1.0000,340
+10X660,Grace Dodge Career and Technical Education High School,Grade by GPA,Grade 12,0-54,s,s,340
+10X660,Grace Dodge Career and Technical Education High School,Grade by GPA,Grade 12,85-100,s,s,340
+10X660,Grace Dodge Career and Technical Education High School,Grade by GPA,Grade 12,55-64,69,0.2029,340
+10X660,Grace Dodge Career and Technical Education High School,Grade by GPA,Grade 12,75-84,88,0.2588,340
+10X660,Grace Dodge Career and Technical Education High School,Grade by GPA,Grade 12,65-74,161,0.4735,340
+10X660,Grace Dodge Career and Technical Education High School,Grade by GPA,Grade 9,All,24,1.0000,24
+10X660,Grace Dodge Career and Technical Education High School,Grade by GPA,Grade 9,65-74,s,s,24
+10X660,Grace Dodge Career and Technical Education High School,Grade by GPA,Grade 9,75-84,s,s,24
+10X660,Grace Dodge Career and Technical Education High School,Grade by GPA,Grade 9,85-100,s,s,24
+10X660,Grace Dodge Career and Technical Education High School,Grade by GPA,Grade 9,55-64,s,s,24
+10X660,Grace Dodge Career and Technical Education High School,Grade by GPA,Grade 9,0-54,23,0.9583,24
+17K544,International Arts Business School,Age by GPA,13 yrs old,All,s,s,s
+17K544,International Arts Business School,Age by GPA,13 yrs old,0-54,s,s,s
+17K544,International Arts Business School,Age by GPA,13 yrs old,55-64,s,s,s
+17K544,International Arts Business School,Age by GPA,13 yrs old,65-74,s,s,s
+17K544,International Arts Business School,Age by GPA,13 yrs old,75-84,s,s,s
+17K544,International Arts Business School,Age by GPA,13 yrs old,85-100,s,s,s
+17K544,International Arts Business School,Age by GPA,15 yrs old,All,s,s,s
+17K544,International Arts Business School,Age by GPA,15 yrs old,0-54,s,s,s
+17K544,International Arts Business School,Age by GPA,15 yrs old,55-64,s,s,s
+17K544,International Arts Business School,Age by GPA,15 yrs old,65-74,s,s,s
+17K544,International Arts Business School,Age by GPA,15 yrs old,75-84,s,s,s
+17K544,International Arts Business School,Age by GPA,15 yrs old,85-100,s,s,s
+17K544,International Arts Business School,Age by GPA,16 yrs old,All,10,1.0000,10
+17K544,International Arts Business School,Age by GPA,16 yrs old,0-54,s,s,10
+17K544,International Arts Business School,Age by GPA,16 yrs old,85-100,s,s,10
+17K544,International Arts Business School,Age by GPA,16 yrs old,55-64,s,s,10
+17K544,International Arts Business School,Age by GPA,16 yrs old,65-74,s,s,10
+17K544,International Arts Business School,Age by GPA,16 yrs old,75-84,s,s,10
+17K544,International Arts Business School,Age by GPA,17 yrs old,All,52,1.0000,52
+17K544,International Arts Business School,Age by GPA,17 yrs old,0-54,s,s,52
+17K544,International Arts Business School,Age by GPA,17 yrs old,85-100,s,s,52
+17K544,International Arts Business School,Age by GPA,17 yrs old,55-64,s,s,52
+17K544,International Arts Business School,Age by GPA,17 yrs old,65-74,12,0.2308,52
+17K544,International Arts Business School,Age by GPA,17 yrs old,75-84,25,0.4808,52
+17K544,International Arts Business School,Age by GPA,18 yrs old,All,23,1.0000,23
+17K544,International Arts Business School,Age by GPA,18 yrs old,0-54,s,s,23
+17K544,International Arts Business School,Age by GPA,18 yrs old,85-100,s,s,23
+17K544,International Arts Business School,Age by GPA,18 yrs old,55-64,s,s,23
+17K544,International Arts Business School,Age by GPA,18 yrs old,75-84,s,s,23
+17K544,International Arts Business School,Age by GPA,18 yrs old,65-74,s,s,23
+17K544,International Arts Business School,Age by GPA,19 yrs old,All,12,1.0000,12
+17K544,International Arts Business School,Age by GPA,19 yrs old,0-54,s,s,12
+17K544,International Arts Business School,Age by GPA,19 yrs old,85-100,s,s,12
+17K544,International Arts Business School,Age by GPA,19 yrs old,75-84,s,s,12
+17K544,International Arts Business School,Age by GPA,19 yrs old,55-64,s,s,12
+17K544,International Arts Business School,Age by GPA,19 yrs old,65-74,s,s,12
+17K544,International Arts Business School,Age by GPA,20 yrs old,All,s,s,s
+17K544,International Arts Business School,Age by GPA,20 yrs old,0-54,s,s,s
+17K544,International Arts Business School,Age by GPA,20 yrs old,75-84,s,s,s
+17K544,International Arts Business School,Age by GPA,20 yrs old,85-100,s,s,s
+17K544,International Arts Business School,Age by GPA,20 yrs old,55-64,s,s,s
+17K544,International Arts Business School,Age by GPA,20 yrs old,65-74,s,s,s
+17K544,International Arts Business School,Age by GPA,21 yrs old or older,All,s,s,s
+17K544,International Arts Business School,Age by GPA,21 yrs old or older,0-54,s,s,s
+17K544,International Arts Business School,Age by GPA,21 yrs old or older,75-84,s,s,s
+17K544,International Arts Business School,Age by GPA,21 yrs old or older,85-100,s,s,s
+17K544,International Arts Business School,Age by GPA,21 yrs old or older,55-64,s,s,s
+17K544,International Arts Business School,Age by GPA,21 yrs old or older,65-74,s,s,s
+17K544,International Arts Business School,All Students by GPA,all,All,103,1.0000,103
+17K544,International Arts Business School,All Students by GPA,all,0-54,s,s,103
+17K544,International Arts Business School,All Students by GPA,all,85-100,s,s,103
+17K544,International Arts Business School,All Students by GPA,all,55-64,22,0.2136,103
+17K544,International Arts Business School,All Students by GPA,all,65-74,33,0.3204,103
+17K544,International Arts Business School,All Students by GPA,all,75-84,37,0.3592,103
+17K544,International Arts Business School,Disability Status by GPA,Non-SWD,All,84,1.0000,84
+17K544,International Arts Business School,Disability Status by GPA,Non-SWD,0-54,s,s,84
+17K544,International Arts Business School,Disability Status by GPA,Non-SWD,85-100,s,s,84
+17K544,International Arts Business School,Disability Status by GPA,Non-SWD,55-64,17,0.2024,84
+17K544,International Arts Business School,Disability Status by GPA,Non-SWD,65-74,25,0.2976,84
+17K544,International Arts Business School,Disability Status by GPA,Non-SWD,75-84,31,0.3690,84
+17K544,International Arts Business School,Disability Status by GPA,SWD,All,19,1.0000,19
+17K544,International Arts Business School,Disability Status by GPA,SWD,0-54,s,s,19
+17K544,International Arts Business School,Disability Status by GPA,SWD,85-100,s,s,19
+17K544,International Arts Business School,Disability Status by GPA,SWD,55-64,s,s,19
+17K544,International Arts Business School,Disability Status by GPA,SWD,75-84,s,s,19
+17K544,International Arts Business School,Disability Status by GPA,SWD,65-74,s,s,19
+17K544,International Arts Business School,English Language Learner Status by GPA,Ell,All,s,s,s
+17K544,International Arts Business School,English Language Learner Status by GPA,Ell,0-54,s,s,s
+17K544,International Arts Business School,English Language Learner Status by GPA,Ell,55-64,s,s,s
+17K544,International Arts Business School,English Language Learner Status by GPA,Ell,85-100,s,s,s
+17K544,International Arts Business School,English Language Learner Status by GPA,Ell,75-84,s,s,s
+17K544,International Arts Business School,English Language Learner Status by GPA,Ell,65-74,s,s,s
+17K544,International Arts Business School,English Language Learner Status by GPA,Non-Ell,All,94,1.0000,94
+17K544,International Arts Business School,English Language Learner Status by GPA,Non-Ell,0-54,s,s,94
+17K544,International Arts Business School,English Language Learner Status by GPA,Non-Ell,85-100,s,s,94
+17K544,International Arts Business School,English Language Learner Status by GPA,Non-Ell,55-64,21,0.2234,94
+17K544,International Arts Business School,English Language Learner Status by GPA,Non-Ell,65-74,28,0.2979,94
+17K544,International Arts Business School,English Language Learner Status by GPA,Non-Ell,75-84,35,0.3723,94
+17K544,International Arts Business School,Ethnicity by GPA,Asian,All,s,s,s
+17K544,International Arts Business School,Ethnicity by GPA,Asian,0-54,s,s,s
+17K544,International Arts Business School,Ethnicity by GPA,Asian,55-64,s,s,s
+17K544,International Arts Business School,Ethnicity by GPA,Asian,65-74,s,s,s
+17K544,International Arts Business School,Ethnicity by GPA,Asian,75-84,s,s,s
+17K544,International Arts Business School,Ethnicity by GPA,Asian,85-100,s,s,s
+17K544,International Arts Business School,Ethnicity by GPA,Black,All,89,1.0000,89
+17K544,International Arts Business School,Ethnicity by GPA,Black,0-54,s,s,89
+17K544,International Arts Business School,Ethnicity by GPA,Black,85-100,s,s,89
+17K544,International Arts Business School,Ethnicity by GPA,Black,55-64,18,0.2022,89
+17K544,International Arts Business School,Ethnicity by GPA,Black,65-74,31,0.3483,89
+17K544,International Arts Business School,Ethnicity by GPA,Black,75-84,31,0.3483,89
+17K544,International Arts Business School,Ethnicity by GPA,Hispanic,All,s,s,s
+17K544,International Arts Business School,Ethnicity by GPA,Hispanic,0-54,s,s,s
+17K544,International Arts Business School,Ethnicity by GPA,Hispanic,85-100,s,s,s
+17K544,International Arts Business School,Ethnicity by GPA,Hispanic,55-64,s,s,s
+17K544,International Arts Business School,Ethnicity by GPA,Hispanic,65-74,s,s,s
+17K544,International Arts Business School,Ethnicity by GPA,Hispanic,75-84,s,s,s
+17K544,International Arts Business School,Ethnicity by GPA,Other,All,s,s,s
+17K544,International Arts Business School,Ethnicity by GPA,Other,0-54,s,s,s
+17K544,International Arts Business School,Ethnicity by GPA,Other,65-74,s,s,s
+17K544,International Arts Business School,Ethnicity by GPA,Other,75-84,s,s,s
+17K544,International Arts Business School,Ethnicity by GPA,Other,85-100,s,s,s
+17K544,International Arts Business School,Ethnicity by GPA,Other,55-64,s,s,s
+17K544,International Arts Business School,Ethnicity by GPA,White,All,s,s,s
+17K544,International Arts Business School,Ethnicity by GPA,White,0-54,s,s,s
+17K544,International Arts Business School,Ethnicity by GPA,White,65-74,s,s,s
+17K544,International Arts Business School,Ethnicity by GPA,White,55-64,s,s,s
+17K544,International Arts Business School,Ethnicity by GPA,White,75-84,s,s,s
+17K544,International Arts Business School,Ethnicity by GPA,White,85-100,s,s,s
+17K544,International Arts Business School,Gender by GPA,Female,All,53,1.0000,53
+17K544,International Arts Business School,Gender by GPA,Female,0-54,s,s,53
+17K544,International Arts Business School,Gender by GPA,Female,85-100,s,s,53
+17K544,International Arts Business School,Gender by GPA,Female,55-64,s,s,53
+17K544,International Arts Business School,Gender by GPA,Female,65-74,16,0.3019,53
+17K544,International Arts Business School,Gender by GPA,Female,75-84,23,0.4340,53
+17K544,International Arts Business School,Gender by GPA,Male,All,50,1.0000,50
+17K544,International Arts Business School,Gender by GPA,Male,0-54,s,s,50
+17K544,International Arts Business School,Gender by GPA,Male,85-100,s,s,50
+17K544,International Arts Business School,Gender by GPA,Male,55-64,13,0.2600,50
+17K544,International Arts Business School,Gender by GPA,Male,75-84,14,0.2800,50
+17K544,International Arts Business School,Gender by GPA,Male,65-74,17,0.3400,50
+17K544,International Arts Business School,Grade by GPA,Grade 10,All,18,1.0000,18
+17K544,International Arts Business School,Grade by GPA,Grade 10,0-54,s,s,18
+17K544,International Arts Business School,Grade by GPA,Grade 10,75-84,s,s,18
+17K544,International Arts Business School,Grade by GPA,Grade 10,85-100,s,s,18
+17K544,International Arts Business School,Grade by GPA,Grade 10,65-74,s,s,18
+17K544,International Arts Business School,Grade by GPA,Grade 10,55-64,13,0.7222,18
+17K544,International Arts Business School,Grade by GPA,Grade 11,All,s,s,s
+17K544,International Arts Business School,Grade by GPA,Grade 11,0-54,s,s,s
+17K544,International Arts Business School,Grade by GPA,Grade 11,85-100,s,s,s
+17K544,International Arts Business School,Grade by GPA,Grade 11,55-64,s,s,s
+17K544,International Arts Business School,Grade by GPA,Grade 11,75-84,s,s,s
+17K544,International Arts Business School,Grade by GPA,Grade 11,65-74,s,s,s
+17K544,International Arts Business School,Grade by GPA,Grade 12,All,76,1.0000,76
+17K544,International Arts Business School,Grade by GPA,Grade 12,0-54,s,s,76
+17K544,International Arts Business School,Grade by GPA,Grade 12,55-64,s,s,76
+17K544,International Arts Business School,Grade by GPA,Grade 12,85-100,s,s,76
+17K544,International Arts Business School,Grade by GPA,Grade 12,65-74,25,0.3289,76
+17K544,International Arts Business School,Grade by GPA,Grade 12,75-84,35,0.4605,76
+17K544,International Arts Business School,Grade by GPA,Grade 9,All,s,s,s
+17K544,International Arts Business School,Grade by GPA,Grade 9,55-64,s,s,s
+17K544,International Arts Business School,Grade by GPA,Grade 9,65-74,s,s,s
+17K544,International Arts Business School,Grade by GPA,Grade 9,75-84,s,s,s
+17K544,International Arts Business School,Grade by GPA,Grade 9,85-100,s,s,s
+17K544,International Arts Business School,Grade by GPA,Grade 9,0-54,s,s,s
+Dataset Name,School Closure Discharge Reporting - 2014 2015 School Year OD,,,,,,
+Agency Name,NYC Department of Education,,,,,,
+Update Frequency,No Data,,,,,,
+Dataset Description,"In June 2015, 18 New York City public schools closed for poor performance.  This report provides data regarding students enrolled in these schools during the 2014-2015 school year, according to the guidelines set by Local Law 2011/043",,,,,,
+How is this data collected?,No Data,,,,,,
+What does each record represent?,No Data,,,,,,
+How can this data be used?,No Data,,,,,,
+What are the idiosyncrasies or limitations of the data to be aware of?,"Spreadsheets include any student enrolled as of October 31, 2014 and after.",,,,,,
+List any additional information in order to provide context to the data for someone not familiar with your agency's operations.,"Cells with 0 to 9 cases were suppressed throughout the discharge reporting. In some cases, cells with higher counts were suppressed if that information would result in the ability to determine the values of suppressed cells though subtraction. ",Column Name,Column Description,"Term, Acronym, or Code Definitions","Additional Notes (where applicable, include the  range of possible values, units of measure, how to interpret null/zero values, whether there are specific relationships between columns, and information on column source)",,
+DBN,"DBN CODE: a character code used to identify a school and its location. It is formed by concatenating the school district code, the school borough code, and the school number.","the district, borough and number for a  school","Examples: 02M001, 13K001, 31R080, 30Q502, 08X001",,,,
+SchoolName,"LOCATION NAME: the name by which the organization is known. For a learning community, it is the official title of the school.",No Data,"Data Type: VARCHAR2, Length: 100",,,,
+ByGroup,Sorted by group,No Data,"Data Type: VARCHAR2, Length: 100",,,,
+Demographic,Sorted by demographic,No Data,"Data Type: VARCHAR2, Length: 100",,,,
+DischargeCode,Discharge code,No Data,"Data Type: VARCHAR2, Length: 100",,,,
+#,"Stands for ""Number of""",No Data,"Data Type: VARCHAR2, Length: 100",,,,
+% within Demographic,The percent within the demographic,No Data,"Data Type: VARCHAR2, Length: 100",,,,
+Total # within Demographic,The total number within the demographic,No Data,"Data Type: VARCHAR2, Length: 100",,,,
+GPA,Range of grades,Grade Point Average,"Data Type: VARCHAR2, Length: 100",,,,
+Credit Recovery,Credit Recovery,No Data,"Data Type: VARCHAR2, Length: 100",,,,
+Disability Status,The disability status,No Data,"Data Type: VARCHAR2, Length: 100",,,,
+ToSchoolDbn,"DBN CODE: a character code used to identify a school and its location. It is formed by concatenating the school district code, the school borough code, and the school number.","the district, borough and number for a  school","Examples: 02M001, 13K001, 31R080, 30Q502, 08X001",,,,
+ToSchoolName,"LOCATION NAME: the name by which the organization is known. For a learning community, it is the official title of the school.",No Data,"Data Type: VARCHAR2, Length: 100",,,,
+Attendance Rate,The rate of attendance,No Data,"Data Type: VARCHAR2, Length: 100",Version ,Date,Change Highlights,Comments
+1,5/9/17,Added required information for Open Data NYC,No Data,,,,

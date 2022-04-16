@@ -1,0 +1,1889 @@
+Building Code,DBN,School Name,Mbps Bandwidth
+K001,15K001,P.S. 001 The Bergen,20
+K002,17K002,Parkside Preparatory Academy,40
+K002,75K141,P.S. K141,40
+K003,13K003,P.S. 003 The Bedford Village,10
+K005,16K005,P.S. 005 Dr. Ronald Mcnair,10
+K006,17K006,P.S. 006,10
+K007,19K007,P.S. 007 Abraham Lincoln,10
+K008,13K008,P.S. 008 Robert Fulton,10
+K009,13K009,P.S. 009 Teunis G. Bergen,10
+K010,15K010,Magnet School of Math Science and Design Technology,30
+K011,13K011,P.S. 011 Purvis J. Behan,10
+K012,17K012,Dr. Jacqueline Peek-Davis School,10
+K012,17K484,Ronald Edmonds Learning Center II,10
+K013,19K013,P.S. 013 Roberto Clemente,10
+K014,22K014,J.H.S. 014 Shell Bank,30
+K014,75K077,P.S. K077,30
+K015,15K015,P.S. 015 Patrick F. Daly,20
+K016,14K016,P.S. 016 Leonard Dunkly,10
+K017,14K017,P.S. 017 Henry D. Woodworth,20
+K017,14K577,Conselyea Preparatory School,20
+K018,14K018,P.S. 018 Edward Bush,10
+K019,14K414,Brooklyn Arbor Elementary School,10
+K020,13K020,P.S. 020 Clinton Hill,40
+K020,13K492,Academy of Arts and Letters,40
+K021,16K021,P.S. 021 Crispus Attucks,10
+K022,17K705,Brooklyn Arts and Science Elementary School,10
+K023,14K023,P.S. 023 Carter G. Woodson,10
+K024,15K024,P.S. 024,10
+K025,16K025,P.S. 025 Eubie Blake School,40
+K025,16K534,Upper School @ P.S. 25,40
+K026,16K026,P.S. 026 Jesse Owens,20
+K026,16K393,Frederick Douglass Academy IV Secondary School,20
+K026,16K681,Madiba Prep Middle School,20
+K027,15K676,Red Hook Neighborhood School,10
+K028,16K028,P.S. 028 The Warren Prep Academy,10
+K029,15K029,P.S. 029 John M. Harrigan,10
+K031,14K031,P.S. 031 Samuel F. Dupont,10
+K032,15K032,P.S. 032 Samuel Mills Sprole,40
+K032,15K442,M.S. 442 Carroll Gardens School for Innovation,40
+K033,14K322,Foundations Academy,20
+K033,14K330,The School for the Urban Environment,20
+K033,75K368,P.S. 368,20
+K034,14K034,P.S. 034 Oliver H. Perry,10
+K035,16K035,M.S. 035 Stephen Decatur,10
+K035,16K628,Brooklyn Brownstone School,10
+K038,15K038,P.S. 038 The Pacific,10
+K039,15K039,P.S. 039 Henry Bristow,10
+K040,16K040,P.S. 040 George W. Carver,10
+K040,16K594,Gotham Professional Arts Academy,10
+K041,23K041,P.S. 041 Francis White,20
+K043,21K098,I.S. 98 Bay Academy,20
+K044,13K044,P.S. 044 Marcus Garvey,10
+K045,32K045,P.S./I.S. 045 Horace E. Greene,20
+K046,13K046,P.S. 046 Edward C. Blum,20
+K046,13K691,Fort Greene Preparatory Academy,20
+K048,20K048,P.S. 048 Mapleton,10
+K049,14K449,The Brooklyn Latin School,40
+K049,14K454,Green School: An Academy for Environmental Careers,40
+K049,14K586,Lyons Community School,40
+K050,14K050,J.H.S. 050 John D. Wells,40
+K051,15K051,M.S. 51 William Alexander,20
+K052,22K052,P.S. 052 Sheepshead Bay,10
+K054,13K054,P.S. 054 Samuel C. Barnes,10
+K055,23K493,Brooklyn Collegiate: A College Board School,20
+K056,13K056,P.S. 056 Lewis H. Latimer,20
+K056,13K351,The Urban Assembly Unison School,20
+K057,16K057,J.H.S. 057 Whitelaw Reid,10
+K057,16K385,School of Business Finance and Entrepreneurship,10
+K057,16K688,The Brooklyn Academy of Global Finance,10
+K058,15K058,P.S. 058 The Carroll,10
+K059,14K059,P.S. 059 William Floyd,10
+K061,17K061,M.S. 061 Dr. Gladstone H. Atwell,20
+K062,20K062,J.H.S. 062 Ditmas,40
+K066,18K066,P.S. 66,10
+K067,13K067,P.S. 067 Charles A. Dorsey,10
+K068,18K068,I.S. 068 Isaac Bildersee,10
+K069,20K069,P.S. 69 Vincent D. Grippo School,20
+K071,14K071,Juan Morel Campos Secondary School,40
+K072,19K677,East New York Elementary School of Excellence,20
+K072,19K678,East New York Middle School of Excellence,20
+K073,23K073,P.S. 073 Thomas S. Boyland,10
+K073,23K599,Brooklyn Landmark Elementary School,10
+K073,23K664,Brooklyn Environmental Exploration School (BEES),10
+K075,32K075,P.S. 075 Mayda Cortiella,10
+K078,22K078,J.H.S. 078 Roy H. Mann,40
+K081,16K081,P.S. 081 Thaddeus Stevens,10
+K084,14K084,P.S. 084 Jose De Diego,10
+K085,75K753,P.S. K753 - School for Career Development,20
+K086,32K086,P.S. 086 The Irvington,10
+K088,15K088,J.H.S. 088 Peter Rouget,40
+K088,75K053,P.S. K053,40
+K090,21K090,P.S. 90 Edna Cohen School,10
+K091,17K091,P.S. 091 The Albany Avenue School,10
+K092,17K092,P.S. 092 Adrian Hegeman,20
+K093,13K093,P.S. 093 William H. Prescott,10
+K093,13K266,M.S. K266 - Park Place Community Middle School,10
+K094,15K094,P.S. 094 The Henry Longfellow,10
+K095,21K095,P.S. 095 The Gravesend,10
+K096,21K096,I.S. 096 Seth Low,40
+K097,21K097,P.S. 97 The Highlawn,20
+K099,21K099,P.S. 099 Isaac Asimov,10
+K100,21K100,P.S. 100 The Coney Island School,10
+K101,21K101,P.S. 101 The Verrazano,20
+K102,20K102,P.S. 102 The Bayview,10
+K104,20K104,P.S./I.S. 104 The Fort Hamilton School,10
+K105,20K105,P.S. 105 The Blythebourne,30
+K106,32K106,P.S. 106 Edward Everett Hale,10
+K107,15K107,P.S. 107 John W. Kimball,10
+K108,19K108,P.S. 108 Sal Abbracciamento,20
+K110,14K110,P.S. 110 The Monitor,10
+K111,32K347,I.S. 347 School of Humanities,20
+K111,32K349,I.S. 349 Math Science & Tech.,20
+K112,20K112,P.S. 112 Lefferts Park,10
+K113,13K113,M.S. 113 Ronald Edmonds Learning Center,40
+K114,18K114,P.S. 114 Ryder Elementary,10
+K115,18K115,P.S. 115 Daniel Mucatel School,10
+K116,32K116,P.S. 116 Elizabeth L Farrell,10
+K117,13K412,Brooklyn Community High School of Communication Arts and Media,10
+K117,13K596,M.S. 596 Peace Academy,10
+K117,13K616,Brooklyn High School for Leadership and Community Service,10
+K119,22K119,P.S. 119 Amersfort,10
+K120,14K120,P.S. 120 Carlos Tapia,10
+K121,21K121,P.S. 121 Nelson A. Rockefeller,10
+K123,32K123,P.S. 123 Suydam,10
+K124,15K124,P.S. 124 Silas B. Dutcher,10
+K126,14K126,John Ericsson Middle School 126,10
+K127,20K127,P.S. 127 Mckinley Park,10
+K128,21K128,P.S. 128 Bensonhurst,20
+K130,15K130,P.S. 130 The Parkside,10
+K131,15K131,P.S. 131 Brooklyn,10
+K132,14K132,P.S. 132 The Conselyea School,20
+K135,18K135,P.S. 135 Sheldon A. Brookner,10
+K136,15K136,I.S. 136 Charles O. Dewey,30
+K136,15K821,Sunset Park Prep,30
+K137,23K137,P.S./I.S. 137 Rachel Jean Mitchell,10
+K138,17K138,P.S. 138 Brooklyn,20
+K139,22K139,P.S. 139 Alexine A. Fenty,10
+K142,15K146,P.S. 146,30
+K142,15K448,Brooklyn Secondary School for Collaborative Studies,30
+K145,32K145,P.S. 145 Andrew Jackson,10
+K147,14K147,P.S. 147 Isaac Remsen,20
+K147,14K614,Young Womens Leadership School of Brooklyn,20
+K148,75K373,P.S. 373 - Brooklyn Transition Center,20
+K149,19K149,P.S. 149 Danny Kaye,10
+K150,23K150,P.S. 150 Christopher,10
+K151,32K151,P.S. 151 Lyndon B. Johnson,10
+K152,22K152,School of Science & Technology,10
+K152,22K315,P.S. K315,10
+K153,21K153,P.S. 153 Homecrest,10
+K154,15K154,The Windsor Terrace School,20
+K155,23K155,P.S./ I.S. 155 Nicholas Herkimer,20
+K157,14K157,P.S./I.S. 157 The Benjamin Franklin Health & Science Academy,10
+K158,19K158,P.S. 158 Warwick,10
+K159,19K159,P.S. 159 Isaac Pitkin,10
+K160,20K160,P.S. 160 William T. Sampson,10
+K161,17K161,P.S. 161 The Crown,20
+K162,32K162,J.H.S. 162 The Willoughby,10
+K163,20K748,P.S. 748 Brooklyn School for Global Scholars,10
+K164,20K164,P.S. 164 Caesar Rodney,10
+K165,23K165,P.S. 165 Ida Posner,40
+K166,19K654,Van Siclen Community Middle School,40
+K167,17K167,P.S. 167 The Parkway,20
+K167,17K532,New Bridges Elementary,20
+K169,15K169,P.S. 169 Sunset Park,30
+K170,20K170,Ralph A. Fabrizio School,20
+K171,19K171,I.S. 171 Abraham Lincoln,40
+K171,19K760,Highland Park Community School,40
+K172,15K172,P.S. 172 Beacon School of Excellence,10
+K174,19K174,P.S. 174 Dumont,40
+K174,19K557,Brooklyn Gardens Elementary School,40
+K174,19K663,School of the Future Brooklyn,40
+K175,23K514,Frederick Douglass Academy VII High School,40
+K175,23K697,Teachers Preparatory High School,40
+K176,20K176,P.S. 176 Ovington,40
+K177,21K177,P.S. 177 The Marlboro,10
+K178,23K178,P.S. 178 Saint Clair Mckelway,10
+K179,20K179,P.S. 179 Kensington,10
+K180,20K180,The SEEALL Academy,20
+K180,75K231,P.S. K231,20
+K181,17K181,P.S. 181 Brooklyn,20
+K183,23K446,Riverdale Avenue Community School,20
+K183,23K668,Riverdale Avenue Middle School,20
+K184,23K184,P.S. 184 Newport,20
+K185,20K185,P.S. 185 Walter Kassenbrock,10
+K186,20K186,P.S. 186 Dr. Irving A Gladstone,10
+K188,21K188,P.S. 188 Michael E. Berdy,10
+K189,17K189,P.S. 189 The Bilingual Center,20
+K190,19K190,P.S. 190 Sheffield,10
+K190,19K311,Essence School,10
+K191,17K191,P.S. 191 Paul Robeson,20
+K192,20K192,P.S. 192 - The Magnet School for Math and Science Inquiry,10
+K193,22K193,P.S. 193 Gil Hodges,10
+K194,22K194,P.S. 194 Raoul Wallenberg,10
+K195,22K195,P.S. 195 Manhattan Beach,10
+K196,14K196,P.S. 196 Ten Eyck,10
+K196,14K582,M.S. 582,10
+K197,22K197,P.S. 197 - The Kings Highway Academy,20
+K197,22K381,I. S. 381,20
+K198,22K198,P.S. 198 Brooklyn,10
+K199,21K199,P.S. 199 Frederick Wachtel,10
+K200,20K200,P.S. 200 Benson School,10
+K201,20K201,J.H.S. 201 The Dyker Heights,10
+K202,19K202,P.S. 202 Ernest S. Jenkyns,20
+K203,22K203,P.S. 203 Floyd Bennett School,10
+K204,20K204,P.S. 204 Vince Lombardi,10
+K205,20K205,P.S. 205 Clarion,30
+K206,22K206,P.S. 206 Joseph F Lamb,30
+K207,22K207,P.S. 207 Elizabeth G. Leary,10
+K208,18K208,P.S. 208 Elsa Ebeling,10
+K209,21K209,P.S. 209 Margaret Mead,10
+K210,17K394,M.S. K394,10
+K211,18K211,I.S. 211 John Wilson,10
+K212,21K212,P.S. 212 Lady Deborah Moody,10
+K213,19K213,P.S. 213 New Lots,20
+K214,19K214,P.S. 214 Michael Friedsam,20
+K215,21K215,P.S. 215 Morris H. Weiss,10
+K216,21K216,P.S. 216 Arturo Toscanini,10
+K217,22K217,P.S. 217 Colonel David Marcus School,10
+K218,19K218,J.H.S. 218 James P. Sinnott,10
+K218,19K683,The School for Classics: An Academy of Thinkers Writers and Performers,10
+K219,18K219,P.S. 219 Kennedy-King,10
+K220,20K220,J.H.S. 220 John J. Pershing,40
+K221,17K221,P.S. 221 Toussaint LOuverture,10
+K222,22K222,P.S. 222 Katherine R. Snyder,10
+K223,20K223,J.H.S. 223 The Montauk,20
+K223,20K609,Urban Assembly School for Criminal Justice,20
+K224,19K224,P.S. 224 Hale A. Woodruff,20
+K225,21K225,P.S. K225 - The Eileen E. Zaglin,20
+K225,75K771,P.S. K771,20
+K226,21K226,P.S. 226 Alfred De B.Mason,10
+K227,20K227,J.H.S. 227 Edward B. Shallow,10
+K228,21K228,I.S. 228 David A. Boody,40
+K229,20K229,P.S. 229 Dyker,10
+K230,15K230,P.S. 230 Doris L. Cohen,10
+K232,18K581,East Flatbush Community Research School,40
+K232,18K589,Arts & Media Preparatory Academy,40
+K232,18K598,Middle School of Marketing and Legal Studies,40
+K233,18K233,P.S. 233 Langston Hughes,10
+K234,22K234,J.H.S. 234 Arthur W. Cunningham,20
+K235,18K235,P.S. 235 Janice Marie Knight School,10
+K236,22K236,P.S. 236 Mill Basin,30
+K237,20K682,The Academy of Talented Scholars,20
+K237,20K686,Brooklyn School of Inquiry,20
+K238,21K238,P.S. 238 Anne Sullivan,10
+K239,21K239,Mark Twain I.S. 239 for the Gifted & Talented,40
+K240,22K240,Andries Hudde,20
+K241,17K241,P.S. 241 Emma L. Johnston,20
+K242,18K635,Olympus Academy,40
+K243,16K243,P.S. 243K- The Weeksville School,30
+K244,18K244,P.S. 244 Richard R. Green,10
+K244,18K763,Brooklyn Science and Engineering Academy,10
+K246,17K246,M.S. 246 Walt Whitman,10
+K246,88K993,ALC - M.S. 246,10
+K247,20K247,P.S. 247 Brooklyn,10
+K249,17K249,P.S. 249 The Caton,20
+K250,14K250,P.S. 250 George H. Lindsay,10
+K251,22K251,P.S. 251 Paerdegat,10
+K252,18K588,Middle School for Art and Philosophy,10
+K253,21K253,P.S. 253,10
+K254,22K254,P.S. 254 Dag Hammarskjold,20
+K255,22K255,P.S. 255 Barbara Reing School,10
+K256,13K256,P.S. 256 Benjamin Banneker,10
+K257,14K257,P.S. 257 John F. Hylan,10
+K258,75K140,P.S. K140,10
+K258,88K983,ALC - M.S. 258,10
+K259,20K259,J.H.S. 259 William Mckinley,10
+K260,19K325,The Fresh Creek School,10
+K261,15K261,P.S. 261 Philip Livingston,10
+K262,16K262,P.S. 262 El Hajj Malik El Shabazz Elementary School,40
+K263,23K323,P.S./I.S. 323,10
+K263,23K671,Mott Hall Bridges Academy,10
+K264,20K264,P.S. 264 Bay Ridge Elementary School For The Arts,10
+K265,13K265,Dr. Susan S. McKinney Secondary School of the Arts,40
+K268,18K268,P.S. 268 Emma Lazarus,40
+K269,22K269,P.S. 269 Nostrand,10
+K270,13K270,P.S. 270 Johann DeKalb,10
+K271,23K522,Mott Hall IV,40
+K271,23K644,Eagle Academy for Young Men II,40
+K272,18K272,P.S. 272 Curtis Estabrook,10
+K273,19K273,P.S. 273 Wortman,10
+K274,32K274,P.S. 274 Kosciusko,10
+K275,23K518,Kappa V (Knowledge and Power Preparatory Academy),20
+K275,23K643,Brooklyn Democracy Academy,20
+K275,23K647,Metropolitan Diploma Plus High School,20
+K276,18K276,P.S. 276 Louis Marshall,20
+K277,22K277,P.S. 277 Gerritsen Beach,10
+K278,22K278,J.H.S. 278 Marine Park,30
+K279,18K279,P.S. 279 Herman Schreiber,20
+K281,21K281,I.S. 281 Joseph B Cavallaro,40
+K282,13K282,P.S. 282 Park Slope,10
+K284,23K284,P.S. 284 Lew Wallace,20
+K285,18K285,I.S. 285 Meyer Levin,10
+K286,75K811,P.S. K811 Connie Lekas School,20
+K287,13K287,P.S. 287 Bailey K. Ashford,10
+K288,21K288,P.S. 288 The Shirley Tanyhill,10
+K289,17K289,P.S. 289 George V. Brower,10
+K290,19K290,P.S. 290 Juan Morel Campos,20
+K291,32K291,J.H.S. 291 Roland Hayes,40
+K291,32K564,Bushwick Community High School,40
+K292,19K292,J.H.S. 292 Margaret S. Douglas,10
+K293,15K429,Brooklyn School for Global Studies,40
+K293,15K497,School for International Studies,40
+K296,32K562,Evergreen Middle School for Urban Exploration,20
+K297,14K297,P.S. 297 Abraham Stockton,10
+K298,23K298,P.S. 298 Dr. Betty Shabazz,20
+K298,23K363,Brownsville Collaborative Middle School,20
+K299,32K299,P.S. 299 Thomas Warren Field,10
+K302,19K661,Vista Academy,40
+K302,19K662,Liberty Avenue Middle School,40
+K303,21K303,I.S. 303 Herbert S. Eisenberg,20
+K303,21K344,Rachel Carson High School for Coastal Studies,20
+K304,16K627,Brighter Choice Community School,10
+K304,16K636,Young Scholars Academy for Discovery and Exploration,10
+K305,13K301,Satellite East Middle School,30
+K305,13K305,P.S. 305 Dr. Peter Ray,30
+K306,19K306,P.S. 306 Ethan Allen,20
+K307,13K307,P.S. 307 Daniel Hale Williams,20
+K307,13K313,Satellite West Middle School,20
+K308,16K308,P.S. 308 Clara Cardwell,10
+K309,16K309,P.S. 309 The George E. Wibecan Preparatory Academy,10
+K310,20K310,The School For Future Leaders,20
+K312,22K312,P.S. 312 Bergen Beach,10
+K313,13K483,The Urban Assembly School for Law and Justice,40
+K313,13K527,Urban Assembly Institute of Math and Science for Young Women,40
+K314,20K503,P.S. 503: The School of Discovery,50
+K314,20K506,P.S. 506: The School of Journalism & Technology,50
+K316,17K316,P.S. 316 Elijah Stroud,40
+K316,17K353,Elijah Stroud Middle School,40
+K317,13K133,P.S. 133 William A. Butler,10
+K318,14K318,I.S. 318 Eugenio Maria De Hostos,10
+K319,14K319,P.S. 319,10
+K320,17K352,Ebbets Field Middle School,40
+K320,17K375,P.S. 375 Jackie Robinson School,40
+K321,15K321,P.S. 321 William Penn,20
+K324,16K267,M.S. 267 Math Science & Technology,10
+K327,23K327,P.S. 327 Dr. Rose B. English,40
+K328,19K328,P.S. 328 Phyllis Wheatley,20
+K329,21K329,P.S. 329 Surfside,10
+K331,20K030,P.S./I.S. 30 Mary White Ovington,40
+K332,23K401,Christopher Avenue Community School,10
+K333,15K516,Sunset Park Avenues Elementary School,10
+K335,16K335,P.S. 335 Granville T. Woods,10
+K335,16K584,M.S. 584,10
+K345,19K345,P.S. 345 Patrolman Robert Bolden,20
+K346,19K346,P.S. 346 Abe Stark,10
+K346,19K452,Frederick Douglass Academy VIII Middle School,10
+K356,23K156,P.S. 156 Waverly,20
+K356,23K392,I.S. 392,20
+K364,19K364,I.S. 364 Gateway,10
+K366,18K366,The Science And Medicine Middle School,20
+K369,75K369,P.S. K369 - Coy L. Cox School,10
+K370,75K370,P.S. 370,10
+K371,75K371,P.S. 371 - Lillian L. Rashkis,10
+K376,32K376,P.S. 376,10
+K377,32K377,P.S. 377 Alejandrina B. De Gautier,10
+K380,14K380,P.S. 380 John Wayne Elementary,10
+K383,32K383,J.H.S. 383 Philippa Schuyler,20
+K384,32K384,P.S. /I.S. 384 Frances E. Carter,10
+K390,17K334,Middle School for Academic and Social Excellence,20
+K390,17K354,The School of Integrated Learning,20
+K391,17K722,New Heights Middle School,20
+K395,22K109,P.S. 109,20
+K397,17K397,P.S. 397 Foster-Laurie,10
+K398,17K398,P.S. 398 Walter Weaver,20
+K398,17K770,P.S. 770 New American Academy,20
+K399,17K399,P.S. 399 Stanley Eugene Clark,10
+K400,21K337,International High School at Lafayette,50
+K400,21K348,High School of Sports Management,50
+K400,21K468,Kingsborough Early College School,50
+K400,21K559,Life Academy High School for Film and Music,50
+K400,21K572,Expeditionary Learning School for Community Leaders,50
+K405,22K405,Midwood High School,30
+K410,21K410,Abraham Lincoln High School,30
+K410,21K411,Abraham Lincoln Yabc,30
+K415,18K563,It Takes a Village Academy,40
+K415,18K569,Kurt Hahn Expeditionary Learning School,40
+K415,18K629,Cultural Academy for the Arts and Sciences,40
+K420,19K501,Franklin K. Lane Campus YABC,40
+K420,19K583,Multicultural High School,40
+K420,19K618,Academy of Innovative Technology,40
+K420,19K639,Brooklyn Lab School,40
+K420,19K659,Cypress Hills Collegiate Preparatory School,40
+K420,19K764,The Urban Assembly School for Collaborative Healthcare,40
+K422,19K404,Academy for Young Writers,30
+K422,19K422,Spring Creek Community School,30
+K425,22K425,James Madison High School,30
+K430,13K430,Brooklyn Technical High School,200
+K435,19K431,Thomas Jefferson Yabc,40
+K435,19K502,FDNY High School for Fire and Life Safety,40
+K435,19K504,High School for Civil Rights,40
+K435,19K507,Performing Arts and Technology High School,40
+K435,19K510,World Academy for Total Community Health High School,40
+K437,15K839,M.S. 839,20
+K440,17K524,International High School at Prospect Heights,40
+K440,17K528,The High School for Global Citizenship,40
+K440,17K547,Brooklyn Academy of Science and the Environment,40
+K440,17K548,Brooklyn School for Music & Theatre,40
+K445,20K445,New Utrecht High School,50
+K445,20K920,New Utrecht Evening Hs M/W,50
+K445,20K921,New Utrecht Evening Hs T/R,50
+K450,14K474,PROGRESS High School for Professional Careers,40
+K450,14K477,School for Legal Studies,40
+K450,14K478,The High School for Enterprise Business and Technology,40
+K455,16K455,Boys and Girls High School,50
+K455,16K669,Research and Service High School,50
+K455,16K765,Nelson Mandela High School,50
+K455,16K959,BOYS AND GIRLS YABC,50
+K458,13K553,Brooklyn Academy High School,20
+K458,13K575,Bedford Stuyvesant Preparatory High School,20
+K460,15K462,Secondary School for Law,40
+K460,15K463,Secondary School for Journalism,40
+K460,15K464,Park Slope Collegiate,40
+K460,15K684,Millennium Brooklyn HS,40
+K460,88K987,ALC - John Jay,40
+K465,17K382,Academy for College Preparation and Career Exploration: A College Board School,30
+K465,17K408,Academy of Hospitality and Tourism,30
+K465,17K467,Erasmus Yabc,30
+K465,17K537,High School for Youth and Community Development at Erasmus,30
+K465,17K539,High School for Service & Learning at Erasmus,30
+K465,17K543,Science Technology and Research Early College High School at Erasmus,30
+K470,17K531,The School for Human Rights,40
+K470,17K533,School for Democracy and Leadership,40
+K470,17K546,High School for Public Service: Heroes of Tomorrow,40
+K470,17K745,Brooklyn Institute for Liberal Arts,40
+K480,32K168,The Brooklyn School for Math and Research,40
+K480,32K403,Academy for Environmental Leadership,40
+K480,32K549,Bushwick School for Social Justice,40
+K480,32K552,Academy of Urban Planning,40
+K485,20K485,High School of Telecommunication Arts and Technology,40
+K486,20K187,The Christa McAuliffe SchoolI.S. 187,20
+K490,20K490,Fort Hamilton High School,50
+K495,22K495,Sheepshead Bay High School,40
+K495,22K611,Origins High School,40
+K495,22K630,Professional Pathways High School,40
+K500,18K617,High School for Innovation in Advertising and Media,40
+K500,18K633,High School for Medical Professions,40
+K500,18K642,Urban Action Academy,40
+K505,20K505,Franklin Delano Roosevelt High School,50
+K505,20K658,Franklin Delano Roosevelt YABC,50
+K515,18K566,Brooklyn Generation School,40
+K515,18K567,Brooklyn Theatre Arts High School,40
+K515,18K576,Victory Collegiate High School,40
+K515,18K578,Brooklyn Bridge Academy,40
+K515,18K637,Academy for Conservation and the Environment,40
+K515,18K922,South Shore Educational Complex Yabc,40
+K520,15K423,Brooklyn Frontiers High School,20
+K525,21K525,Edward R. Murrow High School,50
+K535,22K535,Leon M. Goldstein High School for the Sciences,20
+K540,21K540,John Dewey High School,50
+K564,15K667,Sunset Park High School,50
+K580,13K605,George Westinghouse Career and Technical Education High School,40
+K580,13K657,Downtown Brooklyn Yabc,40
+K580,13K901,G. Westinghouse Evening H.S.,40
+K580,13K902,Westinghouse Evening Hs T/R,40
+K580,13K674,City Polytechnic High School of Engineering Architecture and Technology,40
+K590,17K590,Medgar Evers College Preparatory School,20
+K597,21K840,Brooklyns Daily Discovery Pre-K Center,10
+K600,17K600,Clara Barton High School,20
+K610,14K610,Automotive High School,40
+K610,14K632,Frances Perkins Academy,40
+K610,14K923,Automotive High School Yabc,40
+K615,19K615,Transit Tech Career and Technical Education High School,40
+K620,21K620,William E. Grady Career and Technical Education High School,40
+K620,88K984,ALC - Brighton Academy,40
+K625,17K122,Pathways in Technology Early College High School (P-Tech),40
+K625,17K751,Academy for Health Careers,40
+K650,14K488,Brooklyn Preparatory High School,50
+K650,14K558,Williamsburg High School for Architecture and Design,50
+K650,14K561,Williamsburg Preparatory School,50
+K655,15K447,The Math & Science Exploratory School,40
+K655,15K656,Brooklyn High School of the Arts,40
+K660,19K660,W. H. Maxwell Career and Technical Education High School,40
+K722,75K721,P.S. K721 - Brooklyn Occupational Training Center,20
+K728,21K728,Liberation Diploma Plus,20
+K735,22K245,P.S. 245,10
+K743,79K755,Adult and Continuing Education,10
+K763,15K118,The Maurice Sendak Community School,10
+K763,15K767,The Little Brooklyn Pre-K Center,10
+K765,22K853,The Joan Snow Pre-K Center,10
+K768,20K768,District 20 Pre-K Center,10
+K778,14K685,El Puente Academy for Peace and Justice,20
+K781,15K529,West Brooklyn Community High School,10
+K798,19K065,P.S. 065,10
+K799,88K607,ALC - Melrose Academy,10
+K799,88K992,ALC - Brooklyn Choices,10
+K804,15K519,Cobble Hill School of American Studies,40
+K805,13K350,Urban Assembly High School of Music and Art,50
+K805,13K419,Science Skills Center High School for Science Technology and the Creative Arts,50
+K805,13K439,Brooklyn International High School,50
+K806,15K592,Khalil Gibran International Academy,10
+K807,20K163,P.S. 163 Bath Beach,10
+K812,15K836,Magnet Sch For Early Childhood,1.5
+K813,88K952,ALC - Park Place Academy,10
+K813,88K988,ALC - Fundamentals Academy,10
+K814,19K089,P.S. 089 Cypress Hills,40
+K819,19K409,East New York Family Academy,10
+K824,17K489,W.E.B. Dubois Academic High School,40
+K824,88K981,ALC - W.E.B Dubois,40
+K825,15K698,South Brooklyn Community High School,40
+K834,15K418,The Childrens School,20
+K834,75K372,P.S. 372 -The Childrens School,20
+K843,75K004,P.S. K004,10
+K845,15K295,P.S. 295,20
+K845,15K443,New Voices School of Academic & Creative Arts,20
+K849,22K134,P.S. K134,10
+K852,22K326,P.S. 326,10
+K857,75K036,P.S. 36,10
+K860,18K673,East Brooklyn Community High School,40
+K864,22K361,P.S. 361 East Flatbush Early Childhood School,10
+K865,32K556,Bushwick Leaders High School for Academic Excellence,20
+K867,88K991,ALC - P.S. 138K ANNEX,10
+K874,17K340,I.S. 340,10
+K894,23K646,Aspirations Diploma Plus High School,10
+K907,17K568,Brownsville Academy High School,20
+K909,13K499,ACORN Community High School,20
+K913,32K545,EBC High School for Public Service - Bushwick,30
+K914,13K670,Benjamin Banneker Academy,10
+K917,22K555,Brooklyn College Academy,20
+K971,20K971,School of Math Science and Healthy Living,10
+K987,16K498,Brooklyn High School for Law and Technology,40
+K994,13K595,Bedford Academy High School,10
+L001,75Q256,P.S. Q256,20
+M001,02M001,P.S. 001 Alfred E. Smith,10
+M002,02M002,P.S. 002 Meyer London,50
+M003,02M003,P.S. 003 Charrette School,10
+M004,06M004,P.S. 004 Duke Ellington,10
+M005,06M005,P.S. 005 Ellen Lurie,10
+M006,02M006,P.S. 006 Lillie D. Blake,10
+M007,04M007,P.S. 007 Samuel Stern,40
+M007,04M406,Global Technology Preparatory,40
+M008,06M008,P.S. 008 Luis Belliard,10
+M009,03M009,P.S. 009 Sarah Anderson,20
+M009,03M243,M.S. 243 Center School,20
+M010,05M499,Frederick Douglass Academy,20
+M011,02M011,P.S. 011 William T. Harris,10
+M013,04M497,Central Park East I,20
+M013,04M555,Central Park East High School,20
+M015,01M015,P.S. 015 Roberto Clemente,10
+M017,02M212,P.S. 212 Midtown West,10
+M017,02M408,Professional Performing Arts High School,10
+M019,01M019,P.S. 019 Asher Levy,20
+M019,01M301,Technology Arts,20
+M020,01M020,P.S. 020 Anna Silver,10
+M022,01M539,New Explorations into Science Technology and Math High School,20
+M025,01M378,School for Global Leaders,40
+M025,01M509,Marta Valle High School,40
+M025,01M515,Lower East Side Preparatory High School,40
+M028,06M028,P.S. 028 Wright Brothers,10
+M030,05M030,P.S. 030 Hernandez/Hughes,20
+M030,75M138,P.S. 138,20
+M033,02M033,P.S. 033 Chelsea Prep,40
+M034,01M034,P.S. 034 Franklin D. Roosevelt,10
+M036,05M036,P.S. 036 Margaret Douglas,20
+M040,02M040,P.S. 040 Augustus Saint-Gaudens,20
+M040,02M255,M.S. 255 Salk School of Science,20
+M041,02M041,P.S. 041 Greenwich Village,20
+M042,02M042,P.S. 042 Benjamin Altman,10
+M043,05M286,I.S. M286 Renaissance Leadership Academy,40
+M043,05M367,Academy for Social Action,40
+M043,05M369,Urban Assembly School for the Performing Arts,40
+M043,05M410,The Urban Assembly Institute for New Technologies,40
+M044,03M245,M.S. M245 The Computer School,10
+M044,03M334,The Anderson School,10
+M044,03M452,P.S. 452,10
+M045,04M409,Coalition School for Social Change,10
+M046,05M046,P.S. 046 Arthur Tappan,10
+M047,02M047,47 The American Sign Language and English Secondary School,40
+M047,02M347,The 47 American Sign Language & English Lower School,40
+M050,04M050,P.S. 050 Vito Marcantonio,20
+M052,06M052,J.H.S. 052 Inwood,50
+M052,06M211,Inwood Early College for Health and Information Technologies,50
+M052,06M423,High School for Excellence and Innovation,50
+M054,03M054,J.H.S. 054 Booker T. Washington,30
+M056,01M292,Henry Street School for International Studies,20
+M056,01M332,University Neighborhood Middle School,20
+M056,01M345,Collaborative Academy of Science Technology,20
+M057,04M057,James Weldon Johnson,10
+M058,75M035,P.S. 035,20
+M060,01M450,East Side Community School,40
+M061,01M315,The East Village Community School,10
+M061,01M361,The Childrens Workshop School,10
+M063,01M063,The STAR Academy - P.S.63,10
+M063,01M363,Neighborhood School,10
+M064,01M064,P.S. 064 Robert Simon,40
+M064,01M364,Earth School,40
+M064,01M839,Tompkins Square Middle School,40
+M066,02M151,Yorkville Community School,10
+M070,02M312,New York City Lab Middle School for Collaborative Studies,40
+M070,02M412,N.Y.C. Lab School for Collaborative Studies,40
+M070,02M414,N.Y.C. Museum School,40
+M072,04M072,The Lexington Academy,10
+M075,03M075,P.S. 075 Emily Dickinson,40
+M075,03M250,M.S. 250 West Side Collaborative Middle School,40
+M076,03M076,P.S. 076 A. Philip Randolph,40
+M079,75M079,P.S. M079 - Horan School,20
+M083,04M083,P.S. 083 Luis Munoz Rivera,10
+M083,04M182,The Bilingual Bicultural School,10
+M084,03M084,P.S. 084 Lillian Weber,10
+M084,03M247,M.S. M247 Dual Language Middle School,10
+M087,03M087,P.S. 087 William Sherman,10
+M088,03M415,Wadleigh Secondary School for the Performing & Visual Arts,30
+M088,03M860,Frederick Douglass Academy II Secondary School,30
+M089,02M089,P.S. 89,20
+M089,02M289,I.S. 289,20
+M090,06M319,M.S. 319 - Maria Teresa,30
+M090,06M324,M.S. 324 - Patria Mirabal,30
+M092,05M092,P.S. 092 Mary McLeod Bethune,10
+M093,06M210,P.S./I.S. 210 - Twenty-first Century Academy for Community Leadership,10
+M096,04M096,P.S. 096 Joseph Lanzetta,30
+M096,04M381,Global Neighborhood Secondary School,30
+M097,01M696,Bard High School Early College,20
+M098,06M098,P.S. 098 Shorac Kappock,20
+M099,04M224,M.S. 224 Manhattan East School for Arts & Academics,10
+M101,04M375,Mosaic Preparatory Academy,10
+M102,04M102,P.S. 102 Jacques Cartier,10
+M104,02M104,J.H.S. 104 Simon Baruch,10
+M107,04M680,The Heritage School,10
+M108,04M108,P.S. 108 Assemblyman Angelo Del Toro Educational Complex,20
+M110,01M110,P.S. 110 Florence Nightingale,10
+M111,02M111,P.S. 111 Adolph S. Ochs,20
+M113,03M241,STEM Institute of Manhattan,10
+M114,02M114,East Side Middle School,10
+M115,06M115,P.S. 115 Alexander Humboldt,10
+M116,02M116,P.S. 116 Mary Lindley Murray,10
+M117,04M012,Tag Young Scholars,40
+M117,04M372,Esperanza Preparatory Academy,40
+M118,03M256,M.S. 256 Academic & Athletic Excellence,40
+M118,03M258,Community Action School - MS 258,40
+M118,03M333,P.S. 333 Manhattan School for Children,40
+M121,04M038,P.S. 38 Roberto Clemente,10
+M123,05M123,P.S. 123 Mahalia Jackson,20
+M124,02M124,P.S. 124 Yung Wing,20
+M125,05M125,P.S. 125 Ralph Bunche,20
+M125,05M362,Columbia Secondary School,20
+M126,02M126,P.S. 126 Jacob August Riis,20
+M126,02M893,Jacob Riis School,20
+M128,06M128,P.S. 128 Audubon,10
+M128,06M513,Castle Bridge School,10
+M129,05M129,P.S. 129 John H. Finley,20
+M130,02M130,P.S. 130 Hernando De Soto,40
+M131,02M131,M.S. 131,20
+M131,02M298,Pace High School,20
+M131,02M394,Emma Lazarus High School,20
+M132,06M103,Dos Puentes Elementary School,10
+M132,06M132,P.S. 132 Juan Pablo Duarte,10
+M133,05M133,P.S. 133 Fred R Moore,10
+M134,01M134,P.S. 134 Henrietta Szold,10
+M134,01M137,P.S. 137 John L. Bernstein,10
+M136,05M148,Eagle Academy for Young Men of Harlem,20
+M136,05M302,KAPPA IV,20
+M136,05M304,Mott Hall High School,20
+M136,05M685,Bread & Roses Integrated Arts High School,20
+M137,01M184,P.S. 184m Shuang Wen,10
+M140,01M140,P.S. 140 Nathan Straus,10
+M142,01M142,P.S. 142 Amalia Castro,10
+M143,06M143,J.H.S. 143 Eleanor Roosevelt,40
+M143,06M348,Washington Heights Expeditionary Learning School,40
+M144,03M242,P.S. 242 - The Young Diplomats Magnet Academy,20
+M145,03M145,P.S. 145 The Bloomingdale School,40
+M145,03M421,West Prep Academy,40
+M146,04M146,P.S. 146 Ann M. Short,10
+M152,06M152,P.S. 152 Dyckman Valley,10
+M153,06M153,P.S. 153 Adam Clayton Powell,10
+M153,06M368,Hamilton Heights School,10
+M154,05M154,P.S. 154 Harriet Tubman,20
+M155,04M155,P.S. 155 William Paca,10
+M155,04M377,Renaissance School of the Arts,10
+M158,02M158,P.S. 158 Bayard Taylor,10
+M158,02M177,Yorkville East Middle School,10
+M161,05M161,P.S. 161 Pedro Albizu Campos,50
+M163,03M163,P.S. 163 Alfred E. Smith,10
+M164,06M326,M.S. 326 - Writers Today & Leaders Tomorrow,40
+M164,06M328,M.S. 328 - Manhattan Middle School for Scientific Inquiry,40
+M165,03M165,P.S. 165 Robert E. Simon,20
+M165,03M862,Mott Hall II,20
+M166,03M166,P.S. 166 The Richard Rodgers School of The Arts and Technology,20
+M167,02M167,J.H.S. 167 Robert F. Wagner,20
+M169,75M169,P.S. M169 - Robert F. Kennedy,10
+M171,04M171,P.S. 171 Patrick Henry,20
+M171,04M964,Central Park East II,20
+M173,06M173,P.S. 173,10
+M173,06M349,Harbor Heights,10
+M175,05M175,P.S. 175 Henry H Garnet,20
+M176,06M311,Amistad Dual Language School,20
+M176,06M314,Muscota,20
+M178,06M178,Professor Juan Bosch Public School,10
+M180,03M180,P.S. 180 Hugo Newman,10
+M183,02M183,P.S. 183 Robert L. Stevenson,10
+M185,03M185,P.S. 185 - The Early Childhood Discovery and Design Magnet School,10
+M187,06M187,P.S./I.S. 187 Hudson Cliffs,20
+M188,01M188,P.S. 188 The Island School,40
+M189,06M189,P.S. 189,20
+M190,02M290,P.S. 290 Manhattan New School,10
+M191,03M191,P.S. 191 Amsterdam,20
+M192,06M192,P.S. 192 Jacob H. Schiff,20
+M192,06M209,Hamilton Grange Middle School,20
+M192,06M325,P.S. 325,20
+M194,05M194,P.S. 194 Countee Cullen,10
+M195,05M514,New Design Middle School,20
+M197,05M197,P.S. 197 John B. Russwurm,10
+M198,02M077,P.S. 77 Lower Lab School,40
+M198,02M198,P.S. 198 Isador E. Ida Straus,40
+M199,03M199,P.S. 199 Jessie Isador Straus,10
+M206,04M037,River East Elementary,10
+M206,04M206,P.S. 206 Jose Celso Barbosa,10
+M207,03M149,P.S. 149 Sojourner Truth,10
+M208,03M208,P.S. 208 Alain L. Locke,20
+M218,06M218,I.S. 218 Salome Urena,40
+M218,06M293,City College Academy of the Arts,40
+M218,06M322,Middle School 322,40
+M223,06M223,The Mott Hall School,20
+M233,88M971,ALC - Washington Heights,10
+M233,88M993,ALC - Laurel Hill,10
+M233,88M994,ALC - Cloisters,10
+M234,02M234,P.S. 234 Independence School,10
+M263,06M366,Washington Heights Academy,10
+M267,02M267,East Side Elementary School PS 267,10
+M271,02M217,P.S./I.S. 217 Roosevelt Island,10
+M276,02M276,Battery Park City School,20
+M276,75M094,P.S. M094,20
+M281,02M281,The River School,10
+M282,02M316,The Urban Assembly School of Business for Young Women,30
+M282,02M580,Richard R. Green High School of Teaching,30
+M282,02M896,Lower Manhattan Community Middle School,30
+M338,02M051,P.S. 051 Elias Howe,20
+M340,02M340,Sixth Avenue Elementary School,10
+M343,02M343,The Peck Slip School,10
+M371,05M318,Thurgood Marshall Academy Lower School,10
+M391,02M391,District 2 Pre-K Center,10
+M435,04M435,Manhattan Center for Science and Mathematics,50
+M435,04M825,Isaac Newton Middle School for Math & Science,50
+M440,02M313,The James Baldwin School: A School for Expeditionary Learning,50
+M440,02M392,MANHATTAN BUSINESS ACADEMY,50
+M440,02M419,Landmark High School,50
+M440,02M422,Quest to Learn,50
+M440,02M437,Hudson High School of Learning Technologies,50
+M440,02M605,Humanities Preparatory Academy,50
+M445,02M294,Essex Street Academy,50
+M445,02M305,The Urban Assembly Academy of Government and Law,50
+M445,02M308,Lower Manhattan Arts Academy,50
+M445,02M543,New Design High School,50
+M445,02M545,High School for Dual Language and Asian Studies,50
+M446,01M448,University Neighborhood High School,40
+M451,02M550,Liberty High School Academy for Newcomers,10
+M460,02M374,Gramercy Arts High School,50
+M460,02M399,The High School For Language And Diplomacy,50
+M460,02M438,International High School at Union Square,50
+M460,02M473,Washington Irving Yabc,50
+M460,02M533,Union Square Academy for Health Sciences,50
+M460,02M546,Academy for Software Engineering,50
+M460,02M902,Washington Irving Evng Hs T/R @NTHS,50
+M465,06M457,George Washington Yabc,50
+M465,06M462,The College Academy,50
+M465,06M463,High School for Media and Communications,50
+M465,06M467,High School for Law and Public Service,50
+M465,06M468,High School for Health Careers and Sciences,50
+M470,03M402,The Urban Assembly School for Green Careers,50
+M470,03M403,The Global Learning Collaborative,50
+M470,03M404,Innovation Diploma Plus,50
+M470,03M417,Frank Mccourt High School,50
+M475,02M407,Institute for Collaborative Education,50
+M475,02M420,High School for Health Professions and Human Services,50
+M475,75M226,P.S. M226,50
+M477,02M475,Stuyvesant High School,50
+M480,02M225,Ella Baker School,50
+M480,02M449,Vanguard High School,50
+M480,02M459,Manhattan International High School,50
+M480,02M519,Talent Unlimited High School,50
+M480,02M565,Urban Academy Laboratory High School,50
+M485,03M485,Fiorello H. LaGuardia High School of Music & Art and Performing Arts,40
+M486,02M529,Jacqueline Kennedy Onassis High School,20
+M488,02M059,P.S. 059 Beekman Hill International,50
+M488,02M630,Art and Design High School,50
+M490,03M299,High School for Arts Imagination and Inquiry,50
+M490,03M307,The Urban Assembly School for Media Studies,50
+M490,03M492,High School for Law Advocacy and Community Justice,50
+M490,03M494,High School of Arts and Technology,50
+M490,03M541,Manhattan / Hunter Science High School,50
+M495,04M495,Park East High School,40
+M501,05M157,The Urban Assembly School for Global Commerce,10
+M501,05M469,Choir Academy of Harlem,10
+M501,88M992,ALC - Choir Academy,10
+M506,03M505,Edward A. Reynolds West Side High School,10
+M510,01M458,Forsyth Satellite Academy,40
+M510,01M650,Cascades High School,40
+M520,02M135,The Urban Assembly School for Emergency Management,100
+M520,02M280,Manhattan Early College School for Advertising,100
+M520,02M282,Urban Assembly Maker Academy,100
+M520,02M520,Murry Bergtraum High School for Business Careers,100
+M528,06M528,I.S. 528 Bea Fuller Rodgers School,20
+M535,02M288,Food and Finance High School,50
+M535,02M296,High School of Hospitality Management,50
+M535,02M300,The Urban Assembly School of Design and Construction,50
+M535,02M303,The Facing History School,50
+M535,02M542,Manhattan Bridges High School,50
+M540,06M540,A. Philip Randolph Campus High School,40
+M600,02M600,The High School of Fashion Industries,40
+M615,02M376,NYC iSchool,200
+M615,02M615,Chelsea Career and Technical Education High School,200
+M620,02M427,MANHATTAN ACADEMY FOR ARTS & LANGUAGE,40
+M620,02M432,Murray Hill Academy,40
+M620,02M500,Unity Center for Urban Technologies,40
+M625,02M139,Stephen T. Mather Building Arts & Craftsmanship High School,50
+M625,02M393,Business Of Sports School,50
+M625,02M507,Urban Assembly Gateway School for Technology,50
+M625,02M625,High School of Graphic Communication Arts,50
+M641,02M560,High School M560 - City As School,40
+M641,75M501,Home Instruction,40
+M641,75M721,P.S. M721 - Manhattan Occupational Training Center,40
+M645,02M655,Life Sciences Secondary School,10
+M646,79M645,School for Cooperative Technical Education,20
+M660,02M413,School of the Future High School,40
+M661,02M575,Manhattan Comprehensive Night and Day High School,20
+M751,75M751,Manhattan School for Career Development,10
+M807,02M586,Harvey Milk High School,10
+M812,05M692,High School for Mathematics Science and Engineering at City College,10
+M814,06M346,Community Health Academy of the Heights,20
+M816,02M527,P.S. 527 - East Side School for Social Action,10
+M824,02M418,Millennium High School,20
+M827,79M984,LYFE,10
+M828,88M998,ALC - Highbridge,20
+M833,02M489,High School of Economics and Finance,40
+M834,02M400,High School for Environmental Studies,40
+M834,02M544,Independence High School,40
+M834,79M973,Restart Academy,40
+M837,03M291,West End Secondary School,30
+M840,02M150,P.S. 150,10
+M841,75M811,P.S. M811 - Mickey Mantle School,20
+M855,02M416,Eleanor Roosevelt High School,20
+M868,02M260,M.S. 260 Clinton School Writers & Artists,10
+M873,02M439,Manhattan Village Academy,10
+M874,02M411,Baruch College Campus High School,40
+M876,06M552,Gregorio Luperon High School for Science and Mathematics,40
+M877,02M551,Urban Assembly New York Harbor School,10
+M883,02M534,Harvest Collegiate High School,20
+M894,02M425,Leadership and Public Service High School,20
+M895,04M610,Young Womens Leadership School,10
+M896,02M531,Repertory Company High School for Theatre Arts,30
+M905,02M442,Ballet Tech NYC Public School for Dance,10
+M911,05M285,Harlem Renaissance High School,10
+M912,03M479,Beacon High School,50
+M916,05M517,Teachers College Community School,10
+M918,06M278,Paula Hedbavny School,30
+M920,02M570,Satellite Academy High School,20
+M933,02M933,City Knoll Middle School,10
+M970,05M670,Thurgood Marshall Academy for Learning and Social Change,10
+M971,02M397,Spruce Street School,10
+Q002,30Q002,P.S. 002 Alfred Zimberg,10
+Q003,28Q303,The Academy for Excellence through the Arts,10
+Q005,24Q005,I.S. 5 - The Walter Crowley Intermediate School,20
+Q007,24Q007,P.S. 007 Louis F. Simeone,10
+Q008,28Q008,J.H.S. 008 Richard S. Grossley,30
+Q008,28Q284,York Early College Academy,30
+Q008,28Q287,The Emerson School,30
+Q009,75Q009,P.S. 009,10
+Q010,30Q010,I.S. 010 Horace Greeley,10
+Q011,30Q011,P.S. 011 Kathryn Phelan,20
+Q012,24Q012,P.S. 012 James B. Colgate,20
+Q013,24Q013,P.S. 013 Clement C. Moore,10
+Q014,24Q014,P.S. 014 Fairview,10
+Q015,29Q015,P.S. 015 Jackie Robinson,10
+Q017,30Q017,P.S. 017 Henry David Thoreau,10
+Q017,30Q300,The 30th Avenue School (G&T Citywide),10
+Q018,26Q018,P.S. 018 Winchester,10
+Q019,24Q019,P.S. 019 Marino Jeantet,10
+Q020,25Q020,P.S. 020 John Bowne,10
+Q021,25Q021,P.S. 021 Edward Hart,10
+Q022,25Q022,P.S. 022 Thomas Jefferson,20
+Q023,25Q540,Queens Academy High School,20
+Q024,25Q024,P.S. 024 Andrew Jackson,20
+Q025,25Q025,I.S. 025 Adrien Block,40
+Q025,25Q285,World Journalism Preparatory: A College Board School,40
+Q026,26Q026,P.S. 026 Rufus King,10
+Q028,24Q028,P.S. 28 - The Thomas Emanuel Early Childhood Center,10
+Q029,25Q029,P.S. 029 Queens,10
+Q030,28Q354,P.S. 354,10
+Q031,26Q031,P.S. 031 Bayside,10
+Q032,25Q032,P.S. 032 State Street,20
+Q033,29Q033,P.S. 033 Edward M. Funk,10
+Q034,29Q034,P.S. 034 John Harvard,10
+Q035,29Q035,P.S. 035 Nathaniel Woodhull,10
+Q036,29Q036,P.S. 036 Saint Albans School,10
+Q037,29Q037,Cynthia Jenkins School,20
+Q038,29Q038,P.S. 038 Rosedale,10
+Q040,28Q040,P.S. 040 Samuel Huntington,10
+Q040,28Q312,Jamaica Childrens School,10
+Q040,28Q335,District 28 Pre-K Center,10
+Q041,26Q041,P.S. 041 Crocheron,10
+Q042,27Q042,P.S./M.S 042 R. Vernam,10
+Q043,27Q043,P.S. 043,20
+Q045,27Q045,P.S. 045 Clarence Witherspoon,20
+Q046,26Q046,P.S. 046 Alley Pond,20
+Q047,27Q047,P.S. 047 Chris Galas,10
+Q049,24Q049,P.S. 049 Dorothy Bonawit Kole,20
+Q050,28Q050,P.S. 050 Talfourd Lawn Elementary School,10
+Q051,27Q051,P.S. 051,20
+Q052,29Q052,P.S. 052 Queens,20
+Q053,27Q053,M.S. 053 Brian Piccolo,40
+Q053,27Q319,Village Academy,40
+Q053,88Q996,ALC - M.S. 53,40
+Q054,28Q054,P.S. 054 Hillside,10
+Q055,28Q055,P.S. 055 Maure,10
+Q056,27Q056,P.S. 056 Harry Eichler,20
+Q058,24Q058,P.S. 58 - The School of Heroes,20
+Q059,29Q059,I.S. 059 Springfield Gardens,10
+Q060,27Q060,P.S. 060 Woodhaven,10
+Q061,24Q061,I.S. 061 Leonardo Da Vinci,20
+Q062,27Q062,P. S. 62 - Chester Park School,10
+Q063,27Q063,P.S. 063 Old South,20
+Q064,27Q064,P.S. 064 Joseph P. Addabbo,20
+Q066,27Q066,P.S. 066 Jacqueline Kennedy Onassis,10
+Q067,26Q067,J.H.S. 067 Louis Pasteur,20
+Q068,24Q068,P.S. 068 Cambridge,20
+Q069,30Q069,P.S. 069 Jackson Heights,10
+Q070,30Q070,P.S. 070,10
+Q071,24Q071,P.S. 071 Forest,10
+Q072,28Q072,Catherine & Count Basie Middle School 72,20
+Q072,28Q332,Redwood Middle School,20
+Q073,24Q073,I.S. 73 - The Frank Sansivieri Intermediate School,10
+Q074,26Q074,J.H.S. 074 Nathaniel Hawthorne,20
+Q075,75Q075,Robert E. Peary School,10
+Q076,30Q076,P.S. 076 William Hallet,20
+Q079,25Q079,P.S. 079 Francis Lewis,10
+Q080,28Q080,P.S. 80 The Thurgood Marshall Magnet School of Multimedia and Communication,20
+Q081,24Q081,P.S. 81Q Jean Paul Richter,10
+Q082,28Q082,P.S. 082 Hammond,10
+Q084,30Q084,P.S. 084 Steinway,10
+Q085,30Q085,P.S. 085 Judge Charles Vallone,40
+Q086,28Q086,P.S. Q086,20
+Q087,24Q087,P.S./I.S. 087 Middle Village,20
+Q088,24Q088,P.S. 088 Seneca,10
+Q089,24Q089,P.S. 089 Elmhurst,20
+Q090,27Q090,P.S. 090 Horace Mann,10
+Q091,24Q091,P.S. 091 Richard Arkwright,20
+Q093,24Q093,I.S. 093 Ridgewood,20
+Q094,26Q094,P.S. 094 David D. Porter,10
+Q095,29Q095,P.S. 095 Eastwood,20
+Q096,27Q096,P.S. 096,10
+Q097,27Q097,P.S. 097 Forest Park,20
+Q098,26Q098,P.S. 098 The Douglaston School,10
+Q099,28Q099,P.S. 099 Kew Gardens,10
+Q100,27Q100,P.S. 100 Glen Morris,10
+Q101,28Q101,P.S. 101 School in the Gardens,20
+Q102,24Q102,P.S. 102 Bayview,20
+Q104,27Q104,P.S. 104 The Bays Water,20
+Q105,27Q105,P.S. 105 The Bay School,10
+Q106,27Q106,P.S. 106,20
+Q107,25Q107,P.S. 107 Thomas A Dooley,10
+Q108,27Q108,P.S. 108 Captain Vincent G. Fowler,10
+Q109,29Q109,Jean Nuzzi Intermediate School,20
+Q111,30Q111,P.S. 111 Jacob Blackwell,20
+Q112,30Q112,P.S. 112 Dutch Kills,10
+Q113,24Q113,P.S./I.S. 113 Anthony J. Pranzo,30
+Q114,27Q114,P.S./M.S. 114 Belle Harbor,20
+Q115,26Q115,P.S. 115 The James J. Ambrose School,10
+Q116,29Q116,P.S./I.S. 116 William C. Hughley,20
+Q117,28Q117,P.S. 117 J. Keld / Briarwood School,20
+Q118,29Q118,P.S. 118 Lorraine Hansberry,20
+Q119,24Q119,I.S. 119 The Glendale,10
+Q120,25Q120,P.S. 120 Queens,10
+Q121,28Q121,P.S. 121 Queens,10
+Q122,30Q122,P.S. 122 Mamie Fay,10
+Q123,27Q123,P.S. 123,10
+Q124,27Q124,P.S. 124 Osmond A Church,10
+Q125,24Q125,I.S. 125 Thom J. McCann Woodside,20
+Q126,30Q126,Albert Shanker School for Visual and Performing Arts,20
+Q126,88Q997,ALC - I.S. 126,20
+Q127,30Q127,P.S. 127 Aerospace Science Magnet School,10
+Q129,25Q129,P.S. 129 Patricia Larkin,10
+Q130,25Q130,P.S. 130,10
+Q131,29Q131,P.S. 131 Abigail Adams,10
+Q132,29Q132,P.S. 132 Ralph Bunche,20
+Q133,26Q133,P.S. 133 Queens,20
+Q134,29Q134,P.S. 134 Hollis,10
+Q135,29Q135,The Bellaire School,10
+Q136,29Q136,P.S. 136 Roy Wilkins,10
+Q137,27Q137,M.S. 137 Americas School of Heroes,40
+Q138,29Q138,P.S./M.S. 138 Sunrise,20
+Q139,28Q139,P.S. 139 Rego Park,20
+Q140,28Q140,P.S. 140 Edward K Ellington,10
+Q141,30Q141,I.S. 141 The Steinway,10
+Q142,75Q504,Home Instruction - Queen,10
+Q142,75Q752,Queens Transition Center,10
+Q143,24Q143,P.S. 143 Louis Armstrong,40
+Q144,28Q144,P.S. 144 Col Jeromus Remsen,10
+Q145,30Q145,I.S. 145 Joseph Pulitzer,10
+Q146,27Q146,P.S. 146 Howard Beach,20
+Q147,29Q147,P.S./M.S. 147 Ronald McNair,10
+Q148,30Q148,P.S. 148 Queens,10
+Q149,30Q149,P.S. 149 Christa Mcauliffe,10
+Q150,30Q150,P.S. 150 Queens,20
+Q151,30Q151,P.S. 151 Mary D. Carter,20
+Q152,30Q152,P.S. 152 Gwendoline N. Alleyne School,20
+Q153,24Q153,P.S. 153 Maspeth Elem,20
+Q154,25Q154,P.S. 154 Queens,10
+Q155,27Q155,P.S. 155,20
+Q156,29Q156,P.S. 156 Laurelton,10
+Q156,29Q289,Queens United Middle School,10
+Q157,28Q157,J.H.S. 157 Stephen A. Halsey,10
+Q158,26Q158,M.S. 158 Marie Curie,20
+Q159,26Q159,P.S. 159,10
+Q160,28Q160,P.S. 160 Walter Francis Bishop,10
+Q161,28Q161,P.S. 161 Arthur Ashe School,10
+Q162,26Q162,P.S. 162 John Golden,10
+Q163,25Q163,P.S. 163 Flushing Heights,10
+Q164,25Q164,P.S. 164 Queens Valley,10
+Q165,25Q165,P.S. 165 Edith K. Bergtraum,10
+Q166,30Q166,P.S. 166 Henry Gradstein,10
+Q168,25Q250,I.S. 250 The Robert F. Kennedy Community Middle School,20
+Q168,25Q252,The Queens School of Inquiry,20
+Q168,75Q255,P.S. Q255,20
+Q169,25Q169,P.S. 169 Bay Terrace,10
+Q169,25Q294,BELL Academy,10
+Q171,30Q171,P.S. 171 Peter G. Van Alst,10
+Q172,26Q172,Irwin Altman Middle School 172,10
+Q173,26Q173,P.S. 173 Fresh Meadows,10
+Q174,28Q174,P.S. 174 William Sidney Mount,10
+Q175,28Q175,P.S. 175 The Lynn Gross Discovery School,20
+Q176,29Q176,P.S. 176 Cambria Heights,10
+Q177,75Q177,P.S. Q177,10
+Q178,26Q178,P.S./ IS 178 Holliswood,10
+Q179,75Q004,P.S. Q004,10
+Q180,27Q323,Scholars Academy,50
+Q181,29Q181,P.S. 181 Brookfield,10
+Q183,27Q183,P.S. 183 Dr. Richard R. Green,10
+Q184,25Q184,P.S. 184 Flushing Manor,10
+Q185,25Q185,J.H.S. 185 Edward Bleeker,40
+Q186,26Q186,P.S. 186 Castlewood,10
+Q186,75Q224,P.S. Q224,10
+Q188,26Q188,P.S. 188 Kingsbury,10
+Q189,25Q189,J.H.S. 189 Daniel Carter Beard,40
+Q189,25Q263,Flushing International High School,40
+Q190,28Q190,J.H.S. 190 Russell Sage,10
+Q191,26Q191,P.S. 191 Mayflower,10
+Q191,75Q993,P.S. Q993,10
+Q192,29Q192,I.S. 192 The Linden,40
+Q192,29Q259,Pathways College Preparatory School: A College Board School,40
+Q193,25Q193,P.S. 193 Alfred J. Kennedy,10
+Q194,25Q194,J.H.S. 194 William Carr,10
+Q195,29Q195,P.S. 195 William Haberle,10
+Q196,28Q196,P.S. 196 Grand Central Parkway,10
+Q197,27Q197,P.S. 197 The Ocean School,50
+Q198,27Q333,Goldie Maple Academy,10
+Q199,24Q199,P.S. 199 Maurice A. Fitzgerald,10
+Q200,25Q200,P.S./M.S. 200 - The Pomonok School & STAR Academy,10
+Q201,25Q201,P.S. 201 The Discovery School for Inquiry and Research,10
+Q202,27Q202,J.H.S. 202 Robert H. Goddard,40
+Q202,27Q308,Robert H. Goddard High School of Communication Arts and Technology,40
+Q203,26Q203,P.S. 203 Oakland Gardens,10
+Q204,30Q204,I.S. 204 Oliver W. Holmes,40
+Q204,30Q258,Energy Tech High School,40
+Q205,26Q205,P.S. 205 Alexander Graham Bell,10
+Q206,28Q206,P.S. 206 The Horace Harding School,10
+Q207,27Q207,P.S. 207 Rockwood Park,20
+Q208,29Q208,P.S./I.S. 208,10
+Q209,25Q209,P.S. 209 Clearview Gardens,20
+Q210,27Q210,J.H.S. 210 Elizabeth Blackwell,20
+Q212,30Q212,P.S. 212,10
+Q213,26Q213,P.S. 213 The Carl Ullman School,10
+Q214,25Q214,P.S. 214 Cadwallader Colden,10
+Q215,27Q362,Wave Preparatory Elementary School,20
+Q216,26Q216,J.H.S. 216 George J. Ryan,10
+Q217,28Q217,J.H.S. 217 Robert A. Van Wyck,50
+Q219,25Q219,P.S. 219 Paul Klapper,10
+Q220,28Q220,P.S. 220 Edward Mandel,10
+Q221,26Q221,P.S. 221 The North Hills School,10
+Q222,30Q222,P.S. Q222 - Fire Fighter Christopher A. Santora School,10
+Q223,27Q223,P.S. 223 Lyndon B. Johnson,10
+Q223,27Q336,Curious Young Learners Pre-K Center,10
+Q225,27Q317,Waterside Childrens Studio School,20
+Q225,27Q318,Waterside School For Leadership,20
+Q226,27Q226,J.H.S. 226 Virgil I. Grissom,20
+Q226,27Q297,Hawtree Creek Middle School,20
+Q226,27Q314,Epic High School - South,20
+Q227,30Q227,I.S. 227 Louis Armstrong,20
+Q228,30Q228,P.S. 228 Early Childhood Magnet School of the Arts,10
+Q229,24Q229,P.S. 229 Emanuel Kaplan,20
+Q230,30Q230,I.S. 230,20
+Q232,27Q232,P.S. 232 Lindenwood,20
+Q234,30Q234,P.S. 234,20
+Q234,30Q235,Academy for New Americans,20
+Q237,25Q237,I.S. 237,30
+Q237,25Q281,East-West School of International Studies,30
+Q238,29Q238,I.S. 238 - Susan B. Anthony Academy,10
+Q239,24Q239,P.S. 239,10
+Q242,25Q242,P.S. 242 Leonard P. Stavisky Early Childhood School,10
+Q244,25Q244,The Active Learning Elementary School,10
+Q245,24Q305,Learners and Leaders,10
+Q245,24Q331,Mosaic Pre-K Center,10
+Q247,24Q128,P.S. 128 The Lorraine Tuzzo Juniper Valley Elementary School,10
+Q251,29Q251,P.S. 251 Queens,20
+Q253,27Q253,P.S. 253,20
+Q254,27Q254,P.S. 254 - The Rosa Parks School,10
+Q260,24Q307,Pioneer Academy,20
+Q262,27Q306,New York City Academy for Discovery,10
+Q263,29Q295,P.S./I.S. 295,10
+Q266,26Q266,P.S./I.S. 266,10
+Q268,29Q268,P.S./I.S. 268,10
+Q269,24Q211,Elm Tree Elementary School,10
+Q270,29Q270,The Gordon Parks School,40
+Q273,27Q273,P.S. 273,10
+Q276,28Q048,P.S. 048 William Wordsworth,10
+Q277,28Q182,P.S. 182 Samantha Smith,10
+Q280,30Q280,P.S. 280,10
+Q287,24Q330,P.S. 330,20
+Q290,24Q290,A.C.E. Academy for Scholars at the Geraldine Ferraro Campus,10
+Q292,30Q092,P.S. 092 Harry T. Stewart Sr.,10
+Q313,24Q343,The Childrens Lab School,10
+Q314,28Q349,The Queens School for Leadership and Excellence,10
+Q314,28Q358,M.S. 358,10
+Q315,24Q110,P.S. 110,10
+Q316,27Q316,Queens Explorers Elementary School,10
+Q329,30Q329,East Elmhurst Community School,10
+Q339,30Q361,The Woodside Community School,10
+Q381,29Q381,District 29 Pre-K Center,10
+Q389,30Q389,District 30 Pre-K Center,10
+Q400,27Q261,Voyages Prep - South Queens,40
+Q400,27Q400,August Martin High School,40
+Q400,88Q995,ALC - August Martin HS,40
+Q404,30Q291,Hunters Point Community Middle School,40
+Q404,30Q301,Academy for Careers in Television and Film,40
+Q404,75Q277,The Riverview School,40
+Q405,26Q495,Bayside High School,50
+Q410,27Q262,Channel View School for Research,40
+Q410,27Q324,Rockaway Park High School for Environmental Sustainability,40
+Q410,27Q351,Rockaway Collegiate High School,40
+Q415,26Q415,Benjamin N. Cardozo High School,40
+Q420,29Q248,Queens Preparatory Academy,40
+Q420,29Q265,Excelsior Preparatory High School,40
+Q420,29Q272,George Washington Carver High School for the Sciences,40
+Q420,29Q283,Preparatory Academy for Writers: A College Board School,40
+Q425,25Q425,John Bowne High School,50
+Q430,26Q430,Francis Lewis High School,50
+Q435,26Q315,Business Technology Early College High School,40
+Q435,26Q435,Martin Van Buren High School,40
+Q440,28Q440,Forest Hills High School,40
+Q445,30Q445,William Cullen Bryant High School,40
+Q450,30Q555,Newcomers High School,30
+Q451,30Q575,Academy of American Studies,10
+Q452,30Q450,Long Island City High School,40
+Q455,24Q236,International High School for Health Sciences,40
+Q455,24Q455,Newtown High School,40
+Q456,24Q457,H.S. Arts & Business Yabc,40
+Q456,24Q550,High School for Arts and Business,40
+Q460,25Q240,Veritas Academy,40
+Q460,25Q241,Queens High School for Language Studies,40
+Q460,25Q460,Flushing High School,40
+Q460,25Q467,Flushing Yabc,40
+Q460,25Q901,Flushing Evening High Schl M/W,40
+Q465,27Q260,Frederick Douglass Academy VI High School,40
+Q465,27Q282,Knowledge and Power Preparatory Academy VI,40
+Q465,27Q309,Academy of Medical Technology: A College Board School,40
+Q465,27Q302,Queens High School for Information Research and Technology,40
+Q470,28Q310,Queens Collegiate: A College Board School,50
+Q470,28Q325,Hillside Arts & Letters Academy,50
+Q470,28Q328,High School for Community Leadership,50
+Q470,28Q350,Jamaica Gateway to the Sciences,50
+Q470,28Q903,Jamaica Evening High School M/,50
+Q470,28Q904,Jamaica Evening High School T/,50
+Q475,27Q475,Richmond Hill High School,50
+Q480,27Q480,John Adams High School,40
+Q480,27Q487,John Adams Yabc,40
+Q480,27Q905,John Adams Evening Hs M/W,40
+Q485,24Q485,Grover Cleveland High School,50
+Q490,29Q243,Institute for Health Professions at Cambria Heights,40
+Q490,29Q313,Benjamin Franklin High School for Finance & Information Technology,40
+Q490,29Q492,Mathematics Science Research and Technology Magnet High School,40
+Q490,29Q494,Law Government and Community Service High School,40
+Q490,29Q496,Business Computer Applications & Entrepreneurship High School,40
+Q490,29Q498,Humanities & Arts Magnet High School,40
+Q499,25Q499,The Queens College School for Math Science and Technology,10
+Q505,28Q505,Hillcrest High School,40
+Q515,25Q525,Townsend Harris High School,10
+Q520,24Q520,Middle College High School at LaGuardia Community College,50
+Q520,24Q530,International High School at LaGuardia Community College,50
+Q566,26Q566,Queens High School of Teaching Liberal Arts and the Sciences,40
+Q570,30Q501,Frank Sinatra School of the Arts High School,20
+Q585,24Q585,Maspeth High School,10
+Q595,28Q338,Queens Satellite High School for Opportunity,10
+Q600,24Q600,Queens Vocational and Technical High School,50
+Q610,24Q610,Aviation Career & Technical Education High School,30
+Q620,28Q620,Thomas A. Edison Career and Technical Education High School,30
+Q633,29Q327,Eagle Academy for Young Men III,10
+Q636,27Q334,Epic High School - North,20
+Q650,27Q650,High School for Construction Trades Engineering and Architecture,20
+Q680,28Q896,Young Womens Leadership School Queens,20
+Q686,28Q167,Metropolitan Expeditionary Learning School,50
+Q686,28Q686,Queens Metropolitan High School,50
+Q686,75Q233,P.S. Q233,50
+Q690,28Q690,High School for Law Enforcement and Public Safety,10
+Q695,28Q680,Queens Gateway to Health Sciences Secondary School,10
+Q707,25Q670,Robert F. Kennedy Community High School,40
+Q721,24Q016,P.S. Q016 The Nancy DeBenedittis School,20
+Q722,75Q721,John F. Kennedy Jr. School,10
+Q725,30Q502,Information Technology High School,30
+Q733,79Q950,Pathways to Graduation,10
+Q733,88Q994,ALC - Sutphin HS ALC,10
+Q735,24Q264,Academy of Finance and Enterprise,40
+Q735,24Q267,High School of Applied Communication,40
+Q735,24Q299,Bard High School Early College Queens,40
+Q739,30Q286,Young Womens Leadership School Astoria,40
+Q744,24Q293,Civic Leadership Academy,40
+Q744,24Q296,Pan American International High School,40
+Q744,24Q311,Corona Arts and Sciences Academy,40
+Q744,24Q744,VOYAGES Preparatory,40
+Q774,28Q687,Queens High School for the Sciences at York College,10
+Q792,25Q792,North Queens Community High School,20
+Q798,30Q580,Baccalaureate School for Global Education,10
+Q799,29Q326,Cambria Heights Academy,40
+Q811,75Q811,P.S. Q811,10
+Q849,24Q077,I.S. 077,20
+Q868,30Q078,P.S./I.S. 78Q,20
+Q877,24Q877,The 51 Avenue Academy (The Path To Academic Excellence),20
+Q884,27Q065,P.S. 65 - The Raymond York Elementary School,10
+Q891,24Q560,Robert F. Wagner Jr. Secondary School for Arts and Technology,10
+Q891,88Q988,ALC - R F WAGNER HS,10
+Q892,29Q360,P.S. 360,10
+QAPM,75Q023,P.S. Q023 @ Queens Children Center,10
+R001,31R001,P.S. 001 Tottenville,20
+R002,31R002,I.S. R002 George L. Egbert,20
+R003,31R003,P.S. 003 The Margaret Gioiosa School,10
+R004,31R004,P.S. 004 Maurice Wollin,20
+R005,31R005,P.S. 005 Huguenot,10
+R006,31R006,P.S. 6 Corporal Allan F. Kivlehan School,10
+R007,31R007,I.S. 007 Elias Bernstein,20
+R008,31R008,P.S. 8 Shirlee Solomon,10
+R011,31R011,P.S. 11 Thomas Dongan School,10
+R013,31R013,P.S. 013 M. L. Lindemeyer,10
+R014,31R078,P.S. 78,10
+R016,31R010,Fort Hill Collaborative Elementary School,40
+R016,31R016,P.S. 016 John J. Driscoll,40
+R018,31R018,P.S. 018 John G. Whittier,10
+R019,31R019,P.S. 019 The Curtis School,10
+R020,31R020,P.S. 020 Port Richmond,10
+R021,31R021,P.S. 21 Margaret Emery-Elm Park,10
+R022,31R022,P.S. 022 Graniteville,10
+R023,31R023,P.S. 023 Richmondtown,10
+R024,31R024,I.S. 024 Myra S. Barnes,10
+R026,31R026,P.S. 026 The Carteret School,10
+R027,31R027,I.S. 027 Anning S. Prall,20
+R029,31R029,P.S. 029 Bardwell,10
+R030,31R030,P.S. 030 Westerleigh,40
+R031,31R031,P.S. 031 William T. Davis,10
+R032,31R032,P.S. 032 The Gifford School,10
+R034,31R034,I.S. 034 Tottenville,20
+R035,31R035,P.S. 35 The Clove Valley School,10
+R036,31R036,P.S. 036 J. C. Drumgoole,10
+R038,31R038,P.S. 038 George Cromwell,10
+R039,31R039,P.S. 39 Francis J. Murphy Jr.,10
+R040,75R373,P.S. R373,20
+R040,75R505,Home Instruction - S.I.,20
+R041,31R041,The Stephanie A. Vierno School,10
+R042,31R042,P.S. 042 Eltingville,10
+R043,31R047,CSI High School for International Studies,40
+R043,31R063,Marsh Avenue School for Expeditionary Learning,40
+R043,31R064,Gaynor McCown Expeditionary Learning School,40
+R044,31R044,P.S. 044 Thomas C. Brown,10
+R045,31R045,P.S. 045 John Tyler,10
+R046,31R046,P.S. 046 Albert V. Maniscalco,10
+R048,31R009,Naples Street Elementary School,10
+R049,31R028,The Eagle Academy for Young Men of Staten Island,40
+R049,31R049,I.S. 49 Berta A. Dreyfus,40
+R050,31R050,P.S. 050 Frank Hankinson,10
+R051,31R051,I.S. 051 Edwin Markham,20
+R052,31R052,P.S. 052 John C. Thompson,10
+R053,31R053,P.S. 053 The Barbara Esselborn School,10
+R054,31R054,P.S. 054 Charles W. Leng,10
+R055,31R055,P.S. 055 Henry M. Boehm,10
+R056,31R056,P.S. 56 The Louis Desario School,10
+R057,31R057,P.S. 057 Hubert H. Humphrey,10
+R058,31R058,Space Shuttle Columbia School,10
+R059,31R059,The Harbor View School,10
+R060,31R060,P.S. 060 Alice Austen,10
+R061,31R061,I.S. 061 William A Morris,10
+R062,31R062,The Kathleen Grimm School for Leadership and Sustainability,10
+R066,31R066,The Richmond Pre-K Center,10
+R069,31R069,P.S. 069 Daniel D. Tompkins,10
+R071,31R048,P.S. 048 William G. Wilcox,10
+R072,31R072,I.S. 072 Rocco Laurie,20
+R075,31R075,I.S. 075 Frank D. Paulo,20
+R435,31R440,New Dorp High School,50
+R435,31R901,New Dorp Evening Hs M/W,50
+R440,31R605,Staten Island Technical High School,50
+R445,31R445,Port Richmond High School,50
+R450,31R450,Curtis High School,50
+R455,31R455,Tottenville High School,50
+R455,31R607,Staten Island Yabc,50
+R460,31R460,Susan E. Wagner High School,50
+R470,31R470,Concord High School,20
+R600,31R600,Ralph R. McKee Career and Technical Education High School,20
+R722,75R721,The Richard H. Hungerford School,20
+R801,88R971,ALC - ST. Marks Place,10
+R825,75R025,South Richmond High School I.S./P.S. 25,10
+R825,88R991,ALC - Mount Loretto,10
+R829,31R065,P.S. 65 The Academy of Innovative Learning,10
+R840,75R037,P.S. R037,10
+R861,31R861,Staten Island School of Civic Leadership,40
+R880,31R080,The Michael J. Petrides School,10
+X001,07X001,P.S. 001 Courtlandt School,20
+X002,09X250,Eximius College Preparatory Academy: A College Board School,20
+X002,09X260,Bronx Center for Science and Mathematics,20
+X003,10X003,P.S. 3 Raul Julia Micro Society,10
+X004,09X004,P.S./M.S. 004 Crotona Park West,10
+X004,09X276,Leadership Institute,10
+X005,07X005,P.S. 5 Port Morris,40
+X006,12X006,P.S. 006 West Farms,10
+X007,10X007,Milton Fein School,10
+X008,10X008,P.S. 008 Isaac Varian,20
+X009,10X009,P.S. 9 Ryer Avenue Elementary School,20
+X011,09X011,P.S. 011 Highbridge,20
+X012,75X012,P.S. X012 Lewis and Clark School,10
+X014,08X014,P.S. X014 Senator John Calandra,10
+X015,10X015,P.S. X015 Institute for Environmental Learning,10
+X015,10X291,P.S. 291,10
+X016,11X016,P.S. 016 Wakefield,10
+X018,07X018,P.S. 018 John Peter Zenger,10
+X019,11X019,P.S. 019 Judith K. Weiss,10
+X020,10X020,P.S./M.S. 20 P.O.George J. Werdann III,20
+X021,11X021,P.S. 021 Philip H. Sheridan,10
+X022,09X022,J.H.S. 022 Jordan L. Mott,40
+X022,09X323,Bronx Writing Academy,40
+X023,10X023,P.S. 023 The New Childrens School,10
+X024,10X024,P.S. 024 Spuyten Duyvil,10
+X025,07X025,P.S. 025 Bilingual School,50
+X026,10X390,M.S. 390,20
+X026,10X396,P.S. 396,20
+X027,07X277,P.S. 277,20
+X028,09X028,P.S. 028 Mount Hope,10
+X029,07X029,P.S./M.S. 029 Melrose School,10
+X030,07X030,P.S. 030 Wilton,10
+X032,10X032,P.S. 032 Belmont,20
+X033,10X033,P.S. 033 Timothy Dwight,20
+X034,75X188,P.S. X188,10
+X035,09X035,P.S. 035 Franz Siegel,10
+X036,08X036,P.S. 036 Unionport,10
+X037,10X037,P.S. X037 - Multiple Intelligence School,10
+X039,08X332,Holcombe L. Rucker School of Community Research,40
+X039,08X530,Banana Kelly High School,40
+X040,07X179,P.S. 179,10
+X040,07X369,Young Leaders Elementary School,10
+X041,11X041,P.S. 041 Gun Hill Road,20
+X042,09X042,P.S. 042 Claremont,10
+X043,07X043,P.S. 043 Jonas Bronck,20
+X044,12X044,P.S. 044 David C. Farragut,10
+X044,12X341,Accion Academy,10
+X045,10X045,Thomas C. Giordano Middle School 45,20
+X046,10X046,P.S. 046 Edgar Allan Poe,10
+X047,12X047,P.S. 047 John Randolph,10
+X048,08X048,P.S. 048 Joseph R. Drake,10
+X049,07X049,P.S. 049 Willis Avenue,10
+X050,12X050,P.S. 050 Clara Barton,10
+X050,12X314,Fairmont Neighborhood School,10
+X050,12X458,Samara Community School,10
+X052,08X302,M.S. 302 Luisa Dessus Cruz,40
+X053,09X053,P.S. 053 Basheer Quisim,10
+X054,10X054,P.S./I.S. 54,20
+X055,09X055,P.S. 055 Benjamin Franklin,10
+X057,12X057,P.S. 057 Crescent,20
+X057,12X273,Frederick Douglass Academy V. Middle School,20
+X058,09X058,P.S. 058,20
+X059,10X059,P.S. 059 The Community School of Technology,10
+X060,08X333,P.S. 333 - The Museum School,10
+X060,08X335,The Academy of the Arts,10
+X061,12X061,P.S. 061 Francisco Oller,20
+X061,12X190,E.S.M.T- I.S. 190,20
+X062,08X062,P.S. 062 Inocensio Casanova,10
+X063,09X063,P.S. 063 Authors Academy,10
+X064,09X064,P.S. 064 Pura Belpre,30
+X064,09X294,The Walton Avenue School,30
+X064,09X311,Lucero Elementary School,30
+X065,07X065,P.S. 065 Mother Hale Academy,10
+X066,12X066,P.S. 066 School of Higher Expectations,10
+X066,12X286,Fannie Lou Hamer Middle School,10
+X067,12X067,P.S. 067 Mohegan School,20
+X067,12X372,Urban Assembly School for Wildlife Conservation,20
+X068,11X068,P.S. 068 Bronx,10
+X069,08X069,P.S. 069 Journey Prep School,20
+X070,09X070,P.S. 070 Max Schoenfeld,20
+X071,08X071,P.S. 071 Rose E. Scala,10
+X072,08X072,P.S. 072 Dr. William Dorney,10
+X073,09X073,P.S. 073 Bronx,20
+X074,08X424,The Hunts Point School,20
+X075,08X075,P.S. 75 School of Research and Discovery,10
+X076,11X076,P.S. 076 The Bennington School,10
+X077,12X195,P.S. 195,30
+X077,12X196,P.S. 196,30
+X078,11X078,P.S. 078 Anne Hutchinson,10
+X079,10X386,School for Environmental Citizenship,20
+X079,10X447,Creston Academy,20
+X079,10X382,Elementary School for Math Science,20
+X080,10X080,J.H.S. 080 The Mosholu Parkway,50
+X080,10X280,P.S./M.S. 280 Mosholu Parkway,50
+X081,10X081,P.S. 081 Robert J. Christen,10
+X082,09X232,I.S. 232,40
+X082,09X303,I.S. X303 Leadership & Community Service,40
+X082,09X365,Academy for Language and Technology,40
+X083,11X083,P.S. 083 Donald Hertz,10
+X084,75X811,P.S. X811,20
+X085,10X085,P.S. 085 Great Expectations,10
+X086,10X086,P.S. 086 Kingsbridge Heights,10
+X087,11X087,P.S. 087 Bronx,20
+X088,09X088,P.S. X088 - S. Silverstein Little Sparrow School,10
+X089,11X089,P.S. 089 Bronx,50
+X090,09X443,The Family School,10
+X090,09X457,Sheridan Academy for Young Leaders,10
+X091,10X091,P.S. 091 Bronx,10
+X092,12X092,P.S. 092 Bronx,10
+X093,08X093,P.S. 093 Albert G. Oliver,10
+X094,10X094,P.S. 094 Kings College School,20
+X095,10X095,P.S. 095 Sheila Mencher,20
+X095,10X344,Ampark Neighborhood,20
+X096,11X096,P.S. 096 Richard Rodgers,10
+X097,11X097,P.S. 097 Bronx,10
+X098,12X098,J.H.S. 098 Herman Ridder,40
+X098,12X251,Explorations Academy,40
+X098,12X511,Bronx Envision Academy,40
+X099,12X248,The Metropolitan High School,40
+X099,12X278,Peace and Diversity Academy,40
+X100,08X100,P.S. 100 Isaac Clason,40
+X101,08X101,M.S. X101 Edward R. Byrne,20
+X101,08X304,P.S. 304 Early Childhood School,20
+X101,75X010,P.S. X010,20
+X102,12X531,Archer Elementary School,30
+X102,12X536,P.S. 536,30
+X102,12X691,Bronx Little School,30
+X103,11X103,P.S. 103 Hector Fontanez,10
+X104,09X199,P.S. 199X - The Shakespeare School,20
+X105,11X105,P.S. 105 Sen Abraham Bernstein,10
+X106,11X106,P.S. 106 Parkchester,10
+X107,08X107,P.S. 107,50
+X108,11X108,P.S. 108 Philip J. Abinanti,10
+X109,09X109,P.S. 109 Sedgwick,10
+X110,09X110,P.S. 110 Theodore Schoenfeld,10
+X110,09X128,Mott Hall III,10
+X111,11X111,P.S. 111 Seton Falls,10
+X112,11X112,P.S. 112 Bronxwood,10
+X113,11X272,Globe School for Environmental Research,40
+X113,11X287,The Forward School,40
+X113,11X289,The Young Scholars Academy of The Bronx,40
+X113,11X370,School of Diplomacy,40
+X114,09X114,P.S. X114 - Luis Llorens Torres Schools,10
+X115,10X363,Academy For Personal Leadership And Excellence,10
+X115,10X459,East Fordham Academy for the Arts,10
+X116,12X217,School of Performing Arts,10
+X116,12X384,Entrada Academy,10
+X117,09X117,I.S. 117 Joseph H. Wade,40
+X117,09X568,Young Womens Leadership School of the Bronx,40
+X118,10X118,J.H.S. 118 William W. Niles,20
+X119,08X119,P.S. 119,10
+X120,08X301,M.S. 301 Paul L. Dunbar,20
+X121,11X121,P.S. 121 Throop,10
+X122,10X310,P.S. 310 Marble Hill,20
+X123,08X123,J.H.S. 123 James M. Kieran,10
+X123,08X337,The School for Inquiry and Social Justice,10
+X125,08X125,J.H.S. 125 Henry Hudson,20
+X125,08X562,Blueprint Middle School,20
+X126,09X126,P.S. 126 Dr Marjorie H Dunbar,20
+X127,11X127,J.H.S. 127 The Castle Hill,10
+X127,11X567,Linden Tree Elementary School,10
+X129,12X129,M.S. 129 Academy for Independent Learning and Leadership,40
+X129,12X316,Kappa III,40
+X130,08X130,P.S. 130 Abram Stevens Hewitt,10
+X131,08X131,J.H.S. 131 Albert Einstein,50
+X131,08X448,Soundview Academy for Culture and Scholarship,50
+X132,09X132,P.S. 132 Garret A. Morgan,20
+X134,12X134,P.S. 134 George F. Bristow,10
+X135,11X326,Bronx Green Middle School,20
+X135,11X468,Pelham Academy of Academics and Community Engagement,20
+X135,11X556,Bronx Park Middle School,20
+X136,75X186,P186X Walter J. Damrosch School,10
+X137,10X225,Theatre Arts Production Company School,40
+X137,10X391,The Angelo Patri Middle School,40
+X138,08X138,P.S. 138 Samuel Randall,10
+X139,07X224,P.S./I.S. 224,50
+X139,07X334,International Community High School,50
+X139,07X343,Academy of Applied Mathematics and Technology,50
+X140,08X140,P.S. X140 The Eagle School,10
+X141,10X141,Riverdale / Kingsbridge Academy (Middle School / High School 141),10
+X142,11X355,Bronx Alliance Middle School,40
+X142,11X529,One World Middle School at Edenwald,40
+X142,11X532,Baychester Middle School,40
+X143,10X244,The New School for Leadership and Journalism,20
+X143,10X237,The Marie Curie School for Medicine Nursing,20
+X144,11X144,J.H.S. 144 Michelangelo,10
+X144,11X566,Pelham Gardens Middle School,10
+X145,09X145,J.H.S. 145 Arturo Toscanini,20
+X145,09X325,Urban Science Academy,20
+X145,09X328,New Millennium Business Academy Middle School,20
+X145,88X985,ALC - M.S. 145,20
+X146,08X146,P.S. 146 Edward Collins,10
+X147,09X313,I.S. 313 School of Leadership Development,20
+X147,09X339,I.S. 339,20
+X148,09X215,Kappa,20
+X148,09X219,I.S. 219 New Venture School,20
+X148,09X517,Frederick Douglass Academy III Secondary School,20
+X149,07X221,South Bronx Preparatory: A College Board School,40
+X149,07X223,M.S. 223 The Laboratory School of Finance and Technology,40
+X150,12X150,P.S. 150 Charles James Fox,10
+X151,07X031,P.S./M.S. 031 The William Lloyd Garrison,40
+X151,07X151,J.H.S. 151 Lou Gehrig,40
+X152,08X152,P.S. 152 Evergreen,10
+X153,11X153,P.S. 153 Helen Keller,20
+X154,07X154,P.S. 154 Jonathan D. Hyatt,10
+X155,07X520,Foreign Language Academy of Global Studies,20
+X155,75X754,J. M. Rapport School Career Development,20
+X156,07X359,Concourse Village Elementary School,20
+X156,07X385,Performance School,20
+X157,07X157,P.S. 157 Grove Hill,10
+X158,12X267,Bronx Latin,40
+X158,12X479,Bronx Career and College Preparatory High School,40
+X159,10X159,P.S. 159 Luis Munoz Marin Biling,10
+X160,11X160,P.S. 160 Walt Disney,10
+X161,07X161,P.S. 161 Juan Ponce De Leon School,10
+X162,07X162,J.H.S. 162 Lola Rodriguez De Tio,30
+X162,07X500,Hostos-Lincoln Academy of Science,30
+X163,09X163,P.S. 163 Arthur A. Schomburg,50
+X166,09X324,Bronx Early College Academy for Teaching & Learning,40
+X166,09X449,Grant Avenue Elementary School,40
+X166,09X454,Science and Technology Academy: A Mott Hall School,40
+X167,12X214,P.S. 214,20
+X167,12X383,Emolior Academy,20
+X169,11X169,Baychester Academy,10
+X170,09X170,P.S. 170,20
+X173,09X236,P.S. 236 Langston Hughes,20
+X174,08X282,Womens Academy of Excellence,40
+X174,08X367,Archimedes Academy for Math Science and Technology Applications,40
+X174,08X375,The Bronx Mathematics Preparatory School,40
+X175,11X175,P.S. 175 City Island,10
+X177,10X056,P.S. 056 Norwood Heights,10
+X177,10X077,Bedford Park Elementary School,10
+X177,75X469,P469X - The Bronx School for Continuous Learners,10
+X178,11X178,P.S. 178 - Dr. Selman Waksman,20
+X178,75X176,P.S. X176,20
+X180,11X180,M.S. 180 Dr. Daniel Hale Williams,10
+X181,11X181,I.S. 181 Pablo Casals,20
+X182,08X182,P.S. 182,10
+X183,07X551,The Urban Assembly Bronx Academy of Letters,30
+X183,75X168,P.S. 168,30
+X184,07X296,South Bronx Academy for Applied Media,40
+X184,07X298,Academy of Public Relations,40
+X184,07X379,Jill Chaifetz Transfer High School,40
+X184,75X017,P.S. X017,40
+X189,11X189,Cornerstone Academy for Social Action,30
+X189,11X462,Cornerstone Academy for Social Action Middle School (CASA),30
+X192,08X366,Urban Assembly Academy of Civic Engagement,20
+X192,08X371,Urban Institute of Mathematics,20
+X192,08X392,Bronx Delta School,20
+X192,08X467,Mott Hall Community School,20
+X193,12X211,P.S. 211,40
+X193,12X318,I.S. X318 Math Science & Technology Through Arts,40
+X194,11X194,P.S./M.S. 194,20
+X198,12X212,P.S. 212,10
+X198,12X463,Urban Scholars Community School,10
+X205,10X205,P.S. 205 Fiorello Laguardia,20
+X206,10X206,I.S. 206 Ann Mersereau,10
+X209,10X209,P.S. 209,10
+X211,10X319,Providing Urban Learners Success In Education High School,10
+X229,09X229,I.S. 229 Roland Patterson,10
+X229,09X230,P.S. 230 Dr Roland N. Patterson,10
+X229,09X274,The New American Academy at Roberto Clemente State Park,10
+X235,09X218,P.S./I.S. 218 Rafael Hernandez Dual Language Magnet School,20
+X240,09X327,Comprehensive Model School Project M.S. 327,20
+X240,09X555,Mount Eden Childrens Academy,20
+X254,10X254,I.S. 254,10
+X279,10X279,P.S. 279 Captain Manuel Rivera Jr.,40
+X283,10X228,Jonas Bronck Academy,40
+X285,09X361,The Highbridge Green School,10
+X292,11X357,Young Voices Academy of the Bronx,10
+X306,10X306,P.S. 306,20
+X306,10X331,The Bronx School of Young Leaders,20
+X311,11X481,The STEAM Bridge School,10
+X311,11X534,District 11 Pre-K Center,10
+X314,11X483,The Matilda Avenue School,10
+X338,09X204,P.S. 204 Morris Heights,20
+X340,10X340,P.S. 340,20
+X356,07X533,Learning through Play Pre-K Center,10
+X360,10X360,P.S. 360,10
+X362,11X270,Academy for Scholarship and Entrepreneurship: A College Board School,40
+X362,11X513,New World High School,40
+X362,11X514,The Bronxwood Preparatory Academy,40
+X368,10X368,In-Tech Academy (M.S. / High School 368),20
+X392,08X269,Bronx Studio School for Writers and Artists,10
+X400,09X297,Morris Academy for Collaborative Studies,50
+X400,09X403,Bronx International High School,50
+X400,09X404,School for Excellence,50
+X400,09X543,High School for Violin and Dance,50
+X401,12X446,Arturo A. Schomburg Satellite Academy Bronx,20
+X401,12X480,Bronx Regional High School,20
+X405,08X293,Renaissance High School for Musical Theater & Technology,50
+X405,08X320,Pelham Lab High School,50
+X405,08X348,Schuylerville Preparatory High School,50
+X405,08X349,Bronx River High School,50
+X405,08X405,Herbert H. Lehman High School,50
+X405,08X408,Herbert H. Lehman Yabc,50
+X405,08X558,Westchester Square Academy,50
+X410,09X227,Bronx Collegiate Academy,40
+X410,09X329,DreamYard Preparatory School,40
+X410,09X350,New Directions Secondary School,40
+X410,09X412,Bronx High School of Business,40
+X410,09X413,Bronx High School for Medical Science,40
+X410,09X414,Jonathan Levin High School for Media and Communications,40
+X410,09X564,Claremont International HS,40
+X415,11X288,Collegiate Institute for Math and Science,40
+X415,11X299,Astor Collegiate Academy,40
+X415,11X417,C Columbus Hs Yabc,40
+X415,11X508,Bronxdale High School,40
+X415,11X509,High School of Language and Innovation,40
+X415,11X542,Pelham Preparatory Academy,40
+X420,12X388,Pan American International High School at Monroe,40
+X420,12X428,Learning To Work Yabc At Monroe Academy,40
+X420,12X521,The Metropolitan Soundview High School,40
+X420,12X550,High School of World Cultures,40
+X420,12X692,Monroe Academy for Visual Arts & Design,40
+X420,88X995,ALC - Monroe Campus,40
+X423,12X242,Mott Hall V,50
+X423,12X478,The Cinema School,50
+X425,11X253,Bronx High School for Writing and Communication Arts,50
+X425,11X265,Bronx Lab School,50
+X425,11X275,High School of Computers and Technology,50
+X425,11X290,Bronx Academy of Health Careers,50
+X425,11X544,High School for Contemporary Arts,50
+X425,11X545,Bronx Aerospace High School,50
+X425,11X901,Evander Childs Evening H.S.,50
+X430,10X268,Kingsbridge International High School,40
+X430,10X342,International School for Liberal Arts,40
+X430,10X433,High School for Teaching and the Professions,40
+X430,10X442,The Celia Cruz Bronx High School of Music,40
+X430,10X503,Walton Yabc,40
+X430,10X549,Discovery High School,40
+X435,10X243,West Bronx Academy for the Future,50
+X435,10X374,Knowledge and Power Preparatory Academy International High School (Kappa),50
+X435,10X434,Belmont Preparatory High School,50
+X435,10X437,Fordham High School for the Arts,50
+X435,10X438,Fordham Leadership Academy for Business and Technology,50
+X435,10X439,Bronx High School for Law and Community Service,50
+X435,10X903,T. Roosevelt Evening Hs M/W,50
+X435,10X904,T. Roosevelt Evening Hs T/R,50
+X440,10X351,Bronx Collaborative High School,40
+X440,10X353,World View High School,40
+X440,10X440,DeWitt Clinton High School,40
+X440,10X668,Dewitt Clinton Campus YABC,40
+X445,10X445,Bronx High School of Science,50
+X450,08X305,Pablo Neruda Academy,50
+X450,08X312,Millennium Art Academy,50
+X450,08X376,Antonia Pantoja Preparatory Academy: A College Board School,50
+X450,08X377,Bronx Community High School,50
+X450,08X432,Bronx Bridges High School,50
+X450,08X452,Bronx Guild,50
+X450,08X507,Stevenson Yabc,50
+X450,08X561,Bronx Compass High School,50
+X450,88X996,ALC - Stevenson Campus,50
+X455,11X249,Bronx Health Sciences High School,50
+X455,11X455,Harry S Truman High School,50
+X460,09X505,Bronx School for Law Government and Justice,10
+X465,09X231,Eagle Academy for Young Men,40
+X470,07X473,Mott Haven Village Preparatory High School,40
+X470,07X495,University Heights Secondary School,40
+X475,10X213,Bronx Engineering and Technology Academy,40
+X475,10X284,Bronx School of Law and Finance,40
+X475,10X397,English Language Learners and International Support Preparatory Academy (ELLIS),40
+X475,10X477,Marble Hill High School for International Studies,40
+X475,10X504,Kennedy Yabc,40
+X475,10X546,Bronx Theatre High School,40
+X498,11X498,P.S./M.S. 11X498 - VAN NEST ACADEMY,10
+X582,09X582,Garden of Learning and Discovery Pre-K Center,10
+X600,07X381,Bronx Haven High School,40
+X600,07X456,Alfred E. Smith Campus YABC,40
+X600,07X522,Bronx Design and Construction Academy,40
+X600,07X600,Alfred E. Smith Career and Technical Education High School,40
+X650,08X559,School for Tourism and Hospitality,10
+X650,88X993,ALC - JANE ADDAMS HS,10
+X655,07X557,Mott Haven Community High School,40
+X655,07X259,H.E.R.O. High (Health Education and Research Occupations High School),40
+X660,10X264,Bronx Academy for Software Engineering (BASE),50
+X660,10X524,Crotona International High School,50
+X660,10X565,High School for Energy and Technology,50
+X701,75X723,P.S. 723,10
+X722,75X721,P.S. X721 - Stephen McSweeney School,10
+X781,10X051,P.S. 051 Bronx New School,20
+X790,07X527,Bronx Leadership Academy II High School,50
+X790,07X547,New Explorers High School,50
+X790,07X548,Urban Assembly School for Careers in Sports,50
+X819,10X207,P.S. 207,10
+X826,10X226,P.S. 226,10
+X839,11X418,Bronx High School for the Visual Arts,40
+X843,10X246,P.S. 246 Poe Center,20
+X852,10X308,Bronx Dance Academy School,10
+X859,10X315,P.S. 315 Lab School,10
+X876,09X525,Bronx Leadership Academy High School,10
+X878,12X682,Fannie Lou Hamer Freedom High School,40
+X879,12X684,Wings Academy,20
+X884,07X427,Community School for Social Justice,20
+X884,07X670,Health Opportunities High School,20
+X886,10X307,Luisa Pineiro Fuentes School of Science and Discovery,20
+X905,10X696,High School of American Studies at Lehman College,10
+X963,07X321,Crotona Academy High School,10
+X965,88X997,ALC - PAL Longwood,10
+X970,09X241,The Urban Assembly School for Applied Math and Science,40
+X970,09X252,Mott Hall Bronx High School,40
+X970,09X263,Validus Preparatory Academy: An Expeditionary Learning School,40
+X972,08X519,The Felisa Rincon de Gautier Institute for Law and Public Policy,40
+X972,08X537,Bronx Arena High School,40
+X973,12X271,East Bronx Academy for the Future,40
+X988,88X966,ALC - BRONX EDUCATIONAL CENTER,10
+X991,79X695,Passages Academy,10
+K932,79X695,Passages Academy,10
+M081,79K755,Adult and Continuing Education,10
+K818,85K818,District 18 Superintendent Office,20
+M860,97D075,Field Support Center D75,10
+M860,02M391,District 2 Pre-K Center,10
+M860,09XLDA,Leadership Academy,10
+X807,85X807,District 7 Superintendent Office,20
+M453,02M391,District 2 Pre-K Center,10
+M843,02M234,P.S. 234 Independence School,10
+M932,03M859,Special Music School,
+M932,03M882,Special Music School Of America,
+M048,06M048,P.S. 048 P.O. Michael J. Buczek,30
+M048,79D079,Field Support Center D79,30
+M048,79DA79,Superintendent Office for Alternative programs,30
+M048,85M806,District 6 Superintendent Office,30
+M048,75M138,P.S. 138,30
+M048,79KAAA,Alt Programs - School Programs,30
+M380,75S010,District 75 Secondary Site -M226 (M380),20
+M380,75M138,P.S. 138,20
+M828,88M998,ALC - Highbridge,20
+M859,06M348,Washington Heights Expeditionary Learning School,20
+X354,07X533,Learning through Play Pre-K Center,10
+X855,07X855,P.S. 30 Annex Ecf,10
+X855,75X469,P469X - The Bronx School for Continuous Learners,10
+X848,08X848,X048anx 659 Coster St Bx,10
+X848,08X048,P.S. 048 Joseph R. Drake,10
+X880,08X069,P.S. 069 Journey Prep School,10
+X172,09X172,P.S. 172,10
+X172,09X011,P.S. 011 Highbridge,10
+X824,79X695,Passages Academy,20
+X980,64X980,Susan E. Wagner,20
+X980,79Q950,Pathways to Graduation,20
+X980,75X754,J. M. Rapport School Career Development,20
+X056,10X056,P.S. 056 Norwood Heights,20
+X853,10X853,X059 Anx2,20
+X853,10X059,P.S. 059 The Community School of Technology,20
+X864,10X864,X205 Anx,20
+X864,10X205,P.S. 205 Fiorello Laguardia,20
+X896,10X279,P.S. 279 Captain Manuel Rivera,20
+X361,10X094,P.S. 094 Kings College School,10
+X373,10X535,Rose Hill Pre-K Center,10
+X387,10X535,Rose Hill Pre-K Center,10
+X443,10X535,Rose Hill Pre-K Center,10
+X444,10X535,Rose Hill Pre-K Center,DMVPN
+X358,12X321,Crotona Academy High School,10
+K611,13K869,District 13 PRE-K Center,10
+K611,13KP13,Pre-K Center District 13,10
+K611,13K313,Dock Street School for STEAM Studies,10
+K908,15K908,P230 Annex,10
+K908,15K230,P.S. 230 Doris L. Cohen,10
+K280,15K863,Pre-K Center at Bishop Ford School Site,10
+K692,15K767,The Little Brooklyn Pre-K Center,10
+K749,15K767,The Little Brooklyn Pre-K Center,10
+K751,15K058,P.S. 058 The Carroll,10
+K883,88K982,ALC - Albany,10
+K848,19K848,K149 Anx 373 Pennsylvania Ave,20
+K848,19K149,P.S. 149 Danny Kaye,20
+K872,19K872,P.S. 364 Annex,20
+K872,19K364,I.S. 364 Gateway,20
+K940,20K030,P.S./I.S. 30 Mary White Ovington,20
+K989,94KFSS,Field Support Center - Brooklyn South,10
+K989,85K820,District 20 Superintendent Office,10
+K989,20K104,P.S./I.S. 104 The Fort Hamilton School,10
+K989,75K231,P.S. K231,10
+K453,20K768,District 20 Pre-K Center,10
+K491,21KP21,Pre-K Center District 21,10
+K491,20K768,District 20 Pre-K Center,10
+K560,20K768,District 20 Pre-K Center,10
+K664,20K768,District 20 Pre-K Center,10
+K695,20K768,District 20 Pre-K Center,10
+K729,22K207,P.S. 207 Elizabeth G. Leary,10
+K747,20K768,District 20 Pre-K Center,10
+K762,20K768,District 20 Pre-K Center,10
+K767,20K768,District 20 Pre-K Center,10
+K780,20K768,District 20 Pre-K Center,10
+K662,21K840,Brooklyns Daily Discovery Pre-K Center,10
+K687,21K840,Brooklyns Daily Discovery Pre-K Center,10
+K787,21K840,Brooklyns Daily Discovery Pre-K Center,10
+K042,22K853,The Joan Snow Pre-K Center,10
+K063,22K853,The Joan Snow Pre-K Center,10
+K555,64KBVV,BROOKLYN COLLEGE CHILD CARE SERVICES,10
+K555,64KBUK,Congregation Machna Shalva Site 1,10
+K555,22K72B,Universal Pre-K C.B.O.,10
+K555,75K077,P.S. K077,10
+K555,22K555,Brooklyn College Academy,10
+K555,75K373,P.S. 373 - Brooklyn Transition Center,10
+K555,75K721,P.S. K721 - Brooklyn Occupational Training Center,10
+K854,23K854,P.S. 178 Annex.,20
+K993,79X695,Passages Academy,10
+Q848,24Q848,Q 81 Annex Ext. Use,20
+Q848,24Q081,P.S. 81Q Jean Paul Richter,20
+Q876,75Q075,Robert E. Peary School,20
+Q876,24Q239,P.S. 239,20
+Q878,24Q128,P.S. 128 The Lorraine Tuzzo,20
+Q320,24QP24,Pre-K Center District 24,20
+Q320,24Q305,Learners and Leaders,20
+Q322,24Q014,P.S. 014 Fairview,20
+Q348,24Q331,Mosaic Pre-K Center,10
+Q378,24Q331,Mosaic Pre-K Center,10
+Q391,24Q331,Mosaic Pre-K Center,10
+Q392,24Q331,Mosaic Pre-K Center,10
+Q412,24Q331,Mosaic Pre-K Center,10
+Q414,24Q331,Mosaic Pre-K Center,10
+Q777,24Q331,Mosaic Pre-K Center,10
+Q777,24Q199,P.S. 199 Maurice A. Fitzgerald,10
+Q841,24Q199,P.S. 199 Maurice A. Fitzgerald,10
+QAGV,64QBFJ,TRANSFIGURATION SCHOOL,20
+Q409,25Q409,District 25 PRE-K Center,10
+Q409,25QP25,District 25 PRE-K Center,10
+Q858,26Q188,P.S. 188 Kingsbury,10
+Q907,27Q043,P.S. 043,10
+Q750,24Q610,Aviation Career & Technical Education High School,10
+QBHF,75S027,District 75 Secondary Site -Q256 (QBHF),10
+QBHF,75Q256,P.S. Q256,10
+Q048,75S045,District 75 Secondary Site Q075 (P75A),10
+Q048,75Q075,Robert E. Peary School,10
+Q866,28Q099,P.S. 099 Kew Gardens,20
+Q882,28Q882,P.S. 882 (Sub Of Q182),10
+Q882,75S012,District 75 Secondary Site -Q009 (Q882),10
+Q882,75Q009,P.S. 009,10
+Q278,28Q182,P.S. 182 Samantha Smith,20
+Q382,28Q335,The Ezra Jack Keats Pre-K Center,10
+Q383,28Q335,The Ezra Jack Keats Pre-K Center,10
+Q608,28Q335,The Ezra Jack Keats Pre-K Center,10
+Q910,29Q095,P.S. 095 Eastwood,20
+Q387,29Q381,District 29 Pre-K Center,10
+Q799,29Q326,Cambria Heights Academy,40
+Q297,30Q230,I.S. 230,10
+Q312,75Q277,The Riverview School,10
+Q312,30Q389,District 30 Pre-K Center,10
+Q312,30Q078,P.S./I.S. 78Q,10
+Q397,30Q389,District 30 Pre-K Center,DMVPN
+Q797,30Q150,P.S. 150 Queens,20
+Q972,79K755,Adult and Continuing Education,10
+R826,75R025,South Richmond High School I.S./P.S. 25,10
+R826,31R003,P.S. 003 The Margaret Gioiosa School,10
+R025,75R025,South Richmond High School I.S./P.S. 25,20
+R843,75S016,District 75 Secondary Site -R037 (R843),20
+R843,75R037,P.S. R037,20
+R068,31R066,The Richmond Pre-K Center,10
+R077,31R066,The Richmond Pre-K Center,10
+K842,32K842,K045 Anx 1160 Decatur St Bklyn,10
+K842,32K045,P.S./I.S. 045 Horace E. Greene,10
+K902,13K266,M.S. K266 - Park Place Community Middle School,20
+K902,13KPPS,Park Place Comm Mid Schl,20
+K776,22K152,School of Science & Technology,20
+X844,64XAMQ,Mosholu Montefiore Community Center - Van Cortlandt Child Development Center(FD),20
+X844,10X844,P.S. 122 Annex,20
+X844,10X710,Universal Pre-K C.B.O.,20
+Q814,28Q082,P.S. 082 Hammond,10
+QALG,75S025,District 75 Secondary Site -Q023 (QL36),10
+QALG,75Q023,P.S. Q023 @ Queens Children Center,10
+QALG,64QALG,Lifeline Center,10
+Q835,75S026,District 75 Secondary Site -Q233 (Q827),10
+Q835,75Q233,P.S. Q233,10
+Q816,75S028,District 75 Secondary Site -Q256 (Q831),10
+Q816,75Q256,P.S. Q256,10
+Q667,75S011,District 75 Secondary Site -Q004 (Q667),20
+Q667,75Q004,P.S. Q004,20
+XAHW,75X723,P.S. 723,10
+XAHW,75S035,District 75 Secondary Site -X723 (XA31),10
+K779,79Q950,Pathways to Graduation,10
+K779,32K554,All City Leadership Secondary School,10
+QARF,79Q950,Pathways to Graduation,10
+QARF,79K755,Adult and Continuing Education,10
+K871,79Q950,Pathways to Graduation,10
+K871,79K755,Adult and Continuing Education,10
+Q781,27Q288,Jump Start Academy,20
+X953,75M401,Hospital Schools,40
+X953,79K755,Adult and Continuing Education,40
+X953,75M501,Home Instruction,40
+K853,75S008,District 75 Secondary Site - K004 (K853),10
+K853,75K004,P.S. K004,10
+Q311,24Q311,Mosaic Pre-K Center,10
+Q311,75Q277,The Riverview School,10
+Q311,24Q311,Corona Arts & Sciences Academy,10
+Q801,,OSSS / DSF - QUEENS,10
+QBFH,,RIKERS ISLAND FACILITY,10
+M853,,Central Harlem South,20
+Q454,,MHS SUSPENSION HEARING OFFICE,10
+KBJP,,District 75 Secondary Site - K004 (K853),10
+X897,,COURT SQUARE CONF CENTER - QUEENS,20
+Q980,,Hunters Point-Sunnyside-West Maspeth,40

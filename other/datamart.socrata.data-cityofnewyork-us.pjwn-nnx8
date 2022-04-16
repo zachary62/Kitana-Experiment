@@ -1,0 +1,283 @@
+DBN,School Name,Is CTE-designated High School,CTE Program Name,CTE Program Industry Cluster,Number of Industry Partners,NYSED Approval Status,Enrolled Student Grades,CTE enrolled Student Count
+02M135,The Urban Assembly School for Emergency Management,true,Computer and Information Systems Security,Information Technology,,Non-Approved,,0
+02M135,The Urban Assembly School for Emergency Management,true,Securities Services Administration/Management,Law and Public Safety,,Non-Approved,,0
+02M135,The Urban Assembly School for Emergency Management,true,"Security and Protective Services, Other",Law and Public Safety,,Non-Approved,91011,251
+02M139,Stephen T. Mather Building Arts & Craftsmanship High School,true,"Construction Trades, Other",Architecture and Construction,,Non-Approved,91011,171
+02M139,Stephen T. Mather Building Arts & Craftsmanship High School,true,Landscaping & Groundskeeping,"Agriculture, Food and Natural Resources",2,Approved,,0
+02M280,Manhattan Early College School for Advertising,true,"Computer Software and Media Applications, Other",Information Technology,,Non-Approved,,0
+02M282,Urban Assembly Maker Academy,true,"Computer Engineering Technologies/Technician, Other",Information Technology,,Non-Approved,,0
+02M282,Urban Assembly Maker Academy,true,"Computer Programming/Programmer, General",Information Technology,,Non-Approved,910,85
+02M282,Urban Assembly Maker Academy,true,"Computer Software and Media Applications, Other",Information Technology,,Non-Approved,910,104
+02M288,Food and Finance High School,true,Culinary Arts/Chef Training,Hospitality and Tourism,2,Approved,9101112,405
+02M392,Manhattan Business Academy,false,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration,5,Approved,9101112,304
+02M393,Business Of Sports School,true,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration,7,Approved,9101112,435
+02M420,High School for Health Professions and Human Services,false,Clinical/Medical Laboratory Assistant,Health Science,,Non-Approved,101112,303
+02M489,High School of Economics and Finance,false,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration,2,Non-Approved,101112,84
+02M489,High School of Economics and Finance,false,Accounting and Finance,Business Management and Administration,4,Approved,9101112,657
+02M507,Urban Assembly Gateway School for Technology,true,"Computer Programming/Programmer, General",Information Technology,,Non-Approved,9101112,138
+02M507,Urban Assembly Gateway School for Technology,true,Computer Installation and Repair Technology/Technician,Information Technology,2,Approved,9101112,96
+02M507,Urban Assembly Gateway School for Technology,true,"Computer Software and Media Applications, Other",Information Technology,2,Approved,9101112,226
+02M519,Talent Unlimited High School,false,"Dance, General","Arts, Audio/Video Technology and Communications",,Pending NYSED approval,101112,78
+02M519,Talent Unlimited High School,false,"Drama and Dramatics/Theatre Arts, General","Arts, Audio/Video Technology and Communications",,Non-Approved,9101112,126
+02M520,Murry Bergtraum High School for Business Careers,false,"Corrections and Criminal Justice, Other",Law and Public Safety,,Non-Approved,9101112,89
+02M520,Murry Bergtraum High School for Business Careers,false,Criminal Justice/Police Science,Law and Public Safety,,Non-Approved,9101112,96
+02M529,Jacqueline Kennedy Onassis High School,false,Tourism and Travel Services Management,Hospitality and Tourism,,Non-Approved,9101112,200
+02M529,Jacqueline Kennedy Onassis High School,false,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration,7,Non-Approved,9101112,240
+02M533,Union Square Academy for Health Sciences,true,Dental Laboratory Technology/Technician,Health Science,,Non-Approved,9101112,139
+02M533,Union Square Academy for Health Sciences,true,Pharmacy Technician/Assistant,Health Science,,Non-Approved,9101112,148
+02M542,Manhattan Bridges High School,false,Civil Drafting and Civil Engineering CAD/CADD,Manufacturing Production,,Non-Approved,9101112,160
+02M542,Manhattan Bridges High School,false,"Computer and Information Sciences, General",Information Technology,,Non-Approved,9101112,290
+02M546,Academy for Software Engineering,true,"Computer Programming/Programmer, General",Information Technology,,Non-Approved,9101112,448
+02M551,Urban Assembly New York Harbor School,true,"Diver, Professional and Instructor","Transportation, Distribution & Logistics",,Pending NYSED approval,9101112,63
+02M551,Urban Assembly New York Harbor School,true,Marine Science/Merchant Marine Officer,"Transportation, Distribution and Logistics",2,Approved,9101112,63
+02M551,Urban Assembly New York Harbor School,true,"Water, Wetlands and Marine Resources Management","Agriculture, Food and Natural Resources",2,Approved,9101112,65
+02M551,Urban Assembly New York Harbor School,true,Robotics Technology/Technician,Manufacturing Production,2,Approved,9101112,67
+02M551,Urban Assembly New York Harbor School,true,Aquaculture,"Agriculture, Food and Natural Resources",2,Approved,9101112,72
+02M551,Urban Assembly New York Harbor School,true,Marine Maintenance/Fitter and Ship Repair Technology/Technician,"Transportation, Distribution and Logistics",2,Approved,9101112,80
+02M600,The High School of Fashion Industries,true,Fashion Merchandising,Marketing Sales and Services,2,Approved,12,29
+02M600,The High School of Fashion Industries,true,Apparel and Textile Marketing Management,Marketing Sales and Services,2,Approved,9101112,318
+02M600,The High School of Fashion Industries,true,Graphic Design,"Arts, Audio/Video Technology and Communications",2,Approved,9101112,382
+02M600,The High School of Fashion Industries,true,Fashion/Apparel Design,"Arts, Audio/Video Technology and Communications",2,Approved,9101112,1046
+02M615,Chelsea Career and Technical Education High School,true,Computer Systems Networking and Telecommunications,Information Technology,2,Approved,1112,38
+02M615,Chelsea Career and Technical Education High School,true,Computer Installation and Repair Technology/Technician,Information Technology,2,Approved,101112,93
+02M615,Chelsea Career and Technical Education High School,true,Prepress/Desktop Publishing and Digital Imaging Design,Manufacturing Production,2,Approved,9101112,291
+02M630,Art and Design High School,true,Architectural Drafting and Architectural CAD/CADD,Manufacturing Production,,Non-Approved,9101112,129
+02M630,Art and Design High School,true,Fashion/Apparel Design,"Arts, Audio/Video Technology and Communications",,Non-Approved,9101112,130
+02M630,Art and Design High School,true,Photographic and Film/Video Technology/Technician and Assistant,"Arts, Audio/Video Technology and Communications",2,Approved,,0
+02M630,Art and Design High School,true,Commercial Photography,"Arts, Audio/Video Technology and Communications",2,Approved,9101112,67
+02M630,Art and Design High School,true,Cinematography and Film/Video Production,"Arts, Audio/Video Technology and Communications",2,Approved,9101112,78
+02M630,Art and Design High School,true,Prepress/Desktop Publishing and Digital Imaging Design,Manufacturing Production,2,Approved,9101112,135
+02M630,Art and Design High School,true,"Animation, Interactive Technology, Video Graphics and Special Effects",Manufacturing Production,2,Approved,9101112,262
+02M630,Art and Design High School,true,Illustration,"Arts, Audio/Video Technology and Communications",2,Approved,9101112,594
+03M299,The Maxine Greene HS for Imaginative Inquiry,false,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration,2,Non-Approved,9101112,318
+03M402,The Urban Assembly School for Green Careers,true,"Applied Horticulture/Horticultural Operations, General","Agriculture, Food and Natural Resources",,Non-Approved,9101112,94
+03M402,The Urban Assembly School for Green Careers,true,Building/Property Maintenance and Manager,Architecture and Construction,,Non-Approved,9101112,220
+03M485,Fiorello H. LaGuardia High School of Music & Art and Performing Arts,false,Technical Theater/Theater Design and Technology,"Arts, Audio/Video Technology and Communications",,Non-Approved,9101112,93
+03M485,Fiorello H. LaGuardia High School of Music & Art and Performing Arts,false,"Dance, General","Arts, Audio/Video Technology and Communications",,Non-Approved,9101112,223
+03M485,Fiorello H. LaGuardia High School of Music & Art and Performing Arts,false,"Drama and Dramatics/Theatre Arts, General","Arts, Audio/Video Technology and Communications",,Non-Approved,9101112,362
+05M157,The Urban Assembly School for Global Commerce,true,Logistics and Materials Management,"Transportation, Distribution and Logistics",,Non-Approved,,0
+05M157,The Urban Assembly School for Global Commerce,true,Transportation/Transportation Management,"Transportation, Distribution and Logistics",,Non-Approved,,0
+05M157,The Urban Assembly School for Global Commerce,true,"Engineering Technology, General",Scientific Research and Engineering,,Non-Approved,91011,197
+05M362,Columbia Secondary School,false,Architectural Engineering Technology/Technician,Architecture and Construction,,Non-Approved,9101112,374
+06M211,Inwood Early College for Health and Information Technologies,true,Information Technology,Information Technology,,Non-Approved,910,193
+06M467,High School for Law and Public Service,false,"Corrections and Criminal Justice, Other",Law and Public Safety,,Non-Approved,9101112,304
+07X259,"H.E.R.O. High (Health, Education, and Research Occupations High School)",true,Licensed Practical/Vocational Nurse Training,Health Science,,Non-Approved,91011,336
+07X522,Bronx Design and Construction Academy,true,Plumbing Technology/Plumber,Architecture and Construction,,Non-Approved,9101112,72
+07X522,Bronx Design and Construction Academy,true,Carpentry/Carpenter,Architecture and Construction,,Non-Approved,9101112,103
+07X522,Bronx Design and Construction Academy,true,"Heating, Air Conditioning and Refrigeration Technology/Technician",Scientific Research and Engineering,,Non-Approved,9101112,138
+07X522,Bronx Design and Construction Academy,true,Architectural Drafting and Architectural CAD/CADD,Manufacturing Production,,Non-Approved,9101112,142
+07X522,Bronx Design and Construction Academy,true,Electrician,Architecture and Construction,2,Approved,9101112,93
+07X600,Alfred E. Smith Career and Technical Education High School,true,Autobody/Collision and Repair Technology/Technician,"Transportation, Distribution and Logistics",,Non-Approved,9101112,46
+07X600,Alfred E. Smith Career and Technical Education High School,true,Graphic Design,"Arts, Audio/Video Technology and Communications",,Non-Approved,9101112,78
+07X600,Alfred E. Smith Career and Technical Education High School,true,Automobile/Automotive Mechanics Technology/Technician,"Transportation, Distribution and Logistics",2,Approved,9101112,266
+08X405,Herbert H. Lehman High School,false,"Corrections and Criminal Justice, Other",Law and Public Safety,,Non-Approved,9101112,121
+08X405,Herbert H. Lehman High School,false,Information Technology,Information Technology,,Non-Approved,9101112,280
+08X519,"Felisa Rincon de Gautier Institute for Law and Public Policy, The",false,"Corrections and Criminal Justice, Other",Law and Public Safety,,Non-Approved,9101112,145
+09X365,Academy for Language and Technology,false,Information Technology,Information Technology,2,Approved,,0
+09X365,Academy for Language and Technology,false,"Computer Software and Media Applications, Other",Information Technology,2,Approved,9101112,142
+09X365,Academy for Language and Technology,false,"Computer and Information Sciences, General",Information Technology,2,Approved,9101112,167
+09X403,Bronx International High School,false,Construction Engineering Technology/Technician,Architecture and Construction,,Non-Approved,9101112,279
+09X412,Bronx High School of Business,false,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration,2,Non-Approved,9101112,212
+10X213,Bronx Engineering and Technology Academy,false,"Drafting/Design Engineering Technologies/Technicians, Other",Manufacturing Production,2,Approved,9101112,227
+10X264,Bronx Academy for Software Engineering (BASE),true,"Computer Programming/Programmer, General",Information Technology,,Non-Approved,91011,326
+10X284,Bronx School of Law and Finance,false,"Corrections and Criminal Justice, Other",Law and Public Safety,,Non-Approved,9101112,110
+10X284,Bronx School of Law and Finance,false,Accounting and Finance,Business Management and Administration,2,Non-Approved,9101112,132
+10X368,In-Tech Academy (M.S. / High School 368),false,Computer Systems Networking and Telecommunications,Information Technology,2,Approved,9101112,109
+10X368,In-Tech Academy (M.S. / High School 368),false,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration,2,Approved,9101112,262
+10X437,Fordham High School for the Arts,false,"Drama and Dramatics/Theatre Arts, General","Arts, Audio/Video Technology and Communications",,Non-Approved,9101112,99
+10X439,Bronx High School for Law and Community Service,false,Criminal Justice/Police Science,Law and Public Safety,,Non-Approved,9101112,112
+10X524,Crotona International High School,true,Recording Arts Technology/Technician,"Arts, Audio/Video Technology and Communications",,Non-Approved,9101112,327
+10X565,High School for Energy and Technology,true,Building/Property Maintenance and Manager,Architecture and Construction,,Non-Approved,9101112,270
+11X270,Academy for Scholarship and Entrepreneurship: A College Board School,false,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration,5,Approved,101112,233
+11X275,High School of Computers and Technology,true,Computer Installation and Repair Technology/Technician,Information Technology,2,Approved,9101112,509
+11X418,Bronx High School for the Visual Arts,false,Graphic Design,"Arts, Audio/Video Technology and Communications",,Non-Approved,9101112,369
+11X508,Bronxdale High School,false,Culinary Arts/Chef Training,Hospitality and Tourism,,Non-Approved,9101112,199
+13K419,"Science Skills Center High School for Science, Technology and the Creative Arts",false,"Engineering Technology, General",Scientific Research and Engineering,,Non-Approved,,0
+13K430,Brooklyn Technical High School,false,Criminal Justice/Law Enforcement Administration,Law and Public Safety,,Non-Approved,9101112,608
+13K430,Brooklyn Technical High School,false,"Drafting and Design Technology/Technician, General",Manufacturing Production,2,Approved,9101112,699
+13K430,Brooklyn Technical High School,false,Robotics Technology/Technician,Manufacturing Production,2,Approved,9101112,1023
+13K430,Brooklyn Technical High School,false,Mass Communications/Media Studies,"Arts, Audio/Video Technology and Communications",2,Approved,9101112,2001
+13K605,George Westinghouse Career and Technical Education High School,true,Computer Technology/Computer Systems Technology,Information Technology,,Non-Approved,101112,59
+13K605,George Westinghouse Career and Technical Education High School,true,Culinary Arts/Chef Training,Hospitality and Tourism,,Non-Approved,101112,124
+13K605,George Westinghouse Career and Technical Education High School,true,Web/Multimedia Management and Webmaster,Information Technology,,Non-Approved,9101112,259
+13K605,George Westinghouse Career and Technical Education High School,true,Electrician,Architecture and Construction,2,Approved,9101112,145
+13K674,"City Polytechnic High School of Engineering, Architecture, and Technology",true,Architectural Engineering Technology/Technician,Architecture and Construction,2,Approved,9101112,243
+14K477,School for Legal Studies,false,Criminal Justice/Police Science,Law and Public Safety,,Non-Approved,9101112,332
+14K478,"The High School for Enterprise, Business and Technology",false,Tourism and Travel Services Management,Hospitality and Tourism,2,Approved,9101112,339
+14K478,"The High School for Enterprise, Business and Technology",false,Computer Systems Networking and Telecommunications,Information Technology,2,Approved,9101112,529
+14K558,Williamsburg High School for Architecture and Design,true,Architectural Drafting and Architectural CAD/CADD,Manufacturing Production,2,Approved,9101112,563
+14K610,Automotive High School,true,Automobile/Automotive Mechanics Technology/Technician,"Transportation, Distribution and Logistics",2,Approved,9101112,308
+15K497,The Boerum Hill School for International Studies,false,"Culinary Arts and Related Services, Other",Hospitality and Tourism,,Non-Approved,9101112,187
+15K519,Cobble Hill School of American Studies,false,"Corrections and Criminal Justice, Other",Law and Public Safety,,Non-Approved,9101112,359
+16K455,Boys and Girls High School,false,"Corrections and Criminal Justice, Other",Law and Public Safety,,Non-Approved,101112,39
+16K688,The Brooklyn Academy of Global Finance,false,"Finance, General",Finance,4,Non-Approved,,0
+16K688,The Brooklyn Academy of Global Finance,false,Accounting and Finance,Business Management and Administration,2,Approved,9101112,119
+17K122,Pathways in Technology Early College High School (P-Tech),true,Electromechanical Technology/Electromechanical Engineering Technology,Manufacturing Production,,Non-Approved,9101112,108
+17K122,Pathways in Technology Early College High School (P-Tech),true,Computer Technology/Computer Systems Technology,Information Technology,,Non-Approved,101112,163
+17K408,Academy of Hospitality and Tourism,false,Tourism and Travel Services Management,Hospitality and Tourism,,Non-Approved,9101112,180
+17K548,Brooklyn School for Music & Theatre,false,Technical Theater/Theater Design and Technology,"Arts, Audio/Video Technology and Communications",,Non-Approved,9101112,192
+17K600,Clara Barton High School,true,Nurse/Nursing Assistant/Aide and Patient Care Assistant,Health Science,,Non-Approved,9101112,114
+17K600,Clara Barton High School,true,Dental Laboratory Technology/Technician,Health Science,,Non-Approved,9101112,125
+17K600,Clara Barton High School,true,Ophthalmic laboratory Technology/Technician,Health Science,2,Approved,9101112,96
+17K600,Clara Barton High School,true,Licensed Practical/Vocational Nurse Training,Health Science,2,Approved,9101112,122
+17K600,Clara Barton High School,true,Medical Office Assistant/Specialist,Health Science,2,Approved,9101112,130
+17K600,Clara Barton High School,true,Clinical/Medical Laboratory Assistant,Health Science,2,Approved,9101112,139
+17K600,Clara Barton High School,true,Dental Assisting/Assistant,Health Science,2,Approved,9101112,192
+17K751,Academy for Health Careers,true,Nurse/Nursing Assistant/Aide and Patient Care Assistant,Health Science,,Non-Approved,9101112,350
+18K567,Brooklyn Theatre Arts High School,false,"Drama and Dramatics/Theatre Arts, General","Arts, Audio/Video Technology and Communications",,Non-Approved,,0
+18K567,Brooklyn Theatre Arts High School,false,Technical Theater/Theater Design and Technology,"Arts, Audio/Video Technology and Communications",,Non-Approved,,0
+18K617,High School for Innovation in Advertising and Media,true,"Computer Software and Media Applications, Other",Information Technology,2,Approved,9101112,270
+19K502,FDNY - Captain Vernon A. Richards High School for Fire and Life Safety,false,Emergency Medical Technology/Technician (EMT Paramedic),Health Science,,Non-Approved,9101112,179
+19K510,World Academy for Total Community Health High School,false,"Health Professions and related Clinical Services, Other",Health Science,,Non-Approved,101112,54
+19K615,Transit Tech Career and Technical Education High School,true,Computer Installation and Repair Technology/Technician,Information Technology,,Non-Approved,9101112,278
+19K615,Transit Tech Career and Technical Education High School,true,Industrial Electronics Technology/Technician,Manufacturing Production,2,Approved,9101112,49
+19K615,Transit Tech Career and Technical Education High School,true,"Electrical/Electronics Equipment Installation and Repair, General",Information Technology,2,Approved,9101112,203
+19K615,Transit Tech Career and Technical Education High School,true,"Mechanic and Repair Technologies/Technicians, Other","Transportation, Distribution and Logistics",2,Approved,9101112,227
+19K618,Academy of Innovative Technology,true,Information Technology,Information Technology,,Non-Approved,9101112,81
+19K618,Academy of Innovative Technology,true,"Electrical/Electronics Equipment Installation and Repair, General",Information Technology,2,Approved,101112,75
+19K618,Academy of Innovative Technology,true,"Web Page, Digital/Multimedia and Information Resources Design",Information Technology,2,Approved,9101112,220
+19K660,W. H. Maxwell Career and Technical Education High School,true,Ophthalmic laboratory Technology/Technician,Health Science,,Non-Approved,9101112,36
+19K660,W. H. Maxwell Career and Technical Education High School,true,Medical Insurance Specialist/Medical Biller,Health Science,,Non-Approved,9101112,88
+19K660,W. H. Maxwell Career and Technical Education High School,true,Fashion/Apparel Design,"Arts, Audio/Video Technology and Communications",2,Approved,9101112,51
+19K660,W. H. Maxwell Career and Technical Education High School,true,Communications Technology/Technician,"Arts, Audio/Video Technology and Communications",2,Approved,9101112,98
+19K660,W. H. Maxwell Career and Technical Education High School,true,"Cosmetology/Cosmetologist, General",Marketing Sales and Services,2,Approved,9101112,196
+19K764,The Urban Assembly School for Collaborative Healthcare,true,"Health Professions and related Clinical Services, Other",Health Science,,Non-Approved,910,148
+20K445,New Utrecht High School,false,Tourism and Travel Services Management,Hospitality and Tourism,,Non-Approved,9101112,145
+20K445,New Utrecht High School,false,"Corrections and Criminal Justice, Other",Law and Public Safety,,Non-Approved,9101112,182
+20K445,New Utrecht High School,false,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration,5,Non-Approved,9101112,278
+20K445,New Utrecht High School,false,Medical Insurance Specialist/Medical Biller,Health Science,,Non-Approved,9101112,317
+20K485,High School of Telecommunication Arts and Technology,false,"Computer Programming/Programmer, General",Information Technology,,Non-Approved,9101112,164
+20K490,Fort Hamilton High School,false,"Corrections and Criminal Justice, Other",Law and Public Safety,,Non-Approved,9101112,88
+20K490,Fort Hamilton High School,false,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration,2,Approved,9101112,665
+21K410,Abraham Lincoln High School,false,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration,2,Non-Approved,101112,77
+21K410,Abraham Lincoln High School,false,Veterinary/Animal Health Technology/Technician and Veterinarian Assistant,Health Science,,Non-Approved,9101112,276
+21K525,Edward R. Murrow High School,false,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration,2,Approved,9101112,893
+21K559,Life Academy High School for Film and Music,false,Cinematography and Film/Video Production,"Arts, Audio/Video Technology and Communications",,Non-Approved,101112,194
+21K620,William E. Grady Career and Technical Education High School,true,Nurse/Nursing Assistant/Aide and Patient Care Assistant,Health Science,,Non-Approved,9101112,50
+21K620,William E. Grady Career and Technical Education High School,true,Construction Engineering Technology/Technician,Architecture and Construction,,Non-Approved,9101112,98
+21K620,William E. Grady Career and Technical Education High School,true,Computer Installation and Repair Technology/Technician,Information Technology,2,Approved,9101112,76
+21K620,William E. Grady Career and Technical Education High School,true,Automobile/Automotive Mechanics Technology/Technician,"Transportation, Distribution and Logistics",2,Approved,9101112,92
+21K620,William E. Grady Career and Technical Education High School,true,Culinary Arts/Chef Training,Hospitality and Tourism,2,Approved,9101112,131
+22K405,Midwood High School,false,"Corrections and Criminal Justice, Other",Law and Public Safety,,Non-Approved,9101112,322
+22K405,Midwood High School,false,"Engineering Technology, General",Scientific Research and Engineering,,Non-Approved,101112,370
+22K405,Midwood High School,false,"Communications and Media Studies, Other","Arts, Audio/Video Technology and Communications",,Non-Approved,9101112,459
+22K425,James Madison High School,false,"Finance and Financial Management Services, Other",Finance,1,Non-Approved,101112,96
+22K425,James Madison High School,false,Information Technology,Information Technology,,Non-Approved,9101112,373
+22K425,James Madison High School,false,"Corrections and Criminal Justice, Other",Law and Public Safety,,Non-Approved,9101112,590
+24Q264,Academy of Finance and Enterprise,false,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration,1,Approved,9101112,203
+24Q264,Academy of Finance and Enterprise,false,Accounting and Finance,Business Management and Administration,2,Approved,9101112,253
+24Q455,Newtown High School,false,Architectural Drafting and Architectural CAD/CADD,Manufacturing Production,2,Approved,9101112,387
+24Q455,Newtown High School,false,"Business/Commerce, General",Business Management and Administration,1,Approved,9101112,432
+24Q485,Grover Cleveland High School,false,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration,,Non-Approved,9101112,19
+24Q485,Grover Cleveland High School,false,"Computer and Information Sciences, General",Information Technology,,Non-Approved,9101112,142
+24Q485,Grover Cleveland High School,false,Tourism and Travel Services Management,Hospitality and Tourism,,Non-Approved,9101112,161
+24Q485,Grover Cleveland High School,false,"Dramatic/Theater Arts and Stagecraft, Other","Arts, Audio/Video Technology and Communications",2,Approved,101112,48
+24Q485,Grover Cleveland High School,false,Civil Engineering Technology/Technician,Architecture and Construction,2,Approved,101112,60
+24Q485,Grover Cleveland High School,false,Commercial and Advertising Art,"Arts, Audio/Video Technology and Communications",2,Approved,9101112,135
+24Q550,High School for Arts and Business,false,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration,3,Approved,9101112,201
+24Q550,High School for Arts and Business,false,Graphic Design,"Arts, Audio/Video Technology and Communications",2,Approved,9101112,310
+24Q600,Queens Vocational and Technical High School,true,Plumbing Technology/Plumber,Architecture and Construction,2,Approved,101112,76
+24Q600,Queens Vocational and Technical High School,true,"Electrical, Electronic and Communications Engineering Technology/Technician",Scientific Research and Engineering,2,Approved,101112,111
+24Q600,Queens Vocational and Technical High School,true,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration,3,Approved,9101112,189
+24Q600,Queens Vocational and Technical High School,true,Computer Installation and Repair Technology/Technician,Information Technology,2,Approved,9101112,226
+24Q600,Queens Vocational and Technical High School,true,Electrician,Architecture and Construction,2,Approved,101112,277
+24Q600,Queens Vocational and Technical High School,true,"Cosmetology/Cosmetologist, General",Marketing Sales and Services,2,Approved,9101112,281
+24Q600,Queens Vocational and Technical High School,true,Computer Graphics,Information Technology,2,Approved,9101112,341
+24Q610,Aviation Career & Technical Education High School,true,Aircraft Powerplant Technology/Technician,"Transportation, Distribution and Logistics",2,Approved,9101112,2126
+25Q425,John Bowne High School,false,"Agricultural & Domestic Animals Services, Other","Agriculture, Food and Natural Resources",2,Approved,9101112,654
+25Q460,Flushing High School,false,Criminal Justice/Police Science,Law and Public Safety,,Non-Approved,9101112,190
+25Q460,Flushing High School,false,"Corrections and Criminal Justice, Other",Law and Public Safety,,Non-Approved,9101112,360
+25Q460,Flushing High School,false,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration,4,Approved,1112,23
+25Q460,Flushing High School,false,"Business/Commerce, General",Business Management and Administration,5,Approved,9101112,503
+25Q525,Townsend Harris High School,false,"Corrections and Criminal Justice, Other",Law and Public Safety,,Non-Approved,101112,25
+25Q525,Townsend Harris High School,false,Robotics Technology/Technician,Manufacturing Production,,Non-Approved,101112,102
+25Q525,Townsend Harris High School,false,Biomedical Technology/Technician,Scientific Research and Engineering,,Non-Approved,101112,158
+25Q525,Townsend Harris High School,false,Broadcast Journalism,"Arts, Audio/Video Technology and Communications",,Non-Approved,9101112,277
+26Q315,Business Technology Early College High School,true,Information Technology,Information Technology,,Non-Approved,910,204
+26Q430,Francis Lewis High School,false,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration,1,Non-Approved,9101112,202
+26Q430,Francis Lewis High School,false,Robotics Technology/Technician,Manufacturing Production,,Non-Approved,9101112,253
+26Q430,Francis Lewis High School,false,"Corrections and Criminal Justice, Other",Law and Public Safety,,Non-Approved,9101112,291
+26Q495,Bayside High School,false,"Public Administration and Social Service Professions, Other",Government and Public Administration,,Non-Approved,9101112,330
+26Q495,Bayside High School,false,Environmental Engineering Technology/Environmental Technology,"Agriculture, Food and Natural Resources",,Non-Approved,9101112,421
+26Q495,Bayside High School,false,"Computer Programming/Programmer, General",Information Technology,,Non-Approved,9101112,433
+26Q495,Bayside High School,false,Recording Arts Technology/Technician,"Arts, Audio/Video Technology and Communications",,Non-Approved,9101112,490
+26Q495,Bayside High School,false,Athletic Training/Trainer,Hospitality and Tourism,,Non-Approved,9101112,525
+26Q495,Bayside High School,false,Digital Communication and Media/Multimedia,"Arts, Audio/Video Technology and Communications",2,Approved,9101112,476
+27Q302,"Queens High School for Information, Research, and Technology",false,Computer Systems Networking and Telecommunications,Information Technology,,Non-Approved,9101112,281
+27Q475,Richmond Hill High School,false,"Corrections and Criminal Justice, Other",Law and Public Safety,,Non-Approved,9101112,146
+27Q480,John Adams High School,false,"Corrections and Criminal Justice, Other",Law and Public Safety,,Non-Approved,9101112,99
+27Q650,"High School for Construction Trades, Engineering and Architecture",true,Civil Drafting and Civil Engineering CAD/CADD,Manufacturing Production,2,Approved,9101112,310
+27Q650,"High School for Construction Trades, Engineering and Architecture",true,Construction Engineering Technology/Technician,Architecture and Construction,2,Approved,9101112,326
+27Q650,"High School for Construction Trades, Engineering and Architecture",true,Architectural Drafting and Architectural CAD/CADD,Manufacturing Production,2,Approved,9101112,332
+28Q440,Forest Hills High School,false,"Corrections and Criminal Justice, Other",Law and Public Safety,,Non-Approved,9101112,523
+28Q440,Forest Hills High School,false,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration,2,Non-Approved,9101112,553
+28Q505,Hillcrest High School,false,CAD/CADD Drafting and/or Design Technology/Technician,Manufacturing Production,,Non-Approved,9101112,147
+28Q505,Hillcrest High School,false,"Corrections and Criminal Justice, Other",Law and Public Safety,,Non-Approved,9101112,323
+28Q505,Hillcrest High School,false,Emergency Medical Technology/Technician (EMT Paramedic),Health Science,2,Approved,910,17
+28Q505,Hillcrest High School,false,"Business/Commerce, General",Business Management and Administration,3,Approved,9101112,127
+28Q505,Hillcrest High School,false,Nurse/Nursing Assistant/Aide and Patient Care Assistant,Health Science,2,Approved,101112,193
+28Q620,Thomas A. Edison Career and Technical Education High School,true,Commercial and Advertising Art,"Arts, Audio/Video Technology and Communications",,Non-Approved,9101112,110
+28Q620,Thomas A. Edison Career and Technical Education High School,true,"Graphic and Printing Equipment Operator, General Production",Manufacturing Production,,Non-Approved,9101112,112
+28Q620,Thomas A. Edison Career and Technical Education High School,true,Electrician,Architecture and Construction,,Non-Approved,9101112,116
+28Q620,Thomas A. Edison Career and Technical Education High School,true,Web/Multimedia Management and Webmaster,Information Technology,,Non-Approved,9101112,144
+28Q620,Thomas A. Edison Career and Technical Education High School,true,"Clinical/Medical Laboratory Science and Allied Professions, Other",Health Science,,Non-Approved,9101112,197
+28Q620,Thomas A. Edison Career and Technical Education High School,true,Autobody/Collision and Repair Technology/Technician,"Transportation, Distribution and Logistics",2,Approved,9101112,105
+28Q620,Thomas A. Edison Career and Technical Education High School,true,Robotics Technology/Technician,Manufacturing Production,2,Approved,9101112,117
+28Q620,Thomas A. Edison Career and Technical Education High School,true,Mechanical Drafting and Mechanical Drafting CAD/CADD,Manufacturing Production,2,Approved,9101112,210
+28Q620,Thomas A. Edison Career and Technical Education High School,true,Computer Installation and Repair Technology/Technician,Information Technology,2,Approved,9101112,300
+28Q620,Thomas A. Edison Career and Technical Education High School,true,Computer Systems Networking and Telecommunications,Information Technology,2,Approved,9101112,300
+28Q620,Thomas A. Edison Career and Technical Education High School,true,Automobile/Automotive Mechanics Technology/Technician,"Transportation, Distribution and Logistics",2,Approved,9101112,354
+29Q243,Institute for Health Professions at Cambria Heights,true,Nurse/Nursing Assistant/Aide and Patient Care Assistant,Health Science,,Non-Approved,,0
+29Q243,Institute for Health Professions at Cambria Heights,true,Emergency Care Attendant (EMT Ambulance),Health Science,,Non-Approved,91011,163
+29Q272,George Washington Carver High School for the Sciences,false,Veterinary/Animal Health Technology/Technician and Veterinarian Assistant,Health Science,,Non-Approved,9101112,179
+29Q313,Benjamin Franklin High School for Finance & Information Technology,true,Accounting and Finance,Business Management and Administration,3,Non-Approved,910,87
+29Q313,Benjamin Franklin High School for Finance & Information Technology,true,Information Technology,Information Technology,,Non-Approved,910,114
+29Q326,Cambria Heights Academy,false,"Computer Programming/Programmer, General",Information Technology,,Non-Approved,,0
+30Q258,Energy Tech High School,true,"Engineering Technology, General",Scientific Research and Engineering,,Non-Approved,91011,330
+30Q301,Academy for Careers in Television and Film,true,Cinematography and Film/Video Production,"Arts, Audio/Video Technology and Communications",2,Approved,9101112,493
+30Q445,William Cullen Bryant High School,false,"Corrections and Criminal Justice, Other",Law and Public Safety,,Non-Approved,9101112,347
+30Q445,William Cullen Bryant High School,false,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration,,Non-Approved,9101112,600
+30Q450,Long Island City High School,false,Tourism and Travel Services Management,Hospitality and Tourism,,Non-Approved,9101112,213
+30Q450,Long Island City High School,false,Culinary Arts/Chef Training,Hospitality and Tourism,2,Approved,9101112,353
+30Q501,Frank Sinatra School of the Arts High School,false,"Dance, General","Arts, Audio/Video Technology and Communications",,Non-Approved,9101112,112
+30Q501,Frank Sinatra School of the Arts High School,false,"Drama and Dramatics/Theatre Arts, General","Arts, Audio/Video Technology and Communications",,Non-Approved,9101112,124
+30Q502,Information Technology High School,false,"Computer Programming, Specific Applications",Information Technology,,Pending NYSED approval,101112,77
+30Q502,Information Technology High School,false,"Web Page, Digital/Multimedia and Information Resources Design",Information Technology,2,Approved,101112,93
+30Q502,Information Technology High School,false,Cinematography and Film/Video Production,"Arts, Audio/Video Technology and Communications",2,Approved,9101112,99
+31R440,New Dorp High School,false,"Computer Programming/Programmer, General",Information Technology,,Non-Approved,910,101
+31R440,New Dorp High School,false,"Corrections and Criminal Justice, Other",Law and Public Safety,,Non-Approved,9101112,314
+31R440,New Dorp High School,false,Culinary Arts/Chef Training,Hospitality and Tourism,2,Approved,9101112,54
+31R440,New Dorp High School,false,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration,7,Approved,9101112,263
+31R440,New Dorp High School,false,Digital Communication and Media/Multimedia,"Arts, Audio/Video Technology and Communications",2,Approved,9101112,450
+31R445,Port Richmond High School,false,Tourism and Travel Services Management,Hospitality and Tourism,,Non-Approved,9101112,73
+31R445,Port Richmond High School,false,Biomedical Technology/Technician,Scientific Research and Engineering,,Non-Approved,101112,78
+31R445,Port Richmond High School,false,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration,1,Non-Approved,9101112,124
+31R445,Port Richmond High School,false,Culinary Arts/Chef Training,Hospitality and Tourism,,Non-Approved,9101112,334
+31R450,Curtis High School,false,Licensed Practical/Vocational Nurse Training,Health Science,,Non-Approved,91112,51
+31R450,Curtis High School,false,"Dance, General","Arts, Audio/Video Technology and Communications",,Non-Approved,9101112,116
+31R450,Curtis High School,false,Data Processing Technology/Technician,Information Technology,,Non-Approved,9101112,196
+31R450,Curtis High School,false,Graphic Design,"Arts, Audio/Video Technology and Communications",,Non-Approved,9101112,207
+31R450,Curtis High School,false,Mass Communications/Media Studies,"Arts, Audio/Video Technology and Communications",,Non-Approved,9101112,218
+31R450,Curtis High School,false,Nurse/Nursing Assistant/Aide and Patient Care Assistant,Health Science,,Non-Approved,9101112,274
+31R450,Curtis High School,false,Criminal Justice/Police Science,Law and Public Safety,,Non-Approved,9101112,332
+31R455,Tottenville High School,false,Advertising,"Arts, Audio/Video Technology and Communications",4,Non-Approved,9101112,95
+31R455,Tottenville High School,false,Accounting and Finance,Business Management and Administration,5,Non-Approved,101112,102
+31R455,Tottenville High School,false,Computer Systems Networking and Telecommunications,Information Technology,,Non-Approved,9101112,102
+31R455,Tottenville High School,false,"Corrections and Criminal Justice, Other",Law and Public Safety,,Non-Approved,101112,132
+31R455,Tottenville High School,false,Culinary Arts/Chef Training,Hospitality and Tourism,,Non-Approved,101112,143
+31R455,Tottenville High School,false,"Clinical/Medical Laboratory Science and Allied Professions, Other",Health Science,,Non-Approved,1112,154
+31R455,Tottenville High School,false,"Dental Services and Allied Professions, Other",Health Science,2,Approved,101112,87
+31R455,Tottenville High School,false,Dental Laboratory Technology/Technician,Health Science,2,Approved,101112,91
+31R455,Tottenville High School,false,Automobile/Automotive Mechanics Technology/Technician,"Transportation, Distribution and Logistics",2,Approved,9101112,140
+31R460,Susan E. Wagner High School,false,Accounting and Finance,Business Management and Administration,3,Non-Approved,9101112,132
+31R460,Susan E. Wagner High School,false,Entrepreneurship/Entrepreneurial Studies,Business Management and Administration,1,Non-Approved,9101112,138
+31R460,Susan E. Wagner High School,false,"Corrections and Criminal Justice, Other",Law and Public Safety,,Non-Approved,9101112,359
+31R600,Ralph R. McKee Career and Technical Education High School,true,"Cosmetology/Cosmetologist, General",Marketing Sales and Services,,Non-Approved,9101112,36
+31R600,Ralph R. McKee Career and Technical Education High School,true,"Computer Programming/Programmer, General",Information Technology,,Non-Approved,91011,49
+31R600,Ralph R. McKee Career and Technical Education High School,true,Computer Systems Networking and Telecommunications,Information Technology,,Non-Approved,9101112,66
+31R600,Ralph R. McKee Career and Technical Education High School,true,"Engineering Technology, General",Scientific Research and Engineering,2,Approved,9101112,60
+31R600,Ralph R. McKee Career and Technical Education High School,true,"Graphic and Printing Equipment Operator, General Production",Manufacturing Production,2,Approved,9101112,74
+31R600,Ralph R. McKee Career and Technical Education High School,true,Carpentry/Carpenter,Architecture and Construction,2,Approved,9101112,78
+31R600,Ralph R. McKee Career and Technical Education High School,true,Automobile/Automotive Mechanics Technology/Technician,"Transportation, Distribution and Logistics",2,Approved,9101112,78
+31R605,Staten Island Technical High School,false,"Engineering Technology, General",Scientific Research and Engineering,,Pending NYSED approval,9101112,1278
+Total,,,,,293,,,62893

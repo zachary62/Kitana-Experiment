@@ -1,0 +1,676 @@
+DBN,SchoolName,ByGroup,Demographic,Credit Recovery,#,% within Demographic,Total # within Demographic
+02M429,Legacy School for Integrated Studies,Age by Credit Recovery,13 yrs old,All,s,s,s
+02M429,Legacy School for Integrated Studies,Age by Credit Recovery,13 yrs old,Credit Recovery,s,s,s
+02M429,Legacy School for Integrated Studies,Age by Credit Recovery,13 yrs old,No Credit Recovery,s,s,s
+02M429,Legacy School for Integrated Studies,Age by Credit Recovery,15 yrs old,All,s,s,s
+02M429,Legacy School for Integrated Studies,Age by Credit Recovery,15 yrs old,Credit Recovery,s,s,s
+02M429,Legacy School for Integrated Studies,Age by Credit Recovery,15 yrs old,No Credit Recovery,s,s,s
+02M429,Legacy School for Integrated Studies,Age by Credit Recovery,16 yrs old,All,18,1.0000,18
+02M429,Legacy School for Integrated Studies,Age by Credit Recovery,16 yrs old,Credit Recovery,s,s,18
+02M429,Legacy School for Integrated Studies,Age by Credit Recovery,16 yrs old,No Credit Recovery,s,s,18
+02M429,Legacy School for Integrated Studies,Age by Credit Recovery,17 yrs old,All,32,1.0000,32
+02M429,Legacy School for Integrated Studies,Age by Credit Recovery,17 yrs old,Credit Recovery,s,s,32
+02M429,Legacy School for Integrated Studies,Age by Credit Recovery,17 yrs old,No Credit Recovery,s,s,32
+02M429,Legacy School for Integrated Studies,Age by Credit Recovery,18 yrs old,All,17,1.0000,17
+02M429,Legacy School for Integrated Studies,Age by Credit Recovery,18 yrs old,Credit Recovery,s,s,17
+02M429,Legacy School for Integrated Studies,Age by Credit Recovery,18 yrs old,No Credit Recovery,s,s,17
+02M429,Legacy School for Integrated Studies,Age by Credit Recovery,19 yrs old,All,11,1.0000,11
+02M429,Legacy School for Integrated Studies,Age by Credit Recovery,19 yrs old,Credit Recovery,s,s,11
+02M429,Legacy School for Integrated Studies,Age by Credit Recovery,19 yrs old,No Credit Recovery,s,s,11
+02M429,Legacy School for Integrated Studies,Age by Credit Recovery,20 yrs old,All,s,s,s
+02M429,Legacy School for Integrated Studies,Age by Credit Recovery,20 yrs old,Credit Recovery,s,s,s
+02M429,Legacy School for Integrated Studies,Age by Credit Recovery,20 yrs old,No Credit Recovery,s,s,s
+02M429,Legacy School for Integrated Studies,Age by Credit Recovery,21 yrs old or older,All,s,s,s
+02M429,Legacy School for Integrated Studies,Age by Credit Recovery,21 yrs old or older,Credit Recovery,s,s,s
+02M429,Legacy School for Integrated Studies,Age by Credit Recovery,21 yrs old or older,No Credit Recovery,s,s,s
+02M429,Legacy School for Integrated Studies,All Students by Credit Recovery,all,All,83,1.0000,83
+02M429,Legacy School for Integrated Studies,All Students by Credit Recovery,all,Credit Recovery,s,s,83
+02M429,Legacy School for Integrated Studies,All Students by Credit Recovery,all,No Credit Recovery,s,s,83
+02M429,Legacy School for Integrated Studies,Disability Status by Credit Recovery,Non-SWD,All,54,1.0000,54
+02M429,Legacy School for Integrated Studies,Disability Status by Credit Recovery,Non-SWD,Credit Recovery,s,s,54
+02M429,Legacy School for Integrated Studies,Disability Status by Credit Recovery,Non-SWD,No Credit Recovery,s,s,54
+02M429,Legacy School for Integrated Studies,Disability Status by Credit Recovery,SWD,All,29,1.0000,29
+02M429,Legacy School for Integrated Studies,Disability Status by Credit Recovery,SWD,Credit Recovery,s,s,29
+02M429,Legacy School for Integrated Studies,Disability Status by Credit Recovery,SWD,No Credit Recovery,s,s,29
+02M429,Legacy School for Integrated Studies,English Language Learner Status by Credit Recovery,Ell,All,s,s,s
+02M429,Legacy School for Integrated Studies,English Language Learner Status by Credit Recovery,Ell,Credit Recovery,s,s,s
+02M429,Legacy School for Integrated Studies,English Language Learner Status by Credit Recovery,Ell,No Credit Recovery,s,s,s
+07X203,M.S. 203,Age by Credit Recovery,16 yrs old,All,s,s,s
+02M429,Legacy School for Integrated Studies,English Language Learner Status by Credit Recovery,Non-Ell,All,80,1.0000,80
+02M429,Legacy School for Integrated Studies,English Language Learner Status by Credit Recovery,Non-Ell,Credit Recovery,s,s,80
+02M429,Legacy School for Integrated Studies,English Language Learner Status by Credit Recovery,Non-Ell,No Credit Recovery,s,s,80
+02M429,Legacy School for Integrated Studies,Ethnicity by Credit Recovery,Asian,All,s,s,s
+02M429,Legacy School for Integrated Studies,Ethnicity by Credit Recovery,Asian,Credit Recovery,s,s,s
+02M429,Legacy School for Integrated Studies,Ethnicity by Credit Recovery,Asian,No Credit Recovery,s,s,s
+02M429,Legacy School for Integrated Studies,Ethnicity by Credit Recovery,Black,All,37,1.0000,37
+02M429,Legacy School for Integrated Studies,Ethnicity by Credit Recovery,Black,Credit Recovery,s,s,37
+02M429,Legacy School for Integrated Studies,Ethnicity by Credit Recovery,Black,No Credit Recovery,s,s,37
+02M429,Legacy School for Integrated Studies,Ethnicity by Credit Recovery,Hispanic,All,44,1.0000,44
+02M429,Legacy School for Integrated Studies,Ethnicity by Credit Recovery,Hispanic,Credit Recovery,s,s,44
+02M429,Legacy School for Integrated Studies,Ethnicity by Credit Recovery,Hispanic,No Credit Recovery,s,s,44
+02M429,Legacy School for Integrated Studies,Ethnicity by Credit Recovery,Other,All,s,s,s
+02M429,Legacy School for Integrated Studies,Ethnicity by Credit Recovery,Other,Credit Recovery,s,s,s
+02M429,Legacy School for Integrated Studies,Ethnicity by Credit Recovery,Other,No Credit Recovery,s,s,s
+02M429,Legacy School for Integrated Studies,Ethnicity by Credit Recovery,White,All,s,s,s
+02M429,Legacy School for Integrated Studies,Ethnicity by Credit Recovery,White,Credit Recovery,s,s,s
+02M429,Legacy School for Integrated Studies,Ethnicity by Credit Recovery,White,No Credit Recovery,s,s,s
+02M429,Legacy School for Integrated Studies,Gender by Credit Recovery,Female,All,41,1.0000,41
+02M429,Legacy School for Integrated Studies,Gender by Credit Recovery,Female,Credit Recovery,s,s,41
+02M429,Legacy School for Integrated Studies,Gender by Credit Recovery,Female,No Credit Recovery,s,s,41
+02M429,Legacy School for Integrated Studies,Gender by Credit Recovery,Male,All,42,1.0000,42
+02M429,Legacy School for Integrated Studies,Gender by Credit Recovery,Male,Credit Recovery,s,s,42
+02M429,Legacy School for Integrated Studies,Gender by Credit Recovery,Male,No Credit Recovery,s,s,42
+02M429,Legacy School for Integrated Studies,Grade by Credit Recovery,Grade 10,All,14,1.0000,14
+02M429,Legacy School for Integrated Studies,Grade by Credit Recovery,Grade 10,Credit Recovery,s,s,14
+02M429,Legacy School for Integrated Studies,Grade by Credit Recovery,Grade 10,No Credit Recovery,s,s,14
+02M429,Legacy School for Integrated Studies,Grade by Credit Recovery,Grade 11,All,s,s,s
+02M429,Legacy School for Integrated Studies,Grade by Credit Recovery,Grade 11,Credit Recovery,s,s,s
+02M429,Legacy School for Integrated Studies,Grade by Credit Recovery,Grade 11,No Credit Recovery,s,s,s
+02M429,Legacy School for Integrated Studies,Grade by Credit Recovery,Grade 12,All,58,1.0000,58
+02M429,Legacy School for Integrated Studies,Grade by Credit Recovery,Grade 12,Credit Recovery,s,s,58
+02M429,Legacy School for Integrated Studies,Grade by Credit Recovery,Grade 12,No Credit Recovery,s,s,58
+02M429,Legacy School for Integrated Studies,Grade by Credit Recovery,Grade 9,All,s,s,s
+02M429,Legacy School for Integrated Studies,Grade by Credit Recovery,Grade 9,Credit Recovery,s,s,s
+02M429,Legacy School for Integrated Studies,Grade by Credit Recovery,Grade 9,No Credit Recovery,s,s,s
+02M460,Washington Irving High School,Age by Credit Recovery,13 yrs old,All,s,s,s
+02M460,Washington Irving High School,Age by Credit Recovery,13 yrs old,Credit Recovery,s,s,s
+02M460,Washington Irving High School,Age by Credit Recovery,13 yrs old,No Credit Recovery,s,s,s
+02M460,Washington Irving High School,Age by Credit Recovery,15 yrs old,All,s,s,s
+02M460,Washington Irving High School,Age by Credit Recovery,15 yrs old,Credit Recovery,s,s,s
+02M460,Washington Irving High School,Age by Credit Recovery,15 yrs old,No Credit Recovery,s,s,s
+02M460,Washington Irving High School,Age by Credit Recovery,16 yrs old,All,62,1.0000,62
+02M460,Washington Irving High School,Age by Credit Recovery,16 yrs old,Credit Recovery,s,s,62
+02M460,Washington Irving High School,Age by Credit Recovery,16 yrs old,No Credit Recovery,s,s,62
+02M460,Washington Irving High School,Age by Credit Recovery,17 yrs old,All,116,1.0000,116
+02M460,Washington Irving High School,Age by Credit Recovery,17 yrs old,Credit Recovery,s,s,116
+02M460,Washington Irving High School,Age by Credit Recovery,17 yrs old,No Credit Recovery,s,s,116
+02M460,Washington Irving High School,Age by Credit Recovery,18 yrs old,All,80,1.0000,80
+02M460,Washington Irving High School,Age by Credit Recovery,18 yrs old,Credit Recovery,s,s,80
+02M460,Washington Irving High School,Age by Credit Recovery,18 yrs old,No Credit Recovery,s,s,80
+02M460,Washington Irving High School,Age by Credit Recovery,19 yrs old,All,44,1.0000,44
+02M460,Washington Irving High School,Age by Credit Recovery,19 yrs old,Credit Recovery,s,s,44
+02M460,Washington Irving High School,Age by Credit Recovery,19 yrs old,No Credit Recovery,s,s,44
+02M460,Washington Irving High School,Age by Credit Recovery,20 yrs old,All,14,1.0000,14
+02M460,Washington Irving High School,Age by Credit Recovery,20 yrs old,Credit Recovery,s,s,14
+02M460,Washington Irving High School,Age by Credit Recovery,20 yrs old,No Credit Recovery,s,s,14
+02M460,Washington Irving High School,Age by Credit Recovery,21 yrs old or older,All,s,s,s
+02M460,Washington Irving High School,Age by Credit Recovery,21 yrs old or older,Credit Recovery,s,s,s
+02M460,Washington Irving High School,Age by Credit Recovery,21 yrs old or older,No Credit Recovery,s,s,s
+02M460,Washington Irving High School,All Students by Credit Recovery,all,All,320,1.0000,320
+02M460,Washington Irving High School,All Students by Credit Recovery,all,Credit Recovery,s,s,320
+02M460,Washington Irving High School,All Students by Credit Recovery,all,No Credit Recovery,s,s,320
+02M460,Washington Irving High School,Disability Status by Credit Recovery,Non-SWD,All,248,1.0000,248
+02M460,Washington Irving High School,Disability Status by Credit Recovery,Non-SWD,Credit Recovery,s,s,248
+02M460,Washington Irving High School,Disability Status by Credit Recovery,Non-SWD,No Credit Recovery,s,s,248
+02M460,Washington Irving High School,Disability Status by Credit Recovery,SWD,All,72,1.0000,72
+02M460,Washington Irving High School,Disability Status by Credit Recovery,SWD,Credit Recovery,s,s,72
+02M460,Washington Irving High School,Disability Status by Credit Recovery,SWD,No Credit Recovery,s,s,72
+02M460,Washington Irving High School,English Language Learner Status by Credit Recovery,Ell,All,56,1.0000,56
+02M460,Washington Irving High School,English Language Learner Status by Credit Recovery,Ell,Credit Recovery,s,s,56
+02M460,Washington Irving High School,English Language Learner Status by Credit Recovery,Ell,No Credit Recovery,s,s,56
+02M460,Washington Irving High School,English Language Learner Status by Credit Recovery,Non-Ell,All,264,1.0000,264
+02M460,Washington Irving High School,English Language Learner Status by Credit Recovery,Non-Ell,Credit Recovery,s,s,264
+02M460,Washington Irving High School,English Language Learner Status by Credit Recovery,Non-Ell,No Credit Recovery,s,s,264
+02M460,Washington Irving High School,Ethnicity by Credit Recovery,Asian,All,17,1.0000,17
+02M460,Washington Irving High School,Ethnicity by Credit Recovery,Asian,Credit Recovery,s,s,17
+02M460,Washington Irving High School,Ethnicity by Credit Recovery,Asian,No Credit Recovery,s,s,17
+02M460,Washington Irving High School,Ethnicity by Credit Recovery,Black,All,124,1.0000,124
+02M460,Washington Irving High School,Ethnicity by Credit Recovery,Black,Credit Recovery,s,s,124
+02M460,Washington Irving High School,Ethnicity by Credit Recovery,Black,No Credit Recovery,s,s,124
+02M460,Washington Irving High School,Ethnicity by Credit Recovery,Hispanic,All,170,1.0000,170
+02M460,Washington Irving High School,Ethnicity by Credit Recovery,Hispanic,Credit Recovery,s,s,170
+02M460,Washington Irving High School,Ethnicity by Credit Recovery,Hispanic,No Credit Recovery,s,s,170
+02M460,Washington Irving High School,Ethnicity by Credit Recovery,Other,All,s,s,s
+02M460,Washington Irving High School,Ethnicity by Credit Recovery,Other,Credit Recovery,s,s,s
+02M460,Washington Irving High School,Ethnicity by Credit Recovery,Other,No Credit Recovery,s,s,s
+02M460,Washington Irving High School,Ethnicity by Credit Recovery,White,All,s,s,s
+02M460,Washington Irving High School,Ethnicity by Credit Recovery,White,Credit Recovery,s,s,s
+02M460,Washington Irving High School,Ethnicity by Credit Recovery,White,No Credit Recovery,s,s,s
+02M460,Washington Irving High School,Gender by Credit Recovery,Female,All,159,1.0000,159
+02M460,Washington Irving High School,Gender by Credit Recovery,Female,Credit Recovery,s,s,159
+02M460,Washington Irving High School,Gender by Credit Recovery,Female,No Credit Recovery,s,s,159
+02M460,Washington Irving High School,Gender by Credit Recovery,Male,All,161,1.0000,161
+02M460,Washington Irving High School,Gender by Credit Recovery,Male,Credit Recovery,s,s,161
+02M460,Washington Irving High School,Gender by Credit Recovery,Male,No Credit Recovery,s,s,161
+02M460,Washington Irving High School,Grade by Credit Recovery,Grade 10,All,30,1.0000,30
+02M460,Washington Irving High School,Grade by Credit Recovery,Grade 10,Credit Recovery,s,s,30
+02M460,Washington Irving High School,Grade by Credit Recovery,Grade 10,No Credit Recovery,s,s,30
+02M460,Washington Irving High School,Grade by Credit Recovery,Grade 11,All,50,1.0000,50
+02M460,Washington Irving High School,Grade by Credit Recovery,Grade 11,Credit Recovery,s,s,50
+02M460,Washington Irving High School,Grade by Credit Recovery,Grade 11,No Credit Recovery,s,s,50
+02M460,Washington Irving High School,Grade by Credit Recovery,Grade 12,All,230,1.0000,230
+02M460,Washington Irving High School,Grade by Credit Recovery,Grade 12,Credit Recovery,s,s,230
+02M460,Washington Irving High School,Grade by Credit Recovery,Grade 12,No Credit Recovery,s,s,230
+02M460,Washington Irving High School,Grade by Credit Recovery,Grade 9,All,10,1.0000,10
+02M460,Washington Irving High School,Grade by Credit Recovery,Grade 9,Credit Recovery,s,s,10
+02M460,Washington Irving High School,Grade by Credit Recovery,Grade 9,No Credit Recovery,s,s,10
+03M283,Manhattan Theatre Lab High School,Age by Credit Recovery,13 yrs old,All,s,s,s
+03M283,Manhattan Theatre Lab High School,Age by Credit Recovery,13 yrs old,Credit Recovery,s,s,s
+03M283,Manhattan Theatre Lab High School,Age by Credit Recovery,13 yrs old,No Credit Recovery,s,s,s
+03M283,Manhattan Theatre Lab High School,Age by Credit Recovery,15 yrs old,All,s,s,s
+03M283,Manhattan Theatre Lab High School,Age by Credit Recovery,15 yrs old,Credit Recovery,s,s,s
+03M283,Manhattan Theatre Lab High School,Age by Credit Recovery,15 yrs old,No Credit Recovery,s,s,s
+03M283,Manhattan Theatre Lab High School,Age by Credit Recovery,16 yrs old,All,46,1.0000,46
+03M283,Manhattan Theatre Lab High School,Age by Credit Recovery,16 yrs old,Credit Recovery,s,s,46
+03M283,Manhattan Theatre Lab High School,Age by Credit Recovery,16 yrs old,No Credit Recovery,s,s,46
+03M283,Manhattan Theatre Lab High School,Age by Credit Recovery,17 yrs old,All,63,1.0000,63
+03M283,Manhattan Theatre Lab High School,Age by Credit Recovery,17 yrs old,Credit Recovery,s,s,63
+03M283,Manhattan Theatre Lab High School,Age by Credit Recovery,17 yrs old,No Credit Recovery,s,s,63
+03M283,Manhattan Theatre Lab High School,Age by Credit Recovery,18 yrs old,All,24,1.0000,24
+03M283,Manhattan Theatre Lab High School,Age by Credit Recovery,18 yrs old,Credit Recovery,s,s,24
+03M283,Manhattan Theatre Lab High School,Age by Credit Recovery,18 yrs old,No Credit Recovery,s,s,24
+03M283,Manhattan Theatre Lab High School,Age by Credit Recovery,19 yrs old,All,s,s,s
+03M283,Manhattan Theatre Lab High School,Age by Credit Recovery,19 yrs old,Credit Recovery,s,s,s
+03M283,Manhattan Theatre Lab High School,Age by Credit Recovery,19 yrs old,No Credit Recovery,s,s,s
+03M283,Manhattan Theatre Lab High School,Age by Credit Recovery,20 yrs old,All,s,s,s
+03M283,Manhattan Theatre Lab High School,Age by Credit Recovery,20 yrs old,Credit Recovery,s,s,s
+03M283,Manhattan Theatre Lab High School,Age by Credit Recovery,20 yrs old,No Credit Recovery,s,s,s
+03M283,Manhattan Theatre Lab High School,Age by Credit Recovery,21 yrs old or older,All,s,s,s
+03M283,Manhattan Theatre Lab High School,Age by Credit Recovery,21 yrs old or older,Credit Recovery,s,s,s
+03M283,Manhattan Theatre Lab High School,Age by Credit Recovery,21 yrs old or older,No Credit Recovery,s,s,s
+03M283,Manhattan Theatre Lab High School,All Students by Credit Recovery,all,All,143,1.0000,143
+03M283,Manhattan Theatre Lab High School,All Students by Credit Recovery,all,Credit Recovery,s,s,143
+03M283,Manhattan Theatre Lab High School,All Students by Credit Recovery,all,No Credit Recovery,s,s,143
+03M283,Manhattan Theatre Lab High School,Disability Status by Credit Recovery,Non-SWD,All,111,1.0000,111
+03M283,Manhattan Theatre Lab High School,Disability Status by Credit Recovery,Non-SWD,Credit Recovery,s,s,111
+03M283,Manhattan Theatre Lab High School,Disability Status by Credit Recovery,Non-SWD,No Credit Recovery,s,s,111
+03M283,Manhattan Theatre Lab High School,Disability Status by Credit Recovery,SWD,All,32,1.0000,32
+03M283,Manhattan Theatre Lab High School,Disability Status by Credit Recovery,SWD,Credit Recovery,s,s,32
+03M283,Manhattan Theatre Lab High School,Disability Status by Credit Recovery,SWD,No Credit Recovery,s,s,32
+03M283,Manhattan Theatre Lab High School,English Language Learner Status by Credit Recovery,Ell,All,17,1.0000,17
+03M283,Manhattan Theatre Lab High School,English Language Learner Status by Credit Recovery,Ell,Credit Recovery,s,s,17
+03M283,Manhattan Theatre Lab High School,English Language Learner Status by Credit Recovery,Ell,No Credit Recovery,s,s,17
+03M283,Manhattan Theatre Lab High School,English Language Learner Status by Credit Recovery,Non-Ell,All,126,1.0000,126
+03M283,Manhattan Theatre Lab High School,English Language Learner Status by Credit Recovery,Non-Ell,Credit Recovery,s,s,126
+03M283,Manhattan Theatre Lab High School,English Language Learner Status by Credit Recovery,Non-Ell,No Credit Recovery,s,s,126
+03M283,Manhattan Theatre Lab High School,Ethnicity by Credit Recovery,Asian,All,s,s,s
+07X203,M.S. 203,Age by Credit Recovery,16 yrs old,Credit Recovery,s,s,s
+03M283,Manhattan Theatre Lab High School,Ethnicity by Credit Recovery,Asian,Credit Recovery,s,s,s
+03M283,Manhattan Theatre Lab High School,Ethnicity by Credit Recovery,Asian,No Credit Recovery,s,s,s
+03M283,Manhattan Theatre Lab High School,Ethnicity by Credit Recovery,Black,All,62,1.0000,62
+03M283,Manhattan Theatre Lab High School,Ethnicity by Credit Recovery,Black,Credit Recovery,s,s,62
+03M283,Manhattan Theatre Lab High School,Ethnicity by Credit Recovery,Black,No Credit Recovery,s,s,62
+03M283,Manhattan Theatre Lab High School,Ethnicity by Credit Recovery,Hispanic,All,76,1.0000,76
+03M283,Manhattan Theatre Lab High School,Ethnicity by Credit Recovery,Hispanic,Credit Recovery,s,s,76
+03M283,Manhattan Theatre Lab High School,Ethnicity by Credit Recovery,Hispanic,No Credit Recovery,s,s,76
+03M283,Manhattan Theatre Lab High School,Ethnicity by Credit Recovery,Other,All,s,s,s
+03M283,Manhattan Theatre Lab High School,Ethnicity by Credit Recovery,Other,Credit Recovery,s,s,s
+03M283,Manhattan Theatre Lab High School,Ethnicity by Credit Recovery,Other,No Credit Recovery,s,s,s
+03M283,Manhattan Theatre Lab High School,Ethnicity by Credit Recovery,White,All,s,s,s
+03M283,Manhattan Theatre Lab High School,Ethnicity by Credit Recovery,White,Credit Recovery,s,s,s
+03M283,Manhattan Theatre Lab High School,Ethnicity by Credit Recovery,White,No Credit Recovery,s,s,s
+03M283,Manhattan Theatre Lab High School,Gender by Credit Recovery,Female,All,86,1.0000,86
+03M283,Manhattan Theatre Lab High School,Gender by Credit Recovery,Female,Credit Recovery,s,s,86
+03M283,Manhattan Theatre Lab High School,Gender by Credit Recovery,Female,No Credit Recovery,s,s,86
+03M283,Manhattan Theatre Lab High School,Gender by Credit Recovery,Male,All,57,1.0000,57
+03M283,Manhattan Theatre Lab High School,Gender by Credit Recovery,Male,Credit Recovery,s,s,57
+03M283,Manhattan Theatre Lab High School,Gender by Credit Recovery,Male,No Credit Recovery,s,s,57
+03M283,Manhattan Theatre Lab High School,Grade by Credit Recovery,Grade 10,All,20,1.0000,20
+03M283,Manhattan Theatre Lab High School,Grade by Credit Recovery,Grade 10,Credit Recovery,s,s,20
+03M283,Manhattan Theatre Lab High School,Grade by Credit Recovery,Grade 10,No Credit Recovery,s,s,20
+03M283,Manhattan Theatre Lab High School,Grade by Credit Recovery,Grade 11,All,16,1.0000,16
+03M283,Manhattan Theatre Lab High School,Grade by Credit Recovery,Grade 11,Credit Recovery,s,s,16
+03M283,Manhattan Theatre Lab High School,Grade by Credit Recovery,Grade 11,No Credit Recovery,s,s,16
+03M283,Manhattan Theatre Lab High School,Grade by Credit Recovery,Grade 12,All,105,1.0000,105
+03M283,Manhattan Theatre Lab High School,Grade by Credit Recovery,Grade 12,Credit Recovery,s,s,105
+03M283,Manhattan Theatre Lab High School,Grade by Credit Recovery,Grade 12,No Credit Recovery,s,s,105
+03M283,Manhattan Theatre Lab High School,Grade by Credit Recovery,Grade 9,All,s,s,s
+03M283,Manhattan Theatre Lab High School,Grade by Credit Recovery,Grade 9,Credit Recovery,s,s,s
+03M283,Manhattan Theatre Lab High School,Grade by Credit Recovery,Grade 9,No Credit Recovery,s,s,s
+07X203,M.S. 203,Age by Credit Recovery,13 yrs old,All,s,s,s
+07X203,M.S. 203,Age by Credit Recovery,13 yrs old,Credit Recovery,s,s,s
+07X203,M.S. 203,Age by Credit Recovery,13 yrs old,No Credit Recovery,s,s,s
+07X203,M.S. 203,Age by Credit Recovery,15 yrs old,All,s,s,s
+07X203,M.S. 203,Age by Credit Recovery,15 yrs old,Credit Recovery,s,s,s
+07X203,M.S. 203,Age by Credit Recovery,15 yrs old,No Credit Recovery,s,s,s
+07X203,M.S. 203,Age by Credit Recovery,16 yrs old,No Credit Recovery,s,s,s
+07X203,M.S. 203,Age by Credit Recovery,17 yrs old,All,s,s,s
+07X203,M.S. 203,Age by Credit Recovery,17 yrs old,Credit Recovery,s,s,s
+07X203,M.S. 203,Age by Credit Recovery,17 yrs old,No Credit Recovery,s,s,s
+07X203,M.S. 203,Age by Credit Recovery,18 yrs old,All,s,s,s
+07X203,M.S. 203,Age by Credit Recovery,18 yrs old,Credit Recovery,s,s,s
+07X203,M.S. 203,Age by Credit Recovery,18 yrs old,No Credit Recovery,s,s,s
+07X203,M.S. 203,Age by Credit Recovery,19 yrs old,All,s,s,s
+07X203,M.S. 203,Age by Credit Recovery,19 yrs old,Credit Recovery,s,s,s
+07X203,M.S. 203,Age by Credit Recovery,19 yrs old,No Credit Recovery,s,s,s
+07X203,M.S. 203,Age by Credit Recovery,20 yrs old,All,s,s,s
+07X203,M.S. 203,Age by Credit Recovery,20 yrs old,Credit Recovery,s,s,s
+07X203,M.S. 203,Age by Credit Recovery,20 yrs old,No Credit Recovery,s,s,s
+07X203,M.S. 203,Age by Credit Recovery,21 yrs old or older,All,s,s,s
+07X203,M.S. 203,Age by Credit Recovery,21 yrs old or older,Credit Recovery,s,s,s
+07X203,M.S. 203,Age by Credit Recovery,21 yrs old or older,No Credit Recovery,s,s,s
+07X203,M.S. 203,All Students by Credit Recovery,all,All,s,s,s
+07X203,M.S. 203,All Students by Credit Recovery,all,Credit Recovery,s,s,s
+07X203,M.S. 203,All Students by Credit Recovery,all,No Credit Recovery,s,s,s
+07X203,M.S. 203,Disability Status by Credit Recovery,Non-SWD,All,s,s,s
+07X203,M.S. 203,Disability Status by Credit Recovery,Non-SWD,Credit Recovery,s,s,s
+07X203,M.S. 203,Disability Status by Credit Recovery,Non-SWD,No Credit Recovery,s,s,s
+07X203,M.S. 203,Disability Status by Credit Recovery,SWD,All,s,s,s
+07X203,M.S. 203,Disability Status by Credit Recovery,SWD,Credit Recovery,s,s,s
+07X203,M.S. 203,Disability Status by Credit Recovery,SWD,No Credit Recovery,s,s,s
+07X203,M.S. 203,English Language Learner Status by Credit Recovery,Ell,All,s,s,s
+07X203,M.S. 203,English Language Learner Status by Credit Recovery,Ell,Credit Recovery,s,s,s
+07X203,M.S. 203,English Language Learner Status by Credit Recovery,Ell,No Credit Recovery,s,s,s
+07X203,M.S. 203,English Language Learner Status by Credit Recovery,Non-Ell,All,s,s,s
+07X203,M.S. 203,English Language Learner Status by Credit Recovery,Non-Ell,Credit Recovery,s,s,s
+07X203,M.S. 203,English Language Learner Status by Credit Recovery,Non-Ell,No Credit Recovery,s,s,s
+07X203,M.S. 203,Ethnicity by Credit Recovery,Asian,All,s,s,s
+07X203,M.S. 203,Ethnicity by Credit Recovery,Asian,Credit Recovery,s,s,s
+07X203,M.S. 203,Ethnicity by Credit Recovery,Asian,No Credit Recovery,s,s,s
+07X203,M.S. 203,Ethnicity by Credit Recovery,Black,All,s,s,s
+07X203,M.S. 203,Ethnicity by Credit Recovery,Black,Credit Recovery,s,s,s
+07X203,M.S. 203,Ethnicity by Credit Recovery,Black,No Credit Recovery,s,s,s
+07X203,M.S. 203,Ethnicity by Credit Recovery,Hispanic,All,s,s,s
+07X203,M.S. 203,Ethnicity by Credit Recovery,Hispanic,Credit Recovery,s,s,s
+07X203,M.S. 203,Ethnicity by Credit Recovery,Hispanic,No Credit Recovery,s,s,s
+07X203,M.S. 203,Ethnicity by Credit Recovery,Other,All,s,s,s
+07X203,M.S. 203,Ethnicity by Credit Recovery,Other,Credit Recovery,s,s,s
+07X203,M.S. 203,Ethnicity by Credit Recovery,Other,No Credit Recovery,s,s,s
+07X203,M.S. 203,Ethnicity by Credit Recovery,White,All,s,s,s
+07X203,M.S. 203,Ethnicity by Credit Recovery,White,Credit Recovery,s,s,s
+07X203,M.S. 203,Ethnicity by Credit Recovery,White,No Credit Recovery,s,s,s
+07X203,M.S. 203,Gender by Credit Recovery,Female,All,s,s,s
+07X203,M.S. 203,Gender by Credit Recovery,Female,Credit Recovery,s,s,s
+07X203,M.S. 203,Gender by Credit Recovery,Female,No Credit Recovery,s,s,s
+07X203,M.S. 203,Gender by Credit Recovery,Male,All,s,s,s
+07X203,M.S. 203,Gender by Credit Recovery,Male,Credit Recovery,s,s,s
+07X203,M.S. 203,Gender by Credit Recovery,Male,No Credit Recovery,s,s,s
+07X203,M.S. 203,Grade by Credit Recovery,Grade 10,All,s,s,s
+07X203,M.S. 203,Grade by Credit Recovery,Grade 10,Credit Recovery,s,s,s
+07X203,M.S. 203,Grade by Credit Recovery,Grade 10,No Credit Recovery,s,s,s
+07X203,M.S. 203,Grade by Credit Recovery,Grade 11,All,s,s,s
+07X203,M.S. 203,Grade by Credit Recovery,Grade 11,Credit Recovery,s,s,s
+07X203,M.S. 203,Grade by Credit Recovery,Grade 11,No Credit Recovery,s,s,s
+07X203,M.S. 203,Grade by Credit Recovery,Grade 12,All,s,s,s
+07X203,M.S. 203,Grade by Credit Recovery,Grade 12,Credit Recovery,s,s,s
+07X203,M.S. 203,Grade by Credit Recovery,Grade 12,No Credit Recovery,s,s,s
+07X203,M.S. 203,Grade by Credit Recovery,Grade 9,All,s,s,s
+07X203,M.S. 203,Grade by Credit Recovery,Grade 9,Credit Recovery,s,s,s
+07X203,M.S. 203,Grade by Credit Recovery,Grade 9,No Credit Recovery,s,s,s
+07X655,Samuel Gompers Career and Technical Education High School,Age by Credit Recovery,13 yrs old,All,s,s,s
+07X655,Samuel Gompers Career and Technical Education High School,Age by Credit Recovery,13 yrs old,Credit Recovery,s,s,s
+07X655,Samuel Gompers Career and Technical Education High School,Age by Credit Recovery,13 yrs old,No Credit Recovery,s,s,s
+07X655,Samuel Gompers Career and Technical Education High School,Age by Credit Recovery,15 yrs old,All,s,s,s
+07X655,Samuel Gompers Career and Technical Education High School,Age by Credit Recovery,15 yrs old,Credit Recovery,s,s,s
+07X655,Samuel Gompers Career and Technical Education High School,Age by Credit Recovery,15 yrs old,No Credit Recovery,s,s,s
+07X655,Samuel Gompers Career and Technical Education High School,Age by Credit Recovery,16 yrs old,All,39,1.0000,39
+07X655,Samuel Gompers Career and Technical Education High School,Age by Credit Recovery,16 yrs old,Credit Recovery,s,s,39
+07X655,Samuel Gompers Career and Technical Education High School,Age by Credit Recovery,16 yrs old,No Credit Recovery,s,s,39
+07X655,Samuel Gompers Career and Technical Education High School,Age by Credit Recovery,17 yrs old,All,93,1.0000,93
+07X655,Samuel Gompers Career and Technical Education High School,Age by Credit Recovery,17 yrs old,Credit Recovery,s,s,93
+07X655,Samuel Gompers Career and Technical Education High School,Age by Credit Recovery,17 yrs old,No Credit Recovery,s,s,93
+07X655,Samuel Gompers Career and Technical Education High School,Age by Credit Recovery,18 yrs old,All,87,1.0000,87
+07X655,Samuel Gompers Career and Technical Education High School,Age by Credit Recovery,18 yrs old,Credit Recovery,s,s,87
+07X655,Samuel Gompers Career and Technical Education High School,Age by Credit Recovery,18 yrs old,No Credit Recovery,s,s,87
+07X655,Samuel Gompers Career and Technical Education High School,Age by Credit Recovery,19 yrs old,All,30,1.0000,30
+Agency Name,NYC Department of Education,,,,,,
+07X655,Samuel Gompers Career and Technical Education High School,Age by Credit Recovery,19 yrs old,Credit Recovery,s,s,30
+07X655,Samuel Gompers Career and Technical Education High School,Age by Credit Recovery,19 yrs old,No Credit Recovery,s,s,30
+07X655,Samuel Gompers Career and Technical Education High School,Age by Credit Recovery,20 yrs old,All,13,1.0000,13
+07X655,Samuel Gompers Career and Technical Education High School,Age by Credit Recovery,20 yrs old,Credit Recovery,s,s,13
+07X655,Samuel Gompers Career and Technical Education High School,Age by Credit Recovery,20 yrs old,No Credit Recovery,s,s,13
+07X655,Samuel Gompers Career and Technical Education High School,Age by Credit Recovery,21 yrs old or older,All,s,s,s
+07X655,Samuel Gompers Career and Technical Education High School,Age by Credit Recovery,21 yrs old or older,Credit Recovery,s,s,s
+07X655,Samuel Gompers Career and Technical Education High School,Age by Credit Recovery,21 yrs old or older,No Credit Recovery,s,s,s
+07X655,Samuel Gompers Career and Technical Education High School,All Students by Credit Recovery,all,All,265,1.0000,265
+07X655,Samuel Gompers Career and Technical Education High School,All Students by Credit Recovery,all,Credit Recovery,s,s,265
+07X655,Samuel Gompers Career and Technical Education High School,All Students by Credit Recovery,all,No Credit Recovery,s,s,265
+07X655,Samuel Gompers Career and Technical Education High School,Disability Status by Credit Recovery,Non-SWD,All,202,1.0000,202
+07X655,Samuel Gompers Career and Technical Education High School,Disability Status by Credit Recovery,Non-SWD,Credit Recovery,s,s,202
+07X655,Samuel Gompers Career and Technical Education High School,Disability Status by Credit Recovery,Non-SWD,No Credit Recovery,s,s,202
+07X655,Samuel Gompers Career and Technical Education High School,Disability Status by Credit Recovery,SWD,All,63,1.0000,63
+07X655,Samuel Gompers Career and Technical Education High School,Disability Status by Credit Recovery,SWD,Credit Recovery,s,s,63
+07X655,Samuel Gompers Career and Technical Education High School,Disability Status by Credit Recovery,SWD,No Credit Recovery,s,s,63
+07X655,Samuel Gompers Career and Technical Education High School,English Language Learner Status by Credit Recovery,Ell,All,33,1.0000,33
+07X655,Samuel Gompers Career and Technical Education High School,English Language Learner Status by Credit Recovery,Ell,Credit Recovery,s,s,33
+07X655,Samuel Gompers Career and Technical Education High School,English Language Learner Status by Credit Recovery,Ell,No Credit Recovery,s,s,33
+07X655,Samuel Gompers Career and Technical Education High School,English Language Learner Status by Credit Recovery,Non-Ell,All,232,1.0000,232
+07X655,Samuel Gompers Career and Technical Education High School,English Language Learner Status by Credit Recovery,Non-Ell,Credit Recovery,s,s,232
+07X655,Samuel Gompers Career and Technical Education High School,English Language Learner Status by Credit Recovery,Non-Ell,No Credit Recovery,s,s,232
+07X655,Samuel Gompers Career and Technical Education High School,Ethnicity by Credit Recovery,Asian,All,s,s,s
+07X655,Samuel Gompers Career and Technical Education High School,Ethnicity by Credit Recovery,Asian,Credit Recovery,s,s,s
+07X655,Samuel Gompers Career and Technical Education High School,Ethnicity by Credit Recovery,Asian,No Credit Recovery,s,s,s
+07X655,Samuel Gompers Career and Technical Education High School,Ethnicity by Credit Recovery,Black,All,80,1.0000,80
+07X655,Samuel Gompers Career and Technical Education High School,Ethnicity by Credit Recovery,Black,Credit Recovery,s,s,80
+07X655,Samuel Gompers Career and Technical Education High School,Ethnicity by Credit Recovery,Black,No Credit Recovery,s,s,80
+07X655,Samuel Gompers Career and Technical Education High School,Ethnicity by Credit Recovery,Hispanic,All,178,1.0000,178
+07X655,Samuel Gompers Career and Technical Education High School,Ethnicity by Credit Recovery,Hispanic,Credit Recovery,s,s,178
+07X655,Samuel Gompers Career and Technical Education High School,Ethnicity by Credit Recovery,Hispanic,No Credit Recovery,s,s,178
+07X655,Samuel Gompers Career and Technical Education High School,Ethnicity by Credit Recovery,Other,All,s,s,s
+07X655,Samuel Gompers Career and Technical Education High School,Ethnicity by Credit Recovery,Other,Credit Recovery,s,s,s
+07X655,Samuel Gompers Career and Technical Education High School,Ethnicity by Credit Recovery,Other,No Credit Recovery,s,s,s
+07X655,Samuel Gompers Career and Technical Education High School,Ethnicity by Credit Recovery,White,All,s,s,s
+07X655,Samuel Gompers Career and Technical Education High School,Ethnicity by Credit Recovery,White,Credit Recovery,s,s,s
+07X655,Samuel Gompers Career and Technical Education High School,Ethnicity by Credit Recovery,White,No Credit Recovery,s,s,s
+07X655,Samuel Gompers Career and Technical Education High School,Gender by Credit Recovery,Female,All,56,1.0000,56
+07X655,Samuel Gompers Career and Technical Education High School,Gender by Credit Recovery,Female,Credit Recovery,s,s,56
+07X655,Samuel Gompers Career and Technical Education High School,Gender by Credit Recovery,Female,No Credit Recovery,s,s,56
+07X655,Samuel Gompers Career and Technical Education High School,Gender by Credit Recovery,Male,All,209,1.0000,209
+07X655,Samuel Gompers Career and Technical Education High School,Gender by Credit Recovery,Male,Credit Recovery,s,s,209
+07X655,Samuel Gompers Career and Technical Education High School,Gender by Credit Recovery,Male,No Credit Recovery,s,s,209
+07X655,Samuel Gompers Career and Technical Education High School,Grade by Credit Recovery,Grade 10,All,18,1.0000,18
+08X650,Jane Addams High School for Academic Careers,Ethnicity by Credit Recovery,White,All,s,s,s
+07X655,Samuel Gompers Career and Technical Education High School,Grade by Credit Recovery,Grade 10,Credit Recovery,s,s,18
+07X655,Samuel Gompers Career and Technical Education High School,Grade by Credit Recovery,Grade 10,No Credit Recovery,s,s,18
+07X655,Samuel Gompers Career and Technical Education High School,Grade by Credit Recovery,Grade 11,All,22,1.0000,22
+07X655,Samuel Gompers Career and Technical Education High School,Grade by Credit Recovery,Grade 11,Credit Recovery,s,s,22
+07X655,Samuel Gompers Career and Technical Education High School,Grade by Credit Recovery,Grade 11,No Credit Recovery,s,s,22
+07X655,Samuel Gompers Career and Technical Education High School,Grade by Credit Recovery,Grade 12,All,197,1.0000,197
+07X655,Samuel Gompers Career and Technical Education High School,Grade by Credit Recovery,Grade 12,Credit Recovery,s,s,197
+07X655,Samuel Gompers Career and Technical Education High School,Grade by Credit Recovery,Grade 12,No Credit Recovery,s,s,197
+07X655,Samuel Gompers Career and Technical Education High School,Grade by Credit Recovery,Grade 9,All,28,1.0000,28
+07X655,Samuel Gompers Career and Technical Education High School,Grade by Credit Recovery,Grade 9,Credit Recovery,s,s,28
+07X655,Samuel Gompers Career and Technical Education High School,Grade by Credit Recovery,Grade 9,No Credit Recovery,s,s,28
+08X295,Gateway School for Environmental Research and Technology,Age by Credit Recovery,13 yrs old,All,s,s,s
+08X295,Gateway School for Environmental Research and Technology,Age by Credit Recovery,13 yrs old,Credit Recovery,s,s,s
+08X295,Gateway School for Environmental Research and Technology,Age by Credit Recovery,13 yrs old,No Credit Recovery,s,s,s
+08X295,Gateway School for Environmental Research and Technology,Age by Credit Recovery,15 yrs old,All,s,s,s
+08X295,Gateway School for Environmental Research and Technology,Age by Credit Recovery,15 yrs old,Credit Recovery,s,s,s
+08X295,Gateway School for Environmental Research and Technology,Age by Credit Recovery,15 yrs old,No Credit Recovery,s,s,s
+08X295,Gateway School for Environmental Research and Technology,Age by Credit Recovery,16 yrs old,All,33,1.0000,33
+08X295,Gateway School for Environmental Research and Technology,Age by Credit Recovery,16 yrs old,Credit Recovery,s,s,33
+08X295,Gateway School for Environmental Research and Technology,Age by Credit Recovery,16 yrs old,No Credit Recovery,s,s,33
+08X295,Gateway School for Environmental Research and Technology,Age by Credit Recovery,17 yrs old,All,70,1.0000,70
+08X295,Gateway School for Environmental Research and Technology,Age by Credit Recovery,17 yrs old,Credit Recovery,s,s,70
+08X295,Gateway School for Environmental Research and Technology,Age by Credit Recovery,17 yrs old,No Credit Recovery,s,s,70
+08X295,Gateway School for Environmental Research and Technology,Age by Credit Recovery,18 yrs old,All,51,1.0000,51
+08X295,Gateway School for Environmental Research and Technology,Age by Credit Recovery,18 yrs old,Credit Recovery,s,s,51
+08X295,Gateway School for Environmental Research and Technology,Age by Credit Recovery,18 yrs old,No Credit Recovery,s,s,51
+08X295,Gateway School for Environmental Research and Technology,Age by Credit Recovery,19 yrs old,All,25,1.0000,25
+08X295,Gateway School for Environmental Research and Technology,Age by Credit Recovery,19 yrs old,Credit Recovery,s,s,25
+08X295,Gateway School for Environmental Research and Technology,Age by Credit Recovery,19 yrs old,No Credit Recovery,s,s,25
+08X295,Gateway School for Environmental Research and Technology,Age by Credit Recovery,20 yrs old,All,s,s,s
+08X295,Gateway School for Environmental Research and Technology,Age by Credit Recovery,20 yrs old,Credit Recovery,s,s,s
+08X295,Gateway School for Environmental Research and Technology,Age by Credit Recovery,20 yrs old,No Credit Recovery,s,s,s
+08X295,Gateway School for Environmental Research and Technology,Age by Credit Recovery,21 yrs old or older,All,s,s,s
+08X295,Gateway School for Environmental Research and Technology,Age by Credit Recovery,21 yrs old or older,Credit Recovery,s,s,s
+08X295,Gateway School for Environmental Research and Technology,Age by Credit Recovery,21 yrs old or older,No Credit Recovery,s,s,s
+08X295,Gateway School for Environmental Research and Technology,All Students by Credit Recovery,all,All,186,1.0000,186
+08X295,Gateway School for Environmental Research and Technology,All Students by Credit Recovery,all,Credit Recovery,s,s,186
+08X295,Gateway School for Environmental Research and Technology,All Students by Credit Recovery,all,No Credit Recovery,s,s,186
+08X295,Gateway School for Environmental Research and Technology,Disability Status by Credit Recovery,Non-SWD,All,127,1.0000,127
+08X295,Gateway School for Environmental Research and Technology,Disability Status by Credit Recovery,Non-SWD,Credit Recovery,s,s,127
+08X295,Gateway School for Environmental Research and Technology,Disability Status by Credit Recovery,Non-SWD,No Credit Recovery,s,s,127
+08X295,Gateway School for Environmental Research and Technology,Disability Status by Credit Recovery,SWD,All,59,1.0000,59
+08X295,Gateway School for Environmental Research and Technology,Disability Status by Credit Recovery,SWD,Credit Recovery,s,s,59
+08X295,Gateway School for Environmental Research and Technology,Disability Status by Credit Recovery,SWD,No Credit Recovery,s,s,59
+08X295,Gateway School for Environmental Research and Technology,English Language Learner Status by Credit Recovery,Ell,All,24,1.0000,24
+08X295,Gateway School for Environmental Research and Technology,English Language Learner Status by Credit Recovery,Ell,Credit Recovery,s,s,24
+08X295,Gateway School for Environmental Research and Technology,English Language Learner Status by Credit Recovery,Ell,No Credit Recovery,s,s,24
+08X295,Gateway School for Environmental Research and Technology,English Language Learner Status by Credit Recovery,Non-Ell,All,162,1.0000,162
+08X295,Gateway School for Environmental Research and Technology,English Language Learner Status by Credit Recovery,Non-Ell,Credit Recovery,s,s,162
+08X295,Gateway School for Environmental Research and Technology,English Language Learner Status by Credit Recovery,Non-Ell,No Credit Recovery,s,s,162
+08X295,Gateway School for Environmental Research and Technology,Ethnicity by Credit Recovery,Asian,All,11,1.0000,11
+08X295,Gateway School for Environmental Research and Technology,Ethnicity by Credit Recovery,Asian,Credit Recovery,s,s,11
+08X295,Gateway School for Environmental Research and Technology,Ethnicity by Credit Recovery,Asian,No Credit Recovery,s,s,11
+08X295,Gateway School for Environmental Research and Technology,Ethnicity by Credit Recovery,Black,All,59,1.0000,59
+08X295,Gateway School for Environmental Research and Technology,Ethnicity by Credit Recovery,Black,Credit Recovery,s,s,59
+08X295,Gateway School for Environmental Research and Technology,Ethnicity by Credit Recovery,Black,No Credit Recovery,s,s,59
+08X295,Gateway School for Environmental Research and Technology,Ethnicity by Credit Recovery,Hispanic,All,112,1.0000,112
+08X295,Gateway School for Environmental Research and Technology,Ethnicity by Credit Recovery,Hispanic,Credit Recovery,s,s,112
+08X295,Gateway School for Environmental Research and Technology,Ethnicity by Credit Recovery,Hispanic,No Credit Recovery,s,s,112
+08X295,Gateway School for Environmental Research and Technology,Ethnicity by Credit Recovery,Other,All,s,s,s
+08X295,Gateway School for Environmental Research and Technology,Ethnicity by Credit Recovery,Other,Credit Recovery,s,s,s
+08X295,Gateway School for Environmental Research and Technology,Ethnicity by Credit Recovery,Other,No Credit Recovery,s,s,s
+08X295,Gateway School for Environmental Research and Technology,Ethnicity by Credit Recovery,White,All,s,s,s
+08X295,Gateway School for Environmental Research and Technology,Ethnicity by Credit Recovery,White,Credit Recovery,s,s,s
+08X295,Gateway School for Environmental Research and Technology,Ethnicity by Credit Recovery,White,No Credit Recovery,s,s,s
+08X295,Gateway School for Environmental Research and Technology,Gender by Credit Recovery,Female,All,73,1.0000,73
+08X295,Gateway School for Environmental Research and Technology,Gender by Credit Recovery,Female,Credit Recovery,s,s,73
+08X295,Gateway School for Environmental Research and Technology,Gender by Credit Recovery,Female,No Credit Recovery,s,s,73
+08X295,Gateway School for Environmental Research and Technology,Gender by Credit Recovery,Male,All,113,1.0000,113
+08X295,Gateway School for Environmental Research and Technology,Gender by Credit Recovery,Male,Credit Recovery,s,s,113
+08X295,Gateway School for Environmental Research and Technology,Gender by Credit Recovery,Male,No Credit Recovery,s,s,113
+08X295,Gateway School for Environmental Research and Technology,Grade by Credit Recovery,Grade 10,All,17,1.0000,17
+08X295,Gateway School for Environmental Research and Technology,Grade by Credit Recovery,Grade 10,Credit Recovery,s,s,17
+08X295,Gateway School for Environmental Research and Technology,Grade by Credit Recovery,Grade 10,No Credit Recovery,s,s,17
+08X295,Gateway School for Environmental Research and Technology,Grade by Credit Recovery,Grade 11,All,16,1.0000,16
+08X295,Gateway School for Environmental Research and Technology,Grade by Credit Recovery,Grade 11,Credit Recovery,s,s,16
+08X295,Gateway School for Environmental Research and Technology,Grade by Credit Recovery,Grade 11,No Credit Recovery,s,s,16
+08X295,Gateway School for Environmental Research and Technology,Grade by Credit Recovery,Grade 12,All,137,1.0000,137
+08X295,Gateway School for Environmental Research and Technology,Grade by Credit Recovery,Grade 12,Credit Recovery,s,s,137
+08X295,Gateway School for Environmental Research and Technology,Grade by Credit Recovery,Grade 12,No Credit Recovery,s,s,137
+08X295,Gateway School for Environmental Research and Technology,Grade by Credit Recovery,Grade 9,All,16,1.0000,16
+08X295,Gateway School for Environmental Research and Technology,Grade by Credit Recovery,Grade 9,Credit Recovery,s,s,16
+08X295,Gateway School for Environmental Research and Technology,Grade by Credit Recovery,Grade 9,No Credit Recovery,s,s,16
+08X650,Jane Addams High School for Academic Careers,Age by Credit Recovery,13 yrs old,All,s,s,s
+08X650,Jane Addams High School for Academic Careers,Age by Credit Recovery,13 yrs old,Credit Recovery,s,s,s
+08X650,Jane Addams High School for Academic Careers,Age by Credit Recovery,13 yrs old,No Credit Recovery,s,s,s
+08X650,Jane Addams High School for Academic Careers,Age by Credit Recovery,15 yrs old,All,s,s,s
+08X650,Jane Addams High School for Academic Careers,Age by Credit Recovery,15 yrs old,Credit Recovery,s,s,s
+08X650,Jane Addams High School for Academic Careers,Age by Credit Recovery,15 yrs old,No Credit Recovery,s,s,s
+08X650,Jane Addams High School for Academic Careers,Age by Credit Recovery,16 yrs old,All,56,1.0000,56
+08X650,Jane Addams High School for Academic Careers,Age by Credit Recovery,16 yrs old,Credit Recovery,s,s,56
+08X650,Jane Addams High School for Academic Careers,Age by Credit Recovery,16 yrs old,No Credit Recovery,s,s,56
+08X650,Jane Addams High School for Academic Careers,Age by Credit Recovery,17 yrs old,All,115,1.0000,115
+08X650,Jane Addams High School for Academic Careers,Age by Credit Recovery,17 yrs old,Credit Recovery,s,s,115
+08X650,Jane Addams High School for Academic Careers,Age by Credit Recovery,17 yrs old,No Credit Recovery,s,s,115
+08X650,Jane Addams High School for Academic Careers,Age by Credit Recovery,18 yrs old,All,82,1.0000,82
+08X650,Jane Addams High School for Academic Careers,Age by Credit Recovery,18 yrs old,Credit Recovery,s,s,82
+08X650,Jane Addams High School for Academic Careers,Age by Credit Recovery,18 yrs old,No Credit Recovery,s,s,82
+08X650,Jane Addams High School for Academic Careers,Age by Credit Recovery,19 yrs old,All,43,1.0000,43
+08X650,Jane Addams High School for Academic Careers,Age by Credit Recovery,19 yrs old,Credit Recovery,s,s,43
+08X650,Jane Addams High School for Academic Careers,Age by Credit Recovery,19 yrs old,No Credit Recovery,s,s,43
+08X650,Jane Addams High School for Academic Careers,Age by Credit Recovery,20 yrs old,All,13,1.0000,13
+08X650,Jane Addams High School for Academic Careers,Age by Credit Recovery,20 yrs old,Credit Recovery,s,s,13
+08X650,Jane Addams High School for Academic Careers,Age by Credit Recovery,20 yrs old,No Credit Recovery,s,s,13
+08X650,Jane Addams High School for Academic Careers,Age by Credit Recovery,21 yrs old or older,All,s,s,s
+08X650,Jane Addams High School for Academic Careers,Age by Credit Recovery,21 yrs old or older,Credit Recovery,s,s,s
+08X650,Jane Addams High School for Academic Careers,Age by Credit Recovery,21 yrs old or older,No Credit Recovery,s,s,s
+08X650,Jane Addams High School for Academic Careers,All Students by Credit Recovery,all,All,311,1.0000,311
+08X650,Jane Addams High School for Academic Careers,All Students by Credit Recovery,all,Credit Recovery,s,s,311
+08X650,Jane Addams High School for Academic Careers,All Students by Credit Recovery,all,No Credit Recovery,s,s,311
+08X650,Jane Addams High School for Academic Careers,Disability Status by Credit Recovery,Non-SWD,All,242,1.0000,242
+08X650,Jane Addams High School for Academic Careers,Disability Status by Credit Recovery,Non-SWD,Credit Recovery,s,s,242
+08X650,Jane Addams High School for Academic Careers,Disability Status by Credit Recovery,Non-SWD,No Credit Recovery,s,s,242
+08X650,Jane Addams High School for Academic Careers,Disability Status by Credit Recovery,SWD,All,69,1.0000,69
+08X650,Jane Addams High School for Academic Careers,Disability Status by Credit Recovery,SWD,Credit Recovery,s,s,69
+08X650,Jane Addams High School for Academic Careers,Disability Status by Credit Recovery,SWD,No Credit Recovery,s,s,69
+08X650,Jane Addams High School for Academic Careers,English Language Learner Status by Credit Recovery,Ell,All,29,1.0000,29
+08X650,Jane Addams High School for Academic Careers,English Language Learner Status by Credit Recovery,Ell,Credit Recovery,s,s,29
+08X650,Jane Addams High School for Academic Careers,English Language Learner Status by Credit Recovery,Ell,No Credit Recovery,s,s,29
+08X650,Jane Addams High School for Academic Careers,English Language Learner Status by Credit Recovery,Non-Ell,All,282,1.0000,282
+08X650,Jane Addams High School for Academic Careers,English Language Learner Status by Credit Recovery,Non-Ell,Credit Recovery,s,s,282
+08X650,Jane Addams High School for Academic Careers,English Language Learner Status by Credit Recovery,Non-Ell,No Credit Recovery,s,s,282
+08X650,Jane Addams High School for Academic Careers,Ethnicity by Credit Recovery,Asian,All,s,s,s
+08X650,Jane Addams High School for Academic Careers,Ethnicity by Credit Recovery,Asian,Credit Recovery,s,s,s
+08X650,Jane Addams High School for Academic Careers,Ethnicity by Credit Recovery,Asian,No Credit Recovery,s,s,s
+08X650,Jane Addams High School for Academic Careers,Ethnicity by Credit Recovery,Black,All,113,1.0000,113
+08X650,Jane Addams High School for Academic Careers,Ethnicity by Credit Recovery,Black,Credit Recovery,s,s,113
+08X650,Jane Addams High School for Academic Careers,Ethnicity by Credit Recovery,Black,No Credit Recovery,s,s,113
+08X650,Jane Addams High School for Academic Careers,Ethnicity by Credit Recovery,Hispanic,All,192,1.0000,192
+08X650,Jane Addams High School for Academic Careers,Ethnicity by Credit Recovery,Hispanic,Credit Recovery,s,s,192
+08X650,Jane Addams High School for Academic Careers,Ethnicity by Credit Recovery,Hispanic,No Credit Recovery,s,s,192
+08X650,Jane Addams High School for Academic Careers,Ethnicity by Credit Recovery,Other,All,s,s,s
+08X650,Jane Addams High School for Academic Careers,Ethnicity by Credit Recovery,Other,Credit Recovery,s,s,s
+08X650,Jane Addams High School for Academic Careers,Ethnicity by Credit Recovery,Other,No Credit Recovery,s,s,s
+08X650,Jane Addams High School for Academic Careers,Ethnicity by Credit Recovery,White,Credit Recovery,s,s,s
+08X650,Jane Addams High School for Academic Careers,Ethnicity by Credit Recovery,White,No Credit Recovery,s,s,s
+08X650,Jane Addams High School for Academic Careers,Gender by Credit Recovery,Female,All,221,1.0000,221
+08X650,Jane Addams High School for Academic Careers,Gender by Credit Recovery,Female,Credit Recovery,s,s,221
+08X650,Jane Addams High School for Academic Careers,Gender by Credit Recovery,Female,No Credit Recovery,s,s,221
+08X650,Jane Addams High School for Academic Careers,Gender by Credit Recovery,Male,All,90,1.0000,90
+08X650,Jane Addams High School for Academic Careers,Gender by Credit Recovery,Male,Credit Recovery,s,s,90
+08X650,Jane Addams High School for Academic Careers,Gender by Credit Recovery,Male,No Credit Recovery,s,s,90
+08X650,Jane Addams High School for Academic Careers,Grade by Credit Recovery,Grade 10,All,12,1.0000,12
+08X650,Jane Addams High School for Academic Careers,Grade by Credit Recovery,Grade 10,Credit Recovery,s,s,12
+08X650,Jane Addams High School for Academic Careers,Grade by Credit Recovery,Grade 10,No Credit Recovery,s,s,12
+08X650,Jane Addams High School for Academic Careers,Grade by Credit Recovery,Grade 11,All,40,1.0000,40
+08X650,Jane Addams High School for Academic Careers,Grade by Credit Recovery,Grade 11,Credit Recovery,s,s,40
+08X650,Jane Addams High School for Academic Careers,Grade by Credit Recovery,Grade 11,No Credit Recovery,s,s,40
+08X650,Jane Addams High School for Academic Careers,Grade by Credit Recovery,Grade 12,All,230,1.0000,230
+08X650,Jane Addams High School for Academic Careers,Grade by Credit Recovery,Grade 12,Credit Recovery,s,s,230
+08X650,Jane Addams High School for Academic Careers,Grade by Credit Recovery,Grade 12,No Credit Recovery,s,s,230
+08X650,Jane Addams High School for Academic Careers,Grade by Credit Recovery,Grade 9,All,29,1.0000,29
+08X650,Jane Addams High School for Academic Careers,Grade by Credit Recovery,Grade 9,Credit Recovery,s,s,29
+08X650,Jane Addams High School for Academic Careers,Grade by Credit Recovery,Grade 9,No Credit Recovery,s,s,29
+10X660,Grace Dodge Career and Technical Education High School,Age by Credit Recovery,13 yrs old,All,s,s,s
+10X660,Grace Dodge Career and Technical Education High School,Age by Credit Recovery,13 yrs old,Credit Recovery,s,s,s
+10X660,Grace Dodge Career and Technical Education High School,Age by Credit Recovery,13 yrs old,No Credit Recovery,s,s,s
+10X660,Grace Dodge Career and Technical Education High School,Age by Credit Recovery,15 yrs old,All,s,s,s
+Update Frequency,No Data,,,,,,
+10X660,Grace Dodge Career and Technical Education High School,Age by Credit Recovery,15 yrs old,Credit Recovery,s,s,s
+10X660,Grace Dodge Career and Technical Education High School,Age by Credit Recovery,15 yrs old,No Credit Recovery,s,s,s
+10X660,Grace Dodge Career and Technical Education High School,Age by Credit Recovery,16 yrs old,All,80,1.0000,80
+10X660,Grace Dodge Career and Technical Education High School,Age by Credit Recovery,16 yrs old,Credit Recovery,s,s,80
+10X660,Grace Dodge Career and Technical Education High School,Age by Credit Recovery,16 yrs old,No Credit Recovery,s,s,80
+10X660,Grace Dodge Career and Technical Education High School,Age by Credit Recovery,17 yrs old,All,169,1.0000,169
+10X660,Grace Dodge Career and Technical Education High School,Age by Credit Recovery,17 yrs old,Credit Recovery,s,s,169
+10X660,Grace Dodge Career and Technical Education High School,Age by Credit Recovery,17 yrs old,No Credit Recovery,s,s,169
+10X660,Grace Dodge Career and Technical Education High School,Age by Credit Recovery,18 yrs old,All,130,1.0000,130
+10X660,Grace Dodge Career and Technical Education High School,Age by Credit Recovery,18 yrs old,Credit Recovery,s,s,130
+10X660,Grace Dodge Career and Technical Education High School,Age by Credit Recovery,18 yrs old,No Credit Recovery,s,s,130
+10X660,Grace Dodge Career and Technical Education High School,Age by Credit Recovery,19 yrs old,All,71,1.0000,71
+10X660,Grace Dodge Career and Technical Education High School,Age by Credit Recovery,19 yrs old,Credit Recovery,s,s,71
+10X660,Grace Dodge Career and Technical Education High School,Age by Credit Recovery,19 yrs old,No Credit Recovery,s,s,71
+10X660,Grace Dodge Career and Technical Education High School,Age by Credit Recovery,20 yrs old,All,28,1.0000,28
+10X660,Grace Dodge Career and Technical Education High School,Age by Credit Recovery,20 yrs old,Credit Recovery,s,s,28
+10X660,Grace Dodge Career and Technical Education High School,Age by Credit Recovery,20 yrs old,No Credit Recovery,s,s,28
+10X660,Grace Dodge Career and Technical Education High School,Age by Credit Recovery,21 yrs old or older,All,s,s,s
+10X660,Grace Dodge Career and Technical Education High School,Age by Credit Recovery,21 yrs old or older,Credit Recovery,s,s,s
+10X660,Grace Dodge Career and Technical Education High School,Age by Credit Recovery,21 yrs old or older,No Credit Recovery,s,s,s
+10X660,Grace Dodge Career and Technical Education High School,All Students by Credit Recovery,all,All,484,1.0000,484
+10X660,Grace Dodge Career and Technical Education High School,All Students by Credit Recovery,all,Credit Recovery,s,s,484
+10X660,Grace Dodge Career and Technical Education High School,All Students by Credit Recovery,all,No Credit Recovery,s,s,484
+10X660,Grace Dodge Career and Technical Education High School,Disability Status by Credit Recovery,Non-SWD,All,336,1.0000,336
+10X660,Grace Dodge Career and Technical Education High School,Disability Status by Credit Recovery,Non-SWD,Credit Recovery,s,s,336
+10X660,Grace Dodge Career and Technical Education High School,Disability Status by Credit Recovery,Non-SWD,No Credit Recovery,s,s,336
+10X660,Grace Dodge Career and Technical Education High School,Disability Status by Credit Recovery,SWD,All,148,1.0000,148
+10X660,Grace Dodge Career and Technical Education High School,Disability Status by Credit Recovery,SWD,Credit Recovery,s,s,148
+10X660,Grace Dodge Career and Technical Education High School,Disability Status by Credit Recovery,SWD,No Credit Recovery,s,s,148
+10X660,Grace Dodge Career and Technical Education High School,English Language Learner Status by Credit Recovery,Ell,All,101,1.0000,101
+10X660,Grace Dodge Career and Technical Education High School,English Language Learner Status by Credit Recovery,Ell,Credit Recovery,s,s,101
+10X660,Grace Dodge Career and Technical Education High School,English Language Learner Status by Credit Recovery,Ell,No Credit Recovery,s,s,101
+10X660,Grace Dodge Career and Technical Education High School,English Language Learner Status by Credit Recovery,Non-Ell,All,383,1.0000,383
+10X660,Grace Dodge Career and Technical Education High School,English Language Learner Status by Credit Recovery,Non-Ell,Credit Recovery,s,s,383
+10X660,Grace Dodge Career and Technical Education High School,English Language Learner Status by Credit Recovery,Non-Ell,No Credit Recovery,s,s,383
+10X660,Grace Dodge Career and Technical Education High School,Ethnicity by Credit Recovery,Asian,All,s,s,s
+10X660,Grace Dodge Career and Technical Education High School,Ethnicity by Credit Recovery,Asian,Credit Recovery,s,s,s
+10X660,Grace Dodge Career and Technical Education High School,Ethnicity by Credit Recovery,Asian,No Credit Recovery,s,s,s
+10X660,Grace Dodge Career and Technical Education High School,Ethnicity by Credit Recovery,Black,All,134,1.0000,134
+10X660,Grace Dodge Career and Technical Education High School,Ethnicity by Credit Recovery,Black,Credit Recovery,s,s,134
+10X660,Grace Dodge Career and Technical Education High School,Ethnicity by Credit Recovery,Black,No Credit Recovery,s,s,134
+10X660,Grace Dodge Career and Technical Education High School,Ethnicity by Credit Recovery,Hispanic,All,339,1.0000,339
+10X660,Grace Dodge Career and Technical Education High School,Ethnicity by Credit Recovery,Hispanic,Credit Recovery,s,s,339
+10X660,Grace Dodge Career and Technical Education High School,Ethnicity by Credit Recovery,Hispanic,No Credit Recovery,s,s,339
+10X660,Grace Dodge Career and Technical Education High School,Ethnicity by Credit Recovery,Other,All,s,s,s
+10X660,Grace Dodge Career and Technical Education High School,Ethnicity by Credit Recovery,Other,Credit Recovery,s,s,s
+10X660,Grace Dodge Career and Technical Education High School,Ethnicity by Credit Recovery,Other,No Credit Recovery,s,s,s
+10X660,Grace Dodge Career and Technical Education High School,Ethnicity by Credit Recovery,White,All,s,s,s
+10X660,Grace Dodge Career and Technical Education High School,Ethnicity by Credit Recovery,White,Credit Recovery,s,s,s
+10X660,Grace Dodge Career and Technical Education High School,Ethnicity by Credit Recovery,White,No Credit Recovery,s,s,s
+10X660,Grace Dodge Career and Technical Education High School,Gender by Credit Recovery,Female,All,271,1.0000,271
+10X660,Grace Dodge Career and Technical Education High School,Gender by Credit Recovery,Female,Credit Recovery,s,s,271
+10X660,Grace Dodge Career and Technical Education High School,Gender by Credit Recovery,Female,No Credit Recovery,s,s,271
+10X660,Grace Dodge Career and Technical Education High School,Gender by Credit Recovery,Male,All,213,1.0000,213
+10X660,Grace Dodge Career and Technical Education High School,Gender by Credit Recovery,Male,Credit Recovery,s,s,213
+10X660,Grace Dodge Career and Technical Education High School,Gender by Credit Recovery,Male,No Credit Recovery,s,s,213
+10X660,Grace Dodge Career and Technical Education High School,Grade by Credit Recovery,Grade 10,All,83,1.0000,83
+10X660,Grace Dodge Career and Technical Education High School,Grade by Credit Recovery,Grade 10,Credit Recovery,s,s,83
+10X660,Grace Dodge Career and Technical Education High School,Grade by Credit Recovery,Grade 10,No Credit Recovery,s,s,83
+10X660,Grace Dodge Career and Technical Education High School,Grade by Credit Recovery,Grade 11,All,37,1.0000,37
+10X660,Grace Dodge Career and Technical Education High School,Grade by Credit Recovery,Grade 11,Credit Recovery,s,s,37
+10X660,Grace Dodge Career and Technical Education High School,Grade by Credit Recovery,Grade 11,No Credit Recovery,s,s,37
+10X660,Grace Dodge Career and Technical Education High School,Grade by Credit Recovery,Grade 12,All,340,1.0000,340
+10X660,Grace Dodge Career and Technical Education High School,Grade by Credit Recovery,Grade 12,Credit Recovery,s,s,340
+10X660,Grace Dodge Career and Technical Education High School,Grade by Credit Recovery,Grade 12,No Credit Recovery,s,s,340
+10X660,Grace Dodge Career and Technical Education High School,Grade by Credit Recovery,Grade 9,All,24,1.0000,24
+10X660,Grace Dodge Career and Technical Education High School,Grade by Credit Recovery,Grade 9,Credit Recovery,s,s,24
+10X660,Grace Dodge Career and Technical Education High School,Grade by Credit Recovery,Grade 9,No Credit Recovery,s,s,24
+17K544,International Arts Business School,Age by Credit Recovery,13 yrs old,All,s,s,s
+17K544,International Arts Business School,Age by Credit Recovery,13 yrs old,Credit Recovery,s,s,s
+17K544,International Arts Business School,Age by Credit Recovery,13 yrs old,No Credit Recovery,s,s,s
+17K544,International Arts Business School,Age by Credit Recovery,15 yrs old,All,s,s,s
+17K544,International Arts Business School,Age by Credit Recovery,15 yrs old,Credit Recovery,s,s,s
+17K544,International Arts Business School,Age by Credit Recovery,15 yrs old,No Credit Recovery,s,s,s
+17K544,International Arts Business School,Age by Credit Recovery,16 yrs old,All,10,1.0000,10
+17K544,International Arts Business School,Age by Credit Recovery,16 yrs old,Credit Recovery,s,s,10
+17K544,International Arts Business School,Age by Credit Recovery,16 yrs old,No Credit Recovery,s,s,10
+17K544,International Arts Business School,Age by Credit Recovery,17 yrs old,All,52,1.0000,52
+17K544,International Arts Business School,Age by Credit Recovery,17 yrs old,Credit Recovery,s,s,52
+17K544,International Arts Business School,Age by Credit Recovery,17 yrs old,No Credit Recovery,s,s,52
+17K544,International Arts Business School,Age by Credit Recovery,18 yrs old,All,23,1.0000,23
+17K544,International Arts Business School,Age by Credit Recovery,18 yrs old,Credit Recovery,s,s,23
+17K544,International Arts Business School,Age by Credit Recovery,18 yrs old,No Credit Recovery,s,s,23
+17K544,International Arts Business School,Age by Credit Recovery,19 yrs old,All,12,1.0000,12
+17K544,International Arts Business School,Age by Credit Recovery,19 yrs old,Credit Recovery,s,s,12
+17K544,International Arts Business School,Age by Credit Recovery,19 yrs old,No Credit Recovery,s,s,12
+17K544,International Arts Business School,Age by Credit Recovery,20 yrs old,All,s,s,s
+17K544,International Arts Business School,Age by Credit Recovery,20 yrs old,Credit Recovery,s,s,s
+17K544,International Arts Business School,Age by Credit Recovery,20 yrs old,No Credit Recovery,s,s,s
+17K544,International Arts Business School,Age by Credit Recovery,21 yrs old or older,All,s,s,s
+17K544,International Arts Business School,Age by Credit Recovery,21 yrs old or older,Credit Recovery,s,s,s
+17K544,International Arts Business School,Age by Credit Recovery,21 yrs old or older,No Credit Recovery,s,s,s
+17K544,International Arts Business School,All Students by Credit Recovery,all,All,103,1.0000,103
+17K544,International Arts Business School,All Students by Credit Recovery,all,Credit Recovery,s,s,103
+17K544,International Arts Business School,All Students by Credit Recovery,all,No Credit Recovery,s,s,103
+17K544,International Arts Business School,Disability Status by Credit Recovery,Non-SWD,All,84,1.0000,84
+17K544,International Arts Business School,Disability Status by Credit Recovery,Non-SWD,Credit Recovery,s,s,84
+17K544,International Arts Business School,Disability Status by Credit Recovery,Non-SWD,No Credit Recovery,s,s,84
+17K544,International Arts Business School,Disability Status by Credit Recovery,SWD,All,19,1.0000,19
+17K544,International Arts Business School,Disability Status by Credit Recovery,SWD,Credit Recovery,s,s,19
+17K544,International Arts Business School,Disability Status by Credit Recovery,SWD,No Credit Recovery,s,s,19
+17K544,International Arts Business School,English Language Learner Status by Credit Recovery,Ell,All,s,s,s
+17K544,International Arts Business School,English Language Learner Status by Credit Recovery,Ell,Credit Recovery,s,s,s
+17K544,International Arts Business School,English Language Learner Status by Credit Recovery,Ell,No Credit Recovery,s,s,s
+17K544,International Arts Business School,English Language Learner Status by Credit Recovery,Non-Ell,All,94,1.0000,94
+17K544,International Arts Business School,English Language Learner Status by Credit Recovery,Non-Ell,Credit Recovery,s,s,94
+17K544,International Arts Business School,English Language Learner Status by Credit Recovery,Non-Ell,No Credit Recovery,s,s,94
+17K544,International Arts Business School,Ethnicity by Credit Recovery,Asian,All,s,s,s
+17K544,International Arts Business School,Ethnicity by Credit Recovery,Asian,Credit Recovery,s,s,s
+17K544,International Arts Business School,Ethnicity by Credit Recovery,Asian,No Credit Recovery,s,s,s
+17K544,International Arts Business School,Ethnicity by Credit Recovery,Black,All,89,1.0000,89
+17K544,International Arts Business School,Ethnicity by Credit Recovery,Black,Credit Recovery,s,s,89
+17K544,International Arts Business School,Ethnicity by Credit Recovery,Black,No Credit Recovery,s,s,89
+17K544,International Arts Business School,Ethnicity by Credit Recovery,Hispanic,All,s,s,s
+17K544,International Arts Business School,Ethnicity by Credit Recovery,Hispanic,Credit Recovery,s,s,s
+17K544,International Arts Business School,Ethnicity by Credit Recovery,Hispanic,No Credit Recovery,s,s,s
+17K544,International Arts Business School,Ethnicity by Credit Recovery,Other,All,s,s,s
+17K544,International Arts Business School,Ethnicity by Credit Recovery,Other,Credit Recovery,s,s,s
+17K544,International Arts Business School,Ethnicity by Credit Recovery,Other,No Credit Recovery,s,s,s
+17K544,International Arts Business School,Ethnicity by Credit Recovery,White,All,s,s,s
+17K544,International Arts Business School,Ethnicity by Credit Recovery,White,Credit Recovery,s,s,s
+17K544,International Arts Business School,Ethnicity by Credit Recovery,White,No Credit Recovery,s,s,s
+17K544,International Arts Business School,Gender by Credit Recovery,Female,All,53,1.0000,53
+17K544,International Arts Business School,Gender by Credit Recovery,Female,Credit Recovery,s,s,53
+17K544,International Arts Business School,Gender by Credit Recovery,Female,No Credit Recovery,s,s,53
+17K544,International Arts Business School,Gender by Credit Recovery,Male,All,50,1.0000,50
+17K544,International Arts Business School,Gender by Credit Recovery,Male,Credit Recovery,s,s,50
+17K544,International Arts Business School,Gender by Credit Recovery,Male,No Credit Recovery,s,s,50
+17K544,International Arts Business School,Grade by Credit Recovery,Grade 10,All,18,1.0000,18
+17K544,International Arts Business School,Grade by Credit Recovery,Grade 10,Credit Recovery,s,s,18
+17K544,International Arts Business School,Grade by Credit Recovery,Grade 10,No Credit Recovery,s,s,18
+17K544,International Arts Business School,Grade by Credit Recovery,Grade 11,All,s,s,s
+17K544,International Arts Business School,Grade by Credit Recovery,Grade 11,Credit Recovery,s,s,s
+17K544,International Arts Business School,Grade by Credit Recovery,Grade 11,No Credit Recovery,s,s,s
+17K544,International Arts Business School,Grade by Credit Recovery,Grade 12,All,76,1.0000,76
+17K544,International Arts Business School,Grade by Credit Recovery,Grade 12,Credit Recovery,s,s,76
+17K544,International Arts Business School,Grade by Credit Recovery,Grade 12,No Credit Recovery,s,s,76
+17K544,International Arts Business School,Grade by Credit Recovery,Grade 9,All,s,s,s
+17K544,International Arts Business School,Grade by Credit Recovery,Grade 9,Credit Recovery,s,s,s
+17K544,International Arts Business School,Grade by Credit Recovery,Grade 9,No Credit Recovery,s,s,s
+Dataset Name,School Closure Discharge Reporting - 2014 2015 School Year OD,,,,,,
+Dataset Description,"In June 2015, 18 New York City public schools closed for poor performance.  This report provides data regarding students enrolled in these schools during the 2014-2015 school year, according to the guidelines set by Local Law 2011/043",,,,,,
+Dataset Keywords,No Data,,,,,,
+Dataset Category,No Data,,,,,,
+Why is this data collected?,No Data,,,,,,
+How is this data collected?,No Data,,,,,,
+What does each record represent?,No Data,,,,,,
+How can this data be used?,No Data,,,,,,
+What are the idiosyncrasies or limitations of the data to be aware of?,"Spreadsheets include any student enrolled as of October 31, 2014 and after.",,,,,,
+List any additional information in order to provide context to the data for someone not familiar with your agency's operations.,"Cells with 0 to 9 cases were suppressed throughout the discharge reporting. In some cases, cells with higher counts were suppressed if that information would result in the ability to determine the values of suppressed cells though subtraction. ",Column Name,Column Description,"Term, Acronym, or Code Definitions","Additional Notes (where applicable, include the  range of possible values, units of measure, how to interpret null/zero values, whether there are specific relationships between columns, and information on column source)",,
+DBN,"DBN CODE: a character code used to identify a school and its location. It is formed by concatenating the school district code, the school borough code, and the school number.","the district, borough and number for a  school","Examples: 02M001, 13K001, 31R080, 30Q502, 08X001",,,,
+SchoolName,"LOCATION NAME: the name by which the organization is known. For a learning community, it is the official title of the school.",No Data,"Data Type: VARCHAR2, Length: 100",,,,
+ByGroup,Sorted by group,No Data,"Data Type: VARCHAR2, Length: 100",,,,
+Demographic,Sorted by demographic,No Data,"Data Type: VARCHAR2, Length: 100",,,,
+DischargeCode,Discharge code,No Data,"Data Type: VARCHAR2, Length: 100",,,,
+#,"Stands for ""Number of""",No Data,"Data Type: VARCHAR2, Length: 100",,,,
+% within Demographic,The percent within the demographic,No Data,"Data Type: VARCHAR2, Length: 100",,,,
+Total # within Demographic,The total number within the demographic,No Data,"Data Type: VARCHAR2, Length: 100",,,,
+GPA,Range of grades,Grade Point Average,"Data Type: VARCHAR2, Length: 100",,,,
+Credit Recovery,Credit Recovery,No Data,"Data Type: VARCHAR2, Length: 100",,,,
+Disability Status,The disability status,No Data,"Data Type: VARCHAR2, Length: 100",,,,
+ToSchoolDbn,"DBN CODE: a character code used to identify a school and its location. It is formed by concatenating the school district code, the school borough code, and the school number.","the district, borough and number for a  school","Examples: 02M001, 13K001, 31R080, 30Q502, 08X001",,,,
+ToSchoolName,"LOCATION NAME: the name by which the organization is known. For a learning community, it is the official title of the school.",No Data,"Data Type: VARCHAR2, Length: 100",,,,
+Attendance Rate,The rate of attendance,No Data,"Data Type: VARCHAR2, Length: 100",Version ,Date,Change Highlights,Comments
+1,5/9/17,Added required information for Open Data NYC,No Data,,,,

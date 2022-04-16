@@ -1,0 +1,509 @@
+DBN,School Name ,School Type ,Program ,Language 
+01M020 ,P.S. 020 Anna Silver ,Elementary ,Dual Language ,Chinese 
+01M020 ,P.S. 020 Anna Silver ,Elementary ,Dual Language ,Spanish 
+01M184 ,P.S. 184m Shuang Wen ,K-8 ,Dual Language ,Chinese 
+01M188 ,P.S. 188 The Island School ,K-8 ,Dual Language ,Spanish 
+01M378 ,School for Global Leaders ,Junior High-Intermediate-Middle ,Dual Language ,Chinese 
+01M515 ,Lower East Side Preparatory High School ,High school ,Transitional Bilingual Education ,Chinese 
+01M515 ,Lower East Side Preparatory High School ,High school ,Transitional Bilingual Education ,Spanish 
+02M001 ,P.S. 001 Alfred E. Smith ,Elementary ,Dual Language ,Chinese 
+02M002 ,P.S. 002 Meyer London ,Elementary ,Transitional Bilingual Education ,Chinese 
+02M042 ,P.S. 042 Benjamin Altman ,Elementary ,Transitional Bilingual Education ,Chinese 
+02M124 ,P.S. 124 Yung Wing ,Elementary ,Transitional Bilingual Education ,Chinese 
+02M126 ,P.S. 126 Jacob August Riis ,K-8 ,Transitional Bilingual Education ,Chinese 
+02M130 ,P.S. 130 Hernando De Soto ,Elementary ,Transitional Bilingual Education ,Chinese 
+02M131 ,M.S. 131 ,Junior High-Intermediate-Middle ,Dual Language ,Chinese 
+02M131 ,M.S. 131 ,Junior High-Intermediate-Middle ,Transitional Bilingual Education ,Chinese 
+02M427 ,MANHATTAN ACADEMY FOR ARTS & LANGUAGE ,High school ,Transitional Bilingual Education ,Spanish 
+02M520 ,Murry Bergtraum High School for Business Careers ,High school ,Transitional Bilingual Education ,Chinese 
+02M520 ,Murry Bergtraum High School for Business Careers ,High school ,Transitional Bilingual Education ,Spanish 
+02M542 ,Manhattan Bridges High School ,High school ,Dual Language ,Spanish 
+02M542 ,Manhattan Bridges High School ,High school ,Transitional Bilingual Education ,Spanish 
+02M545 ,High School for Dual Language and Asian Studies ,High school ,Dual Language ,Chinese 
+02M545 ,High School for Dual Language and Asian Studies ,High school ,Transitional Bilingual Education ,Chinese 
+03M075 ,P.S. 075 Emily Dickinson ,Elementary ,Dual Language ,Spanish 
+03M084 ,P.S. 084 Lillian Weber ,Elementary ,Dual Language ,French 
+03M084 ,P.S. 084 Lillian Weber ,Elementary ,Dual Language ,Spanish 
+03M087 ,P.S. 087 William Sherman ,Elementary ,Dual Language ,Spanish 
+03M145 ,"P.S. 145, The Bloomingdale School ",Elementary ,Dual Language ,Russian 
+03M145 ,"P.S. 145, The Bloomingdale School ",Elementary ,Dual Language ,Spanish 
+03M163 ,P.S. 163 Alfred E. Smith ,Elementary ,Dual Language ,Spanish 
+03M165 ,P.S. 165 Robert E. Simon ,K-8 ,Dual Language ,Spanish 
+03M180 ,P.S. 180 Hugo Newman ,K-8 ,Dual Language ,Spanish 
+03M247 ,M.S. M247 Dual Language Middle School ,Junior High-Intermediate-Middle ,Dual Language ,Spanish 
+03M256 ,Lafayette Academy ,Junior High-Intermediate-Middle ,Dual Language ,French 
+04M057 ,James Weldon Johnson ,K-8 ,Dual Language ,Spanish 
+04M057 ,James Weldon Johnson ,K-8 ,Transitional Bilingual Education ,Spanish 
+04M072 ,The Lexington Academy ,K-8 ,Dual Language ,Spanish 
+04M072 ,The Lexington Academy ,K-8 ,Transitional Bilingual Education ,Spanish 
+04M096 ,P.S. 096 Joseph Lanzetta ,K-8 ,Dual Language ,Spanish 
+04M112 ,P.S. 112 Jose Celso Barbosa ,Early Childhood ,Dual Language ,Spanish 
+04M155 ,P.S. 155 William Paca ,Elementary ,Dual Language ,Spanish 
+04M155 ,P.S. 155 William Paca ,Elementary ,Transitional Bilingual Education ,Spanish 
+04M182 ,The Bilingual Bicultural School ,Elementary ,Dual Language ,Spanish 
+04M182 ,The Bilingual Bicultural School ,Elementary ,Transitional Bilingual Education ,Spanish 
+04M206 ,P.S. 206 Jose Celso Barbosa ,K-8 ,Dual Language ,Spanish 
+04M372 ,Esperanza Preparatory Academy ,Secondary School ,Dual Language ,Spanish 
+04M377 ,Renaissance School of the Arts ,Junior High-Intermediate-Middle ,Transitional Bilingual Education ,Spanish 
+04M435 ,Manhattan Center for Science and Mathematics ,High school ,Transitional Bilingual Education ,Spanish 
+05M036 ,P.S. 036 Margaret Douglas ,Elementary ,Transitional Bilingual Education ,Spanish 
+05M046 ,P.S. 046 Arthur Tappan ,K-8 ,Transitional Bilingual Education ,Spanish 
+05M129 ,P.S. 129 John H. Finley ,K-8 ,Transitional Bilingual Education ,Spanish 
+05M161 ,P.S. 161 Pedro Albizu Campos ,K-8 ,Dual Language ,Spanish 
+05M200 ,P.S. 200- The James Mccune Smith School ,Elementary ,Dual Language ,Spanish 
+05M200 ,P.S. 200- The James Mccune Smith School ,Elementary ,Transitional Bilingual Education ,Spanish 
+06M004 ,P.S. 004 Duke Ellington ,Elementary ,Dual Language ,Spanish 
+06M004 ,P.S. 004 Duke Ellington ,Elementary ,Transitional Bilingual Education ,Spanish 
+06M005 ,P.S. 005 Ellen Lurie ,Elementary ,Dual Language ,Spanish 
+06M005 ,P.S. 005 Ellen Lurie ,Elementary ,Transitional Bilingual Education ,Spanish 
+06M008 ,P.S. 008 Luis Belliard ,Elementary ,Dual Language ,Spanish 
+06M018 ,P.S. 018 Park Terrace ,K-8 ,Dual Language ,Spanish 
+06M018 ,P.S. 018 Park Terrace ,K-8 ,Transitional Bilingual Education ,Spanish 
+06M028 ,P.S. 028 Wright Brothers ,Elementary ,Dual Language ,Spanish 
+06M028 ,P.S. 028 Wright Brothers ,Elementary ,Transitional Bilingual Education ,Spanish 
+06M048 ,P.S. 048 P.O. Michael J. Buczek ,Elementary ,Dual Language ,Spanish 
+06M052 ,J.H.S. 052 Inwood ,Junior High-Intermediate-Middle ,Transitional Bilingual Education ,Spanish 
+06M098 ,P.S. 098 Shorac Kappock ,Elementary ,Dual Language ,Spanish 
+06M098 ,P.S. 098 Shorac Kappock ,Elementary ,Transitional Bilingual Education ,Spanish 
+06M103 ,Dos Puentes Elementary School ,Elementary ,Dual Language ,Spanish 
+06M115 ,P.S. 115 Alexander Humboldt ,Elementary ,Transitional Bilingual Education ,Spanish 
+06M128 ,P.S. 128 Audubon ,Elementary ,Dual Language ,Spanish 
+06M128 ,P.S. 128 Audubon ,Elementary ,Transitional Bilingual Education ,Spanish 
+06M132 ,P.S. 132 Juan Pablo Duarte ,Elementary ,Dual Language ,Spanish 
+06M132 ,P.S. 132 Juan Pablo Duarte ,Elementary ,Transitional Bilingual Education ,Spanish 
+06M143 ,J.H.S. 143 Eleanor Roosevelt ,Junior High-Intermediate-Middle ,Transitional Bilingual Education ,Spanish 
+06M152 ,P.S. 152 Dyckman Valley ,Elementary ,Transitional Bilingual Education ,Spanish 
+06M153 ,P.S. 153 Adam Clayton Powell ,Elementary ,Dual Language ,Spanish 
+06M173 ,P.S. 173 ,Elementary ,Dual Language ,Spanish 
+06M173 ,P.S. 173 ,Elementary ,Transitional Bilingual Education ,Spanish 
+06M178 ,Professor Juan Bosch Public School ,Elementary ,Dual Language ,Spanish 
+06M189 ,P.S. 189 ,Elementary ,Transitional Bilingual Education ,Spanish 
+06M192 ,P.S. 192 Jacob H. Schiff ,Elementary ,Dual Language ,Spanish 
+06M192 ,P.S. 192 Jacob H. Schiff ,Elementary ,Transitional Bilingual Education ,Spanish 
+06M210 ,P.S./I.S. 210 - Twenty-first Century Academy for C ,K-8 ,Dual Language ,Spanish 
+06M218 ,I.S. 218 Salome Urena ,Junior High-Intermediate-Middle ,Transitional Bilingual Education ,Spanish 
+06M311 ,Amistad Dual Language School ,K-8 ,Dual Language ,Spanish 
+06M319 ,M.S. 319 - Maria Teresa ,Junior High-Intermediate-Middle ,Dual Language ,Spanish 
+06M319 ,M.S. 319 - Maria Teresa ,Junior High-Intermediate-Middle ,Transitional Bilingual Education ,Spanish 
+06M322 ,Middle School 322 ,Junior High-Intermediate-Middle ,Dual Language ,Spanish 
+06M322 ,Middle School 322 ,Junior High-Intermediate-Middle ,Transitional Bilingual Education ,Spanish 
+06M324 ,M.S. 324 - Patria Mirabal ,Junior High-Intermediate-Middle ,Transitional Bilingual Education ,Spanish 
+06M328 ,Community Math & Science Prep ,Junior High-Intermediate-Middle ,Dual Language ,Spanish 
+06M328 ,Community Math & Science Prep ,Junior High-Intermediate-Middle ,Transitional Bilingual Education ,Spanish 
+06M348 ,Washington Heights Expeditionary Learning School ,K-12 all grades ,Dual Language ,Spanish 
+06M349 ,Harbor Heights ,Junior High-Intermediate-Middle ,Transitional Bilingual Education ,Spanish 
+06M462 ,The College Academy ,High school ,Dual Language ,Spanish 
+06M462 ,The College Academy ,High school ,Transitional Bilingual Education ,Spanish 
+06M463 ,High School for Media and Communications ,High school ,Transitional Bilingual Education ,Spanish 
+06M467 ,High School for Law and Public Service ,High school ,Dual Language ,Spanish 
+06M467 ,High School for Law and Public Service ,High school ,Transitional Bilingual Education ,Spanish 
+06M468 ,High School for Health Careers and Sciences ,High school ,Dual Language ,Spanish 
+06M468 ,High School for Health Careers and Sciences ,High school ,Transitional Bilingual Education ,Spanish 
+06M513 ,Castle Bridge School ,Elementary ,Dual Language ,Spanish 
+06M528 ,I.S. 528 Bea Fuller Rodgers School ,Junior High-Intermediate-Middle ,Dual Language ,Spanish 
+06M540 ,A. Philip Randolph Campus High School ,High school ,Dual Language ,Spanish 
+06M552 ,Gregorio Luperon High School for Science and Mathe ,High school ,Dual Language ,Spanish 
+06M552 ,Gregorio Luperon High School for Science and Mathe ,High school ,Transitional Bilingual Education ,Spanish 
+07X001 ,P.S. 001 Courtlandt School ,Elementary ,Transitional Bilingual Education ,Spanish 
+07X005 ,P.S. 5 Port Morris ,K-8 ,Transitional Bilingual Education ,Spanish 
+07X018 ,P.S. 018 John Peter Zenger ,Elementary ,Dual Language ,Spanish 
+07X018 ,P.S. 018 John Peter Zenger ,Elementary ,Transitional Bilingual Education ,Spanish 
+07X025 ,P.S. 025 Bilingual School ,Elementary ,Transitional Bilingual Education ,Spanish 
+07X029 ,P.S./M.S. 029 Melrose School ,K-8 ,Transitional Bilingual Education ,Spanish 
+07X030 ,P.S. 030 Wilton ,Elementary ,Dual Language ,Spanish 
+07X049 ,P.S. 049 Willis Avenue ,Elementary ,Dual Language ,Spanish 
+07X049 ,P.S. 049 Willis Avenue ,Elementary ,Transitional Bilingual Education ,Spanish 
+07X151 ,J.H.S. 151 Lou Gehrig ,Junior High-Intermediate-Middle ,Transitional Bilingual Education ,Spanish 
+07X161 ,P.S. 161 Juan Ponce De Leon School ,Elementary ,Dual Language ,Spanish 
+07X179 ,P.S. 179 ,Elementary ,Transitional Bilingual Education ,Spanish 
+07X223 ,The Laboratory School of Finance and Technology: X ,Secondary School ,Dual Language ,Spanish 
+07X224 ,P.S./I.S. 224 ,Junior High-Intermediate-Middle ,Transitional Bilingual Education ,Spanish 
+07X298 ,Academy of Public Relations ,Junior High-Intermediate-Middle ,Transitional Bilingual Education ,Spanish 
+07X369 ,Young Leaders Elementary School ,Elementary ,Transitional Bilingual Education ,Spanish 
+07X600 ,Alfred E. Smith Career and Technical Education Hig ,High school ,Transitional Bilingual Education ,Spanish 
+08X048 ,P.S. 048 Joseph R. Drake ,Elementary ,Dual Language ,Spanish 
+08X333 ,The Longwood Academy for Discovery ,Elementary ,Dual Language ,Spanish 
+08X333 ,The Longwood Academy for Discovery ,Elementary ,Transitional Bilingual Education ,Spanish 
+08X432 ,Bronx Bridges High School ,High school ,Transitional Bilingual Education ,Spanish 
+08X448 ,Soundview Academy for Culture and Scholarship ,Junior High-Intermediate-Middle ,Dual Language ,Spanish 
+09X011 ,P.S. 011 Highbridge ,Elementary ,Dual Language ,Spanish 
+09X011 ,P.S. 011 Highbridge ,Elementary ,Transitional Bilingual Education ,Spanish 
+09X022 ,J.H.S. 022 Jordan L. Mott ,Junior High-Intermediate-Middle ,Transitional Bilingual Education ,Spanish 
+09X028 ,P.S. 028 Mount Hope ,Elementary ,Transitional Bilingual Education ,Spanish 
+09X053 ,P.S. 053 Basheer Quisim ,Elementary ,Dual Language ,Spanish 
+09X053 ,P.S. 053 Basheer Quisim ,Elementary ,Transitional Bilingual Education ,Spanish 
+09X055 ,P.S. 055 Benjamin Franklin ,Elementary ,Dual Language ,Spanish 
+09X058 ,P.S. 058 ,Elementary ,Transitional Bilingual Education ,Spanish 
+09X070 ,P.S. 070 Max Schoenfeld ,Elementary ,Dual Language ,Spanish 
+09X070 ,P.S. 070 Max Schoenfeld ,Elementary ,Transitional Bilingual Education ,Spanish 
+09X073 ,P.S. 073 Bronx ,Elementary ,Dual Language ,Spanish 
+09X109 ,P.S. 109 Sedgwick ,Elementary ,Dual Language ,Spanish 
+09X109 ,P.S. 109 Sedgwick ,Elementary ,Transitional Bilingual Education ,Spanish 
+09X114 ,P.S. X114 - Luis Llorens Torres Schools ,Elementary ,Transitional Bilingual Education ,Spanish 
+09X117 ,I.S. 117 Joseph H. Wade ,Junior High-Intermediate-Middle ,Transitional Bilingual Education ,Spanish 
+09X126 ,P.S. 126 Dr Marjorie H Dunbar ,Elementary ,Transitional Bilingual Education ,Spanish 
+09X163 ,P.S. 163 Arthur A. Schomburg ,Elementary ,Transitional Bilingual Education ,Spanish 
+09X170 ,P.S. 170 ,Early Childhood ,Transitional Bilingual Education ,Spanish 
+09X199 ,P.S. 199X - The Shakespeare School ,Elementary ,Transitional Bilingual Education ,Spanish 
+09X218 ,P.S./I.S. 218 Rafael Hernandez Dual Language Magne ,K-8 ,Dual Language ,Spanish 
+09X219 ,I.S. 219 New Venture School ,Junior High-Intermediate-Middle ,Transitional Bilingual Education ,Spanish 
+09X232 ,I.S. 232 ,Junior High-Intermediate-Middle ,Transitional Bilingual Education ,Spanish 
+09X274 ,The New American Academy at Roberto Clemente State ,Elementary ,Dual Language ,Spanish 
+09X294 ,The Walton Avenue School ,Elementary ,Transitional Bilingual Education ,Spanish 
+09X311 ,Lucero Elementary School ,Elementary ,Dual Language ,Spanish 
+09X313 ,I.S. 313 School of Leadership Development ,Junior High-Intermediate-Middle ,Transitional Bilingual Education ,Spanish 
+09X325 ,Urban Science Academy ,Junior High-Intermediate-Middle ,Dual Language ,Spanish 
+09X339 ,I.S. 339 ,Junior High-Intermediate-Middle ,Transitional Bilingual Education ,Spanish 
+09X350 ,New Directions Secondary School ,Secondary School ,Transitional Bilingual Education ,Spanish 
+09X365 ,Academy for Language and Technology ,High school ,Transitional Bilingual Education ,Spanish 
+09X412 ,Bronx High School of Business ,High school ,Transitional Bilingual Education ,Spanish 
+09X443 ,The Family School ,Elementary ,Dual Language ,Spanish 
+09X449 ,Grant Avenue Elementary School ,Elementary ,Dual Language ,Spanish 
+09X454 ,Science and Technology Academy: A Mott Hall School ,Junior High-Intermediate-Middle ,Transitional Bilingual Education ,Spanish 
+09X457 ,Sheridan Academy for Young Leaders ,Elementary ,Dual Language ,Spanish 
+10X008 ,P.S. 008 Isaac Varian ,Elementary ,Transitional Bilingual Education ,Spanish 
+10X009 ,P.S. 9 Ryer Avenue Elementary School ,Elementary ,Transitional Bilingual Education ,Spanish 
+10X032 ,P.S. 032 Belmont ,Elementary ,Transitional Bilingual Education ,Spanish 
+10X033 ,P.S. 033 Timothy Dwight ,Elementary ,Transitional Bilingual Education ,Spanish 
+10X046 ,P.S. 046 Edgar Allan Poe ,Elementary ,Dual Language ,Spanish 
+10X046 ,P.S. 046 Edgar Allan Poe ,Elementary ,Transitional Bilingual Education ,Spanish 
+10X054 ,P.S./I.S. 54 ,Elementary ,Dual Language ,Spanish 
+10X077 ,Bedford Park Elementary School ,Elementary ,Dual Language ,Spanish 
+10X080 ,J.H.S. 080 The Mosholu Parkway ,Junior High-Intermediate-Middle ,Transitional Bilingual Education ,Spanish 
+10X085 ,P.S. 085 Great Expectations ,Elementary ,Transitional Bilingual Education ,Spanish 
+10X086 ,P.S. 086 Kingsbridge Heights ,Elementary ,Transitional Bilingual Education ,Spanish 
+10X091 ,P.S. 091 Bronx ,Elementary ,Transitional Bilingual Education ,Spanish 
+10X094 ,P.S. 094 Kings College School ,Elementary ,Transitional Bilingual Education ,Spanish 
+10X095 ,P.S. 095 Sheila Mencher ,K-8 ,Transitional Bilingual Education ,Spanish 
+10X118 ,J.H.S. 118 William W. Niles ,Junior High-Intermediate-Middle ,Transitional Bilingual Education ,Spanish 
+10X159 ,P.S. 159 Luis Munoz Marin Biling ,Elementary ,Transitional Bilingual Education ,Spanish 
+10X205 ,P.S. 205 Fiorello LaGuardia ,Elementary ,Transitional Bilingual Education ,Spanish 
+10X206 ,I.S. 206 Ann Mersereau ,Junior High-Intermediate-Middle ,Transitional Bilingual Education ,Spanish 
+10X207 ,P.S. 207 ,Early Childhood ,Transitional Bilingual Education ,Spanish 
+10X226 ,P.S. 226 ,Elementary ,Transitional Bilingual Education ,Spanish 
+10X244 ,The New School for Leadership and Journalism ,Junior High-Intermediate-Middle ,Transitional Bilingual Education ,Spanish 
+10X246 ,P.S. 246 Poe Center ,Elementary ,Transitional Bilingual Education ,Spanish 
+10X254 ,I.S. 254 ,Junior High-Intermediate-Middle ,Transitional Bilingual Education ,Spanish 
+10X279 ,"P.S. 279 Captain Manuel Rivera, Jr. ",K-8 ,Transitional Bilingual Education ,Spanish 
+10X291 ,P.S. 291 ,Elementary ,Transitional Bilingual Education ,Spanish 
+10X306 ,P.S. 306 ,Elementary ,Transitional Bilingual Education ,Spanish 
+10X331 ,The Bronx School of Young Leaders ,Junior High-Intermediate-Middle ,Transitional Bilingual Education ,Spanish 
+10X340 ,P.S. 340 ,Elementary ,Transitional Bilingual Education ,Spanish 
+10X342 ,International School for Liberal Arts ,Secondary School ,Transitional Bilingual Education ,Spanish 
+10X351 ,Bronx Collaborative High School ,High school ,Transitional Bilingual Education ,Spanish 
+10X353 ,World View High School ,High school ,Transitional Bilingual Education ,Spanish 
+10X363 ,Academy For Personal Leadership And Excellence ,Junior High-Intermediate-Middle ,Transitional Bilingual Education ,Spanish 
+10X368 ,In-Tech Academy (M.S. / High School 368) ,Secondary School ,Transitional Bilingual Education ,Spanish 
+14K059 ,P.S. 059 William Floyd ,Elementary ,Dual Language ,Spanish 
+10X374 ,Knowledge and Power Preparatory Academy Internatio ,High school ,Transitional Bilingual Education ,Spanish 
+10X386 ,School for Environmental Citizenship ,Elementary ,Transitional Bilingual Education ,Spanish 
+10X390 ,M.S. 390 ,Junior High-Intermediate-Middle ,Dual Language ,Spanish 
+10X390 ,M.S. 390 ,Junior High-Intermediate-Middle ,Transitional Bilingual Education ,Spanish 
+10X391 ,The Angelo Patri Middle School ,Junior High-Intermediate-Middle ,Transitional Bilingual Education ,Spanish 
+10X440 ,DeWitt Clinton High School ,High school ,Transitional Bilingual Education ,Spanish 
+10X447 ,Creston Academy ,Junior High-Intermediate-Middle ,Transitional Bilingual Education ,Spanish 
+11X103 ,P.S. 103 Hector Fontanez ,Elementary ,Dual Language ,Spanish 
+11X103 ,P.S. 103 Hector Fontanez ,Elementary ,Transitional Bilingual Education ,Spanish 
+11X105 ,P.S. 105 Sen Abraham Bernstein ,Elementary ,Transitional Bilingual Education ,Spanish 
+11X127 ,J.H.S. 127 The Castle Hill ,Junior High-Intermediate-Middle ,Transitional Bilingual Education ,Arabic 
+11X127 ,J.H.S. 127 The Castle Hill ,Junior High-Intermediate-Middle ,Transitional Bilingual Education ,Bengali 
+11X127 ,J.H.S. 127 The Castle Hill ,Junior High-Intermediate-Middle ,Transitional Bilingual Education ,Spanish 
+11X370 ,Leaders of Tomorrow ,Junior High-Intermediate-Middle ,Dual Language ,Spanish 
+12X047 ,P.S. 047 John Randolph ,Elementary ,Transitional Bilingual Education ,Spanish 
+12X066 ,P.S. 066 School of Higher Expectations ,Elementary ,Transitional Bilingual Education ,Spanish 
+12X092 ,P.S. 092 Bronx ,Elementary ,Dual Language ,Spanish 
+12X098 ,J.H.S. 098 Herman Ridder ,Junior High-Intermediate-Middle ,Transitional Bilingual Education ,Spanish 
+12X150 ,P.S. 150 Charles James Fox ,Elementary ,Transitional Bilingual Education ,Spanish 
+12X195 ,P.S. 195 ,Elementary ,Transitional Bilingual Education ,Spanish 
+12X196 ,P.S. 196 ,Elementary ,Transitional Bilingual Education ,Spanish 
+12X211 ,P.S. 211 ,K-8 ,Transitional Bilingual Education ,Spanish 
+12X384 ,Entrada Academy ,Junior High-Intermediate-Middle ,Transitional Bilingual Education ,Spanish 
+12X458 ,Samara Community School ,Elementary ,Dual Language ,Spanish 
+12X463 ,Urban Scholars Community School ,Elementary ,Dual Language ,Spanish 
+12X536 ,P.S. 536 ,Elementary ,Transitional Bilingual Education ,Spanish 
+12X550 ,High School of World Cultures ,High school ,Dual Language ,Spanish 
+13K003 ,P.S. 003 The Bedford Village ,Elementary ,Dual Language ,French 
+13K009 ,P.S. 009 Teunis G. Bergen ,Elementary ,Dual Language ,Spanish 
+13K020 ,P.S. 020 Clinton Hill ,Elementary ,Dual Language ,French 
+13K046 ,P.S. 046 Edward C. Blum ,Elementary ,Dual Language ,Spanish 
+13K054 ,P.S. 054 Samuel C. Barnes ,Elementary ,Dual Language ,Spanish 
+13K113 ,M.S. 113 Ronald Edmonds Learning Center ,Junior High-Intermediate-Middle ,Dual Language ,French 
+13K113 ,M.S. 113 Ronald Edmonds Learning Center ,Junior High-Intermediate-Middle ,Dual Language ,Spanish 
+13K133 ,P.S. 133 William A. Butler ,Elementary ,Dual Language ,French 
+13K133 ,P.S. 133 William A. Butler ,Elementary ,Dual Language ,Spanish 
+14K018 ,P.S. 018 Edward Bush ,Elementary ,Dual Language ,Spanish 
+14K034 ,P.S. 034 Oliver H. Perry ,Elementary ,Dual Language ,Polish 
+14K050 ,J.H.S. 050 John D. Wells ,Junior High-Intermediate-Middle ,Transitional Bilingual Education ,Spanish 
+14K071 ,Juan Morel Campos Secondary School ,Secondary School ,Transitional Bilingual Education ,Yiddish 
+14K084 ,P.S. 084 Jose De Diego ,K-8 ,Dual Language ,Spanish 
+14K110 ,P.S. 110 The Monitor ,Elementary ,Dual Language ,French 
+14K147 ,P.S. 147 Isaac Remsen ,Elementary ,Dual Language ,Japanese 
+14K157 ,P.S./I.S. 157 The Benjamin Franklin Health & Scien ,K-8 ,Dual Language ,Spanish 
+14K196 ,P.S. 196 Ten Eyck ,Elementary ,Dual Language ,Spanish 
+14K250 ,P.S. 250 George H. Lindsay ,Elementary ,Dual Language ,Chinese 
+14K257 ,P.S. 257 John F. Hylan ,Elementary ,Transitional Bilingual Education ,Spanish 
+14K319 ,P.S. 319 ,Early Childhood ,Dual Language ,Spanish 
+14K380 ,P.S. 380 John Wayne Elementary ,Elementary ,Dual Language ,Spanish 
+14K380 ,P.S. 380 John Wayne Elementary ,Elementary ,Transitional Bilingual Education ,Yiddish 
+14K414 ,Brooklyn Arbor Elementary School ,Elementary ,Dual Language ,Spanish 
+14K454 ,The Williamsburg High School of Art and Technology ,High school ,Transitional Bilingual Education ,Spanish 
+14K474 ,PROGRESS High School for Professional Careers ,High school ,Transitional Bilingual Education ,Spanish 
+14K477 ,East Williamsburg Scholars Academy ,High school ,Transitional Bilingual Education ,Spanish 
+14K478 ,"The High School for Enterprise, Business and Techn ",High school ,Transitional Bilingual Education ,Spanish 
+15K001 ,P.S. 001 The Bergen ,Elementary ,Dual Language ,Spanish 
+15K001 ,P.S. 001 The Bergen ,Elementary ,Transitional Bilingual Education ,Spanish 
+15K015 ,P.S. 015 Patrick F. Daly ,Elementary ,Dual Language ,Spanish 
+15K024 ,P.S. 024 ,Elementary ,Dual Language ,Spanish 
+15K051 ,M.S. 51 William Alexander ,Junior High-Intermediate-Middle ,Dual Language ,French 
+15K058 ,P.S. 058 The Carroll ,Elementary ,Dual Language ,French 
+15K088 ,J.H.S. 088 Peter Rouget ,Junior High-Intermediate-Middle ,Dual Language ,Spanish 
+15K094 ,P.S. 094 The Henry Longfellow ,Elementary ,Dual Language ,Chinese 
+15K094 ,P.S. 094 The Henry Longfellow ,Elementary ,Dual Language ,Spanish 
+15K124 ,P.S. 124 Silas B. Dutcher ,Elementary ,Dual Language ,Spanish 
+15K131 ,P.S. 131 Brooklyn ,Elementary ,Transitional Bilingual Education ,Chinese 
+15K131 ,P.S. 131 Brooklyn ,Elementary ,Transitional Bilingual Education ,Spanish 
+15K136 ,I.S. 136 Charles O. Dewey ,Junior High-Intermediate-Middle ,Transitional Bilingual Education ,Spanish 
+15K169 ,P.S. 169 Sunset Park ,Elementary ,Dual Language ,Chinese 
+15K169 ,P.S. 169 Sunset Park ,Elementary ,Dual Language ,Spanish 
+15K169 ,P.S. 169 Sunset Park ,Elementary ,Transitional Bilingual Education ,Chinese 
+15K169 ,P.S. 169 Sunset Park ,Elementary ,Transitional Bilingual Education ,Spanish 
+15K230 ,P.S. 230 Doris L. Cohen ,Elementary ,Dual Language ,Spanish 
+15K497 ,The Boerum Hill School for International Studies ,Secondary School ,Dual Language ,French 
+15K516 ,Sunset Park Avenues Elementary School ,Elementary ,Dual Language ,Spanish 
+15K592 ,Khalil Gibran International Academy ,High school ,Transitional Bilingual Education ,Arabic 
+15K821 ,Sunset Park Prep ,Junior High-Intermediate-Middle ,Transitional Bilingual Education ,Spanish 
+16K627 ,Brighter Choice Community School ,Elementary ,Dual Language ,Spanish 
+17K061 ,M.S. 061 Dr. Gladstone H. Atwell ,Junior High-Intermediate-Middle ,Transitional Bilingual Education ,Haitian Creole 
+17K189 ,P.S. 189 The Bilingual Center ,K-8 ,Dual Language ,Haitian Creole 
+17K189 ,P.S. 189 The Bilingual Center ,K-8 ,Dual Language ,Spanish 
+17K246 ,M.S. 246 Walt Whitman ,Junior High-Intermediate-Middle ,Transitional Bilingual Education ,Haitian Creole 
+17K249 ,P.S. 249 The Caton ,Elementary ,Dual Language ,Spanish 
+17K375 ,P.S. 375 Jackie Robinson School ,Elementary ,Dual Language ,Spanish 
+17K600 ,Clara Barton High School ,High school ,Transitional Bilingual Education ,Haitian Creole 
+17K705 ,Brooklyn Arts and Science Elementary School ,Elementary ,Dual Language ,Spanish 
+18K068 ,I.S. 068 Isaac Bildersee ,Junior High-Intermediate-Middle ,Dual Language ,Haitian Creole 
+18K276 ,P.S. 276 Louis Marshall ,Elementary ,Dual Language ,Haitian Creole 
+19K007 ,P.S. 007 Abraham Lincoln ,Elementary ,Transitional Bilingual Education ,Spanish 
+19K065 ,P.S. 065 ,Elementary ,Transitional Bilingual Education ,Spanish 
+19K089 ,P.S. 089 Cypress Hills ,K-8 ,Dual Language ,Spanish 
+19K108 ,P.S. 108 Sal Abbracciamento ,Elementary ,Dual Language ,Spanish 
+19K159 ,P.S. 159 Isaac Pitkin ,Elementary ,Dual Language ,Spanish 
+19K159 ,P.S. 159 Isaac Pitkin ,Elementary ,Transitional Bilingual Education ,Bengali 
+19K159 ,P.S. 159 Isaac Pitkin ,Elementary ,Transitional Bilingual Education ,Spanish 
+19K171 ,I.S. 171 Abraham Lincoln ,Junior High-Intermediate-Middle ,Transitional Bilingual Education ,Spanish 
+19K214 ,P.S. 214 Michael Friedsam ,Elementary ,Dual Language ,Spanish 
+19K218 ,J.H.S. 218 James P. Sinnott ,Junior High-Intermediate-Middle ,Dual Language ,Spanish 
+19K290 ,P.S. 290 Juan Morel Campos ,Elementary ,Transitional Bilingual Education ,Spanish 
+19K345 ,P.S. 345 Patrolman Robert Bolden ,Elementary ,Dual Language ,Spanish 
+19K345 ,P.S. 345 Patrolman Robert Bolden ,Elementary ,Transitional Bilingual Education ,Spanish 
+19K404 ,Academy for Young Writers ,Secondary School ,Transitional Bilingual Education ,Spanish 
+19K504 ,High School for Civil Rights ,High school ,Transitional Bilingual Education ,Spanish 
+19K507 ,Performing Arts and Technology High School ,High school ,Transitional Bilingual Education ,Spanish 
+19K583 ,Multicultural High School ,High school ,Dual Language ,Spanish 
+19K583 ,Multicultural High School ,High school ,Transitional Bilingual Education ,Spanish 
+19K662 ,Liberty Avenue Middle School ,Junior High-Intermediate-Middle ,Dual Language ,Spanish 
+20K030 ,P.S./I.S. 30 Mary White Ovington ,K-8 ,Dual Language ,Arabic 
+20K030 ,P.S./I.S. 30 Mary White Ovington ,K-8 ,Transitional Bilingual Education ,Chinese 
+20K069 ,P.S. 69 Vincent D. Grippo School ,Elementary ,Transitional Bilingual Education ,Chinese 
+20K102 ,P.S. 102 The Bayview ,Elementary ,Transitional Bilingual Education ,Spanish 
+20K105 ,P.S. 105 The Blythebourne ,Elementary ,Transitional Bilingual Education ,Chinese 
+20K127 ,P.S. 127 Mckinley Park ,Elementary ,Transitional Bilingual Education ,Chinese 
+20K160 ,P.S. 160 William T. Sampson ,Elementary ,Transitional Bilingual Education ,Chinese 
+20K164 ,P.S. 164 Caesar Rodney ,Elementary ,Transitional Bilingual Education ,Chinese 
+20K164 ,P.S. 164 Caesar Rodney ,Elementary ,Transitional Bilingual Education ,Spanish 
+20K170 ,Ralph A. Fabrizio School ,Elementary ,Dual Language ,Chinese 
+20K176 ,P.S. 176 Ovington ,Elementary ,Transitional Bilingual Education ,Chinese 
+20K179 ,P.S. 179 Kensington ,Elementary ,Dual Language ,Spanish 
+20K180 ,The SEEALL Academy ,K-8 ,Transitional Bilingual Education ,Spanish 
+20K186 ,P.S. 186 Dr. Irving A Gladstone ,Elementary ,Transitional Bilingual Education ,Chinese 
+20K200 ,P.S. 200 Benson School ,Elementary ,Dual Language ,Russian 
+20K204 ,P.S. 204 Vince Lombardi ,Elementary ,Transitional Bilingual Education ,Chinese 
+20K205 ,P.S. 205 Clarion ,Elementary ,Transitional Bilingual Education ,Chinese 
+20K205 ,P.S. 205 Clarion ,Elementary ,Transitional Bilingual Education ,Yiddish 
+20K220 ,J.H.S. 220 John J. Pershing ,Junior High-Intermediate-Middle ,Dual Language ,Spanish 
+20K220 ,J.H.S. 220 John J. Pershing ,Junior High-Intermediate-Middle ,Transitional Bilingual Education ,Chinese 
+20K259 ,J.H.S. 259 William Mckinley ,Junior High-Intermediate-Middle ,Transitional Bilingual Education ,Arabic 
+20K310 ,The School For Future Leaders ,Elementary ,Transitional Bilingual Education ,Chinese 
+20K445 ,New Utrecht High School ,High school ,Transitional Bilingual Education ,Chinese 
+20K490 ,Fort Hamilton High School ,High school ,Transitional Bilingual Education ,Arabic 
+20K490 ,Fort Hamilton High School ,High school ,Transitional Bilingual Education ,Chinese 
+20K490 ,Fort Hamilton High School ,High school ,Transitional Bilingual Education ,Spanish 
+20K503 ,P.S. 503: The School of Discovery ,Elementary ,Dual Language ,Spanish 
+20K505 ,Franklin Delano Roosevelt High School ,High school ,Transitional Bilingual Education ,Chinese 
+20K505 ,Franklin Delano Roosevelt High School ,High school ,Transitional Bilingual Education ,Spanish 
+20K506 ,P.S. 506: The School of Journalism & Technology ,Elementary ,Dual Language ,Spanish 
+20K506 ,P.S. 506: The School of Journalism & Technology ,Elementary ,Transitional Bilingual Education ,Chinese 
+21K090 ,P.S. 90 Edna Cohen School ,Elementary ,Dual Language ,Spanish 
+21K097 ,P.S. 97 The Highlawn ,Elementary ,Transitional Bilingual Education ,Chinese 
+21K101 ,P.S. 101 The Verrazano ,Elementary ,Dual Language ,Chinese 
+21K225 ,P.S. K225 - The Eileen E. Zaglin ,K-8 ,Dual Language ,Russian 
+21K228 ,I.S. 228 David A. Boody ,Junior High-Intermediate-Middle ,Dual Language ,Chinese 
+21K228 ,I.S. 228 David A. Boody ,Junior High-Intermediate-Middle ,Dual Language ,Hebrew 
+21K228 ,I.S. 228 David A. Boody ,Junior High-Intermediate-Middle ,Dual Language ,Russian 
+21K228 ,I.S. 228 David A. Boody ,Junior High-Intermediate-Middle ,Dual Language ,Spanish 
+21K238 ,P.S. 238 Anne Sullivan ,K-8 ,Transitional Bilingual Education ,Spanish 
+21K281 ,I.S. 281 Joseph B Cavallaro ,Junior High-Intermediate-Middle ,Dual Language ,Chinese 
+21K281 ,I.S. 281 Joseph B Cavallaro ,Junior High-Intermediate-Middle ,Dual Language ,Spanish 
+21K525 ,Edward R. Murrow High School ,High school ,Transitional Bilingual Education ,Chinese 
+21K525 ,Edward R. Murrow High School ,High school ,Transitional Bilingual Education ,Spanish 
+21K540 ,John Dewey High School ,High school ,Transitional Bilingual Education ,Chinese 
+21K540 ,John Dewey High School ,High school ,Transitional Bilingual Education ,Spanish 
+22K139 ,P.S. 139 Alexine A. Fenty ,Elementary ,Dual Language ,Spanish 
+22K206 ,P.S. 206 Joseph F Lamb ,K-8 ,Dual Language ,Russian 
+22K217 ,P.S. 217 Colonel David Marcus School ,Elementary ,Transitional Bilingual Education ,Urdu 
+24Q005 ,I.S. 5 - The Walter Crowley Intermediate School ,Junior High-Intermediate-Middle ,Dual Language ,Spanish 
+24Q007 ,P.S. 007 Louis F. Simeone ,Early Childhood ,Dual Language ,Spanish 
+24Q012 ,P.S. 012 James B. Colgate ,Elementary ,Transitional Bilingual Education ,Spanish 
+24Q013 ,P.S. 013 Clement C. Moore ,Elementary ,Transitional Bilingual Education ,Spanish 
+24Q014 ,P.S. 014 Fairview ,Elementary ,Transitional Bilingual Education ,Spanish 
+24Q016 ,P.S. Q016 The Nancy DeBenedittis School ,Elementary ,Dual Language ,Spanish 
+24Q016 ,P.S. Q016 The Nancy DeBenedittis School ,Elementary ,Transitional Bilingual Education ,Spanish 
+24Q019 ,P.S. 019 Marino Jeantet ,Elementary ,Dual Language ,Spanish 
+24Q019 ,P.S. 019 Marino Jeantet ,Elementary ,Transitional Bilingual Education ,Spanish 
+24Q028 ,P.S. 28 - The Thomas Emanuel Early Childhood Cente ,Early Childhood ,Transitional Bilingual Education ,Spanish 
+24Q061 ,I.S. 061 Leonardo Da Vinci ,Junior High-Intermediate-Middle ,Dual Language ,Spanish 
+24Q061 ,I.S. 061 Leonardo Da Vinci ,Junior High-Intermediate-Middle ,Transitional Bilingual Education ,Spanish 
+24Q073 ,I.S. 73 - The Frank Sansivieri Intermediate School ,Junior High-Intermediate-Middle ,Dual Language ,Spanish 
+24Q081 ,P.S. 81Q Jean Paul Richter ,Elementary ,Transitional Bilingual Education ,Spanish 
+24Q089 ,P.S. 089 Elmhurst ,Elementary ,Dual Language ,Spanish 
+24Q093 ,I.S. 093 Ridgewood ,Junior High-Intermediate-Middle ,Dual Language ,Spanish 
+24Q102 ,P.S. 102 Bayview ,K-8 ,Dual Language ,Chinese 
+24Q110 ,P.S. 110 ,Elementary ,Dual Language ,Spanish 
+24Q143 ,P.S. 143 Louis Armstrong ,Elementary ,Dual Language ,Spanish 
+24Q143 ,P.S. 143 Louis Armstrong ,Elementary ,Transitional Bilingual Education ,Spanish 
+24Q211 ,Elm Tree Elementary School ,Elementary ,Dual Language ,Spanish 
+24Q311 ,Corona Arts & Sciences Academy ,Junior High-Intermediate-Middle ,Dual Language ,Spanish 
+24Q343 ,The Children's Lab School ,Elementary ,Transitional Bilingual Education ,Spanish 
+24Q455 ,Newtown High School ,High school ,Transitional Bilingual Education ,Chinese 
+24Q455 ,Newtown High School ,High school ,Transitional Bilingual Education ,Spanish 
+24Q485 ,Grover Cleveland High School ,High school ,Transitional Bilingual Education ,Spanish 
+24Q550 ,High School for Arts and Business ,High school ,Transitional Bilingual Education ,Spanish 
+25Q020 ,P.S. 020 John Bowne ,Elementary ,Dual Language ,Chinese 
+25Q020 ,P.S. 020 John Bowne ,Elementary ,Transitional Bilingual Education ,Chinese 
+25Q021 ,P.S. 021 Edward Hart ,Elementary ,Transitional Bilingual Education ,Chinese 
+25Q022 ,P.S. 022 Thomas Jefferson ,Elementary ,Transitional Bilingual Education ,Chinese 
+25Q024 ,P.S. 024 Andrew Jackson ,Elementary ,Transitional Bilingual Education ,Chinese 
+25Q029 ,P.S. 029 Queens ,Elementary ,Transitional Bilingual Education ,Spanish 
+25Q032 ,P.S. 032 State Street ,Elementary ,Dual Language ,Korean 
+25Q107 ,P.S. 107 Thomas A Dooley ,Elementary ,Dual Language ,Spanish 
+25Q107 ,P.S. 107 Thomas A Dooley ,Elementary ,Transitional Bilingual Education ,Chinese 
+25Q120 ,P.S. 120 Queens ,Elementary ,Transitional Bilingual Education ,Chinese 
+25Q163 ,P.S. 163 Flushing Heights ,Elementary ,Dual Language ,Chinese 
+25Q185 ,J.H.S. 185 Edward Bleeker ,Junior High-Intermediate-Middle ,Dual Language ,Chinese 
+25Q189 ,J.H.S. 189 Daniel Carter Beard ,Junior High-Intermediate-Middle ,Dual Language ,Chinese 
+25Q237 ,I.S. 237 ,Junior High-Intermediate-Middle ,Transitional Bilingual Education ,Chinese 
+25Q241 ,Queens High School for Language Studies ,High school ,Transitional Bilingual Education ,Chinese 
+25Q242 ,P.S. 242 Leonard P. Stavisky Early Childhood Schoo ,Early Childhood ,Transitional Bilingual Education ,Chinese 
+25Q244 ,The Active Learning Elementary School ,Early Childhood ,Transitional Bilingual Education ,Chinese 
+25Q425 ,John Bowne High School ,High school ,Transitional Bilingual Education ,Chinese 
+25Q425 ,John Bowne High School ,High school ,Transitional Bilingual Education ,Spanish 
+25Q460 ,Flushing High School ,High school ,Transitional Bilingual Education ,Spanish 
+26Q162 ,P.S. 162 John Golden ,Elementary ,Dual Language ,Chinese 
+26Q173 ,P.S. 173 Fresh Meadows ,Elementary ,Dual Language ,Chinese 
+26Q430 ,Francis Lewis High School ,High school ,Transitional Bilingual Education ,Chinese 
+27Q043 ,P.S. 043 ,K-8 ,Dual Language ,Spanish 
+27Q063 ,P.S. 063 Old South ,Elementary ,Transitional Bilingual Education ,Spanish 
+27Q064 ,P.S. 064 Joseph P. Addabbo ,Elementary ,Transitional Bilingual Education ,Bengali 
+27Q137 ,M.S. 137 America's School of Heroes ,Junior High-Intermediate-Middle ,Dual Language ,Spanish 
+27Q197 ,P.S. 197 The Ocean School ,Elementary ,Dual Language ,Spanish 
+27Q302 ,"Queens High School for Information, Research, and ",High school ,Transitional Bilingual Education ,Spanish 
+27Q362 ,Wave Preparatory Elementary School ,Elementary ,Transitional Bilingual Education ,Spanish 
+27Q475 ,Richmond Hill High School ,High school ,Transitional Bilingual Education ,Spanish 
+27Q480 ,John Adams High School ,High school ,Transitional Bilingual Education ,Bengali 
+27Q480 ,John Adams High School ,High school ,Transitional Bilingual Education ,Spanish 
+28Q082 ,P.S. 082 Hammond ,Elementary ,Transitional Bilingual Education ,Spanish 
+28Q086 ,P.S. Q086 ,Elementary ,Dual Language ,Spanish 
+28Q182 ,P.S. 182 Samantha Smith ,Elementary ,Transitional Bilingual Education ,Spanish 
+28Q190 ,J.H.S. 190 Russell Sage ,Junior High-Intermediate-Middle ,Transitional Bilingual Education ,Spanish 
+28Q505 ,Hillcrest High School ,High school ,Transitional Bilingual Education ,Bengali 
+28Q505 ,Hillcrest High School ,High school ,Transitional Bilingual Education ,Spanish 
+29Q095 ,P.S. 095 Eastwood ,Elementary ,Dual Language ,Spanish 
+29Q095 ,P.S. 095 Eastwood ,Elementary ,Transitional Bilingual Education ,Spanish 
+29Q131 ,P.S. 131 Abigail Adams ,Elementary ,Transitional Bilingual Education ,Bengali 
+29Q238 ,I.S. 238 - Susan B. Anthony Academy ,Junior High-Intermediate-Middle ,Transitional Bilingual Education ,Spanish 
+30Q011 ,P.S. 011 Kathryn Phelan ,Elementary ,Transitional Bilingual Education ,Spanish 
+30Q017 ,P.S. 017 Henry David Thoreau ,Elementary ,Dual Language ,Spanish 
+30Q070 ,P.S. 070 ,Elementary ,Transitional Bilingual Education ,Spanish 
+30Q076 ,P.S. 076 William Hallet ,Elementary ,Dual Language ,Spanish 
+30Q076 ,P.S. 076 William Hallet ,Elementary ,Transitional Bilingual Education ,Spanish 
+30Q092 ,P.S. 092 Harry T. Stewart Sr. ,Elementary ,Transitional Bilingual Education ,Spanish 
+30Q112 ,P.S. 112 Dutch Kills ,Elementary ,Dual Language ,Spanish 
+30Q127 ,P.S. 127 Aerospace Science Magnet School ,K-8 ,Dual Language ,Spanish 
+30Q127 ,P.S. 127 Aerospace Science Magnet School ,K-8 ,Transitional Bilingual Education ,Spanish 
+30Q145 ,I.S. 145 Joseph Pulitzer ,Junior High-Intermediate-Middle ,Dual Language ,Spanish 
+30Q145 ,I.S. 145 Joseph Pulitzer ,Junior High-Intermediate-Middle ,Transitional Bilingual Education ,Spanish 
+30Q148 ,P.S. 148 Queens ,Elementary ,Transitional Bilingual Education ,Spanish 
+30Q149 ,P.S. 149 Christa Mcauliffe ,Elementary ,Dual Language ,Spanish 
+30Q150 ,P.S. 150 Queens ,Elementary ,Dual Language ,Spanish 
+30Q152 ,P.S. 152 Gwendoline N. Alleyne School ,Elementary ,Transitional Bilingual Education ,Spanish 
+30Q166 ,P.S. 166 Henry Gradstein ,Elementary ,Dual Language ,Spanish 
+30Q204 ,I.S. 204 Oliver W. Holmes ,Junior High-Intermediate-Middle ,Dual Language ,Spanish 
+30Q212 ,P.S. 212 ,Elementary ,Dual Language ,Spanish 
+30Q222 ,P.S. Q222 - Fire Fighter Christopher A. Santora Sc ,Early Childhood ,Dual Language ,Spanish 
+30Q228 ,P.S. 228 Early Childhood Magnet School of the Arts ,Early Childhood ,Dual Language ,Spanish 
+30Q228 ,P.S. 228 Early Childhood Magnet School of the Arts ,Early Childhood ,Transitional Bilingual Education ,Spanish 
+30Q235 ,Academy for New Americans ,Junior High-Intermediate-Middle ,Transitional Bilingual Education ,Spanish 
+30Q280 ,P.S. 280 ,Elementary ,Dual Language ,Spanish 
+30Q329 ,East Elmhurst Community School ,Elementary ,Dual Language ,Spanish 
+30Q445 ,William Cullen Bryant High School ,High school ,Transitional Bilingual Education ,Spanish 
+30Q450 ,Long Island City High School ,High school ,Dual Language ,Spanish 
+30Q555 ,Newcomers High School ,High school ,Transitional Bilingual Education ,Chinese 
+30Q555 ,Newcomers High School ,High school ,Transitional Bilingual Education ,Spanish 
+31R016 ,P.S. 016 John J. Driscoll ,Elementary ,Dual Language ,Spanish 
+31R019 ,P.S. 019 The Curtis School ,Elementary ,Dual Language ,Spanish 
+31R020 ,P.S. 020 Port Richmond ,Elementary ,Dual Language ,Spanish 
+31R020 ,P.S. 020 Port Richmond ,Elementary ,Transitional Bilingual Education ,Spanish 
+31R022 ,P.S. 022 Graniteville ,Elementary ,Dual Language ,Spanish 
+31R022 ,P.S. 022 Graniteville ,Elementary ,Transitional Bilingual Education ,Spanish 
+31R041 ,The Stephanie A. Vierno School ,Elementary ,Dual Language ,Spanish 
+31R044 ,P.S. 044 Thomas C. Brown ,Elementary ,Dual Language ,Spanish 
+31R057 ,P.S. 057 Hubert H. Humphrey ,Elementary ,Transitional Bilingual Education ,Spanish 
+31R061 ,I.S. 061 William A Morris ,Junior High-Intermediate-Middle ,Dual Language ,Spanish 
+31R445 ,Port Richmond High School ,High school ,Dual Language ,Spanish 
+31R450 ,Curtis High School ,High school ,Transitional Bilingual Education ,Spanish 
+32K086 ,P.S. 086 The Irvington ,Elementary ,Dual Language ,Spanish 
+32K086 ,P.S. 086 The Irvington ,Elementary ,Transitional Bilingual Education ,Spanish 
+32K106 ,P.S. 106 Edward Everett Hale ,Elementary ,Transitional Bilingual Education ,Spanish 
+32K116 ,P.S. 116 Elizabeth L Farrell ,Elementary ,Dual Language ,Spanish 
+32K123 ,P.S. 123 Suydam ,Elementary ,Dual Language ,Spanish 
+32K145 ,P.S. 145 Andrew Jackson ,Elementary ,Dual Language ,Spanish 
+32K151 ,P.S. 151 Lyndon B. Johnson ,Elementary ,Dual Language ,Spanish 
+32K151 ,P.S. 151 Lyndon B. Johnson ,Elementary ,Transitional Bilingual Education ,Spanish 
+32K162 ,J.H.S. 162 The Willoughby ,Junior High-Intermediate-Middle ,Transitional Bilingual Education ,Spanish 
+32K274 ,P.S. 274 Kosciusko ,Elementary ,Dual Language ,Spanish 
+32K291 ,J.H.S. 291 Roland Hayes ,Junior High-Intermediate-Middle ,Transitional Bilingual Education ,Spanish 
+32K347 ,I.S. 347 School of Humanities ,Junior High-Intermediate-Middle ,Transitional Bilingual Education ,Spanish 
+32K349 ,"I.S. 349 Math, Science & Tech. ",Junior High-Intermediate-Middle ,Transitional Bilingual Education ,Spanish 
+32K377 ,P.S. 377 Alejandrina B. De Gautier ,K-8 ,Transitional Bilingual Education ,Spanish 
+32K384 ,P.S. /I.S. 384 Frances E. Carter ,K-8 ,Transitional Bilingual Education ,Spanish 
+32K403 ,Academy for Environmental Leadership ,High school ,Transitional Bilingual Education ,Spanish 
+32K545 ,EBC High School for Public Service - Bushwick ,High school ,Transitional Bilingual Education ,Spanish 
+32K562 ,Evergreen Middle School for Urban Exploration ,Junior High-Intermediate-Middle ,Transitional Bilingual Education ,Spanish 
+75K231 ,P.S. K231 ,K-8 ,Transitional Bilingual Education ,Chinese 
+75K370 ,P.S. 370 ,K-12 all grades ,Transitional Bilingual Education ,Yiddish 
+75K373 ,P.S. 373 - Brooklyn Transition Center ,High school ,Dual Language ,Spanish 
+75K373 ,P.S. 373 - Brooklyn Transition Center ,High school ,Transitional Bilingual Education ,Spanish 
+75K396 ,P.S. K396 ,K-8 ,Transitional Bilingual Education ,Yiddish 
+75K721 ,P.S. K721 - Brooklyn Occupational Training Center ,High school ,Transitional Bilingual Education ,Chinese 
+75K721 ,P.S. K721 - Brooklyn Occupational Training Center ,High school ,Transitional Bilingual Education ,Spanish 
+75K721 ,P.S. K721 - Brooklyn Occupational Training Center ,High school ,Transitional Bilingual Education ,Yiddish 
+75K811 ,P.S. K811 Connie Lekas School ,Secondary School ,Transitional Bilingual Education ,Spanish 
+75M079 ,P.S. M079 - Horan School ,Secondary School ,Dual Language ,Spanish 
+75M079 ,P.S. M079 - Horan School ,Secondary School ,Transitional Bilingual Education ,Spanish 
+75M751 ,Manhattan School for Career Development ,High school ,Transitional Bilingual Education ,Spanish 
+75Q255 ,P.S. Q255 ,K-12 all grades ,Transitional Bilingual Education ,Spanish 
+75Q721 ,John F. Kennedy Jr. School ,High school ,Dual Language ,Spanish 
+75Q721 ,John F. Kennedy Jr. School ,High school ,Transitional Bilingual Education ,Spanish 
+75Q811 ,P.S. Q811 ,K-12 all grades ,Transitional Bilingual Education ,Spanish 
+75X010 ,P.S. X010 ,K-12 all grades ,Transitional Bilingual Education ,Spanish 
+75X017 ,P.S. X017 ,K-8 ,Transitional Bilingual Education ,Spanish 
+75X168 ,P.S. 168 ,K-12 all grades ,Transitional Bilingual Education ,Spanish 
+75X176 ,P.S. X176 ,K-12 all grades ,Transitional Bilingual Education ,Spanish 
+75X186 ,P186X Walter J. Damrosch School ,K-12 all grades ,Dual Language ,Spanish 
+75X186 ,P186X Walter J. Damrosch School ,K-12 all grades ,Transitional Bilingual Education ,Spanish 
+75X469 ,P469X - The Bronx School for Continuous Learners ,K-8 ,Transitional Bilingual Education ,Spanish 
+75X721 ,P.S. X721 - Stephen McSweeney School ,High school ,Transitional Bilingual Education ,Spanish 
+75X754 ,J. M. Rapport School Career Development ,High school ,Transitional Bilingual Education ,Spanish 
+75X811 ,P.S. X811 ,Secondary School ,Transitional Bilingual Education ,Spanish 
+79M973 ,Restart Academy ,K-12 all grades ,Transitional Bilingual Education ,Spanish 
+79Q950 ,Pathways to Graduation ,HSE ,Transitional Bilingual Education ,Spanish 

@@ -1,0 +1,566 @@
+DBN,Community School District,City Council District,School Name,# of students in grades 6-8,# of students in grades 6-8 who have completed at least one semester of health instruction,%,# of 8th graders,# of 8th graders who have completed at least one semester of health instruction,%2
+01M034,1,2,P.S. 034 Franklin D. Roosevelt,177,177,1,50,50,1
+01M140,1,1,P.S. 140 Nathan Straus,189,s,s,68,s,s
+01M184,1,1,P.S. 184m Shuang Wen,221,54,0.2442999929,52,s,s
+01M188,1,2,P.S. 188 The Island School,177,s,s,61,s,s
+01M292,1,1,Orchard Collegiate Academy,25,11,0.4399999976,s,s,s
+01M301,1,2,"Technology, Arts, and Sciences Studio",158,48,0.3037999868,54,48,0.888899982
+01M332,1,1,University Neighborhood Middle School,115,s,s,36,s,s
+01M345,1,1,"Collaborative Academy of Science, Technology, & Language-Arts Education",105,25,0.2381000072,32,s,s
+01M378,1,1,School for Global Leaders,261,171,0.6552000046,80,79,0.9875000119
+01M450,1,2,East Side Community School,291,55,0.1889999956,92,19,0.2064999938
+01M539,1,2,"New Explorations into Science, Technology and Math High School",403,137,0.3400000036,137,137,1
+01M839,1,2,Tompkins Square Middle School,367,s,s,120,s,s
+02M104,2,2,J.H.S. 104 Simon Baruch,1118,863,0.7718999982,351,348,0.99150002
+02M111,2,3,P.S. 111 Adolph S. Ochs,52,48,0.9230999947,52,48,0.9230999947
+02M114,2,5,East Side Middle School,442,s,s,152,s,s
+02M126,2,1,P.S. 126 Jacob August Riis,337,248,0.7358999848,107,105,0.9812999964
+02M131,2,1,M.S. 131,421,209,0.4963999987,141,14,0.0992999971
+02M167,2,4,J.H.S. 167 Robert F. Wagner,1350,s,s,483,s,s
+02M177,2,5,Yorkville East Middle School,136,s,s,s,s,s
+02M217,2,5,P.S./I.S. 217 Roosevelt Island,63,s,s,s,s,s
+02M225,2,5,Ella Baker School,74,s,s,27,s,s
+02M255,2,2,M.S. 255 Salk School of Science,377,s,s,126,s,s
+02M260,2,2,M.S. 260 Clinton School Writers & Artists,280,279,0.9963999987,96,95,0.9896000028
+02M276,2,1,Battery Park City School,250,250,1,66,66,1
+02M289,2,1,I.S. 289,287,s,s,90,s,s
+02M312,2,3,New York City Lab Middle School for Collaborative Studies,550,183,0.3327000141,183,183,1
+02M347,2,2,The 47 American Sign Language & English Lower School,29,s,s,11,s,s
+02M397,2,1,Spruce Street School,61,s,s,s,s,s
+02M407,2,2,Institute for Collaborative Education,205,s,s,73,s,s
+02M408,2,3,Professional Performing Arts High School,92,s,s,32,s,s
+02M413,2,2,School of the Future High School,299,289,0.9666000009,99,95,0.9595999718
+02M422,2,3,Quest to Learn,312,312,1,119,119,1
+02M442,2,2,"Ballet Tech, NYC Public School for Dance",68,23,0.3382000029,23,23,1
+02M655,2,5,Life Sciences Secondary School,85,s,s,43,s,s
+02M896,2,1,Lower Manhattan Community Middle School,392,s,s,127,s,s
+02M933,2,3,City Knoll Middle School,161,85,0.5279999971,s,s,s
+03M054,3,7,J.H.S. 054 Booker T. Washington,840,s,s,280,s,s
+03M076,3,9,P.S. 076 A. Philip Randolph,166,105,0.6324999928,59,55,0.9322000146
+03M149,3,9,P.S. 149 Sojourner Truth,81,48,0.592599988,30,27,0.8999999762
+03M165,3,7,P.S. 165 Robert E. Simon,199,195,0.9799000025,84,84,1
+03M180,3,9,P.S. 180 Hugo Newman,173,s,s,56,s,s
+03M191,3,6,P.S. 191 Amsterdam,137,s,s,55,s,s
+03M243,3,6,M.S. 243 Center School,169,s,s,52,s,s
+03M245,3,6,M.S. M245 The Computer School,399,130,0.3258000016,131,130,0.9923999906
+03M247,3,6,M.S. M247 Dual Language Middle School,200,s,s,66,s,s
+03M250,3,6,M.S. 250 West Side Collaborative Middle School,178,s,s,61,s,s
+03M256,3,6,M.S. 256 Academic & Athletic Excellence,145,31,0.2137999982,47,s,s
+03M258,3,6,Community Action School - MS 258,236,228,0.9660999775,92,88,0.9564999938
+03M291,3,6,West End Secondary School,138,s,s,s,s,s
+03M333,3,6,P.S. 333 Manhattan School for Children,169,s,s,57,s,s
+03M334,3,6,The Anderson School,225,135,0.6000000238,62,61,0.9839000106
+03M415,3,9,Wadleigh Secondary School for the Performing & Visual Arts,s,s,s,s,s,s
+03M421,3,7,West Prep Academy,192,133,0.6927000284,59,s,s
+03M859,3,6,Special Music School,46,s,s,s,s,s
+03M860,3,9,Frederick Douglass Academy II Secondary School,68,27,0.3971000016,34,23,0.6765000224
+03M862,3,7,Mott Hall II,345,s,s,114,s,s
+04M007,4,8,P.S. 007 Samuel Stern,137,s,s,39,s,s
+04M012,4,8,Tag Young Scholars,169,163,0.96450001,52,48,0.9230999947
+04M050,4,8,P.S. 050 Vito Marcantonio,88,88,1,s,s,s
+04M057,4,8,James Weldon Johnson,290,287,0.9897000194,99,98,0.9898999929
+04M072,4,8,The Lexington Academy,171,s,s,s,s,s
+04M096,4,8,P.S. 096 Joseph Lanzetta,171,s,s,58,s,s
+04M108,4,8,P.S. 108 Assemblyman Angelo Del Toro Educational Complex,283,167,0.5900999904,96,84,0.875
+04M171,4,8,P.S. 171 Patrick Henry,291,s,s,100,s,s
+04M206,4,8,P.S. 206 Jose Celso Barbosa,195,135,0.6923000216,68,68,1
+04M224,4,8,M.S. 224 Manhattan East School for Arts & Academics,164,s,s,69,s,s
+04M372,4,8,Esperanza Preparatory Academy,259,14,0.0540999994,101,s,s
+04M377,4,8,Renaissance School of the Arts,161,55,0.3416000009,57,31,0.543900013
+04M381,4,8,Global Neighborhood Secondary School,107,87,0.8130999804,52,52,1
+04M406,4,8,Global Technology Preparatory,157,61,0.388500005,60,59,0.9832999706
+04M610,4,8,Young Women's Leadership School,158,s,s,54,s,s
+04M825,4,8,Isaac Newton Middle School for Math & Science,226,s,s,91,s,s
+04M964,4,8,Central Park East II,s,s,s,s,s,s
+05M046,5,9,P.S. 046 Arthur Tappan,204,195,0.9559000134,71,71,1
+05M123,5,9,P.S. 123 Mahalia Jackson,174,s,s,62,s,s
+05M129,5,9,P.S. 129 John H. Finley,151,75,0.4966999888,63,13,0.2063000053
+05M148,5,9,Eagle Academy for Young Men of Harlem,193,115,0.5958999991,74,65,0.8784000278
+05M161,5,9,P.S. 161 Pedro Albizu Campos,359,354,0.986100018,122,121,0.9918000102
+05M286,5,7,Urban Assembly Academy for Future Leaders,150,s,s,s,s,s
+05M302,5,9,KAPPA IV,155,155,1,61,61,1
+05M362,5,7,Columbia Secondary School,289,s,s,98,s,s
+05M410,5,7,The Urban Assembly Institute for New Technologies,113,s,s,48,s,s
+05M499,5,9,Frederick Douglass Academy,274,106,0.3869000077,103,101,0.9805999994
+05M514,5,7,New Design Middle School,219,s,s,99,s,s
+05M670,5,9,Thurgood Marshall Academy for Learning and Social Change,171,s,s,58,s,s
+06M018,6,10,P.S. 018 Park Terrace,141,42,0.2978999913,s,s,s
+06M052,6,10,J.H.S. 052 Inwood,431,408,0.9466000199,174,151,0.8677999973
+06M143,6,10,J.H.S. 143 Eleanor Roosevelt,356,149,0.4185000062,140,140,1
+06M187,6,10,P.S./I.S. 187 Hudson Cliffs,283,171,0.6042000055,83,78,0.939800024
+06M209,6,7,Hamilton Grange Middle School,163,s,s,s,s,s
+06M210,6,7,P.S./I.S. 210 - Twenty-first Century Academy for Community Leadership,151,s,s,47,s,s
+06M218,6,10,I.S. 218 Salome Urena,235,228,0.9702000022,99,99,1
+06M223,6,9,The Mott Hall School,270,s,s,90,s,s
+06M278,6,10,Paula Hedbavny School,196,128,0.6531000137,60,60,1
+06M293,6,10,City College Academy of the Arts,261,s,s,87,s,s
+06M311,6,10,Amistad Dual Language School,133,133,1,47,47,1
+06M319,6,10,M.S. 319 - Maria Teresa,528,11,0.0208000001,186,s,s
+06M322,6,10,Middle School 322,323,200,0.6191999912,115,115,1
+06M324,6,10,M.S. 324 - Patria Mirabal,464,68,0.1465999931,167,35,0.2096000016
+06M326,6,10,M.S. 326 - Writers Today & Leaders Tomorrow,193,30,0.1553999931,98,s,s
+06M328,6,10,M.S. 328 - Manhattan Middle School for Scientific Inquiry,162,148,0.9136000276,71,62,0.8731999993
+06M346,6,7,Community Health Academy of the Heights,277,s,s,99,s,s
+06M348,6,10,Washington Heights Expeditionary Learning School,255,255,1,89,89,1
+06M349,6,10,Harbor Heights,155,s,s,66,s,s
+06M366,6,10,Washington Heights Academy,112,s,s,s,s,s
+06M528,6,10,I.S. 528 Bea Fuller Rodgers School,199,s,s,68,s,s
+07X005,7,8,P.S. 5 Port Morris,260,s,s,93,s,s
+07X029,7,17,P.S./M.S. 029 Melrose School,275,263,0.9563999772,96,95,0.9896000028
+07X031,7,17,P.S./M.S. 031 The William Lloyd Garrison,261,s,s,95,s,s
+07X151,7,17,J.H.S. 151 Lou Gehrig,258,95,0.3682000041,100,89,0.8899999857
+07X162,7,17,J.H.S. 162 Lola Rodriguez De Tio,369,16,0.0434000008,128,14,0.1093999967
+07X221,7,8,South Bronx Preparatory: A College Board School,293,s,s,103,s,s
+07X223,7,8,M.S. 223 The Laboratory School of Finance and Technology,289,226,0.7820000052,99,95,0.9595999718
+07X224,7,8,P.S./I.S. 224,379,13,0.0342999995,129,s,s
+07X296,7,17,South Bronx Academy for Applied Media,336,289,0.8600999713,125,93,0.7440000176
+07X298,7,17,Academy of Public Relations,305,305,1,127,127,1
+07X343,7,8,Academy of Applied Mathematics and Technology,298,s,s,98,s,s
+07X500,7,17,Hostos-Lincoln Academy of Science,185,87,0.470299989,67,63,0.9402999878
+07X551,7,8,The Urban Assembly Bronx Academy of Letters,260,171,0.6577000022,93,93,1
+08X071,8,13,P.S. 071 Rose E. Scala,562,374,0.6654999852,174,174,1
+08X101,8,13,M.S. X101 Edward R. Byrne,486,s,s,160,s,s
+08X123,8,18,J.H.S. 123 James M. Kieran,352,215,0.6108000278,138,109,0.7899000049
+08X125,8,18,J.H.S. 125 Henry Hudson,379,378,0.9973999858,161,160,0.9937999845
+08X131,8,18,J.H.S. 131 Albert Einstein,530,144,0.2716999948,212,14,0.0659999996
+08X269,8,17,Bronx Studio School for Writers and Artists,260,32,0.1230999976,85,11,0.1294
+08X301,8,16,M.S. 301 Paul L. Dunbar,221,74,0.334800005,79,70,0.8860999942
+08X302,8,17,M.S. 302 Luisa Dessus Cruz,485,15,0.0308999997,170,10,0.0588000007
+08X337,8,18,The School for Inquiry and Social Justice,471,302,0.641200006,116,115,0.9914000034
+08X366,8,13,Urban Assembly Academy of Civic Engagement,90,79,0.8777999878,48,42,0.875
+08X367,8,18,"Archimedes Academy for Math, Science and Technology Applications",280,165,0.5892999768,98,88,0.8980000019
+08X371,8,13,Urban Institute of Mathematics,292,s,s,90,s,s
+08X375,8,18,The Bronx Mathematics Preparatory School,257,201,0.7821000218,105,87,0.8285999894
+08X376,8,18,Antonia Pantoja Preparatory Academy: A College Board School,189,70,0.3704000115,73,68,0.9315000176
+08X424,8,17,The Hunts Point School,312,265,0.8493999839,103,83,0.8058000207
+08X448,8,18,Soundview Academy for Culture and Scholarship,366,366,1,125,125,1
+08X467,8,13,Mott Hall Community School,258,13,0.0504000001,81,s,s
+08X562,8,18,Blueprint Middle School,308,305,0.9902999997,108,107,0.9907000065
+09X004,9,15,P.S./M.S. 004 Crotona Park West,173,41,0.2370000035,64,s,s
+09X022,9,16,J.H.S. 022 Jordan L. Mott,424,s,s,150,s,s
+09X117,9,14,I.S. 117 Joseph H. Wade,580,125,0.2154999971,208,18,0.0864999965
+09X128,9,16,Mott Hall III,364,233,0.6401000023,119,118,0.991599977
+09X145,9,16,J.H.S. 145 Arturo Toscanini,304,s,s,115,s,s
+09X215,9,16,Kappa,252,21,0.0833000019,105,11,0.1048000008
+09X218,9,16,P.S./I.S. 218 Rafael Hernandez Dual Language Magnet School,275,174,0.632700026,89,89,1
+09X219,9,16,I.S. 219 New Venture School,315,s,s,102,s,s
+09X229,9,16,I.S. 229 Roland Patterson,260,45,0.1730999947,93,44,0.4731000066
+09X231,9,15,Eagle Academy for Young Men,229,45,0.1965000033,89,45,0.5055999756
+09X232,9,14,I.S. 232,520,10,0.0192000009,193,s,s
+09X241,9,16,"Urban Assembly School for Applied Math and Science, The",257,256,0.9961000085,83,82,0.9879999757
+09X303,9,14,I.S. X303 Leadership & Community Service,319,172,0.5392000079,98,91,0.9286000133
+09X313,9,16,I.S. 313 School of Leadership Development,313,21,0.0671000034,110,16,0.1455000043
+09X323,9,16,Bronx Writing Academy,465,12,0.0258000009,168,10,0.0595000014
+09X324,9,16,Bronx Early College Academy for Teaching & Learning,216,214,0.9907000065,71,71,1
+09X325,9,16,Urban Science Academy,289,s,s,106,s,s
+09X327,9,14,Comprehensive Model School Project M.S. 327,293,98,0.3345000148,97,s,s
+09X328,9,16,New Millennium Business Academy Middle School,183,55,0.3005000055,51,s,s
+09X339,9,16,I.S. 339,507,248,0.489199996,161,83,0.5155000091
+09X350,9,16,New Directions Secondary School,153,94,0.6144000292,68,68,1
+09X361,9,16,The Highbridge Green School,385,29,0.0753000006,120,s,s
+09X413,9,16,Bronx High School for Medical Science,160,s,s,58,s,s
+09X454,9,16,Science and Technology Academy: A Mott Hall School,431,s,s,144,s,s
+09X505,9,16,"Bronx School for Law, Government and Justice",287,267,0.9302999973,95,86,0.9053000212
+09X568,9,14,Young Women's Leadership School of the Bronx,245,245,1,80,80,1
+10X003,10,15,P.S. 3 Raul Julia Micro Society,111,s,s,s,s,s
+10X015,10,14,P.S. X015 Institute for Environmental Learning,182,11,0.0604000017,54,s,s
+10X020,10,11,"P.S./M.S. 20 P.O.George J. Werdann, III",302,92,0.3046000004,89,89,1
+10X037,10,11,P.S. X037 - Multiple Intelligence School,188,s,s,61,s,s
+10X045,10,15,Thomas C. Giordano Middle School 45,739,387,0.5236999989,263,81,0.3079999983
+10X080,10,11,J.H.S. 080 The Mosholu Parkway,655,s,s,219,s,s
+10X086,10,11,P.S. 086 Kingsbridge Heights,213,125,0.5868999958,s,s,s
+10X095,10,11,P.S. 095 Sheila Mencher,437,304,0.6956999898,148,147,0.9932000041
+10X118,10,15,J.H.S. 118 William W. Niles,1157,25,0.0216000006,390,s,s
+10X141,10,11,Riverdale / Kingsbridge Academy (Middle School / High School 141),717,618,0.861899972,223,184,0.8251000047
+10X206,10,14,I.S. 206 Ann Mersereau,244,56,0.2294999957,109,s,s
+10X225,10,15,Theatre Arts Production Company School,201,187,0.9302999973,69,59,0.8550999761
+10X228,10,15,Jonas Bronck Academy,263,175,0.6654000282,87,87,1
+10X243,10,15,West Bronx Academy for the Future,241,130,0.5393999815,77,28,0.3635999858
+10X244,10,14,The New School for Leadership and Journalism,761,337,0.4427999854,320,31,0.0969000012
+10X254,10,15,I.S. 254,474,171,0.360799998,143,s,s
+10X279,10,14,"P.S. 279 Captain Manuel Rivera, Jr.",375,153,0.4079999924,127,109,0.8582999706
+10X280,10,11,P.S./M.S. 280 Mosholu Parkway,296,175,0.5911999941,96,87,0.9063000083
+10X308,10,11,Bronx Dance Academy School,271,s,s,93,s,s
+10X315,10,14,P.S. 315 Lab School,106,65,0.6132000089,50,39,0.7799999714
+10X331,10,14,The Bronx School of Young Leaders,398,s,s,129,s,s
+10X342,10,11,International School for Liberal Arts,158,59,0.3734000027,59,59,1
+10X363,10,14,Academy For Personal Leadership And Excellence,454,267,0.5881000161,155,147,0.9484000206
+10X368,10,11,In-Tech Academy (M.S. / High School 368),450,303,0.6733000278,152,136,0.8946999907
+10X390,10,14,M.S. 390,445,s,s,110,s,s
+10X391,10,15,The Angelo Patri Middle School,506,s,s,154,s,s
+10X447,10,14,Creston Academy,480,s,s,166,s,s
+10X459,10,14,East Fordham Academy for the Arts,343,51,0.1486999989,152,50,0.3289000094
+11X019,11,11,P.S. 019 Judith K. Weiss,161,110,0.6832000017,s,s,s
+11X083,11,13,P.S. 083 Donald Hertz,672,s,s,222,s,s
+11X089,11,13,P.S. 089 Bronx,516,s,s,175,s,s
+11X127,11,18,J.H.S. 127 The Castle Hill,769,519,0.6748999953,271,271,1
+11X144,11,13,J.H.S. 144 Michelangelo,495,s,s,186,s,s
+11X175,11,13,P.S. 175 City Island,117,s,s,34,s,s
+11X180,11,12,M.S. 180 Dr. Daniel Hale Williams,873,561,0.6425999999,303,288,0.9505000114
+11X181,11,12,I.S. 181 Pablo Casals,865,283,0.3271999955,277,274,0.989199996
+11X194,11,18,P.S./M.S. 194,466,s,s,155,s,s
+11X272,11,12,Globe School for Environmental Research,206,67,0.3251999915,84,13,0.1547999978
+11X287,11,12,North Bronx School of Empowerment,242,131,0.5412999988,100,14,0.1400000006
+11X289,11,12,The Young Scholars Academy of The Bronx,304,109,0.3585999906,115,106,0.9217000008
+11X326,11,13,Bronx Green Middle School,394,265,0.6725999713,134,134,1
+11X355,11,12,Bronx Alliance Middle School,362,s,s,124,s,s
+11X370,11,12,Leaders of Tomorrow,231,51,0.2207999974,69,51,0.7390999794
+11X462,11,12,Cornerstone Academy for Social Action Middle School (CASA),251,72,0.2869000137,79,72,0.9114000201
+11X468,11,13,Pelham Academy of Academics and Community Engagement,354,135,0.3813999891,133,132,0.9925000072
+11X498,11,13,P.S./M.S. 11X498 - VAN NEST ACADEMY,279,s,s,90,s,s
+11X529,11,12,One World Middle School at Edenwald,329,s,s,111,s,s
+11X532,11,12,Baychester Middle School,296,87,0.293900013,96,49,0.5103999972
+11X556,11,13,Bronx Park Middle School,398,s,s,129,s,s
+11X566,11,13,Pelham Gardens Middle School,471,s,s,168,s,s
+12X098,12,17,J.H.S. 098 Herman Ridder,191,107,0.560199976,68,10,0.1471000016
+12X129,12,15,M.S. 129 Academy for Independent Learning and Leadership,532,347,0.6523000002,171,163,0.9531999826
+12X190,12,17,E.S.M.T- I.S. 190,244,s,s,82,s,s
+12X211,12,17,P.S. 211,239,146,0.6108999848,104,76,0.730799973
+12X212,12,17,P.S. 212,204,201,0.9853000045,72,71,0.986100018
+12X214,12,17,P.S. 214,441,239,0.5419999957,139,114,0.8201000094
+12X217,12,17,School of Performing Arts,303,10,0.0329999998,100,s,s
+12X242,12,18,Mott Hall V,301,s,s,101,s,s
+12X267,12,16,Bronx Latin,247,156,0.6316000223,91,s,s
+12X271,12,17,East Bronx Academy for the Future,260,s,s,82,s,s
+12X273,12,15,Frederick Douglass Academy V. Middle School,263,161,0.6122000217,93,86,0.9247000217
+12X286,12,17,Fannie Lou Hamer Middle School,272,s,s,86,s,s
+12X316,12,15,Kappa III,367,243,0.6621000171,120,120,1
+12X318,12,17,"I.S. X318 Math, Science & Technology Through Arts",288,s,s,87,s,s
+12X341,12,17,Accion Academy,152,101,0.6644999981,64,59,0.9218999743
+12X372,12,17,Urban Assembly School for Wildlife Conservation,215,s,s,65,s,s
+12X383,12,17,Emolior Academy,251,83,0.3307000101,87,82,0.9424999952
+12X384,12,17,Entrada Academy,266,170,0.6391000152,98,82,0.8367000222
+13K008,13,33,P.S. 008 Robert Fulton,213,s,s,54,s,s
+13K113,13,35,M.S. 113 Ronald Edmonds Learning Center,397,10,0.0252,168,s,s
+13K265,13,35,Dr. Susan S. McKinney Secondary School of the Arts,s,s,s,s,s,s
+13K266,13,39,M.S. K266 - Park Place Community Middle School,133,s,s,s,s,s
+13K282,13,39,P.S. 282 Park Slope,318,111,0.3490999937,122,s,s
+13K301,13,36,Satellite East Middle School,93,30,0.3226000071,29,29,1
+13K313,13,33,Dock Street School,73,28,0.3835999966,32,27,0.8438000083
+13K351,13,35,The Urban Assembly Unison School,152,81,0.5328999758,59,59,1
+13K492,13,35,Academy of Arts and Letters,175,s,s,57,s,s
+13K527,13,33,Urban Assembly Institute of Math and Science for Young Women,167,70,0.4192000031,58,s,s
+13K596,13,33,M.S. 596 Peace Academy,47,28,0.5957000256,18,18,1
+13K691,13,35,Fort Greene Preparatory Academy,236,155,0.6567999721,79,74,0.9366999865
+14K050,14,34,J.H.S. 050 John D. Wells,211,93,0.4408000112,93,50,0.5375999808
+14K071,14,33,Juan Morel Campos Secondary School,238,207,0.8697000146,89,74,0.8314999938
+14K084,14,34,P.S. 084 Jose De Diego,133,s,s,s,s,s
+14K126,14,33,John Ericsson Middle School 126,369,222,0.6015999913,100,91,0.9100000262
+14K157,14,33,P.S./I.S. 157 The Benjamin Franklin Health & Science Academy,177,146,0.8248999715,54,42,0.7778000236
+14K318,14,33,I.S. 318 Eugenio Maria De Hostos,1474,104,0.070600003,501,76,0.1517000049
+14K330,14,36,The School for the Urban Environment,73,s,s,s,s,s
+14K577,14,34,Conselyea Preparatory School,506,s,s,171,s,s
+14K582,14,34,M.S. 582,244,243,0.9958999753,77,76,0.9869999886
+14K586,14,34,Lyons Community School,179,73,0.407799989,72,69,0.9582999945
+14K614,14,34,Young Women's Leadership School of Brooklyn,134,131,0.9775999784,44,42,0.9545000196
+15K051,15,39,M.S. 51 William Alexander,1124,366,0.3255999982,375,s,s
+15K088,15,38,J.H.S. 088 Peter Rouget,1258,739,0.5874000192,410,370,0.9024000168
+15K136,15,38,I.S. 136 Charles O. Dewey,503,117,0.2326000035,186,63,0.3386999965
+15K429,15,33,Digital Arts and Cinema Technology High School,54,s,s,s,s,s
+15K442,15,39,M.S. 442 Carroll Gardens School for Innovation,214,s,s,74,s,s
+15K443,15,38,New Voices School of Academic & Creative Arts,538,s,s,170,s,s
+15K447,15,33,The Math & Science Exploratory School,524,337,0.6431000233,170,163,0.9588000178
+15K448,15,39,Brooklyn Secondary School for Collaborative Studies,264,s,s,93,s,s
+15K464,15,39,Park Slope Collegiate,171,51,0.2982000113,45,39,0.8666999936
+15K497,15,33,The Boerum Hill School for International Studies,167,26,0.1556999981,30,s,s
+15K821,15,38,Sunset Park Prep,517,510,0.9865000248,177,172,0.9718000293
+15K839,15,39,M.S. 839,s,s,s,s,s,s
+16K035,16,36,M.S. 035 Stephen Decatur,165,49,0.2969999909,60,48,0.8000000119
+16K057,16,36,J.H.S. 057 Whitelaw Reid,171,55,0.3215999901,54,54,1
+16K262,16,36,P.S. 262 El Hajj Malik El Shabazz Elementary School,168,s,s,63,s,s
+16K267,16,36,"M.S. 267 Math, Science & Technology",173,71,0.4104000032,73,69,0.945200026
+16K308,16,36,P.S. 308 Clara Cardwell,167,62,0.3713000119,62,61,0.9839000106
+16K385,16,36,"School of Business, Finance and Entrepreneurship",58,44,0.7585999966,s,s,s
+16K534,16,36,Upper School @ P.S. 25,85,43,0.5059000254,38,38,1
+16K584,16,36,M.S. 584,93,s,s,37,s,s
+16K681,16,36,Madiba Prep Middle School,171,119,0.695900023,76,74,0.9736999869
+17K002,17,40,Parkside Preparatory Academy,479,427,0.8913999796,165,130,0.787899971
+17K061,17,40,M.S. 061 Dr. Gladstone H. Atwell,800,500,0.625,242,239,0.9876000285
+17K138,17,36,P.S. 138 Brooklyn,278,s,s,89,s,s
+17K161,17,35,P.S. 161 The Crown,s,s,s,s,s,s
+17K181,17,45,P.S. 181 Brooklyn,265,156,0.5886999965,92,65,0.7064999938
+17K189,17,41,P.S. 189 The Bilingual Center,397,s,s,146,s,s
+17K246,17,40,M.S. 246 Walt Whitman,491,363,0.7393000126,206,135,0.6553000212
+17K334,17,36,Middle School for Academic and Social Excellence,74,s,s,40,s,s
+17K340,17,35,I.S. 340,202,196,0.9703000188,56,51,0.9107000232
+17K352,17,35,Ebbets Field Middle School,192,89,0.4634999931,91,88,0.9670000076
+17K353,17,35,Elijah Stroud Middle School,206,189,0.9175000191,99,90,0.9090999961
+17K354,17,36,The School of Integrated Learning,212,s,s,80,s,s
+17K382,17,40,Academy for College Preparation and Career Exploration: A College Board School,133,76,0.5713999867,53,42,0.7925000191
+17K394,17,36,M.S. K394,189,181,0.9577000141,77,72,0.935100019
+17K484,17,41,Ronald Edmonds Learning Center II,137,83,0.605799973,50,46,0.9200000167
+17K531,17,40,"School for Human Rights, The",s,s,s,s,s,s
+17K533,17,40,School for Democracy and Leadership,s,s,s,s,s,s
+17K543,17,40,"Science, Technology and Research Early College High School at Erasmus",193,s,s,60,s,s
+17K590,17,35,Medgar Evers College Preparatory School,309,s,s,93,s,s
+17K722,17,41,New Heights Middle School,275,s,s,99,s,s
+18K066,18,42,P.S. 66,315,304,0.9650999904,109,103,0.9449999928
+18K068,18,46,I.S. 068 Isaac Bildersee,480,s,s,212,s,s
+18K211,18,46,I.S. 211 John Wilson,590,471,0.7983000278,225,196,0.8711000085
+18K235,18,41,P.S. 235 Janice Marie Knight School,294,82,0.2788999975,82,82,1
+18K285,18,45,I.S. 285 Meyer Levin,712,237,0.3328999877,300,161,0.5367000103
+18K366,18,46,The Science And Medicine Middle School,489,54,0.1103999987,173,54,0.3120999932
+18K581,18,41,East Flatbush Community Research School,134,64,0.4776000082,s,s,s
+18K588,18,41,Middle School for Art and Philosophy,221,97,0.4388999939,94,94,1
+18K598,18,41,Middle School of Marketing and Legal Studies,187,s,s,74,s,s
+18K763,18,45,Brooklyn Science and Engineering Academy,148,147,0.9932000041,s,s,s
+19K089,19,37,P.S. 089 Cypress Hills,178,177,0.9944000244,63,63,1
+19K171,19,37,I.S. 171 Abraham Lincoln,552,297,0.5379999876,256,20,0.0781000033
+19K218,19,42,J.H.S. 218 James P. Sinnott,436,299,0.6858000159,184,184,1
+19K292,19,42,J.H.S. 292 Margaret S. Douglas,637,106,0.1664000005,239,92,0.3849000037
+19K306,19,42,P.S. 306 Ethan Allen,151,68,0.4503000081,56,33,0.5892999768
+19K311,19,42,Essence School,114,s,s,s,s,s
+19K364,19,42,I.S. 364 Gateway,307,188,0.6123999953,102,58,0.568599999
+19K404,19,42,Academy for Young Writers,199,199,1,69,69,1
+19K409,19,42,East New York Family Academy,207,s,s,69,s,s
+19K422,19,46,Spring Creek Community School,221,s,s,73,s,s
+19K452,19,42,Frederick Douglass Academy VIII Middle School,305,300,0.9836000204,99,97,0.9797999859
+19K654,19,42,Van Siclen Community Middle School,314,170,0.5414000154,114,18,0.1579000056
+19K661,19,37,Vista Academy,359,135,0.3759999871,129,129,1
+19K662,19,37,Liberty Avenue Middle School,436,400,0.9174000025,153,143,0.9345999956
+19K663,19,42,School of the Future Brooklyn,154,110,0.7142999768,55,12,0.2181999981
+19K678,19,42,East New York Middle School of Excellence,254,166,0.6535000205,86,s,s
+19K760,19,37,Highland Park Community School,207,103,0.4975999892,s,s,s
+20K030,20,43,P.S./I.S. 30 Mary White Ovington,403,403,1,150,150,1
+20K062,20,40,J.H.S. 062 Ditmas,1196,692,0.5785999894,442,s,s
+20K104,20,43,P.S./I.S. 104 The Fort Hamilton School,491,478,0.9735000134,160,159,0.9937999845
+20K163,20,43,P.S. 163 Bath Beach,232,115,0.4957000017,69,56,0.8116000295
+20K180,20,44,The SEEALL Academy,503,s,s,154,s,s
+20K187,20,38,The Christa McAuliffe School\I.S. 187,992,710,0.7156999707,368,367,0.9973000288
+20K192,20,44,P.S. 192 - The Magnet School for Math and Science Inquiry,178,s,s,59,59,1
+20K201,20,43,J.H.S. 201 The Dyker Heights,1484,1464,0.9865000248,475,474,0.9979000092
+20K220,20,38,J.H.S. 220 John J. Pershing,1441,980,0.6801000237,460,112,0.2434999943
+20K223,20,44,J.H.S. 223 The Montauk,1013,590,0.5824000239,343,294,0.8571000099
+20K227,20,38,J.H.S. 227 Edward B. Shallow,1313,1164,0.886500001,446,429,0.9618999958
+20K229,20,43,P.S. 229 Dyker,321,190,0.591899991,91,91,1
+20K259,20,43,J.H.S. 259 William Mckinley,1621,591,0.3646000028,495,495,1
+20K609,20,44,Urban Assembly School for Criminal Justice,197,127,0.6446999907,s,s,s
+20K686,20,44,Brooklyn School of Inquiry,154,s,s,s,s,s
+21K095,21,47,P.S. 095 The Gravesend,141,s,s,50,s,s
+21K096,21,44,I.S. 096 Seth Low,669,390,0.5830000043,234,11,0.0469999984
+21K098,21,48,I.S. 98 Bay Academy,1486,1463,0.9844999909,465,456,0.9805999994
+21K099,21,44,P.S. 099 Isaac Asimov,249,249,1,76,76,1
+21K121,21,44,P.S. 121 Nelson A. Rockefeller,85,85,1,31,31,1
+21K209,21,48,P.S. 209 Margaret Mead,180,115,0.638899982,68,65,0.9559000134
+21K225,21,48,P.S. K225 - The Eileen E. Zaglin,387,s,s,140,s,s
+21K226,21,44,P.S. 226 Alfred De B.Mason,296,s,s,90,s,s
+21K228,21,47,I.S. 228 David A. Boody,1372,905,0.6596000195,417,390,0.9352999926
+21K238,21,44,P.S. 238 Anne Sullivan,172,69,0.4011999965,47,44,0.9362000227
+21K239,21,47,Mark Twain I.S. 239 for the Gifted & Talented,1333,1034,0.7756999731,477,416,0.8720999956
+21K281,21,47,I.S. 281 Joseph B Cavallaro,1191,767,0.6439999938,416,384,0.9230999947
+21K288,21,47,P.S. 288 The Shirley Tanyhill,s,s,s,s,s,s
+21K303,21,47,I.S. 303 Herbert S. Eisenberg,506,s,s,188,s,s
+21K468,21,47,Kingsborough Early College School,237,s,s,56,s,s
+21K690,21,47,Brooklyn Studio Secondary School,255,88,0.3450999856,87,87,1
+22K014,22,48,J.H.S. 014 Shell Bank,560,559,0.9981999993,194,194,1
+22K078,22,46,J.H.S. 078 Roy H. Mann,653,428,0.6553999782,258,255,0.9883999825
+22K109,22,45,P.S. 109,266,265,0.9962000251,s,s,s
+22K206,22,48,P.S. 206 Joseph F Lamb,358,224,0.6256999969,114,112,0.9825000167
+22K207,22,46,P.S. 207 Elizabeth G. Leary,407,261,0.6413000226,113,112,0.9911999702
+22K234,22,48,J.H.S. 234 Arthur W. Cunningham,1991,1586,0.7965999842,638,524,0.8213000298
+22K240,22,45,Andries Hudde,843,498,0.5906999707,301,157,0.521600008
+22K278,22,46,J.H.S. 278 Marine Park,935,11,0.0118000004,323,s,s
+22K381,22,48,I. S. 381,304,129,0.4242999852,112,86,0.7678999901
+23K041,23,42,P.S. 041 Francis White,159,159,1,40,40,1
+23K137,23,41,P.S./I.S. 137 Rachel Jean Mitchell,95,29,0.3052999973,34,s,s
+23K155,23,37,P.S./ I.S. 155 Nicholas Herkimer,137,137,1,56,56,1
+23K165,23,42,P.S. 165 Ida Posner,115,39,0.3391000032,35,34,0.9714000225
+23K178,23,41,P.S. 178 Saint Clair Mckelway,110,s,s,50,s,s
+23K184,23,42,P.S. 184 Newport,124,17,0.1370999962,s,s,s
+23K284,23,41,"The Gregory Jocko Jackson School of Sports, Art, and Technology",201,189,0.9402999878,84,83,0.9880999923
+23K323,23,41,P.S./I.S. 323,184,35,0.190200001,60,33,0.5500000119
+23K327,23,41,P.S. 327 Dr. Rose B. English,152,57,0.375,63,s,s
+23K363,23,37,Brownsville Collaborative Middle School,99,68,0.6869000196,s,s,s
+23K392,23,41,I.S. 392,257,s,s,62,s,s
+23K518,23,42,Kappa V (Knowledge and Power Preparatory Academy),189,118,0.6243000031,58,58,1
+23K522,23,41,Mott Hall IV,183,118,0.6448000073,80,77,0.9624999762
+23K644,23,41,Eagle Academy for Young Men II,256,s,s,99,s,s
+23K664,23,37,Brooklyn Environmental Exploration School (BEES),113,s,s,44,s,s
+23K668,23,42,Riverdale Avenue Middle School,114,65,0.570200026,44,39,0.8863999844
+23K671,23,41,Mott Hall Bridges Academy,199,190,0.9548000097,66,58,0.8787999749
+23K697,23,41,Teachers Preparatory High School,71,45,0.6338000298,24,22,0.9167000055
+24Q005,24,25,I.S. 5 - The Walter Crowley Intermediate School,1828,764,0.417899996,595,525,0.8823999763
+24Q049,24,30,P.S. 049 Dorothy Bonawit Kole,386,s,s,112,s,s
+24Q058,24,30,P.S. 58 - The School of Heroes,127,112,0.8819000125,s,s,s
+24Q061,24,21,I.S. 061 Leonardo Da Vinci,2207,57,0.0258000009,812,39,0.0480000004
+24Q073,24,30,I.S. 73 - The Frank Sansivieri Intermediate School,2000,969,0.4844999909,680,376,0.5529000163
+24Q077,24,34,I.S. 077,1027,386,0.3759000003,356,119,0.3343000114
+24Q087,24,30,P.S./I.S. 087 Middle Village,175,109,0.6229000092,s,s,s
+24Q093,24,30,I.S. 093 Ridgewood,1143,1006,0.8801000118,366,293,0.8004999757
+24Q102,24,25,P.S. 102 Bayview,382,380,0.9947999716,117,117,1
+24Q113,24,30,P.S./I.S. 113 Anthony J. Pranzo,363,11,0.0303000007,110,s,s
+24Q119,24,30,I.S. 119 The Glendale,701,13,0.0185000002,242,s,s
+24Q125,24,26,I.S. 125 Thom J. McCann Woodside,1498,403,0.2689999938,551,329,0.5971000195
+24Q128,24,30,"P.S. 128 The Lorraine Tuzzo, Juniper Valley Elementary School",305,199,0.6524999738,93,93,1
+24Q153,24,30,P.S. 153 Maspeth Elem,146,s,s,s,s,s
+24Q311,24,21,Corona Arts and Sciences Academy,300,147,0.4900000095,90,33,0.3666999936
+24Q560,24,26,"Robert F. Wagner, Jr. Secondary School for Arts and Technology",114,s,s,s,s,s
+25Q025,25,19,I.S. 025 Adrien Block,873,11,0.0126,277,s,s
+25Q164,25,24,P.S. 164 Queens Valley,242,240,0.9916999936,68,68,1
+25Q185,25,19,J.H.S. 185 Edward Bleeker,1567,28,0.0178999994,551,s,s
+25Q189,25,20,J.H.S. 189 Daniel Carter Beard,693,690,0.9957000017,219,216,0.9862999916
+25Q194,25,19,J.H.S. 194 William Carr,1120,1049,0.9366000295,351,338,0.9629999995
+25Q200,25,24,P.S./M.S. 200 - The Pomonok School & STAR Academy,158,s,s,45,s,s
+25Q219,25,24,P.S. 219 Paul Klapper,253,s,s,83,s,s
+25Q237,25,20,I.S. 237,1261,1124,0.8913999796,428,365,0.8528000116
+25Q250,25,24,I.S. 250 The Robert F. Kennedy Community Middle School,391,236,0.6036000252,114,100,0.8772000074
+25Q252,25,24,"Queens School of Inquiry, The",235,215,0.9149000049,79,59,0.7468000054
+25Q281,25,20,East-West School of International Studies,320,101,0.3156000078,98,98,1
+25Q285,25,19,World Journalism Preparatory: A College Board School,232,155,0.6680999994,80,79,0.9875000119
+25Q294,25,19,BELL Academy,367,367,1,96,96,1
+25Q499,25,24,"The Queens College School for Math, Science and Technology",167,161,0.9641000032,56,56,1
+26Q067,26,19,J.H.S. 067 Louis Pasteur,897,802,0.8941000104,287,193,0.6725000143
+26Q074,26,23,J.H.S. 074 Nathaniel Hawthorne,1124,379,0.337199986,364,s,s
+26Q158,26,19,M.S. 158 Marie Curie,1086,373,0.3434999883,372,367,0.9865999818
+26Q172,26,23,Irwin Altman Middle School 172,986,s,s,341,s,s
+26Q178,26,23,P.S./ IS 178 Holliswood,185,s,s,64,s,s
+26Q216,26,24,J.H.S. 216 George J. Ryan,1417,478,0.3373000026,472,472,1
+26Q266,26,23,P.S./I.S. 266,229,s,s,80,s,s
+27Q042,27,31,P.S./M.S 042 R. Vernam,214,144,0.6729000211,68,68,1
+27Q043,27,31,P.S. 043,245,140,0.5713999867,69,57,0.8260999918
+27Q045,27,28,P.S. 045 Clarence Witherspoon,29,s,s,s,s,s
+27Q047,27,32,P.S. 047 Chris Galas,49,s,s,s,s,s
+27Q053,27,31,M.S. 053 Brian Piccolo,317,170,0.5363000035,105,54,0.5142999887
+27Q105,27,31,P.S. 105 The Bay School,261,85,0.3257000148,91,83,0.9121000171
+27Q114,27,32,P.S./M.S. 114 Belle Harbor,110,s,s,s,s,s
+27Q124,27,28,P.S. 124 Osmond A Church,488,309,0.6331999898,180,164,0.9110999703
+27Q137,27,32,M.S. 137 America's School of Heroes,1917,1305,0.6808000207,636,636,1
+27Q146,27,32,P.S. 146 Howard Beach,205,204,0.9951000214,67,66,0.9850999713
+27Q183,27,31,P.S. 183 Dr. Richard R. Green,174,139,0.7989000082,45,45,1
+27Q202,27,32,J.H.S. 202 Robert H. Goddard,1060,951,0.8971999884,349,289,0.8281000257
+27Q207,27,32,P.S. 207 Rockwood Park,231,144,0.6233999729,71,71,1
+27Q210,27,32,J.H.S. 210 Elizabeth Blackwell,1882,1722,0.9150000215,654,632,0.9664000273
+27Q226,27,28,J.H.S. 226 Virgil I. Grissom,934,279,0.2987000048,339,252,0.7433999777
+27Q232,27,32,P.S. 232 Lindenwood,299,183,0.6119999886,87,87,1
+27Q262,27,32,Channel View School for Research,232,92,0.396600008,58,s,s
+27Q282,27,31,Knowledge and Power Preparatory Academy VI,259,250,0.9653000236,87,82,0.9424999952
+27Q297,27,28,Hawtree Creek Middle School,361,90,0.2493000031,s,s,s
+27Q309,27,31,Academy of Medical Technology: A College Board School,209,199,0.9521999955,74,71,0.9595000148
+27Q318,27,32,Waterside School For Leadership,215,40,0.1860000044,67,39,0.5820999742
+27Q319,27,31,Village Academy,330,s,s,118,s,s
+27Q323,27,32,Scholars' Academy,756,734,0.9708999991,263,252,0.9581999779
+27Q333,27,31,Goldie Maple Academy,124,s,s,44,s,s
+28Q008,28,27,J.H.S. 008 Richard S. Grossley,368,254,0.6901999712,137,115,0.8393999934
+28Q072,28,28,Catherine & Count Basie Middle School 72,609,186,0.3054000139,289,100,0.3459999859
+28Q099,28,29,P.S. 099 Kew Gardens,79,s,s,s,s,s
+28Q101,28,29,P.S. 101 School in the Gardens,25,s,s,s,s,s
+28Q157,28,29,J.H.S. 157 Stephen A. Halsey,1521,1427,0.9381999969,503,454,0.9025999904
+28Q167,28,29,Metropolitan Expeditionary Learning School,368,s,s,116,s,s
+28Q190,28,29,J.H.S. 190 Russell Sage,1051,1005,0.9562000036,364,323,0.8873999715
+28Q217,28,24,J.H.S. 217 Robert A. Van Wyck,1621,1036,0.6391000152,579,514,0.8877000213
+28Q284,28,27,York Early College Academy,278,183,0.6582999825,94,91,0.9681000113
+28Q287,28,27,The Emerson School,346,210,0.6068999767,105,90,0.8571000099
+28Q310,28,24,Queens Collegiate: A College Board School,240,151,0.6291999817,83,s,s
+28Q332,28,28,Redwood Middle School,201,s,s,s,s,s
+28Q358,28,24,M.S. 358,123,s,s,s,s,s
+28Q680,28,24,Queens Gateway to Health Sciences Secondary School,274,183,0.6679000258,91,91,1
+28Q896,28,24,"Young Women's Leadership School, Queens",236,159,0.673699975,s,s,s
+29Q059,29,27,I.S. 059 Springfield Gardens,556,405,0.728399992,183,151,0.8251000047
+29Q109,29,23,Jean Nuzzi Intermediate School,991,343,0.3461000025,345,339,0.9825999737
+29Q116,29,27,P.S./I.S. 116 William C. Hughley,169,s,s,43,s,s
+29Q138,29,31,P.S./M.S. 138 Sunrise,314,178,0.5669000149,94,76,0.8084999919
+29Q147,29,27,P.S./M.S. 147 Ronald McNair,220,70,0.3181999922,69,69,1
+29Q192,29,27,I.S. 192 The Linden,522,436,0.8352000117,177,171,0.9660999775
+29Q208,29,23,P.S./I.S. 208,269,s,s,87,s,s
+29Q238,29,27,I.S. 238 - Susan B. Anthony Academy,1522,884,0.5807999969,519,393,0.7572000027
+29Q259,29,27,Pathways College Preparatory School: A College Board School,213,s,s,58,s,s
+29Q268,29,27,P.S./I.S. 268,183,s,s,52,s,s
+29Q270,29,31,The Gordon Parks School,239,138,0.5774000287,71,71,1
+29Q283,29,31,Preparatory Academy for Writers: A College Board School,165,s,s,53,s,s
+29Q289,29,31,Queens United Middle School,239,229,0.9581999779,79,79,1
+29Q295,29,23,P.S./I.S. 295,183,111,0.6065999866,53,48,0.9057000279
+29Q327,29,27,Eagle Academy for Young Men III,234,234,1,75,75,1
+29Q355,29,31,Collaborative Arts Middle School,400,14,0.0350000001,149,s,s
+29Q356,29,31,Community Voices Middle School,375,371,0.9893000126,153,151,0.986899972
+30Q010,30,22,I.S. 010 Horace Greeley,794,743,0.9358000159,300,298,0.9933000207
+30Q011,30,26,P.S. 011 Kathryn Phelan,145,143,0.986199975,s,s,s
+30Q078,30,26,P.S./I.S. 78Q,96,91,0.9478999972,29,29,1
+30Q084,30,22,P.S. 084 Steinway,14,14,1,s,s,s
+30Q111,30,26,P.S. 111 Jacob Blackwell,98,33,0.3366999924,34,32,0.9412000179
+30Q122,30,22,P.S. 122 Mamie Fay,284,284,1,92,92,1
+30Q126,30,22,Albert Shanker School for Visual and Performing Arts,580,209,0.3603000045,207,207,1
+30Q127,30,21,P.S. 127 Aerospace Science Magnet School,397,391,0.9848999977,127,125,0.9843000174
+30Q141,30,22,I.S. 141 The Steinway,1148,755,0.6577000022,387,387,1
+30Q145,30,25,I.S. 145 Joseph Pulitzer,1945,1173,0.6031000018,684,511,0.7470999956
+30Q150,30,26,P.S. 150 Queens,104,53,0.5095999837,s,s,s
+30Q204,30,26,I.S. 204 Oliver W. Holmes,485,455,0.9380999804,171,166,0.9707999825
+30Q227,30,21,I.S. 227 Louis Armstrong,1386,1055,0.7612000108,457,168,0.3675999939
+30Q230,30,25,I.S. 230,1204,1123,0.9326999784,334,294,0.8802000284
+30Q235,30,22,Academy for New Americans,207,s,s,68,s,s
+30Q286,30,22,"Young Women's Leadership School, Astoria",243,79,0.3251000047,78,78,1
+30Q291,30,26,Hunters Point Community Middle School,369,10,0.0271000005,122,s,s
+30Q300,30,22,The 30th Avenue School (G&T Citywide),75,s,s,s,s,s
+30Q580,30,26,Baccalaureate School for Global Education,186,92,0.494599998,80,45,0.5625
+31R002,31,50,I.S. R002 George L. Egbert,819,557,0.6801000237,259,208,0.8030999899
+31R007,31,51,I.S. 007 Elias Bernstein,1191,s,s,411,s,s
+31R024,31,51,I.S. 024 Myra S. Barnes,1292,887,0.6865000129,454,443,0.9757999778
+31R027,31,49,I.S. 027 Anning S. Prall,1038,644,0.6204000115,373,321,0.8605999947
+31R028,31,49,The Eagle Academy for Young Men of Staten Island,124,39,0.3145000041,s,s,s
+31R034,31,51,I.S. 034 Tottenville,1170,1122,0.9589999914,387,356,0.9199000001
+31R048,31,50,P.S. 048 William G. Wilcox,315,s,s,s,s,s
+31R049,31,49,I.S. 49 Berta A. Dreyfus,785,476,0.606400013,279,216,0.7742000222
+31R051,31,50,I.S. 051 Edwin Markham,1284,875,0.6815000176,468,346,0.7393000126
+31R061,31,49,I.S. 061 William A Morris,1108,752,0.6786999702,384,341,0.8880000114
+31R063,31,51,Marsh Avenue School for Expeditionary Learning,437,s,s,137,s,s
+31R072,31,51,I.S. 072 Rocco Laurie,1326,848,0.6395000219,437,413,0.9451000094
+31R075,31,51,I.S. 075 Frank D. Paulo,1386,973,0.7020000219,470,344,0.7318999767
+31R080,31,50,The Michael J. Petrides School,284,s,s,s,s,s
+31R861,31,49,Staten Island School of Civic Leadership,298,10,0.0335999988,97,s,s
+32K045,32,37,P.S./I.S. 045 Horace E. Greene,201,s,s,60,s,s
+32K162,32,34,J.H.S. 162 The Willoughby,472,408,0.8644000292,168,152,0.9047999978
+32K291,32,37,J.H.S. 291 Roland Hayes,345,228,0.6608999968,128,115,0.8984000087
+32K347,32,34,I.S. 347 School of Humanities,300,s,s,109,s,s
+32K349,32,34,"I.S. 349 Math, Science & Tech.",305,111,0.3639000058,122,111,0.909799993
+32K377,32,37,P.S. 377 Alejandrina B. De Gautier,162,99,0.611100018,54,52,0.9629999995
+32K383,32,37,J.H.S. 383 Philippa Schuyler,894,26,0.0291000009,283,25,0.0882999972
+32K384,32,37,P.S. /I.S. 384 Frances E. Carter,203,202,0.9951000214,79,79,1
+32K554,32,37,All City Leadership Secondary School,181,62,0.3425000012,61,61,1
+32K562,32,37,Evergreen Middle School for Urban Exploration,302,291,0.9635999799,111,101,0.9099000096
+75K036,75,42,P.S. 36,89,89,1,26,26,1
+75K053,75,38,P.S. K053,118,s,s,48,s,s
+75K077,75,48,P.S. K077,57,s,s,20,s,s
+75K140,75,36,P.S. K140,96,94,0.9792000055,30,30,1
+75K141,75,40,P.S. K141,151,s,s,60,s,s
+75K231,75,44,P.S. K231,58,s,s,25,s,s
+75K368,75,36,P.S. 368,87,47,0.540199995,31,21,0.6773999929
+75K369,75,33,P.S. K369 - Coy L. Cox School,188,85,0.4521000087,62,36,0.5806000233
+75K370,75,48,P.S. 370,68,s,s,11,s,s
+75K372,75,39,P.S. 372 -The Children's School,s,s,s,s,s,s
+75K396,75,41,P.S. K396,91,s,s,s,s,s
+75K721,75,47,P.S. K721 - Brooklyn Occupational Training Center,s,s,s,s,s,s
+75K771,75,48,P.S. K771,95,60,0.6316000223,25,18,0.7200000286
+75K811,75,48,P.S. K811 Connie Lekas School,45,12,0.2666999996,19,10,0.5263000131
+75M035,75,3,P.S. 035,s,s,s,s,s,s
+75M079,75,9,P.S. M079 - Horan School,s,s,s,s,s,s
+75M094,75,1,P.S. M094,69,s,s,26,s,s
+75M138,75,9,P.S. 138,138,10,0.0724999979,54,s,s
+75M169,75,4,P.S. M169 - Robert F. Kennedy,117,15,0.1281999946,45,s,s
+75M226,75,2,P.S. M226,62,s,s,21,s,s
+75M721,75,3,P.S. M721 - Manhattan Occupational Training Center,s,s,s,s,s,s
+75M811,75,6,P.S. M811 - Mickey Mantle School,95,23,0.2421000004,34,10,0.2940999866
+75Q004,75,23,P.S. Q004,62,62,1,10,10,1
+75Q009,75,30,P.S. 009,204,162,0.7940999866,73,62,0.8493000269
+75Q023,75,23,P.S. Q023 @ Queens Children Center,75,16,0.2133000046,34,12,0.3528999984
+75Q075,75,34,Robert E. Peary School,154,37,0.2402999997,s,s,s
+75Q177,75,20,P.S. Q177,137,40,0.2919999957,59,10,0.1694999933
+75Q224,75,23,P.S. Q224,73,35,0.4794999957,20,11,0.5500000119
+75Q233,75,29,P.S. Q233,81,s,s,s,s,s
+75Q255,75,24,P.S. Q255,85,s,s,s,s,s
+75Q277,75,26,The Riverview School,67,s,s,25,s,s
+75Q811,75,23,P.S. Q811,45,45,1,22,22,1
+75Q993,75,23,P.S. Q993,79,63,0.7975000143,34,24,0.7059000134
+75R025,75,51,South Richmond High School I.S./P.S. 25,178,140,0.7864999771,56,45,0.8036000133
+75R037,75,51,P.S. R037,62,s,s,10,s,s
+75R373,75,49,P.S. R373,41,40,0.9756000042,s,s,s
+75R721,75,49,The Richard H. Hungerford School,113,70,0.6194999814,42,24,0.5713999867
+75X010,75,13,P.S. X010,107,s,s,27,s,s
+75X012,75,13,P.S. X012 Lewis and Clark School,67,66,0.9850999713,33,32,0.9696999788
+75X017,75,17,P.S. X017,143,133,0.9301000237,64,63,0.9843999743
+75X168,75,8,P.S. 168,150,s,s,46,s,s
+75X176,75,12,P.S. X176,229,s,s,66,s,s
+75X186,75,16,P186X Walter J. Damrosch School,212,30,0.1414999962,63,s,s
+75X188,75,15,P.S. X188,201,s,s,s,s,s
+75X352,75,17,The Vida Bogart School for All Children,s,s,s,s,s,s
+75X723,75,12,P.S. 723,168,41,0.2440000027,54,16,0.296299994
+75X754,75,8,J. M. Rapport School Career Development,s,s,s,s,s,s
+75X811,75,17,P.S. X811,s,s,s,s,s,s

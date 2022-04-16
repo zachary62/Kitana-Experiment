@@ -1,0 +1,1840 @@
+DBN,Site ID,School Name,Year,Total Enrollment (Half Day & Full Day),#Female,%Female,#Male,%Male,#Asian,%Asian,#Black,%Black,#Hispanic,%Hispanic,#Other,%Other,#White,%White
+01M015,01M015,P.S. 15 Roberto Clemente,2017-18,17,9,52.9%,8,47.1%,s,s,8,47.1%,6,35.3%,s,s,s,s
+01M019,01M019,P.S. 19 Asher Levy,2017-18,13,s,s,s,s,s,s,s,s,12,92.3%,s,s,s,s
+01M020,01M020,P.S. 20 Anna Silver,2017-18,34,19,55.9%,15,44.1%,s,s,s,s,21,61.8%,s,s,s,s
+01M034,01M034,P.S. 34 Franklin D. Roosevelt,2017-18,13,s,s,s,s,s,s,s,s,7,53.8%,s,s,s,s
+01M063,01M063,The STAR Academy - P.S. 63,2017-18,26,12,46.2%,14,53.8%,s,s,6,23.1%,13,50.0%,s,s,s,s
+01M064,01M064,P.S. 64 Robert Simon,2017-18,35,20,57.1%,15,42.9%,s,s,7,20.0%,27,77.1%,s,s,s,s
+01M110,01M110,P.S. 110 Florence Nightingale,2017-18,30,12,40.0%,18,60.0%,s,s,s,s,15,50.0%,s,s,10,33.3%
+01M134,01M134,P.S. 134 Henrietta Szold,2017-18,20,9,45.0%,11,55.0%,s,s,s,s,15,75.0%,s,s,s,s
+01M140,01M140,P.S. 140 Nathan Straus,2017-18,18,11,61.1%,7,38.9%,s,s,s,s,13,72.2%,s,s,s,s
+01M142,01M142,P.S. 142 Amalia Castro,2017-18,32,16,50.0%,16,50.0%,s,s,s,s,25,78.1%,s,s,s,s
+01M184,01M184,P.S. 184 Shuang Wen,2017-18,35,16,45.7%,19,54.3%,22,62.9%,s,s,9,25.7%,s,s,s,s
+01M188,01M188,P.S. 188 The Island School,2017-18,19,9,47.4%,10,52.6%,s,s,7,36.8%,10,52.6%,s,s,s,s
+01M315,01M315,The East Village Community School,2017-18,36,19,52.8%,17,47.2%,s,s,s,s,8,22.2%,s,s,19,52.8%
+01M361,01M361,The Children's Workshop School,2017-18,36,22,61.1%,14,38.9%,s,s,s,s,16,44.4%,s,s,12,33.3%
+01M363,01M363,Neighborhood School,2017-18,18,11,61.1%,7,38.9%,s,s,s,s,6,33.3%,s,s,10,55.6%
+01M364,01M364,Earth School,2017-18,35,19,54.3%,16,45.7%,s,s,s,s,13,37.1%,s,s,13,37.1%
+01M700,MAZS,"Educational Alliance, Inc. at P.S. 142",2017-18,10,s,s,s,s,s,s,s,s,8,80.0%,s,s,s,s
+01M700,MAZB,Evolution Enrichment Center,2017-18,25,12,48.0%,13,52.0%,s,s,s,s,13,52.0%,s,s,s,s
+01M700,MATO,Dewitt Reformed Church Head Start,2017-18,32,11,34.4%,21,65.6%,s,s,7,21.9%,22,68.8%,s,s,s,s
+01M700,MAXZ,Henry Street Settlement Day Care,2017-18,23,8,34.8%,15,65.2%,10,43.5%,s,s,8,34.8%,s,s,s,s
+01M700,MAGR,Saint Brigid School,2017-18,33,19,57.6%,14,42.4%,s,s,8,24.2%,13,39.4%,s,s,6,18.2%
+01M700,MAUB,University Settlement ECC,2017-18,65,37,56.9%,28,43.1%,59,90.8%,s,s,s,s,s,s,s,s
+01M700,MAED,Immaculate Conception School,2017-18,35,12,34.3%,23,65.7%,s,s,s,s,18,51.4%,s,s,9,25.7%
+01M700,MASU,Hamilton Madison House EarlyLearn Center 5,2017-18,17,9,52.9%,8,47.1%,17,100.0%,s,s,s,s,s,s,s,s
+01M700,MATQ,Escuela Hispana Montessori 2,2017-18,37,20,54.1%,17,45.9%,7,18.9%,8,21.6%,22,59.5%,s,s,s,s
+01M700,MAQA,Virginia Day Nursery,2017-18,15,8,53.3%,7,46.7%,s,s,6,40.0%,8,53.3%,s,s,s,s
+01M700,MBKU,CPC Little Star of Broome Street,2017-18,14,s,s,s,s,11,78.6%,s,s,s,s,s,s,s,s
+01M700,MATU,Grand St Settlement Head Start Center,2017-18,22,13,59.1%,9,40.9%,s,s,6,27.3%,12,54.5%,s,s,s,s
+01M700,MAOZ,Educational Alliance - Lillian Wald,2017-18,11,s,s,s,s,s,s,s,s,9,81.8%,s,s,s,s
+01M700,MATK,Bank Street Head Start,2017-18,32,14,43.8%,18,56.3%,s,s,6,18.8%,19,59.4%,s,s,s,s
+01M700,MAUC,Grand St Settlement,2017-18,12,s,s,s,s,s,s,s,s,7,58.3%,s,s,s,s
+02M001,02M001,P.S. 1 Alfred E. Smith,2017-18,24,13,54.2%,11,45.8%,10,41.7%,7,29.2%,7,29.2%,s,s,s,s
+02M002,02M002,P.S. 2 Meyer London,2017-18,22,12,54.5%,10,45.5%,14,63.6%,s,s,s,s,s,s,s,s
+02M003,02M003,P.S. 3 Charrette School,2017-18,54,19,35.2%,35,64.8%,7,13.0%,s,s,7,13.0%,s,s,39,72.2%
+02M006,02M006,P.S. 6 Lillie D. Blake,2017-18,78,38,48.7%,40,51.3%,17,21.8%,s,s,s,s,s,s,53,67.9%
+02M011,02M011,P.S. 11 William T. Harris,2017-18,18,9,50.0%,9,50.0%,s,s,s,s,s,s,s,s,12,66.7%
+02M033,02M033,P.S. 33 Chelsea Prep,2017-18,36,18,50.0%,18,50.0%,8,22.2%,s,s,11,30.6%,s,s,9,25.0%
+02M040,02M040,P.S. 40 Augustus Saint-Gaudens,2017-18,36,22,61.1%,14,38.9%,6,16.7%,s,s,8,22.2%,s,s,19,52.8%
+02M041,02M041,P.S. 41 Greenwich Village,2017-18,36,21,58.3%,15,41.7%,s,s,s,s,s,s,s,s,27,75.0%
+02M042,02M042,P.S. 42 Benjamin Altman,2017-18,42,17,40.5%,25,59.5%,27,64.3%,s,s,s,s,s,s,8,19.0%
+02M051,02M051,P.S. 51 Elias Howe,2017-18,68,30,44.1%,38,55.9%,16,23.5%,s,s,20,29.4%,s,s,21,30.9%
+02M059,02M059,P.S. 059 Beekman Hill International,2017-18,20,11,55.0%,9,45.0%,s,s,s,s,s,s,s,s,15,75.0%
+02M089,02M089,P.S. 89,2017-18,36,18,50.0%,18,50.0%,8,22.2%,s,s,s,s,6,16.7%,20,55.6%
+02M111,02M111,P.S. 111 Adolph S. Ochs,2017-18,46,23,50.0%,23,50.0%,8,17.4%,s,s,18,39.1%,s,s,13,28.3%
+02M116,02M116,P.S. 116 Mary Lindley Murray,2017-18,47,25,53.2%,22,46.8%,10,21.3%,s,s,s,s,7,14.9%,24,51.1%
+02M124,02M124,P.S. 124 Yung Wing,2017-18,56,26,46.4%,30,53.6%,53,94.6%,s,s,s,s,s,s,s,s
+02M126,02M126,P.S. 126 Jacob August Riis,2017-18,29,12,41.4%,17,58.6%,9,31.0%,6,20.7%,10,34.5%,s,s,s,s
+02M130,02M130,P.S. 130 Hernando De Soto,2017-18,36,10,27.8%,26,72.2%,29,80.6%,s,s,s,s,s,s,s,s
+02M150,02M150,P.S. 150,2017-18,18,6,33.3%,12,66.7%,7,38.9%,s,s,s,s,s,s,10,55.6%
+02M151,02M151,Yorkville Community School,2017-18,40,15,37.5%,25,62.5%,s,s,s,s,s,s,6,15.0%,25,62.5%
+02M158,02M158,P.S. 158 Bayard Taylor,2017-18,72,40,55.6%,32,44.4%,10,13.9%,s,s,s,s,s,s,52,72.2%
+02M183,02M183,P.S. 183 Robert L. Stevenson,2017-18,40,19,47.5%,21,52.5%,8,20.0%,s,s,s,s,s,s,25,62.5%
+02M198,02M198,P.S. 198 Isador E. Ida Straus,2017-18,51,17,33.3%,34,66.7%,11,21.6%,s,s,13,25.5%,s,s,25,49.0%
+02M212,02M212,P.S. 212 Midtown West,2017-18,36,15,41.7%,21,58.3%,s,s,s,s,6,16.7%,6,16.7%,18,50.0%
+02M217,02M217,P.S./I.S. 217 Roosevelt Island,2017-18,36,18,50.0%,18,50.0%,15,41.7%,s,s,6,16.7%,s,s,11,30.6%
+02M225,02M225,Ella Baker School,2017-18,40,24,60.0%,16,40.0%,s,s,s,s,s,s,s,s,29,72.5%
+02M281,02M281,The River School,2017-18,36,20,55.6%,16,44.4%,12,33.3%,s,s,s,s,s,s,19,52.8%
+02M290,02M290,P.S. 290 Manhattan New School,2017-18,40,20,50.0%,20,50.0%,s,s,s,s,s,s,s,s,28,70.0%
+02M340,02M340,Sixth Avenue Elementary School,2017-18,71,38,53.5%,33,46.5%,s,s,s,s,10,14.1%,6,8.5%,50,70.4%
+02M343,02M343,The Peck Slip School,2017-18,35,15,42.9%,20,57.1%,7,20.0%,s,s,s,s,s,s,18,51.4%
+02M347,02M347,The 47 American Sign Language & English Lower School,2017-18,52,29,55.8%,23,44.2%,s,s,s,s,9,17.3%,10,19.2%,29,55.8%
+02M391,Z034,District 2 Pre-K Center at P.S. 343 The Peck Slip School,2017-18,80,41,51.2%,39,48.8%,17,21.3%,6,7.5%,12,15.0%,9,11.2%,36,45.0%
+02M391,Z031,District 2 Pre-K Center at 425 East 35th Street,2017-18,96,47,49.0%,49,51.0%,23,24.0%,s,s,20,20.8%,s,s,41,42.7%
+02M391,Z033,District 2 Pre-K Center at 590 Sixth Avenue,2017-18,69,32,46.4%,37,53.6%,s,s,s,s,15,21.7%,6,8.7%,38,55.1%
+02M391,Z065,District 2 Pre-K Center at 52 Chambers Street,2017-18,56,26,46.4%,30,53.6%,10,17.9%,s,s,s,s,s,s,38,67.9%
+02M391,Z089,District 2 Pre-K Center at 10 Reade Street,2017-18,18,12,66.7%,6,33.3%,s,s,s,s,s,s,s,s,9,50.0%
+02M391,Z015,District 2 Pre-K Center at 2-26 Washington St,2017-18,36,14,38.9%,22,61.1%,6,16.7%,s,s,8,22.2%,s,s,18,50.0%
+02M397,02M397,Spruce Street School,2017-18,18,8,44.4%,10,55.6%,s,s,s,s,s,s,s,s,9,50.0%
+02M700,MAUY,Hamilton Madison House EarlyLearn Center 6,2017-18,8,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+02M700,MATL,"CHINATOWN DAY CARE CENTER, INC.",2017-18,47,24,51.1%,23,48.9%,45,95.7%,s,s,s,s,s,s,s,s
+02M700,MBJS,NY Preschool TriBeCa,2017-18,18,8,44.4%,10,55.6%,6,33.3%,s,s,s,s,s,s,7,38.9%
+02M700,MAUA,Education Alliance - East Broadway,2017-18,98,47,48.0%,51,52.0%,48,49.0%,s,s,22,22.4%,s,s,14,14.3%
+02M700,MANG,Imagine Early Learning Center at Vets Kids,2017-18,9,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+02M700,MBGQ,CCLC at 4 NY Plaza,2017-18,16,8,50.0%,8,50.0%,s,s,s,s,s,s,s,s,7,43.8%
+02M700,MAUT,YWCA-NYC Polly Dodge Early Learning Center,2017-18,17,9,52.9%,8,47.1%,s,s,s,s,8,47.1%,s,s,s,s
+02M700,MANH,Imagine Early Learning Center at East 97th Street,2017-18,14,8,57.1%,6,42.9%,s,s,s,s,s,s,s,s,8,57.1%
+02M700,MBHM,Childcare Partners NY West,2017-18,35,23,65.7%,12,34.3%,s,s,s,s,7,20.0%,s,s,19,54.3%
+02M700,MAUP,Hudson Guild Children's Center,2017-18,28,17,60.7%,11,39.3%,s,s,10,35.7%,13,46.4%,s,s,s,s
+02M700,MAPY,Grand St Settlement Dual Center #1,2017-18,16,6,37.5%,10,62.5%,9,56.3%,s,s,s,s,s,s,s,s
+02M700,MADO,Guardian Angel,2017-18,37,15,40.5%,22,59.5%,s,s,s,s,29,78.4%,s,s,s,s
+02M700,MBAU,Sacred Heart Parochial,2017-18,35,22,62.9%,13,37.1%,s,s,s,s,19,54.3%,s,s,s,s
+02M700,MBIW,Creative Steps Early Childhood Center,2017-18,16,9,56.3%,7,43.8%,s,s,s,s,s,s,s,s,9,56.3%
+02M700,MATM,Chinese Community Concerns Corp.,2017-18,35,15,42.9%,20,57.1%,35,100.0%,s,s,s,s,s,s,s,s
+02M700,MAPM,Hamilton Madison House EarlyLearn Center 2,2017-18,19,11,57.9%,8,42.1%,15,78.9%,s,s,s,s,s,s,s,s
+02M700,MAMZ,MANHATTAN NURSERY SCHOOL,2017-18,27,13,48.1%,14,51.9%,s,s,9,33.3%,7,25.9%,s,s,6,22.2%
+02M700,MAUL,BMCC Early Childhood Center,2017-18,11,s,s,s,s,s,s,s,s,8,72.7%,s,s,s,s
+02M700,MAQG,GRAMERCY SCHOOL,2017-18,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+02M700,MAUU,Garment Industry Day Care Center,2017-18,17,11,64.7%,6,35.3%,17,100.0%,s,s,s,s,s,s,s,s
+02M700,MAUN,Eisman Day Nursery,2017-18,29,15,51.7%,14,48.3%,s,s,7,24.1%,7,24.1%,s,s,12,41.4%
+02M700,MAUM,Chung Pak Day Care Center,2017-18,31,18,58.1%,13,41.9%,31,100.0%,s,s,s,s,s,s,s,s
+02M700,MASL,Hudson Guild Children's Center I,2017-18,20,s,s,s,s,s,s,8,40.0%,8,40.0%,s,s,s,s
+02M700,MAMQ,Lenox Hill Neighborhood House,2017-18,79,39,49.4%,40,50.6%,s,s,s,s,64,81.0%,s,s,7,8.9%
+02M700,MABK,Cassidy's Place,2017-18,18,12,66.7%,6,33.3%,s,s,s,s,13,72.2%,s,s,s,s
+02M700,MAPL,Battery Park City Day Nursery,2017-18,35,17,48.6%,18,51.4%,s,s,s,s,s,s,s,s,25,71.4%
+02M700,MBLL,Manhattan Schoolhouse,2017-18,36,20,55.6%,16,44.4%,s,s,s,s,s,s,s,s,26,72.2%
+02M700,MANJ,Ivy League Early Learning Academy,2017-18,33,17,51.5%,16,48.5%,s,s,11,33.3%,10,30.3%,s,s,9,27.3%
+02M700,MBHH,Center Annex (Tribeca Early Childhood Center),2017-18,7,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+02M700,MAYH,Hudson Guild,2017-18,23,15,65.2%,8,34.8%,s,s,s,s,17,73.9%,s,s,s,s
+02M700,MAUW,Hamilton Madison House EarlyLearn Center 4,2017-18,15,s,s,s,s,15,100.0%,s,s,s,s,s,s,s,s
+02M700,MBMK,Vanderbilt Ymca,2017-18,18,8,44.4%,10,55.6%,11,61.1%,s,s,s,s,s,s,s,s
+02M700,MBJV,Victoria Children's Center,2017-18,21,8,38.1%,13,61.9%,12,57.1%,s,s,s,s,s,s,s,s
+02M700,MAUH,Bellevue-Educare Childcare Center,2017-18,8,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+02M700,MAXY,Roosevelt Island Day Nursery,2017-18,45,27,60.0%,18,40.0%,24,53.3%,s,s,s,s,s,s,13,28.9%
+02M700,MAXX,Victoria Children's Group,2017-18,12,s,s,s,s,12,100.0%,s,s,s,s,s,s,s,s
+03M009,03M009,P.S. 9 Sarah Anderson,2017-18,18,s,s,s,s,s,s,s,s,s,s,s,s,14,77.8%
+03M076,03M076,P.S. 76 A. Philip Randolph,2017-18,36,18,50.0%,18,50.0%,s,s,29,80.6%,7,19.4%,s,s,s,s
+03M084,03M084,P.S. 84 Lillian Weber,2017-18,105,63,60.0%,42,40.0%,s,s,s,s,21,20.0%,7,6.7%,71,67.6%
+03M087,03M087,P.S. 87 William Sherman,2017-18,18,8,44.4%,10,55.6%,s,s,s,s,s,s,s,s,13,72.2%
+03M145,03M145,"P.S. 145, The Bloomingdale School",2017-18,46,20,43.5%,26,56.5%,s,s,10,21.7%,15,32.6%,s,s,18,39.1%
+03M149,03M149,P.S. 149 Sojourner Truth,2017-18,18,11,61.1%,7,38.9%,s,s,11,61.1%,s,s,s,s,s,s
+03M163,03M163,P.S. 163 Alfred E. Smith,2017-18,32,18,56.3%,14,43.8%,s,s,s,s,13,40.6%,s,s,13,40.6%
+03M165,03M165,P.S. 165 Robert E. Simon,2017-18,31,13,41.9%,18,58.1%,s,s,7,22.6%,11,35.5%,s,s,11,35.5%
+03M180,03M180,P.S. 180 Hugo Newman,2017-18,83,41,49.4%,42,50.6%,s,s,31,37.3%,17,20.5%,s,s,23,27.7%
+03M185,03M185,P.S. 185 - The Early Childhood Discovery and Design Magnet School,2017-18,67,25,37.3%,42,62.7%,s,s,30,44.8%,22,32.8%,s,s,7,10.4%
+03M191,03M191,The Riverside School for Makers and Artists,2017-18,72,37,51.4%,35,48.6%,s,s,10,13.9%,11,15.3%,s,s,44,61.1%
+03M242,03M242,P.S. 242 - The Young Diplomats Magnet Academy,2017-18,18,8,44.4%,10,55.6%,s,s,11,61.1%,s,s,s,s,s,s
+03M452,03M452,P.S. 452,2017-18,54,29,53.7%,25,46.3%,10,18.5%,s,s,6,11.1%,s,s,35,64.8%
+03M700,MAQH,Goddard Riverside Preschool at W 83rd 2,2017-18,14,s,s,s,s,s,s,s,s,9,64.3%,s,s,s,s
+03M700,MAVN,Open Door CCC,2017-18,36,18,50.0%,18,50.0%,s,s,12,33.3%,24,66.7%,s,s,s,s
+03M700,MAAY,Ascension School,2017-18,53,35,66.0%,18,34.0%,s,s,16,30.2%,13,24.5%,s,s,16,30.2%
+03M700,MBKR,Play Together NYC Preschool,2017-18,16,s,s,s,s,s,s,s,s,s,s,s,s,9,56.3%
+03M700,MAVG,Harlem Gems at P.S. 149,2017-18,40,19,47.5%,21,52.5%,s,s,35,87.5%,s,s,s,s,s,s
+03M700,MAVA,Bloomingdale Family Program 2,2017-18,10,s,s,s,s,s,s,s,s,7,70.0%,s,s,s,s
+03M700,MAZN,Goddard Riverside Day Care 1,2017-18,20,11,55.0%,9,45.0%,s,s,11,55.0%,9,45.0%,s,s,s,s
+03M700,MBJU,UCP of NYC Manhattan UPK,2017-18,7,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+03M700,MBGT,Finger Painted Hands,2017-18,13,6,46.2%,7,53.8%,s,s,s,s,s,s,s,s,10,76.9%
+03M700,MAVK,Children's Aid Society Frederick Douglass ECP,2017-18,26,15,57.7%,11,42.3%,s,s,s,s,18,69.2%,s,s,s,s
+03M700,MAQI,Child Center of NY,2017-18,25,9,36.0%,16,64.0%,s,s,s,s,19,76.0%,s,s,s,s
+03M700,MAVQ,Goddard Riverside at Lincoln Square Neighborhood Center,2017-18,17,7,41.2%,10,58.8%,s,s,6,35.3%,9,52.9%,s,s,s,s
+03M700,MBMI,All My Children Daycare Uws,2017-18,26,13,50.0%,13,50.0%,s,s,s,s,s,s,s,s,15,57.7%
+03M700,MAVM,Citizens Care DCC 1,2017-18,13,s,s,s,s,s,s,11,84.6%,s,s,s,s,s,s
+03M700,MAZI,Cathedral Parkway Towers Preschool,2017-18,18,7,38.9%,11,61.1%,s,s,s,s,s,s,s,s,s,s
+03M700,MAUZ,Bloomingdale Family Program I,2017-18,8,s,s,s,s,s,s,s,s,6,75.0%,s,s,s,s
+03M700,MAVR,East Calvary DCC,2017-18,25,11,44.0%,14,56.0%,s,s,11,44.0%,10,40.0%,s,s,s,s
+03M700,MACU,Corpus Christi,2017-18,36,19,52.8%,17,47.2%,s,s,9,25.0%,13,36.1%,s,s,10,27.8%
+03M700,MAVO,Harlem Children's Zone Head Start,2017-18,30,14,46.7%,16,53.3%,s,s,24,80.0%,s,s,s,s,s,s
+03M700,MBKK,River Park Nursery School,2017-18,17,7,41.2%,10,58.8%,s,s,s,s,s,s,s,s,14,82.4%
+03M700,MBGS,Hudson Guild,2017-18,21,11,52.4%,10,47.6%,s,s,6,28.6%,11,52.4%,s,s,s,s
+03M700,MASJ,Children's Aid Society Milbank Early Childhood Program,2017-18,10,s,s,s,s,s,s,6,60.0%,s,s,s,s,s,s
+03M700,MAVB,Bloomingdale Family Program III,2017-18,25,9,36.0%,16,64.0%,s,s,7,28.0%,18,72.0%,s,s,s,s
+03M700,MBBG,Community Life Center 2,2017-18,32,12,37.5%,20,62.5%,s,s,23,71.9%,9,28.1%,s,s,s,s
+03M700,MBAG,Milestones UWS,2017-18,8,s,s,s,s,s,s,s,s,s,s,s,s,7,87.5%
+04M007,04M007,P.S. 7 Samuel Stern,2017-18,20,10,50.0%,10,50.0%,s,s,s,s,15,75.0%,s,s,s,s
+04M037,04M037,River East Elementary,2017-18,17,7,41.2%,10,58.8%,s,s,s,s,11,64.7%,s,s,s,s
+04M038,04M038,P.S. 38 Roberto Clemente,2017-18,26,16,61.5%,10,38.5%,s,s,6,23.1%,16,61.5%,s,s,s,s
+04M057,04M057,James Weldon Johnson,2017-18,36,17,47.2%,19,52.8%,s,s,7,19.4%,26,72.2%,s,s,s,s
+04M072,04M072,The Lexington Academy,2017-18,26,12,46.2%,14,53.8%,s,s,s,s,20,76.9%,s,s,s,s
+04M083,04M083,P.S. 83 Luis Munoz Rivera,2017-18,18,9,50.0%,9,50.0%,s,s,s,s,12,66.7%,s,s,s,s
+04M096,04M096,P.S. 96 Joseph Lanzetta,2017-18,14,8,57.1%,6,42.9%,s,s,s,s,11,78.6%,s,s,s,s
+04M102,04M102,P.S. 102 Jacques Cartier,2017-18,26,12,46.2%,14,53.8%,s,s,7,26.9%,14,53.8%,s,s,s,s
+04M108,04M108,P.S. 108 Assemblyman Angelo Del Toro Educational Complex,2017-18,13,s,s,s,s,s,s,s,s,8,61.5%,s,s,s,s
+04M112,04M112,P.S. 112 Jose Celso Barbosa,2017-18,29,17,58.6%,12,41.4%,s,s,10,34.5%,15,51.7%,s,s,s,s
+04M146,04M146,P.S. 146 Ann M. Short,2017-18,30,15,50.0%,15,50.0%,s,s,7,23.3%,15,50.0%,s,s,s,s
+04M155,04M155,P.S. 155 William Paca,2017-18,12,6,50.0%,6,50.0%,s,s,s,s,10,83.3%,s,s,s,s
+04M171,04M171,P.S. 171 Patrick Henry,2017-18,36,21,58.3%,15,41.7%,s,s,6,16.7%,23,63.9%,s,s,s,s
+04M375,04M375,Mosaic Preparatory Academy,2017-18,36,17,47.2%,19,52.8%,s,s,8,22.2%,24,66.7%,s,s,s,s
+04M497,04M497,Central Park East I,2017-18,27,15,55.6%,12,44.4%,s,s,s,s,13,48.1%,s,s,6,22.2%
+04M700,MAPW,Leggett Memorial,2017-18,18,6,33.3%,12,66.7%,s,s,s,s,13,72.2%,s,s,s,s
+04M700,MBKF,Sunshine Lc Of 3Rd Ave,2017-18,34,17,50.0%,17,50.0%,s,s,16,47.1%,17,50.0%,s,s,s,s
+04M700,MAVS,"Boys & Girls Harbor, Inc.",2017-18,33,14,42.4%,19,57.6%,s,s,13,39.4%,18,54.5%,s,s,s,s
+04M700,MASK,East Harlem Center,2017-18,12,s,s,s,s,s,s,s,s,9,75.0%,s,s,s,s
+04M700,MAHP,Saint Paul School,2017-18,29,13,44.8%,16,55.2%,s,s,9,31.0%,18,62.1%,s,s,s,s
+04M700,MAVX,Franklin Plaza,2017-18,20,11,55.0%,9,45.0%,s,s,s,s,18,90.0%,s,s,s,s
+04M700,MAPH,East Harlem Block Nursery 1,2017-18,14,s,s,s,s,s,s,7,50.0%,6,42.9%,s,s,s,s
+04M700,MAGN,Saint Ann School,2017-18,35,23,65.7%,12,34.3%,s,s,9,25.7%,18,51.4%,s,s,s,s
+04M700,MAZT,Dawning Village,2017-18,18,7,38.9%,11,61.1%,s,s,6,33.3%,10,55.6%,s,s,s,s
+04M700,MATB,Children's Aid Society Taft Early Childhood Center,2017-18,18,11,61.1%,7,38.9%,s,s,10,55.6%,8,44.4%,s,s,s,s
+04M700,MAWA,Union Washington Child Care Center,2017-18,15,7,46.7%,8,53.3%,s,s,9,60.0%,s,s,s,s,s,s
+04M700,MAQT,Union Carver Early Childhood Program,2017-18,18,11,61.1%,7,38.9%,s,s,10,55.6%,7,38.9%,s,s,s,s
+04M700,MASN,Community Life Center 1,2017-18,20,9,45.0%,11,55.0%,s,s,8,40.0%,11,55.0%,s,s,s,s
+04M700,MAUJ,Children's Aid at P.S. 50,2017-18,13,6,46.2%,7,53.8%,s,s,s,s,8,61.5%,s,s,s,s
+04M700,MAON,Union Johnson Early Childhood Programs,2017-18,18,8,44.4%,10,55.6%,s,s,6,33.3%,12,66.7%,s,s,s,s
+04M700,MAWG,East Harlem CHS Bilingual Head Start Program,2017-18,78,42,53.8%,36,46.2%,s,s,7,9.0%,65,83.3%,s,s,s,s
+04M700,MAWH,East Harlem CHS Bilingual Head Start - 111th,2017-18,26,15,57.7%,11,42.3%,s,s,9,34.6%,17,65.4%,s,s,s,s
+04M700,MAWI,Northside Center Day School,2017-18,39,20,51.3%,19,48.7%,s,s,s,s,34,87.2%,s,s,s,s
+04M700,MASX,Pequenos Souls Day Care Center,2017-18,24,11,45.8%,13,54.2%,s,s,15,62.5%,8,33.3%,s,s,s,s
+04M700,MAWD,Addie Mae Collins 2,2017-18,12,6,50.0%,6,50.0%,s,s,s,s,6,50.0%,s,s,s,s
+04M700,MAVY,Metro North Childcare Center,2017-18,11,s,s,s,s,s,s,s,s,7,63.6%,s,s,s,s
+04M964,04M964,Central Park East II,2017-18,18,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+05M030,05M030,P.S. 30 Hernandez/Hughes,2017-18,16,8,50.0%,8,50.0%,s,s,6,37.5%,7,43.8%,s,s,s,s
+05M036,05M036,P.S. 36 Margaret Douglas,2017-18,41,24,58.5%,17,41.5%,s,s,14,34.1%,25,61.0%,s,s,s,s
+05M046,05M046,P.S. 46 Arthur Tappan,2017-18,35,16,45.7%,19,54.3%,s,s,15,42.9%,17,48.6%,s,s,s,s
+05M092,05M092,P.S. 92 Mary Mcleod Bethune,2017-18,18,8,44.4%,10,55.6%,s,s,9,50.0%,8,44.4%,s,s,s,s
+05M123,05M123,P.S. 123 Mahalia Jackson,2017-18,36,21,58.3%,15,41.7%,s,s,16,44.4%,19,52.8%,s,s,s,s
+05M125,05M125,P.S. 125 Ralph Bunche,2017-18,50,23,46.0%,27,54.0%,s,s,11,22.0%,13,26.0%,s,s,18,36.0%
+05M129,05M129,P.S. 129 John H. Finley,2017-18,28,16,57.1%,12,42.9%,s,s,14,50.0%,14,50.0%,s,s,s,s
+05M133,05M133,P.S. 133 Fred R Moore,2017-18,16,6,37.5%,10,62.5%,s,s,8,50.0%,8,50.0%,s,s,s,s
+05M154,05M154,P.S. 154 Harriet Tubman,2017-18,28,13,46.4%,15,53.6%,s,s,17,60.7%,9,32.1%,s,s,s,s
+05M175,05M175,P.S. 175 Henry H Garnet,2017-18,31,14,45.2%,17,54.8%,s,s,22,71.0%,6,19.4%,s,s,s,s
+05M194,05M194,P.S. 194 Countee Cullen,2017-18,18,7,38.9%,11,61.1%,s,s,10,55.6%,7,38.9%,s,s,s,s
+05M197,05M197,P.S. 197 John B. Russwurm,2017-18,25,10,40.0%,15,60.0%,s,s,14,56.0%,7,28.0%,s,s,s,s
+05M200,05M200,P.S. 200 - The James Mccune Smith School,2017-18,34,17,50.0%,17,50.0%,s,s,22,64.7%,9,26.5%,s,s,s,s
+05M517,05M517,Teachers College Community School,2017-18,18,10,55.6%,8,44.4%,s,s,6,33.3%,s,s,s,s,s,s
+05M700,MASA,Addie Mae Collins 3,2017-18,29,16,55.2%,13,44.8%,s,s,23,79.3%,6,20.7%,s,s,s,s
+05M700,MANK,"Urban Concepts of NY-Round the Clock Nursery, Inc.",2017-18,20,11,55.0%,9,45.0%,s,s,16,80.0%,s,s,s,s,s,s
+05M700,MAYJ,New York Center for Child Development,2017-18,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+05M700,MARD,Grant Day Care Center,2017-18,14,s,s,s,s,s,s,s,s,9,64.3%,s,s,s,s
+05M700,MAWW,Urban Concepts/Round the Clock,2017-18,39,26,66.7%,13,33.3%,s,s,12,30.8%,26,66.7%,s,s,s,s
+05M700,MAPD,ESS Morningside,2017-18,16,9,56.3%,7,43.8%,s,s,8,50.0%,8,50.0%,s,s,s,s
+05M700,MARH,LSSMNY: Early LIFE Children's Center 13,2017-18,34,17,50.0%,17,50.0%,s,s,24,70.6%,8,23.5%,s,s,s,s
+05M700,MABT,Storefront Academy Harlem,2017-18,18,8,44.4%,10,55.6%,s,s,15,83.3%,s,s,s,s,s,s
+05M700,MAZL,East Harlem Block Nursery 2,2017-18,11,s,s,s,s,s,s,10,90.9%,s,s,s,s,s,s
+05M700,MAOM,Children's Aid Society Drew Hamilton ECC,2017-18,17,7,41.2%,10,58.8%,s,s,8,47.1%,6,35.3%,s,s,s,s
+05M700,MAGT,SAINT CHARLES BORROMEO,2017-18,60,32,53.3%,28,46.7%,s,s,46,76.7%,12,20.0%,s,s,s,s
+05M700,MAWT,Seventh Avenue Center for Family Services,2017-18,16,8,50.0%,8,50.0%,s,s,8,50.0%,7,43.8%,s,s,s,s
+05M700,MAWZ,Citizens Care DCC 3,2017-18,25,15,60.0%,10,40.0%,s,s,s,s,21,84.0%,s,s,s,s
+05M700,MAXF,Addie Mae Collins 1,2017-18,14,s,s,s,s,s,s,10,71.4%,s,s,s,s,s,s
+05M700,MAWM,ABC / Echo Park ECDC,2017-18,38,23,60.5%,15,39.5%,s,s,11,28.9%,25,65.8%,s,s,s,s
+05M700,MARB,LSSMNY: Early LIFE Children's Center 11,2017-18,20,7,35.0%,13,65.0%,s,s,15,75.0%,s,s,s,s,s,s
+05M700,MATI,LSSMNY: Early LIFE Children's Center 12,2017-18,16,10,62.5%,6,37.5%,s,s,9,56.3%,6,37.5%,s,s,s,s
+05M700,MAWX,Utopia Children's Center,2017-18,13,7,53.8%,6,46.2%,s,s,10,76.9%,s,s,s,s,s,s
+05M700,MBFX,Urban Concepts/Round the Clock,2017-18,20,12,60.0%,8,40.0%,s,s,11,55.0%,9,45.0%,s,s,s,s
+05M700,MBCM,Singleton Gems,2017-18,38,22,57.9%,16,42.1%,s,s,29,76.3%,8,21.1%,s,s,s,s
+05M700,MBAJ,ECDO Adam Clayton Powell Early Learn Center,2017-18,19,8,42.1%,11,57.9%,s,s,16,84.2%,s,s,s,s,s,s
+05M700,MAWJ,HARLEM GEMS NORTH,2017-18,100,52,52.0%,48,48.0%,s,s,75,75.0%,22,22.0%,s,s,s,s
+05M700,MARJ,Graham Windham DCC,2017-18,29,15,51.7%,14,48.3%,s,s,14,48.3%,11,37.9%,s,s,s,s
+05M700,MANM,West Harlem EarlyLearn,2017-18,32,16,50.0%,16,50.0%,s,s,25,78.1%,6,18.8%,s,s,s,s
+06M004,06M004,P.S. 4 Duke Ellington,2017-18,34,15,44.1%,19,55.9%,s,s,s,s,32,94.1%,s,s,s,s
+06M005,06M005,P.S. 5 Ellen Lurie,2017-18,36,21,58.3%,15,41.7%,s,s,s,s,32,88.9%,s,s,s,s
+06M008,06M008,P.S. 8 Luis Belliard,2017-18,47,25,53.2%,22,46.8%,s,s,s,s,46,97.9%,s,s,s,s
+06M028,06M028,P.S. 28 Wright Brothers,2017-18,34,16,47.1%,18,52.9%,s,s,s,s,31,91.2%,s,s,s,s
+06M048,06M048,P.S. 48 P.O. Michael J. Buczek,2017-18,36,24,66.7%,12,33.3%,s,s,s,s,34,94.4%,s,s,s,s
+06M098,06M098,P.S. 98 Shorac Kappock,2017-18,67,39,58.2%,28,41.8%,s,s,s,s,61,91.0%,s,s,s,s
+06M115,06M115,P.S. 115 Alexander Humboldt,2017-18,34,13,38.2%,21,61.8%,s,s,s,s,30,88.2%,s,s,s,s
+06M128,06M128,P.S. 128 Audubon,2017-18,70,39,55.7%,31,44.3%,6,8.6%,s,s,54,77.1%,s,s,8,11.4%
+06M152,06M152,P.S. 152 Dyckman Valley,2017-18,58,28,48.3%,30,51.7%,s,s,s,s,56,96.6%,s,s,s,s
+06M153,06M153,P.S. 153 Adam Clayton Powell,2017-18,48,20,41.7%,28,58.3%,s,s,s,s,38,79.2%,s,s,s,s
+06M173,06M173,P.S. 173,2017-18,59,36,61.0%,23,39.0%,s,s,s,s,54,91.5%,s,s,s,s
+06M187,06M187,P.S./I.S. 187 Hudson Cliffs,2017-18,18,11,61.1%,7,38.9%,s,s,s,s,s,s,s,s,9,50.0%
+06M189,06M189,P.S. 189,2017-18,65,34,52.3%,31,47.7%,s,s,s,s,62,95.4%,s,s,s,s
+06M192,06M192,P.S. 192 Jacob H. Schiff,2017-18,47,25,53.2%,22,46.8%,s,s,s,s,43,91.5%,s,s,s,s
+06M210,06M210,P.S./I.S. 210 - Twenty-First Century Academy for Community Leadership,2017-18,18,10,55.6%,8,44.4%,s,s,s,s,18,100.0%,s,s,s,s
+06M348,06M348,Washington Heights Expeditionary Learning School,2017-18,31,15,48.4%,16,51.6%,s,s,s,s,20,64.5%,s,s,10,32.3%
+06M366,06M366,Washington Heights Academy,2017-18,51,28,54.9%,23,45.1%,s,s,s,s,47,92.2%,s,s,s,s
+06M513,06M513,Castle Bridge School,2017-18,18,s,s,s,s,s,s,s,s,11,61.1%,s,s,s,s
+06M700,MAXS,Washington Heights DCC,2017-18,19,s,s,s,s,s,s,s,s,19,100.0%,s,s,s,s
+06M700,MAXO,UFBCO,2017-18,42,23,54.8%,19,45.2%,s,s,11,26.2%,30,71.4%,s,s,s,s
+06M700,MAHQ,St. Rose of Lima School,2017-18,33,20,60.6%,13,39.4%,s,s,s,s,29,87.9%,s,s,s,s
+06M700,MAEE,INCARNATION SCHOOL,2017-18,84,45,53.6%,39,46.4%,s,s,s,s,80,95.2%,s,s,s,s
+06M700,MAFQ,Our Lady Queen of Martyrs School,2017-18,54,27,50.0%,27,50.0%,s,s,s,s,49,90.7%,s,s,s,s
+06M700,MAZQ,Children's Aid Society's P.S. 5 Early Childhood Program,2017-18,28,12,42.9%,16,57.1%,s,s,s,s,28,100.0%,s,s,s,s
+06M700,MAFV,Yeshiva Rabbi Samson Raphael Hirsch,2017-18,26,13,50.0%,13,50.0%,s,s,s,s,s,s,s,s,26,100.0%
+06M700,MBHV,Moreau LMSW Children & Family Services PC,2017-18,17,10,58.8%,7,41.2%,s,s,10,58.8%,6,35.3%,s,s,s,s
+06M700,MASH,Friends of Crown Heights DCC #28,2017-18,16,10,62.5%,6,37.5%,s,s,s,s,12,75.0%,s,s,s,s
+06M700,MAUK,Children's Aid Society,2017-18,43,20,46.5%,23,53.5%,s,s,s,s,37,86.0%,s,s,s,s
+06M700,MANY,YM & YWHA of Washington Heights and Inwood,2017-18,53,26,49.1%,27,50.9%,s,s,s,s,s,s,s,s,43,81.1%
+06M700,MAXJ,Fort George Head Start Center # 1,2017-18,73,37,50.7%,36,49.3%,s,s,s,s,73,100.0%,s,s,s,s
+06M700,MATP,LSSMNY: Early LIFE Childrens Center 14,2017-18,37,15,40.5%,22,59.5%,s,s,9,24.3%,28,75.7%,s,s,s,s
+06M700,MAZZ,Children's Aid Society at P.S. 8,2017-18,15,9,60.0%,6,40.0%,s,s,s,s,15,100.0%,s,s,s,s
+06M700,MAXV,Dominican Women's Development Center,2017-18,33,18,54.5%,15,45.5%,s,s,s,s,33,100.0%,s,s,s,s
+06M700,MAXM,Northern Manhattan Head Start,2017-18,100,48,48.0%,52,52.0%,s,s,7,7.0%,89,89.0%,s,s,s,s
+06M700,MAXT,Nicholas Cardell Day Care Center,2017-18,27,14,51.9%,13,48.1%,s,s,s,s,26,96.3%,s,s,s,s
+06M700,MADL,Good Shepherd School,2017-18,35,26,74.3%,9,25.7%,s,s,s,s,25,71.4%,s,s,8,22.9%
+06M700,MBBI,Manhattan Early Childhood Center,2017-18,32,20,62.5%,12,37.5%,s,s,s,s,14,43.8%,s,s,13,40.6%
+06M700,MBBJ,Fort George Child Center 1,2017-18,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+06M700,MAQR,"Rena Child Care Centers, Inc.",2017-18,50,22,44.0%,28,56.0%,s,s,s,s,46,92.0%,s,s,s,s
+06M700,MBGU,Sugar Hill Museum Preschool,2017-18,54,30,55.6%,24,44.4%,s,s,10,18.5%,22,40.7%,10,18.5%,s,s
+06M700,MAXH,Saint Elizabeth Pre Kindergarten,2017-18,80,47,58.7%,33,41.2%,s,s,s,s,53,66.3%,s,s,21,26.2%
+07X001,07X001,P.S. 1 Courtlandt School,2017-18,65,29,44.6%,36,55.4%,s,s,14,21.5%,50,76.9%,s,s,s,s
+07X005,07X005,P.S. 5 Port Morris,2017-18,36,18,50.0%,18,50.0%,s,s,7,19.4%,26,72.2%,s,s,s,s
+07X018,07X018,P.S. 18 John Peter Zenger,2017-18,35,23,65.7%,12,34.3%,s,s,s,s,23,65.7%,s,s,7,20.0%
+07X025,07X025,P.S. 25 Bilingual School,2017-18,51,27,52.9%,24,47.1%,s,s,s,s,47,92.2%,s,s,s,s
+07X029,07X029,P.S./M.S. 29 Melrose School,2017-18,62,25,40.3%,37,59.7%,s,s,24,38.7%,32,51.6%,s,s,s,s
+07X030,07X030,P.S. 30 Wilton,2017-18,54,27,50.0%,27,50.0%,s,s,16,29.6%,38,70.4%,s,s,s,s
+07X031,07X031,P.S./M.S. 31 The William Lloyd Garrison,2017-18,47,19,40.4%,28,59.6%,s,s,10,21.3%,33,70.2%,s,s,s,s
+07X043,07X043,P.S. 43 Jonas Bronck,2017-18,71,36,50.7%,35,49.3%,s,s,12,16.9%,58,81.7%,s,s,s,s
+07X049,07X049,P.S. 49 Willis Avenue,2017-18,81,38,46.9%,43,53.1%,s,s,22,27.2%,58,71.6%,s,s,s,s
+07X065,07X065,P.S. 65 Mother Hale Academy,2017-18,35,17,48.6%,18,51.4%,s,s,15,42.9%,17,48.6%,s,s,s,s
+07X154,07X154,P.S. 154 Jonathan D. Hyatt,2017-18,31,22,71.0%,9,29.0%,s,s,17,54.8%,14,45.2%,s,s,s,s
+07X157,07X157,P.S. 157 Grove Hill,2017-18,53,29,54.7%,24,45.3%,s,s,7,13.2%,39,73.6%,7,13.2%,s,s
+07X161,07X161,P.S. 161 Juan Ponce De Leon School,2017-18,68,32,47.1%,36,52.9%,s,s,12,17.6%,54,79.4%,s,s,s,s
+07X179,07X179,P.S. 179,2017-18,24,8,33.3%,16,66.7%,s,s,s,s,20,83.3%,s,s,s,s
+07X277,07X277,P.S. 277,2017-18,72,33,45.8%,39,54.2%,s,s,12,16.7%,57,79.2%,s,s,s,s
+07X359,07X359,Concourse Village Elementary School,2017-18,33,17,51.5%,16,48.5%,s,s,11,33.3%,21,63.6%,s,s,s,s
+07X369,07X369,Young Leaders Elementary School,2017-18,41,17,41.5%,24,58.5%,s,s,7,17.1%,32,78.0%,s,s,s,s
+07X533,Z029,Learning Through Play Pre-K Center at 535 Union Avenue,2017-18,104,55,52.9%,49,47.1%,s,s,35,33.7%,66,63.5%,s,s,s,s
+07X533,Z028,Learning Through Play Pre-K Center at 105 Willis Avenue,2017-18,56,23,41.1%,33,58.9%,s,s,24,42.9%,30,53.6%,s,s,s,s
+07X700,XANC,Salvation Army - Bronx Citadel,2017-18,12,6,50.0%,6,50.0%,s,s,7,58.3%,s,s,s,s,s,s
+07X700,XAZD,A House on Beekman Preschool,2017-18,15,s,s,s,s,s,s,6,40.0%,9,60.0%,s,s,s,s
+07X700,XAMT,East Side House,2017-18,41,22,53.7%,19,46.3%,s,s,12,29.3%,28,68.3%,s,s,s,s
+07X700,XBBK,HARRIET TUBMAN SHELTERING ARM,2017-18,48,30,62.5%,18,37.5%,s,s,11,22.9%,36,75.0%,s,s,s,s
+07X700,XAHR,Concord Head Start/Early Learn Center,2017-18,51,29,56.9%,22,43.1%,s,s,12,23.5%,38,74.5%,s,s,s,s
+07X700,XATO,Saint Anselm School,2017-18,68,38,55.9%,30,44.1%,s,s,9,13.2%,58,85.3%,s,s,s,s
+07X700,XAFP,East Side House,2017-18,14,6,42.9%,8,57.1%,s,s,s,s,12,85.7%,s,s,s,s
+07X700,XAMW,East Side House,2017-18,15,s,s,s,s,s,s,7,46.7%,6,40.0%,s,s,s,s
+07X700,XATI,Sunshine Day Care,2017-18,80,42,52.5%,38,47.5%,s,s,29,36.3%,48,60.0%,s,s,s,s
+07X700,XAHW,Betances Early Childhood Center (NYCHA),2017-18,11,s,s,s,s,s,s,s,s,8,72.7%,s,s,s,s
+07X700,XADZ,St. Luke School,2017-18,29,15,51.7%,14,48.3%,s,s,8,27.6%,21,72.4%,s,s,s,s
+07X700,XAKO,Episcopal Social Services Head Start (Paul's House),2017-18,11,s,s,s,s,s,s,s,s,7,63.6%,s,s,s,s
+07X700,XAMV,Children's Pride,2017-18,26,16,61.5%,10,38.5%,s,s,7,26.9%,19,73.1%,s,s,s,s
+07X700,XANA,South Bronx Head Start I,2017-18,12,s,s,s,s,s,s,s,s,12,100.0%,s,s,s,s
+07X700,XAEU,St. Peter and Paul Parochial Elementary School,2017-18,118,50,42.4%,68,57.6%,s,s,33,28.0%,82,69.5%,s,s,s,s
+07X700,XANE,Anna Lefkowitz DCC,2017-18,13,s,s,s,s,s,s,7,53.8%,6,46.2%,s,s,s,s
+07X700,XARA,"H.C.C. CHILDREN'S CENTER, INC.",2017-18,57,24,42.1%,33,57.9%,s,s,13,22.8%,41,71.9%,s,s,s,s
+07X700,XBAS,Sunshine LC of Morris Ave LLC,2017-18,42,22,52.4%,20,47.6%,s,s,21,50.0%,21,50.0%,s,s,s,s
+07X700,XANX,Highbridge Advisory Council Marshall England ELC,2017-18,37,22,59.5%,15,40.5%,s,s,22,59.5%,15,40.5%,s,s,s,s
+07X700,XAMR,Iola Jordan Day Care,2017-18,60,33,55.0%,27,45.0%,s,s,38,63.3%,19,31.7%,s,s,s,s
+08X036,08X036,P.S. 36 Unionport,2017-18,54,31,57.4%,23,42.6%,25,46.3%,s,s,26,48.1%,s,s,s,s
+08X048,08X048,P.S. 48 Joseph R. Drake,2017-18,59,29,49.2%,30,50.8%,s,s,20,33.9%,39,66.1%,s,s,s,s
+08X062,08X062,P.S. 62 Inocensio Casanova,2017-18,51,25,49.0%,26,51.0%,s,s,12,23.5%,38,74.5%,s,s,s,s
+08X069,08X069,P.S. 69 Journey Prep School,2017-18,54,25,46.3%,29,53.7%,s,s,7,13.0%,42,77.8%,s,s,s,s
+08X072,08X072,P.S. 72 Dr. William Dorney,2017-18,68,27,39.7%,41,60.3%,s,s,12,17.6%,43,63.2%,s,s,10,14.7%
+08X075,08X075,P.S. 75 School of Research and Discovery,2017-18,66,37,56.1%,29,43.9%,s,s,17,25.8%,45,68.2%,s,s,s,s
+08X093,08X093,P.S. 93 Albert G. Oliver,2017-18,71,30,42.3%,41,57.7%,s,s,19,26.8%,51,71.8%,s,s,s,s
+15K700,KARS,Action Nursery,2017-18,12,s,s,s,s,s,s,s,s,s,s,s,s,12,100.0%
+08X100,08X100,P.S. 100 Isaac Clason,2017-18,36,21,58.3%,15,41.7%,s,s,11,30.6%,24,66.7%,s,s,s,s
+08X107,08X107,P.S. 107,2017-18,17,11,64.7%,6,35.3%,s,s,s,s,15,88.2%,s,s,s,s
+08X119,08X119,The Dr. Emmett W. Bassett School,2017-18,36,22,61.1%,14,38.9%,17,47.2%,s,s,14,38.9%,s,s,s,s
+08X130,08X130,P.S. 130 Abram Stevens Hewitt,2017-18,36,15,41.7%,21,58.3%,s,s,11,30.6%,25,69.4%,s,s,s,s
+08X138,08X138,P.S. 138 Samuel Randall,2017-18,70,41,58.6%,29,41.4%,s,s,24,34.3%,43,61.4%,s,s,s,s
+08X140,08X140,P.S. 140 The Eagle School,2017-18,50,21,42.0%,29,58.0%,s,s,15,30.0%,35,70.0%,s,s,s,s
+08X146,08X146,P.S. 146 Edward Collins,2017-18,32,18,56.3%,14,43.8%,s,s,15,46.9%,15,46.9%,s,s,s,s
+08X182,08X182,P.S. 182,2017-18,54,28,51.9%,26,48.1%,8,14.8%,14,25.9%,31,57.4%,s,s,s,s
+08X304,08X304,P.S. 304 Early Childhood School,2017-18,36,17,47.2%,19,52.8%,s,s,s,s,27,75.0%,s,s,8,22.2%
+08X333,08X333,The Longwood Academy of Discovery,2017-18,36,17,47.2%,19,52.8%,s,s,8,22.2%,27,75.0%,s,s,s,s
+08X392,08X392,Bronx Delta School,2017-18,35,15,42.9%,20,57.1%,s,s,s,s,27,77.1%,s,s,6,17.1%
+08X583,08X583,P.S. 583,2017-18,48,30,62.5%,18,37.5%,27,56.3%,s,s,12,25.0%,s,s,s,s
+08X700,XAKR,Prospect Early Childhood Center,2017-18,11,s,s,s,s,s,s,s,s,8,72.7%,s,s,s,s
+08X700,XAST,Ciditty Kiddie PRE-k,2017-18,36,15,41.7%,21,58.3%,s,s,16,44.4%,19,52.8%,s,s,s,s
+08X700,XARP,Just 4 Kids Monsignor Scanlan,2017-18,13,6,46.2%,7,53.8%,s,s,s,s,8,61.5%,s,s,s,s
+08X700,XAGX,LSSMNY: Early LIFE Children's Center 6,2017-18,44,21,47.7%,23,52.3%,s,s,6,13.6%,33,75.0%,s,s,s,s
+08X700,XALR,Five Star DCC,2017-18,38,18,47.4%,20,52.6%,s,s,20,52.6%,18,47.4%,s,s,s,s
+08X700,XAEO,Saint Theresa,2017-18,92,51,55.4%,41,44.6%,s,s,s,s,52,56.5%,s,s,33,35.9%
+08X700,XAJR,"Providence Rest Child Day Care Center, Inc.",2017-18,18,12,66.7%,6,33.3%,s,s,s,s,7,38.9%,s,s,9,50.0%
+08X700,XABL,Holy Family School,2017-18,68,42,61.8%,26,38.2%,11,16.2%,8,11.8%,45,66.2%,s,s,s,s
+08X700,XASC,Seabury Child Care Center,2017-18,36,19,52.8%,17,47.2%,s,s,6,16.7%,30,83.3%,s,s,s,s
+08X700,XAKB,Watson Avenue ECC,2017-18,31,12,38.7%,19,61.3%,6,19.4%,15,48.4%,10,32.3%,s,s,s,s
+08X700,XANN,Gwendolyn Bland DC,2017-18,44,20,45.5%,24,54.5%,s,s,29,65.9%,15,34.1%,s,s,s,s
+08X700,XARH,Leake and Watts Head Start,2017-18,14,s,s,s,s,s,s,s,s,9,64.3%,s,s,s,s
+08X700,XAKF,Stepping Stone Day School,2017-18,18,8,44.4%,10,55.6%,s,s,s,s,13,72.2%,s,s,s,s
+08X700,XARR,"Kiderific Nursery School, Inc.",2017-18,26,10,38.5%,16,61.5%,s,s,s,s,11,42.3%,s,s,9,34.6%
+08X700,XAFB,"Villa Maria Academy, Inc.",2017-18,49,22,44.9%,27,55.1%,s,s,s,s,18,36.7%,s,s,24,49.0%
+08X700,XAWJ,Blue Sky Group Family Day Care I Corp.,2017-18,12,6,50.0%,6,50.0%,s,s,s,s,11,91.7%,s,s,s,s
+08X700,XATX,Cheer and Grow Learning Academy Corp.,2017-18,19,11,57.9%,8,42.1%,s,s,s,s,11,57.9%,s,s,s,s
+08X700,XALQ,Blondell Joyner DCC,2017-18,18,12,66.7%,6,33.3%,s,s,9,50.0%,9,50.0%,s,s,s,s
+08X700,XAIC,LSSMNY: Early LIFE Children's Center 2,2017-18,56,26,46.4%,30,53.6%,s,s,16,28.6%,37,66.1%,s,s,s,s
+08X700,XANI,IVY LEAGUE EARLY LEARNING ACADEMY,2017-18,83,53,63.9%,30,36.1%,s,s,21,25.3%,48,57.8%,s,s,7,8.4%
+08X700,XARM,Trabajamos Community Head Start,2017-18,13,s,s,s,s,s,s,s,s,13,100.0%,s,s,s,s
+08X700,XAGF,Manida (Center #1),2017-18,66,32,48.5%,34,51.5%,s,s,9,13.6%,56,84.8%,s,s,s,s
+08X700,XALE,NP Ready Set Learn,2017-18,33,18,54.5%,15,45.5%,s,s,13,39.4%,20,60.6%,s,s,s,s
+08X700,XABI,The Greek American Institute of New York Inc,2017-18,30,17,56.7%,13,43.3%,s,s,s,s,11,36.7%,s,s,18,60.0%
+08X700,XABK,Holy Cross School,2017-18,83,43,51.8%,40,48.2%,s,s,15,18.1%,67,80.7%,s,s,s,s
+08X700,XANK,Just 4 Kids Kiddie Kollege,2017-18,9,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+08X700,XACJ,Our Lady of the Assumption School,2017-18,54,38,70.4%,16,29.6%,6,11.1%,s,s,32,59.3%,s,s,11,20.4%
+08X700,XADL,St. Francis de Chantal School,2017-18,53,27,50.9%,26,49.1%,s,s,s,s,28,52.8%,s,s,18,34.0%
+08X700,XAHL,East Bronx Day Care Center,2017-18,20,11,55.0%,9,45.0%,s,s,s,s,16,80.0%,s,s,s,s
+08X700,XANJ,"Just 4 Kids Soundview Center, Inc.",2017-18,16,9,56.3%,7,43.8%,s,s,6,37.5%,8,50.0%,s,s,s,s
+08X700,XAIB,Throggs Neck Early Learn Center,2017-18,11,s,s,s,s,s,s,s,s,9,81.8%,s,s,s,s
+08X700,XBAY,Tender Tots Close Ave. Llc,2017-18,54,22,40.7%,32,59.3%,s,s,11,20.4%,42,77.8%,s,s,s,s
+09X004,09X004,P.S./M.S. 4 Crotona Park West,2017-18,26,12,46.2%,14,53.8%,s,s,15,57.7%,11,42.3%,s,s,s,s
+09X028,09X028,P.S. 28 Mount Hope,2017-18,51,23,45.1%,28,54.9%,s,s,8,15.7%,42,82.4%,s,s,s,s
+09X042,09X042,P.S. 42 Claremont,2017-18,33,19,57.6%,14,42.4%,s,s,15,45.5%,18,54.5%,s,s,s,s
+09X053,09X053,P.S. 53 Basheer Quisim,2017-18,53,21,39.6%,32,60.4%,s,s,18,34.0%,31,58.5%,s,s,s,s
+09X055,09X055,P.S. 55 Benjamin Franklin,2017-18,66,34,51.5%,32,48.5%,s,s,37,56.1%,29,43.9%,s,s,s,s
+09X058,09X058,P.S. 58,2017-18,31,15,48.4%,16,51.6%,s,s,7,22.6%,24,77.4%,s,s,s,s
+09X063,09X063,P.S. 63 Author's Academy,2017-18,50,26,52.0%,24,48.0%,s,s,17,34.0%,30,60.0%,s,s,s,s
+09X073,09X073,P.S. 73 Bronx,2017-18,47,28,59.6%,19,40.4%,s,s,13,27.7%,32,68.1%,s,s,s,s
+09X109,09X109,P.S. 109 Sedgwick,2017-18,42,25,59.5%,17,40.5%,s,s,10,23.8%,32,76.2%,s,s,s,s
+09X110,09X110,P.S. 110 Theodore Schoenfeld,2017-18,31,14,45.2%,17,54.8%,s,s,8,25.8%,16,51.6%,s,s,7,22.6%
+09X126,09X126,P.S. 126 Dr Marjorie H Dunbar,2017-18,55,31,56.4%,24,43.6%,s,s,15,27.3%,37,67.3%,s,s,s,s
+09X163,09X163,P.S. 163 Arthur A. Schomburg,2017-18,18,9,50.0%,9,50.0%,s,s,7,38.9%,11,61.1%,s,s,s,s
+09X199,09X199,P.S. 199 - The Shakespeare School,2017-18,54,22,40.7%,32,59.3%,s,s,8,14.8%,34,63.0%,11,20.4%,s,s
+09X204,09X204,P.S. 204 Morris Heights,2017-18,36,13,36.1%,23,63.9%,s,s,8,22.2%,27,75.0%,s,s,s,s
+09X236,09X236,P.S. 236 Langston Hughes,2017-18,15,9,60.0%,6,40.0%,s,s,s,s,12,80.0%,s,s,s,s
+09X274,09X274,The New American Academy at Roberto Clemente State Park,2017-18,66,36,54.5%,30,45.5%,s,s,22,33.3%,42,63.6%,s,s,s,s
+09X443,09X443,The Family School,2017-18,36,16,44.4%,20,55.6%,s,s,8,22.2%,28,77.8%,s,s,s,s
+09X449,09X449,Grant Avenue Elementary School,2017-18,25,11,44.0%,14,56.0%,s,s,s,s,20,80.0%,s,s,s,s
+09X555,09X555,Mount Eden Children's Academy,2017-18,54,24,44.4%,30,55.6%,s,s,8,14.8%,44,81.5%,s,s,s,s
+09X582,Z066,Garden of Learning and Discovery Pre-K Center at 1434 Ogden Avenue,2017-18,82,31,37.8%,51,62.2%,11,13.4%,14,17.1%,55,67.1%,s,s,s,s
+09X700,XALW,Sharon Baptist - Center I,2017-18,35,19,54.3%,16,45.7%,s,s,17,48.6%,15,42.9%,s,s,s,s
+09X700,XANV,Highbridge Advisory Council Doris East Stone Day Care,2017-18,17,11,64.7%,6,35.3%,s,s,6,35.3%,11,64.7%,s,s,s,s
+09X700,XAOA,Promesa Multi-Cultural DCC II,2017-18,74,46,62.2%,28,37.8%,s,s,16,21.6%,57,77.0%,s,s,s,s
+09X700,XANT,Louis A. Fickling Child Development Center,2017-18,10,s,s,s,s,s,s,9,90.0%,s,s,s,s,s,s
+09X700,XALZ,Mid Bronx Senior Citizen Center,2017-18,106,52,49.1%,54,50.9%,s,s,25,23.6%,80,75.5%,s,s,s,s
+09X700,XAUH,LA PENINSULA 175 Street,2017-18,8,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X700,XAHO,1332 Fulton Ave DCC,2017-18,35,16,45.7%,19,54.3%,s,s,30,85.7%,s,s,s,s,s,s
+09X700,XAOK,Seventh Avenue Center for Family Services,2017-18,21,11,52.4%,10,47.6%,s,s,s,s,16,76.2%,s,s,s,s
+09X700,XAWX,Fabiana Day Care Academy Universal Pre-K,2017-18,24,15,62.5%,9,37.5%,s,s,s,s,21,87.5%,s,s,s,s
+09X700,XAQZ,Mid Bronx CCRP ECC 1,2017-18,106,54,50.9%,52,49.1%,s,s,25,23.6%,76,71.7%,s,s,s,s
+09X700,XARC,Fulton (Center #4),2017-18,21,14,66.7%,7,33.3%,s,s,16,76.2%,s,s,s,s,s,s
+09X700,XAKH,Labor Bathgate Community CCC,2017-18,28,19,67.9%,9,32.1%,s,s,12,42.9%,16,57.1%,s,s,s,s
+09X700,XAIM,Highbridge Advisory Council Early Childhood Center #3,2017-18,24,13,54.2%,11,45.8%,s,s,s,s,19,79.2%,s,s,s,s
+09X700,XASE,Fort George Universal Pre-K,2017-18,13,s,s,s,s,s,s,8,61.5%,s,s,s,s,s,s
+09X700,XARK,Sacred Heart Head Start,2017-18,54,29,53.7%,25,46.3%,s,s,9,16.7%,44,81.5%,s,s,s,s
+09X700,XAZC,Jesus Loves the Little Angels 2,2017-18,12,6,50.0%,6,50.0%,s,s,s,s,10,83.3%,s,s,s,s
+09X700,XARN,Trabajamos Community Head Start,2017-18,15,s,s,s,s,s,s,s,s,13,86.7%,s,s,s,s
+09X700,XANU,HELP II,2017-18,20,14,70.0%,6,30.0%,s,s,14,70.0%,6,30.0%,s,s,s,s
+09X700,XAGC,Highbridge Advisory Council Early Childhood Center #1,2017-18,49,24,49.0%,25,51.0%,s,s,12,24.5%,35,71.4%,s,s,s,s
+09X700,XAOI,Sharon Baptist - Center IV,2017-18,36,18,50.0%,18,50.0%,s,s,12,33.3%,22,61.1%,s,s,s,s
+09X700,XALY,LSSMNY: Early LIFE Children's Center 4,2017-18,43,17,39.5%,26,60.5%,s,s,16,37.2%,26,60.5%,s,s,s,s
+09X700,XALB,WHEDco Early Childhood Discovery Center,2017-18,95,42,44.2%,53,55.8%,s,s,20,21.1%,73,76.8%,s,s,s,s
+09X700,XAHA,Ready Set Learn,2017-18,72,34,47.2%,38,52.8%,s,s,34,47.2%,36,50.0%,s,s,s,s
+09X700,XAIN,Highbridge Advisory Council DCC (Nelson Avenue),2017-18,45,23,51.1%,22,48.9%,s,s,12,26.7%,30,66.7%,s,s,s,s
+09X700,XANZ,Walton (Center #5),2017-18,51,26,51.0%,25,49.0%,s,s,16,31.4%,33,64.7%,s,s,s,s
+09X700,XAOV,MARC Academy and Family Center,2017-18,22,9,40.9%,13,59.1%,s,s,7,31.8%,12,54.5%,s,s,s,s
+09X700,XAIQ,Richard H. Mangum Early Learning Center,2017-18,18,8,44.4%,10,55.6%,s,s,11,61.1%,7,38.9%,s,s,s,s
+09X700,XASB,New Covenant Christian School,2017-18,14,6,42.9%,8,57.1%,s,s,10,71.4%,s,s,s,s,s,s
+09X700,XAOD,BronxWorks,2017-18,38,16,42.1%,22,57.9%,s,s,18,47.4%,16,42.1%,s,s,s,s
+09X700,XAOC,South Bronx III,2017-18,6,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X700,XAUZ,BronxWorks,2017-18,25,11,44.0%,14,56.0%,s,s,10,40.0%,15,60.0%,s,s,s,s
+09X700,XAOF,Tremont Monterey Day Care Center II,2017-18,21,9,42.9%,12,57.1%,s,s,12,57.1%,8,38.1%,s,s,s,s
+09X700,XAAX,Christ the King School,2017-18,90,39,43.3%,51,56.7%,s,s,8,8.9%,81,90.0%,s,s,s,s
+09X700,XAOB,South Bronx Head Start II,2017-18,35,17,48.6%,18,51.4%,s,s,8,22.9%,27,77.1%,s,s,s,s
+09X700,XATC,United Bronx Parents,2017-18,12,s,s,s,s,s,s,s,s,8,66.7%,s,s,s,s
+09X700,XARS,3467 Ready Set Learn,2017-18,36,17,47.2%,19,52.8%,s,s,21,58.3%,13,36.1%,s,s,s,s
+09X700,XAYV,Promesa Head Start,2017-18,20,8,40.0%,12,60.0%,s,s,8,40.0%,10,50.0%,s,s,s,s
+09X700,XACX,St. Angela Merici School,2017-18,84,52,61.9%,32,38.1%,s,s,16,19.0%,68,81.0%,s,s,s,s
+09X700,XBAT,Tender Tots Washington Ave. LLC,2017-18,18,12,66.7%,6,33.3%,s,s,s,s,13,72.2%,s,s,s,s
+09X700,XAHD,Mid Bronx CCRP ECC 4,2017-18,22,8,36.4%,14,63.6%,s,s,6,27.3%,14,63.6%,s,s,s,s
+09X700,XAMI,Aleene Logan Day Care,2017-18,14,s,s,s,s,s,s,6,42.9%,7,50.0%,s,s,s,s
+09X700,XAFZ,New Covenant Christian School,2017-18,36,22,61.1%,14,38.9%,s,s,12,33.3%,24,66.7%,s,s,s,s
+09X700,XADW,St. Joseph School,2017-18,24,15,62.5%,9,37.5%,s,s,s,s,23,95.8%,s,s,s,s
+09X700,XARD,BRONX EARLY LEARNING CENTER,2017-18,11,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+09X700,XAJJ,Sharon Baptist - Center II,2017-18,42,26,61.9%,16,38.1%,s,s,14,33.3%,27,64.3%,s,s,s,s
+09X700,XANW,Highbridge Advisory Council Head Start,2017-18,48,24,50.0%,24,50.0%,s,s,s,s,44,91.7%,s,s,s,s
+10X003,10X003,P.S. 3 Raul Julia Micro Society,2017-18,23,11,47.8%,12,52.2%,s,s,s,s,18,78.3%,s,s,s,s
+10X009,10X009,P.S. 9 Ryer Avenue Elementary School,2017-18,71,31,43.7%,40,56.3%,s,s,17,23.9%,48,67.6%,s,s,s,s
+10X020,10X020,"P.S./M.S. 20 P.O. George J. Werdann, III",2017-18,18,9,50.0%,9,50.0%,s,s,s,s,13,72.2%,s,s,s,s
+10X023,10X023,P.S. 23 The New Children's School,2017-18,46,27,58.7%,19,41.3%,s,s,15,32.6%,30,65.2%,s,s,s,s
+10X032,10X032,P.S. 32 Belmont,2017-18,35,25,71.4%,10,28.6%,s,s,7,20.0%,28,80.0%,s,s,s,s
+10X033,10X033,P.S. 33 Timothy Dwight,2017-18,54,29,53.7%,25,46.3%,s,s,s,s,47,87.0%,6,11.1%,s,s
+10X051,10X051,P.S. 51 Bronx New School,2017-18,18,12,66.7%,6,33.3%,s,s,s,s,12,66.7%,s,s,s,s
+10X054,10X054,P.S./I.S. 54,2017-18,53,31,58.5%,22,41.5%,s,s,6,11.3%,41,77.4%,s,s,s,s
+10X059,10X059,P.S. 59 The Community School of Technology,2017-18,58,29,50.0%,29,50.0%,s,s,14,24.1%,44,75.9%,s,s,s,s
+10X077,10X077,Bedford Park Elementary School,2017-18,34,17,50.0%,17,50.0%,6,17.6%,s,s,20,58.8%,s,s,s,s
+10X085,10X085,P.S. 85 Great Expectations,2017-18,76,40,52.6%,36,47.4%,s,s,21,27.6%,54,71.1%,s,s,s,s
+10X086,10X086,P.S. 86 Kingsbridge Heights,2017-18,40,19,47.5%,21,52.5%,s,s,s,s,35,87.5%,s,s,s,s
+10X207,10X207,P.S. 207,2017-18,31,14,45.2%,17,54.8%,s,s,s,s,25,80.6%,s,s,s,s
+10X209,10X209,P.S. 209,2017-18,36,20,55.6%,16,44.4%,s,s,8,22.2%,28,77.8%,s,s,s,s
+10X226,10X226,P.S. 226,2017-18,36,23,63.9%,13,36.1%,s,s,s,s,33,91.7%,s,s,s,s
+10X310,10X310,P.S. 310 Marble Hill,2017-18,72,35,48.6%,37,51.4%,s,s,s,s,64,88.9%,s,s,s,s
+10X340,10X340,P.S. 340,2017-18,18,12,66.7%,6,33.3%,s,s,s,s,17,94.4%,s,s,s,s
+10X344,10X344,Ampark Neighborhood,2017-18,16,6,37.5%,10,62.5%,s,s,s,s,12,75.0%,s,s,s,s
+10X360,10X360,P.S. 360,2017-18,47,18,38.3%,29,61.7%,s,s,s,s,41,87.2%,s,s,s,s
+10X386,10X386,School for Environmental Citizenship,2017-18,72,38,52.8%,34,47.2%,s,s,9,12.5%,61,84.7%,s,s,s,s
+10X396,10X396,P.S. 396,2017-18,36,13,36.1%,23,63.9%,s,s,7,19.4%,29,80.6%,s,s,s,s
+10X535,Z107,Rose Hill Pre-K Center at 2490-2500 Webster Avenue,2017-18,22,10,45.5%,12,54.5%,s,s,s,s,19,86.4%,s,s,s,s
+10X535,Z098,Rose Hill Pre-K Center at 5500 Broadway,2017-18,49,22,44.9%,27,55.1%,s,s,6,12.2%,40,81.6%,s,s,s,s
+10X535,Z087,Rose Hill Pre-K Center at 2512 Marion Avenue,2017-18,179,94,52.5%,85,47.5%,s,s,27,15.1%,146,81.6%,s,s,s,s
+10X535,Z091,Rose Hill Pre-K Center at 3605 Sedgwick Avenue,2017-18,30,20,66.7%,10,33.3%,s,s,6,20.0%,22,73.3%,s,s,s,s
+10X535,Z092,Rose Hill Pre-K Center at 3560 Webster Avenue,2017-18,54,28,51.9%,26,48.1%,s,s,15,27.8%,34,63.0%,s,s,s,s
+10X700,XASV,"Bright Star Day Care at Rochambeau, Inc.",2017-18,52,27,51.9%,25,48.1%,17,32.7%,6,11.5%,26,50.0%,s,s,s,s
+10X700,XAOU,MARBLE HILL NURSERY SCHOOL,2017-18,40,26,65.0%,14,35.0%,s,s,s,s,12,30.0%,s,s,19,47.5%
+10X700,XAMB,Trabajamos Community Head Start,2017-18,18,11,61.1%,7,38.9%,s,s,s,s,15,83.3%,s,s,s,s
+10X700,XAWK,Monsignor Boyle Head Start,2017-18,91,54,59.3%,37,40.7%,20,22.0%,s,s,65,71.4%,s,s,s,s
+10X700,XAOM,Belmont Community Day Care Center,2017-18,92,46,50.0%,46,50.0%,s,s,13,14.1%,71,77.2%,s,s,6,6.5%
+10X700,XAKZ,Harry H. Gordon School (NYL),2017-18,8,s,s,s,s,s,s,s,s,7,87.5%,s,s,s,s
+10X700,XAEN,St. Simon Stock,2017-18,67,39,58.2%,28,41.8%,s,s,12,17.9%,53,79.1%,s,s,s,s
+10X700,XAQS,Happy Days at Riverdale,2017-18,16,s,s,s,s,s,s,s,s,s,s,s,s,10,62.5%
+10X700,XAVD,Tender Tots Decatur,2017-18,49,29,59.2%,20,40.8%,s,s,10,20.4%,23,46.9%,s,s,12,24.5%
+10X700,XAYE,Little Scholars Early Development Center,2017-18,64,33,51.6%,31,48.4%,s,s,18,28.1%,42,65.6%,s,s,s,s
+10X700,XAOR,Kingsbridge Montessori School,2017-18,36,15,41.7%,21,58.3%,s,s,s,s,30,83.3%,s,s,s,s
+10X700,XAPH,Round the Clock Nursery,2017-18,56,29,51.8%,27,48.2%,s,s,18,32.1%,35,62.5%,s,s,s,s
+10X700,XADV,Saint John School,2017-18,53,33,62.3%,20,37.7%,s,s,s,s,46,86.8%,s,s,s,s
+10X700,XAHM,Northeast Bronx Day Care Center (Susan Wagner),2017-18,67,28,41.8%,39,58.2%,s,s,16,23.9%,46,68.7%,s,s,s,s
+10X700,XASA,Saint Dominics TORCH,2017-18,41,20,48.8%,21,51.2%,s,s,7,17.1%,33,80.5%,s,s,s,s
+10X700,XAMQ,Mosholu Montefiore - Van Cortlandt,2017-18,65,35,53.8%,30,46.2%,s,s,11,16.9%,45,69.2%,s,s,s,s
+10X700,XAXA,Reach One To Teach One,2017-18,28,12,42.9%,16,57.1%,s,s,6,21.4%,22,78.6%,s,s,s,s
+10X700,XAHH,Trabajamos Community Head Start,2017-18,39,19,48.7%,20,51.3%,s,s,12,30.8%,27,69.2%,s,s,s,s
+10X700,XAYB,Lil Inventors - University Avenue,2017-18,52,25,48.1%,27,51.9%,s,s,s,s,44,84.6%,s,s,s,s
+10X700,XALV,Kingsbridge Heights Community Center,2017-18,64,33,51.6%,31,48.4%,s,s,s,s,55,85.9%,s,s,s,s
+10X700,XAPE,SPUYTEN DUYVIL PRESCHOOL,2017-18,40,23,57.5%,17,42.5%,7,17.5%,s,s,17,42.5%,s,s,10,25.0%
+10X700,XAPC,RIVERDALE TEMPLE NURSERY SCHOOL,2017-18,44,23,52.3%,21,47.7%,s,s,s,s,s,s,s,s,35,79.5%
+10X700,XARI,Lehman College Childcare Center,2017-18,18,10,55.6%,8,44.4%,s,s,s,s,11,61.1%,s,s,s,s
+10X700,XALJ,"Saint Jemuel Group Family Day Care, Inc.",2017-18,31,18,58.1%,13,41.9%,s,s,s,s,25,80.6%,s,s,s,s
+10X700,XAPI,Saint Dominics TORCH,2017-18,26,14,53.8%,12,46.2%,s,s,s,s,23,88.5%,s,s,s,s
+10X700,XAVS,Bedrock Preschool,2017-18,52,26,50.0%,26,50.0%,s,s,s,s,24,46.2%,s,s,16,30.8%
+10X700,XAIF,Be Above 52,2017-18,51,25,49.0%,26,51.0%,s,s,15,29.4%,36,70.6%,s,s,s,s
+10X700,XBAH,The Learning Experience,2017-18,28,14,50.0%,14,50.0%,s,s,s,s,13,46.4%,s,s,10,35.7%
+10X700,XAPB,Riverdale Presbytarian Church and Nursery School,2017-18,36,15,41.7%,21,58.3%,s,s,s,s,s,s,s,s,19,52.8%
+10X700,XAOS,Riverdale Montessori School,2017-18,33,18,54.5%,15,45.5%,s,s,7,21.2%,16,48.5%,s,s,7,21.2%
+10X700,XAZM,Arcadia Children's Daycare,2017-18,42,19,45.2%,23,54.8%,s,s,12,28.6%,28,66.7%,s,s,s,s
+10X700,XATD,Bronx Community College Early Childhood Center,2017-18,18,8,44.4%,10,55.6%,s,s,s,s,16,88.9%,s,s,s,s
+10X700,XAPN,1199 Future of America Learning Center,2017-18,60,35,58.3%,25,41.7%,s,s,18,30.0%,38,63.3%,s,s,s,s
+10X700,XATN,Miss Francine Day School II,2017-18,17,11,64.7%,6,35.3%,s,s,s,s,11,64.7%,s,s,s,s
+10X700,XAPA,"RIVERDALE NEIGHBORHOOD HOUSE, INC.",2017-18,69,36,52.2%,33,47.8%,s,s,s,s,31,44.9%,7,10.1%,24,34.8%
+10X700,XATH,"MARC Academy and Family Center, Inc.",2017-18,35,15,42.9%,20,57.1%,s,s,7,20.0%,27,77.1%,s,s,s,s
+10X700,XAUP,St. Martin of Tours Head Start,2017-18,18,11,61.1%,7,38.9%,s,s,s,s,13,72.2%,s,s,s,s
+10X700,XAON,BRENDA'S PLAYSCHOOL,2017-18,7,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+10X700,XAID,LSSMNY: Early LIFE Children's Center 1,2017-18,83,41,49.4%,42,50.6%,s,s,13,15.7%,69,83.1%,s,s,s,s
+10X700,XAPK,Salvation Army - Tremont,2017-18,15,7,46.7%,8,53.3%,s,s,12,80.0%,s,s,s,s,s,s
+10X700,XADH,Saint Brendan School,2017-18,94,57,60.6%,37,39.4%,9,9.6%,13,13.8%,70,74.5%,s,s,s,s
+10X700,XADP,St. Gabriel School,2017-18,37,20,54.1%,17,45.9%,s,s,s,s,17,45.9%,s,s,15,40.5%
+10X700,XAOT,Kingsbridge Heights Community Center,2017-18,36,17,47.2%,19,52.8%,s,s,s,s,35,97.2%,s,s,s,s
+10X700,XASH,Tolentine Zeiser Community Life Center,2017-18,111,57,51.4%,54,48.6%,s,s,7,6.3%,99,89.2%,s,s,s,s
+10X700,XAAH,AMALGAMATED NURSERY SCHOOL,2017-18,34,15,44.1%,19,55.9%,s,s,6,17.6%,19,55.9%,s,s,s,s
+10X700,XAPD,Riverdale Y Early Childhood Program,2017-18,32,16,50.0%,16,50.0%,s,s,s,s,11,34.4%,s,s,17,53.1%
+10X700,XAEB,Saint Margaret of Cortona,2017-18,42,21,50.0%,21,50.0%,s,s,s,s,21,50.0%,s,s,13,31.0%
+10X700,XALT,Riverdale Nursery School And Family Center,2017-18,20,6,30.0%,14,70.0%,s,s,s,s,10,50.0%,s,s,8,40.0%
+10X700,XAJB,"Concourse House, HDFC",2017-18,62,31,50.0%,31,50.0%,s,s,21,33.9%,36,58.1%,s,s,s,s
+10X700,XAOX,Child Development Center of Mosholu Montefiore CC,2017-18,90,57,63.3%,33,36.7%,6,6.7%,s,s,77,85.6%,s,s,s,s
+10X700,XAOW,Mosholu Montefiore Community Center - NORTHSIDE ANNEX,2017-18,74,41,55.4%,33,44.6%,23,31.1%,s,s,45,60.8%,s,s,s,s
+10X700,XASN,Lion of Judah Christian Academy (LOJCA),2017-18,12,6,50.0%,6,50.0%,s,s,s,s,10,83.3%,s,s,s,s
+10X700,XACY,Saint Ann - Our Lady of Mount Carmel Annex,2017-18,19,s,s,s,s,s,s,s,s,14,73.7%,s,s,s,s
+10X700,XAOL,St. Nicholas of Tolentine Head Start,2017-18,18,8,44.4%,10,55.6%,s,s,s,s,17,94.4%,s,s,s,s
+10X700,XARV,Bronx Day Care Center Inc.,2017-18,18,9,50.0%,9,50.0%,s,s,11,61.1%,7,38.9%,s,s,s,s
+10X700,XACM,Our Lady of Mount Carmel,2017-18,93,52,55.9%,41,44.1%,s,s,14,15.1%,73,78.5%,s,s,s,s
+10X700,XAZG,Yearling Nursery School,2017-18,6,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+11X016,11X016,P.S. 16 Wakefield,2017-18,31,15,48.4%,16,51.6%,s,s,11,35.5%,14,45.2%,s,s,s,s
+11X068,11X068,P.S. 68 Bronx,2017-18,17,8,47.1%,9,52.9%,s,s,15,88.2%,s,s,s,s,s,s
+11X078,11X078,P.S. 78 Anne Hutchinson,2017-18,36,15,41.7%,21,58.3%,s,s,25,69.4%,10,27.8%,s,s,s,s
+11X089,11X089,P.S. 89 Bronx,2017-18,54,28,51.9%,26,48.1%,s,s,7,13.0%,30,55.6%,s,s,9,16.7%
+11X106,11X106,P.S. 106 Parkchester,2017-18,52,26,50.0%,26,50.0%,32,61.5%,6,11.5%,12,23.1%,s,s,s,s
+11X108,11X108,P.S. 108 Philip J. Abinanti,2017-18,17,8,47.1%,9,52.9%,s,s,s,s,6,35.3%,s,s,10,58.8%
+11X111,11X111,P.S. 111 Seton Falls,2017-18,49,19,38.8%,30,61.2%,s,s,31,63.3%,15,30.6%,s,s,s,s
+11X112,11X112,P.S. 112 Bronxwood,2017-18,51,20,39.2%,31,60.8%,s,s,23,45.1%,24,47.1%,s,s,s,s
+11X121,11X121,P.S. 121 Throop,2017-18,36,16,44.4%,20,55.6%,s,s,21,58.3%,11,30.6%,s,s,s,s
+11X153,11X153,P.S. 153 Helen Keller,2017-18,18,9,50.0%,9,50.0%,s,s,17,94.4%,s,s,s,s,s,s
+11X160,11X160,P.S. 160 Walt Disney,2017-18,53,28,52.8%,25,47.2%,s,s,34,64.2%,16,30.2%,s,s,s,s
+11X169,11X169,Baychester Academy,2017-18,36,24,66.7%,12,33.3%,s,s,29,80.6%,6,16.7%,s,s,s,s
+11X189,11X189,Cornerstone Academy for Social Action,2017-18,33,18,54.5%,15,45.5%,s,s,17,51.5%,13,39.4%,s,s,s,s
+11X357,11X357,Young Voices Academy of the Bronx,2017-18,34,15,44.1%,19,55.9%,6,17.6%,s,s,19,55.9%,s,s,9,26.5%
+11X534,Z039,District 11 Pre-K Center at 4520 Matilda Avenue,2017-18,36,15,41.7%,21,58.3%,s,s,21,58.3%,11,30.6%,s,s,s,s
+11X534,Z038,District 11 Pre-K Center at 1684 White Plains Road,2017-18,70,41,58.6%,29,41.4%,15,21.4%,s,s,39,55.7%,s,s,9,12.9%
+11X534,Z037,District 11 Pre-K Center at 800 Lydig Avenue,2017-18,33,20,60.6%,13,39.4%,s,s,s,s,22,66.7%,s,s,s,s
+11X567,11X567,Linden Tree Elementary School,2017-18,19,12,63.2%,7,36.8%,s,s,s,s,12,63.2%,s,s,s,s
+11X700,XAPP,BRONX HOUSE 1,2017-18,90,45,50.0%,45,50.0%,10,11.1%,9,10.0%,61,67.8%,s,s,s,s
+11X700,XAWP,St. Lucy Early Childhood Academy,2017-18,63,25,39.7%,38,60.3%,s,s,9,14.3%,37,58.7%,s,s,9,14.3%
+11X700,XAPU,North Bronx NCNW CDC,2017-18,57,35,61.4%,22,38.6%,s,s,39,68.4%,13,22.8%,s,s,s,s
+11X700,XASY,Holy Rosary Early Childhood at St. Mary Star of the Sea,2017-18,13,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+11X700,XAKJ,Wake-Eden Christian Academy,2017-18,18,9,50.0%,9,50.0%,s,s,18,100.0%,s,s,s,s,s,s
+11X700,XAPX,Williamsbridge NAACP Early Childhood Education Center,2017-18,53,23,43.4%,30,56.6%,s,s,40,75.5%,12,22.6%,s,s,s,s
+11X700,XAFA,UCP/NYC'S BRONX CHILDREN'S PROGRAM,2017-18,15,8,53.3%,7,46.7%,s,s,s,s,6,40.0%,s,s,s,s
+11X700,XADJ,Saint Clare of Assisi School,2017-18,90,51,56.7%,39,43.3%,9,10.0%,s,s,45,50.0%,s,s,30,33.3%
+11X700,XADQ,St. Helena School,2017-18,76,36,47.4%,40,52.6%,27,35.5%,18,23.7%,28,36.8%,s,s,s,s
+11X700,XARQ,Learning Ladder Day Care Center,2017-18,46,23,50.0%,23,50.0%,s,s,30,65.2%,12,26.1%,s,s,s,s
+11X700,XAEW,THE LEARNING TREE,2017-18,71,39,54.9%,32,45.1%,s,s,54,76.1%,12,16.9%,s,s,s,s
+11X700,XADY,Saint Lucy School,2017-18,146,70,47.9%,76,52.1%,17,11.6%,25,17.1%,85,58.2%,s,s,s,s
+11X700,XAEL,St. Raymond Elementary,2017-18,72,31,43.1%,41,56.9%,6,8.3%,14,19.4%,49,68.1%,s,s,s,s
+11X700,XAAF,HOWARD HABER EARLY LEARNING CENTER,2017-18,12,s,s,s,s,12,100.0%,s,s,s,s,s,s,s,s
+11X700,XADO,Saint Francis Xavier School,2017-18,96,50,52.1%,46,47.9%,11,11.5%,s,s,50,52.1%,s,s,25,26.0%
+11X700,XAHK,For Kids Only,2017-18,14,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+11X700,XAYC,"All Seasons A&C Day Care, LLC",2017-18,20,11,55.0%,9,45.0%,s,s,13,65.0%,7,35.0%,s,s,s,s
+11X700,XAFG,Little Stars 3,2017-18,20,10,50.0%,10,50.0%,s,s,15,75.0%,s,s,s,s,s,s
+11X700,XAQL,Corry Academy,2017-18,71,39,54.9%,32,45.1%,s,s,43,60.6%,22,31.0%,s,s,s,s
+11X700,XABM,Holy Rosary School,2017-18,118,56,47.5%,62,52.5%,8,6.8%,65,55.1%,41,34.7%,s,s,s,s
+11X700,XAPT,"Little Stars School, Inc.",2017-18,55,34,61.8%,21,38.2%,s,s,41,74.5%,13,23.6%,s,s,s,s
+11X700,XAQY,Susan Wagner Victory,2017-18,29,15,51.7%,14,48.3%,s,s,17,58.6%,11,37.9%,s,s,s,s
+11X700,XAPW,United Educare Preschool,2017-18,53,33,62.3%,20,37.7%,s,s,45,84.9%,s,s,s,s,s,s
+11X700,XAPQ,BRONX HOUSE 2,2017-18,70,43,61.4%,27,38.6%,s,s,s,s,43,61.4%,s,s,17,24.3%
+11X700,XAPY,Susan Wagner Day Care,2017-18,47,24,51.1%,23,48.9%,s,s,33,70.2%,11,23.4%,s,s,s,s
+11X700,XATE,Susan Wagner Day School,2017-18,32,12,37.5%,20,62.5%,s,s,17,53.1%,13,40.6%,s,s,s,s
+11X700,XAVX,Sunshine Daycare of Westchester Village,2017-18,18,8,44.4%,10,55.6%,s,s,s,s,8,44.4%,s,s,s,s
+11X700,XACE,Nativity of Our Blessed Lady,2017-18,55,29,52.7%,26,47.3%,s,s,45,81.8%,7,12.7%,s,s,s,s
+11X700,XASX,St. Barnabas School,2017-18,89,55,61.8%,34,38.2%,s,s,17,19.1%,29,32.6%,s,s,33,37.1%
+11X700,XALA,Westchester Tremont DCC,2017-18,33,22,66.7%,11,33.3%,s,s,15,45.5%,15,45.5%,s,s,s,s
+11X700,XAYQ,"Bronx Park East Preparatory, Inc.",2017-18,20,10,50.0%,10,50.0%,s,s,s,s,12,60.0%,s,s,s,s
+11X700,XAAA,Harry H. Gordon School Annex (NYL),2017-18,14,6,42.9%,8,57.1%,s,s,8,57.1%,s,s,s,s,s,s
+11X700,XARJ,Santa Maria School,2017-18,184,104,56.5%,80,43.5%,68,37.0%,27,14.7%,79,42.9%,s,s,s,s
+11X700,XABT,Immaculate Conception School,2017-18,72,43,59.7%,29,40.3%,s,s,39,54.2%,27,37.5%,s,s,s,s
+11X700,XAPV,Rainbow Rhymes Learning Center,2017-18,17,s,s,s,s,s,s,15,88.2%,s,s,s,s,s,s
+11X700,XAHS,"Little Stars Too, inc.",2017-18,38,21,55.3%,17,44.7%,9,23.7%,9,23.7%,16,42.1%,s,s,s,s
+11X700,XASO,Mind-Builders Creative Arts Center,2017-18,18,6,33.3%,12,66.7%,s,s,s,s,14,77.8%,s,s,s,s
+11X700,XAWG,"All Seasons Day Care, LLC",2017-18,16,6,37.5%,10,62.5%,s,s,10,62.5%,6,37.5%,s,s,s,s
+11X700,XAZB,Santa Maria Early Childhood Academy,2017-18,39,25,64.1%,14,35.9%,10,25.6%,s,s,23,59.0%,s,s,s,s
+11X700,XACR,Regent School,2017-18,18,8,44.4%,10,55.6%,s,s,15,83.3%,s,s,s,s,s,s
+11X700,XAQK,Saints Philip & James School,2017-18,34,19,55.9%,15,44.1%,s,s,26,76.5%,8,23.5%,s,s,s,s
+11X700,XADN,Saint Francis of Assisi School,2017-18,51,22,43.1%,29,56.9%,s,s,44,86.3%,s,s,s,s,s,s
+11X700,XACK,Our Lady of Grace School,2017-18,123,73,59.3%,50,40.7%,s,s,90,73.2%,31,25.2%,s,s,s,s
+11X700,XAYD,Laconia Day Care Center and Infant Care,2017-18,36,24,66.7%,12,33.3%,s,s,26,72.2%,8,22.2%,s,s,s,s
+11X700,XACF,New Covenant Christian School,2017-18,35,18,51.4%,17,48.6%,s,s,29,82.9%,6,17.1%,s,s,s,s
+11X700,XBAZ,Lil Inventors Child Care- Wallace Ave,2017-18,41,25,61.0%,16,39.0%,s,s,10,24.4%,27,65.9%,s,s,s,s
+11X700,XAZX,St. Clare Of Assisi Early Childhood Academy,2017-18,67,30,44.8%,37,55.2%,9,13.4%,s,s,24,35.8%,s,s,31,46.3%
+12X006,12X006,P.S. 6 West Farms,2017-18,53,23,43.4%,30,56.6%,s,s,13,24.5%,40,75.5%,s,s,s,s
+12X044,12X044,P.S. 44 David C. Farragut,2017-18,26,10,38.5%,16,61.5%,s,s,16,61.5%,10,38.5%,s,s,s,s
+12X057,12X057,P.S. 57 Crescent,2017-18,33,18,54.5%,15,45.5%,s,s,7,21.2%,25,75.8%,s,s,s,s
+12X061,12X061,P.S. 61 Francisco Oller,2017-18,36,22,61.1%,14,38.9%,s,s,7,19.4%,28,77.8%,s,s,s,s
+12X066,12X066,P.S. 66 School of Higher Expectations,2017-18,62,29,46.8%,33,53.2%,s,s,19,30.6%,38,61.3%,s,s,s,s
+12X067,12X067,P.S. 67 Mohegan School,2017-18,44,22,50.0%,22,50.0%,s,s,14,31.8%,30,68.2%,s,s,s,s
+12X092,12X092,P.S. 92 Bronx,2017-18,35,19,54.3%,16,45.7%,s,s,10,28.6%,25,71.4%,s,s,s,s
+12X134,12X134,P.S. 134 George F. Bristow,2017-18,51,23,45.1%,28,54.9%,s,s,15,29.4%,22,43.1%,s,s,12,23.5%
+12X150,12X150,P.S. 150 Charles James Fox,2017-18,35,14,40.0%,21,60.0%,s,s,7,20.0%,25,71.4%,s,s,s,s
+12X195,12X195,P.S. 195,2017-18,36,13,36.1%,23,63.9%,s,s,s,s,31,86.1%,s,s,s,s
+12X196,12X196,P.S. 196,2017-18,18,8,44.4%,10,55.6%,s,s,s,s,14,77.8%,s,s,s,s
+12X211,12X211,P.S. 211,2017-18,29,14,48.3%,15,51.7%,s,s,s,s,24,82.8%,s,s,s,s
+12X212,12X212,P.S. 212,2017-18,30,15,50.0%,15,50.0%,s,s,10,33.3%,20,66.7%,s,s,s,s
+12X214,12X214,P.S. 214,2017-18,64,35,54.7%,29,45.3%,s,s,17,26.6%,45,70.3%,s,s,s,s
+12X300,12X300,The School of Science and Applied Learning,2017-18,18,9,50.0%,9,50.0%,s,s,s,s,13,72.2%,s,s,s,s
+12X314,12X314,Fairmont Neighborhood School,2017-18,31,17,54.8%,14,45.2%,s,s,s,s,23,74.2%,s,s,s,s
+12X458,12X458,Samara Community School,2017-18,32,14,43.8%,18,56.3%,s,s,s,s,30,93.8%,s,s,s,s
+12X463,12X463,Urban Scholars Community School,2017-18,26,14,53.8%,12,46.2%,s,s,7,26.9%,19,73.1%,s,s,s,s
+12X531,12X531,Archer Elementary School,2017-18,18,7,38.9%,11,61.1%,s,s,s,s,11,61.1%,s,s,s,s
+12X536,12X536,P.S. 536,2017-18,18,10,55.6%,8,44.4%,s,s,8,44.4%,9,50.0%,s,s,s,s
+12X691,12X691,Bronx Little School,2017-18,18,s,s,s,s,s,s,s,s,11,61.1%,s,s,s,s
+12X700,XAQA,Tremont Crotona,2017-18,30,13,43.3%,17,56.7%,s,s,7,23.3%,23,76.7%,s,s,s,s
+12X700,XAKQ,HELP III,2017-18,13,6,46.2%,7,53.8%,s,s,7,53.8%,6,46.2%,s,s,s,s
+12X700,XAPZ,Saint Anthony I,2017-18,54,27,50.0%,27,50.0%,s,s,8,14.8%,45,83.3%,s,s,s,s
+12X700,XAEP,St. Thomas Aquinas School,2017-18,33,22,66.7%,11,33.3%,s,s,10,30.3%,23,69.7%,s,s,s,s
+12X700,XAYK,Phipps Houses Lebanon West Farms,2017-18,51,32,62.7%,19,37.3%,s,s,15,29.4%,36,70.6%,s,s,s,s
+12X700,XAJT,East Tremont Child Care and Development Center,2017-18,17,10,58.8%,7,41.2%,s,s,10,58.8%,7,41.2%,s,s,s,s
+12X700,XAAS,Bronxdale Nursery,2017-18,38,18,47.4%,20,52.6%,7,18.4%,s,s,26,68.4%,s,s,s,s
+12X700,XAVJ,Little Scholars Early Development Center,2017-18,26,10,38.5%,16,61.5%,s,s,11,42.3%,13,50.0%,s,s,s,s
+12X700,XAWL,Bright Star Stratford Inc.,2017-18,65,29,44.6%,36,55.4%,s,s,11,16.9%,48,73.8%,s,s,s,s
+12X700,XAKD,Sound Dale Center for ECE,2017-18,101,55,54.5%,46,45.5%,11,10.9%,26,25.7%,61,60.4%,s,s,s,s
+12X700,XAKA,Intervale (Center #2),2017-18,54,28,51.9%,26,48.1%,s,s,13,24.1%,39,72.2%,s,s,s,s
+12X700,XAKE,Bronx River Early Learn Center,2017-18,16,9,56.3%,7,43.8%,s,s,s,s,13,81.3%,s,s,s,s
+12X700,XAJU,Children's Aid at P.S. 211,2017-18,31,16,51.6%,15,48.4%,s,s,7,22.6%,24,77.4%,s,s,s,s
+12X700,XADT,SAINT JOHN CHRYSOSTOM SCHOOL,2017-18,91,50,54.9%,41,45.1%,s,s,19,20.9%,72,79.1%,s,s,s,s
+12X700,XAJD,Bronx Early Childhood Center,2017-18,33,18,54.5%,15,45.5%,s,s,16,48.5%,17,51.5%,s,s,s,s
+12X700,XAFK,Phipps Neighborhoods Daly Avenue ECEC,2017-18,52,31,59.6%,21,40.4%,s,s,17,32.7%,34,65.4%,s,s,s,s
+13K003,13K003,P.S. 3 The Bedford Village,2017-18,49,21,42.9%,28,57.1%,s,s,37,75.5%,s,s,s,s,s,s
+13K009,13K009,P.S. 9 Teunis G. Bergen,2017-18,132,69,52.3%,63,47.7%,s,s,36,27.3%,22,16.7%,s,s,60,45.5%
+13K011,13K011,P.S. 11 Purvis J. Behan,2017-18,72,33,45.8%,39,54.2%,s,s,26,36.1%,s,s,10,13.9%,27,37.5%
+13K020,13K020,P.S. 20 Clinton Hill,2017-18,54,25,46.3%,29,53.7%,s,s,8,14.8%,7,13.0%,s,s,32,59.3%
+13K044,13K044,P.S. 44 Marcus Garvey,2017-18,11,s,s,s,s,s,s,10,90.9%,s,s,s,s,s,s
+13K046,13K046,P.S. 46 Edward C. Blum,2017-18,41,25,61.0%,16,39.0%,s,s,18,43.9%,13,31.7%,7,17.1%,s,s
+13K054,13K054,P.S. 54 Samuel C. Barnes,2017-18,30,16,53.3%,14,46.7%,s,s,11,36.7%,12,40.0%,s,s,s,s
+13K056,13K056,P.S. 56 Lewis H. Latimer,2017-18,18,9,50.0%,9,50.0%,s,s,s,s,s,s,s,s,10,55.6%
+13K067,13K067,P.S. 67 Charles A. Dorsey,2017-18,18,s,s,s,s,s,s,12,66.7%,6,33.3%,s,s,s,s
+13K093,13K093,P.S. 93 William H. Prescott,2017-18,32,19,59.4%,13,40.6%,10,31.3%,19,59.4%,s,s,s,s,s,s
+13K133,13K133,P.S. 133 William A. Butler,2017-18,52,17,32.7%,35,67.3%,s,s,12,23.1%,15,28.8%,s,s,16,30.8%
+13K256,13K256,P.S. 256 Benjamin Banneker,2017-18,17,11,64.7%,6,35.3%,s,s,10,58.8%,6,35.3%,s,s,s,s
+13K270,13K270,P.S. 270 Johann Dekalb,2017-18,11,s,s,s,s,s,s,8,72.7%,s,s,s,s,s,s
+13K282,13K282,P.S. 282 Park Slope,2017-18,81,42,51.9%,39,48.1%,s,s,27,33.3%,13,16.0%,s,s,32,39.5%
+13K287,13K287,P.S. 287 Bailey K. Ashford,2017-18,13,s,s,s,s,s,s,8,61.5%,s,s,s,s,s,s
+13K305,13K305,P.S. 305 Dr. Peter Ray,2017-18,7,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+13K307,13K307,P.S. 307 Daniel Hale Williams,2017-18,43,13,30.2%,30,69.8%,s,s,18,41.9%,7,16.3%,s,s,16,37.2%
+13K700,KCNY,NY Preschool Brooklyn Heights,2017-18,15,s,s,s,s,s,s,s,s,s,s,s,s,8,53.3%
+13K700,KBLK,Bedford Stuyvesant ECDC 5Q,2017-18,34,19,55.9%,15,44.1%,s,s,24,70.6%,6,17.6%,s,s,s,s
+13K700,KBLM,Salvation Army - Bedford,2017-18,6,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+13K700,KBUV,Helen Owen Carey CDC,2017-18,70,30,42.9%,40,57.1%,6,8.6%,13,18.6%,14,20.0%,8,11.4%,29,41.4%
+13K700,KBCV,"Tabernacle Church of God Day Care Center, Inc.",2017-18,35,16,45.7%,19,54.3%,s,s,26,74.3%,s,s,s,s,s,s
+13K700,KBLI,Young Minds Day Care Center,2017-18,15,s,s,s,s,s,s,12,80.0%,s,s,s,s,s,s
+13K700,KBLF,"BAMBI Day Care CENTER, INC.",2017-18,19,10,52.6%,9,47.4%,s,s,14,73.7%,s,s,s,s,s,s
+13K700,KBOA,OUR CHILDREN'S CENTER,2017-18,22,10,45.5%,12,54.5%,s,s,13,59.1%,6,27.3%,s,s,s,s
+13K700,KCQT,Bnos Square of Williamsburg,2017-18,31,s,s,s,s,s,s,s,s,s,s,s,s,31,100.0%
+13K700,KCEH,Imagine Brooklyn Heights,2017-18,17,8,47.1%,9,52.9%,s,s,s,s,s,s,s,s,10,58.8%
+13K700,KBNO,Billy Martin Child Development Center,2017-18,20,s,s,s,s,s,s,s,s,19,95.0%,s,s,s,s
+13K700,KCLC,Sunny Skies Preschool,2017-18,23,12,52.2%,11,47.8%,s,s,7,30.4%,14,60.9%,s,s,s,s
+13K700,KCQE,Stuyvesant Heights Day Care/New Vision One,2017-18,19,11,57.9%,8,42.1%,s,s,17,89.5%,s,s,s,s,s,s
+13K700,KASJ,BCS Duffield Children's Center,2017-18,28,13,46.4%,15,53.6%,s,s,16,57.1%,10,35.7%,s,s,s,s
+13K700,KBLL,Northside Center for Child Development,2017-18,25,14,56.0%,11,44.0%,s,s,22,88.0%,s,s,s,s,s,s
+13K700,KCEG,Imagine Dumbo - Adams,2017-18,9,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+13K700,KBVZ,Little Sun People,2017-18,18,11,61.1%,7,38.9%,s,s,16,88.9%,s,s,s,s,s,s
+13K700,KCNZ,Ny Preschool Park Slope,2017-18,53,31,58.5%,22,41.5%,s,s,9,17.0%,s,s,s,s,29,54.7%
+13K700,KBNK,Bedford Stuyvesant ECDC 262,2017-18,26,15,57.7%,11,42.3%,s,s,23,88.5%,s,s,s,s,s,s
+13K700,KCHM,"Alonzo A. Daughtry Memorial Day Care Center, Inc.",2017-18,25,14,56.0%,11,44.0%,s,s,12,48.0%,10,40.0%,s,s,s,s
+13K869,Z090,District 13 Pre-K Center at 25 Dock Street,2017-18,70,39,55.7%,31,44.3%,10,14.3%,s,s,s,s,s,s,53,75.7%
+14K016,14K016,P.S. 16 Leonard Dunkly,2017-18,12,s,s,s,s,s,s,s,s,10,83.3%,s,s,s,s
+14K017,14K017,P.S. 17 Henry D. Woodworth,2017-18,22,12,54.5%,10,45.5%,s,s,s,s,17,77.3%,s,s,s,s
+14K018,14K018,P.S. 18 Edward Bush,2017-18,18,11,61.1%,7,38.9%,s,s,s,s,14,77.8%,s,s,s,s
+14K023,14K023,P.S. 23 Carter G. Woodson,2017-18,27,16,59.3%,11,40.7%,s,s,14,51.9%,10,37.0%,s,s,s,s
+14K031,14K031,P.S. 31 Samuel F. Dupont,2017-18,84,34,40.5%,50,59.5%,15,17.9%,s,s,25,29.8%,s,s,39,46.4%
+14K034,14K034,P.S. 34 Oliver H. Perry,2017-18,35,13,37.1%,22,62.9%,s,s,s,s,s,s,s,s,26,74.3%
+14K059,14K059,P.S. 59 William Floyd,2017-18,29,14,48.3%,15,51.7%,s,s,12,41.4%,16,55.2%,s,s,s,s
+14K084,14K084,P.S. 84 Jose De Diego,2017-18,69,35,50.7%,34,49.3%,s,s,s,s,30,43.5%,8,11.6%,24,34.8%
+14K110,14K110,P.S. 110 The Monitor,2017-18,86,44,51.2%,42,48.8%,6,7.0%,s,s,16,18.6%,s,s,59,68.6%
+14K120,14K120,P.S. 120 Carlos Tapia,2017-18,46,26,56.5%,20,43.5%,s,s,8,17.4%,35,76.1%,s,s,s,s
+14K132,14K132,P.S. 132 The Conselyea School,2017-18,72,30,41.7%,42,58.3%,s,s,s,s,23,31.9%,s,s,33,45.8%
+14K147,14K147,P.S. 147 Isaac Remsen,2017-18,57,21,36.8%,36,63.2%,s,s,s,s,26,45.6%,s,s,19,33.3%
+14K157,14K157,P.S./I.S. 157 The Benjamin Franklin Health & Science Academy,2017-18,31,12,38.7%,19,61.3%,s,s,s,s,22,71.0%,s,s,s,s
+14K196,14K196,P.S. 196 Ten Eyck,2017-18,22,10,45.5%,12,54.5%,s,s,7,31.8%,11,50.0%,s,s,s,s
+14K250,14K250,P.S. 250 George H. Lindsay,2017-18,35,23,65.7%,12,34.3%,8,22.9%,s,s,22,62.9%,s,s,s,s
+14K257,14K257,P.S. 257 John F. Hylan,2017-18,54,26,48.1%,28,51.9%,s,s,17,31.5%,36,66.7%,s,s,s,s
+14K297,14K297,P.S. 297 Abraham Stockton,2017-18,18,12,66.7%,6,33.3%,s,s,10,55.6%,7,38.9%,s,s,s,s
+14K319,14K319,P.S. 319,2017-18,43,21,48.8%,22,51.2%,s,s,s,s,33,76.7%,s,s,7,16.3%
+14K380,14K380,P.S. 380 John Wayne Elementary,2017-18,47,26,55.3%,21,44.7%,s,s,10,21.3%,36,76.6%,s,s,s,s
+14K414,14K414,Brooklyn Arbor Elementary School,2017-18,36,18,50.0%,18,50.0%,s,s,s,s,19,52.8%,s,s,15,41.7%
+14K700,KBLT,Tompkins Children's Center,2017-18,33,16,48.5%,17,51.5%,s,s,9,27.3%,22,66.7%,s,s,s,s
+14K700,KBVT,Yeshiva Headstart Keap Street,2017-18,81,s,s,s,s,s,s,s,s,s,s,s,s,80,98.8%
+14K700,KBWH,Jonathan Williams,2017-18,29,20,69.0%,9,31.0%,s,s,s,s,25,86.2%,s,s,s,s
+14K700,KBVD,Nuestros Ninos DCC III,2017-18,7,s,s,s,s,s,s,s,s,6,85.7%,s,s,s,s
+14K700,KCII,Kings Bay Y at North Williamsburg,2017-18,17,s,s,s,s,s,s,s,s,s,s,s,s,12,70.6%
+14K700,KBME,Nuestros Ninos DCC II,2017-18,32,12,37.5%,20,62.5%,s,s,s,s,32,100.0%,s,s,s,s
+14K700,KBKH,Bushwick United HDFC 9,2017-18,17,s,s,s,s,s,s,s,s,12,70.6%,s,s,s,s
+14K700,KBVC,Nuestros Ninos DCC I,2017-18,38,21,55.3%,17,44.7%,s,s,s,s,38,100.0%,s,s,s,s
+14K700,KAKR,St Stanislaus Kostka Catholic Academy,2017-18,33,16,48.5%,17,51.5%,s,s,s,s,6,18.2%,s,s,24,72.7%
+14K700,KBLU,Stagg Street Center for Children,2017-18,15,s,s,s,s,s,s,6,40.0%,9,60.0%,s,s,s,s
+14K700,KABG,Yeshiva Jesode Hatorah,2017-18,20,s,s,s,s,s,s,s,s,s,s,s,s,19,95.0%
+14K700,KBLW,Bushwick United HDFC 4,2017-18,16,7,43.8%,9,56.3%,s,s,s,s,11,68.8%,s,s,s,s
+14K700,KBLY,Graham Child Care Center,2017-18,14,s,s,s,s,s,s,s,s,11,78.6%,s,s,s,s
+14K700,KBJF,Cooper Park Child Care Center,2017-18,9,s,s,s,s,s,s,6,66.7%,s,s,s,s,s,s
+14K700,KCKB,Bushwick United Development Fund,2017-18,15,8,53.3%,7,46.7%,s,s,s,s,11,73.3%,s,s,s,s
+14K700,KBWT,Our Children the Leaders of Tomorrow 1,2017-18,16,s,s,s,s,s,s,12,75.0%,s,s,s,s,s,s
+14K700,KBLS,Sumner Children's Center,2017-18,29,20,69.0%,9,31.0%,s,s,12,41.4%,16,55.2%,s,s,s,s
+14K700,KCPK,Chabad of North Brooklyn,2017-18,9,s,s,s,s,s,s,s,s,s,s,s,s,9,100.0%
+14K700,KBJI,Marcy Children's Center,2017-18,14,8,57.1%,6,42.9%,s,s,7,50.0%,s,s,s,s,s,s
+14K700,KBKF,Williamsburg CCC,2017-18,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+14K700,KBMC,Small World,2017-18,35,16,45.7%,19,54.3%,s,s,s,s,17,48.6%,s,s,9,25.7%
+14K700,KBWW,Williamsburg Y Head Start,2017-18,82,34,41.5%,48,58.5%,s,s,s,s,23,28.0%,s,s,54,65.9%
+14K700,KCKY,Queen of the Rosary Catholic Academy,2017-18,27,9,33.3%,18,66.7%,s,s,s,s,17,63.0%,s,s,6,22.2%
+15K001,15K001,P.S. 1 The Bergen,2017-18,129,68,52.7%,61,47.3%,11,8.5%,s,s,117,90.7%,s,s,s,s
+15K015,15K015,P.S. 15 Patrick F. Daly,2017-18,80,42,52.5%,38,47.5%,s,s,17,21.3%,18,22.5%,s,s,33,41.2%
+15K024,15K024,P.S. 24,2017-18,39,17,43.6%,22,56.4%,s,s,s,s,31,79.5%,s,s,6,15.4%
+15K029,15K029,P.S. 29 John M. Harrigan,2017-18,36,22,61.1%,14,38.9%,s,s,s,s,s,s,6,16.7%,25,69.4%
+15K032,15K032,P.S. 32 Samuel Mills Sprole,2017-18,34,19,55.9%,15,44.1%,s,s,s,s,9,26.5%,s,s,17,50.0%
+15K038,15K038,P.S. 38 The Pacific,2017-18,96,50,52.1%,46,47.9%,8,8.3%,15,15.6%,10,10.4%,13,13.5%,50,52.1%
+15K058,15K058,P.S. 58 The Carroll,2017-18,54,26,48.1%,28,51.9%,s,s,s,s,s,s,s,s,41,75.9%
+15K118,15K118,The Maurice Sendak Community School,2017-18,48,19,39.6%,29,60.4%,8,16.7%,s,s,s,s,s,s,30,62.5%
+15K124,15K124,P.S. 124 Silas B. Dutcher,2017-18,47,25,53.2%,22,46.8%,7,14.9%,s,s,24,51.1%,s,s,11,23.4%
+15K130,15K130,P.S. 130 The Parkside,2017-18,72,30,41.7%,42,58.3%,24,33.3%,s,s,13,18.1%,s,s,30,41.7%
+15K131,15K131,P.S. 131 Brooklyn,2017-18,35,18,51.4%,17,48.6%,16,45.7%,s,s,15,42.9%,s,s,s,s
+15K146,15K146,Brooklyn New School,2017-18,54,28,51.9%,26,48.1%,s,s,s,s,14,25.9%,12,22.2%,20,37.0%
+15K172,15K172,P.S. 172 Beacon School Of Excellence,2017-18,40,21,52.5%,19,47.5%,s,s,s,s,28,70.0%,s,s,8,20.0%
+15K230,15K230,P.S. 230 Doris L. Cohen,2017-18,72,35,48.6%,37,51.4%,33,45.8%,s,s,29,40.3%,s,s,9,12.5%
+15K261,15K261,P.S. 261 Philip Livingston,2017-18,37,19,51.4%,18,48.6%,s,s,s,s,s,s,s,s,28,75.7%
+15K295,15K295,P.S. 295,2017-18,35,15,42.9%,20,57.1%,s,s,s,s,11,31.4%,s,s,19,54.3%
+15K418,15K418,The Children's School,2017-18,36,15,41.7%,21,58.3%,s,s,s,s,6,16.7%,s,s,23,63.9%
+15K516,15K516,Sunset Park Avenues Elementary School,2017-18,59,33,55.9%,26,44.1%,6,10.2%,s,s,42,71.2%,s,s,11,18.6%
+15K676,15K676,Red Hook Neighborhood School,2017-18,15,7,46.7%,8,53.3%,s,s,7,46.7%,6,40.0%,s,s,s,s
+15K700,KBMO,CHICK PEAS CHILD CARE,2017-18,12,s,s,s,s,s,s,s,s,s,s,s,s,10,83.3%
+15K700,KCMN,Early Childhood Development Center Kaleidoscope,2017-18,12,s,s,s,s,s,s,s,s,s,s,s,s,12,100.0%
+15K700,KBKJ,Strong Place Day Care,2017-18,36,15,41.7%,21,58.3%,s,s,8,22.2%,20,55.6%,s,s,6,16.7%
+15K700,KBKW,Baais Yaakov Faigeh of Schonberger of Adas Yereim,2017-18,20,s,s,s,s,s,s,s,s,s,s,s,s,20,100.0%
+15K700,KCMK,"Brooklyn Treehouse Preeschool, Inc.",2017-18,30,14,46.7%,16,53.3%,s,s,s,s,s,s,s,s,22,73.3%
+15K700,KBMX,A. Fantis Parochial School,2017-18,34,12,35.3%,22,64.7%,s,s,s,s,s,s,s,s,21,61.8%
+15K700,KBDX,B.Above Worldwide Institute - Tomer Devorah,2017-18,30,s,s,s,s,s,s,s,s,s,s,s,s,30,100.0%
+15K700,KBMZ,Warren Street Center,2017-18,29,15,51.7%,14,48.3%,s,s,s,s,15,51.7%,s,s,8,27.6%
+15K700,KBVR,NYU Lutheran Family Health Center,2017-18,36,17,47.2%,19,52.8%,16,44.4%,s,s,16,44.4%,s,s,s,s
+15K700,KANO,Yeshivas Boyan Tifereth Mordechai Shlomo,2017-18,20,s,s,s,s,s,s,s,s,s,s,s,s,20,100.0%
+15K700,KCIM,Brooklyn Explorers Academy,2017-18,20,8,40.0%,12,60.0%,s,s,s,s,s,s,s,s,8,40.0%
+15K700,KAPB,Yeshivat Shaare Torah,2017-18,58,26,44.8%,32,55.2%,s,s,s,s,s,s,s,s,58,100.0%
+15K700,KBYJ,"Al Madinah School, Inc.",2017-18,44,30,68.2%,14,31.8%,15,34.1%,s,s,s,s,s,s,22,50.0%
+15K700,KBNB,"Therapy and Learning Center, Inc.",2017-18,18,10,55.6%,8,44.4%,s,s,s,s,7,38.9%,s,s,s,s
+20K700,KBIS,"Yeled V'Yalda ECC, Inc.",2017-18,36,s,s,s,s,s,s,s,s,s,s,s,s,36,100.0%
+15K700,KCPP,Kings Bay Y at Windsor Terrace,2017-18,17,9,52.9%,8,47.1%,s,s,s,s,s,s,s,s,12,70.6%
+15K700,KBKB,Strong Place for Hope Day Care Center - Atlantic,2017-18,39,24,61.5%,15,38.5%,s,s,15,38.5%,22,56.4%,s,s,s,s
+15K700,KCLD,Sunny Skies Prospect Corp.,2017-18,19,9,47.4%,10,52.6%,s,s,s,s,17,89.5%,s,s,s,s
+15K700,KBMQ,"Hanson Place Child Development Center, Inc.",2017-18,20,7,35.0%,13,65.0%,s,s,s,s,s,s,7,35.0%,s,s
+15K700,KCFR,Bubble Bee Day Care,2017-18,13,s,s,s,s,s,s,s,s,8,61.5%,s,s,s,s
+15K700,KAZM,Saint Francis Xavier,2017-18,52,26,50.0%,26,50.0%,s,s,11,21.2%,s,s,9,17.3%,22,42.3%
+15K700,KBNA,Sunset Park Children's School,2017-18,32,14,43.8%,18,56.3%,s,s,s,s,31,96.9%,s,s,s,s
+15K700,KBMP,Bay Ridge Child Care Center,2017-18,45,28,62.2%,17,37.8%,s,s,s,s,45,100.0%,s,s,s,s
+15K700,KBFN,Strong Place for Hope Day Care Center - 2nd,2017-18,23,10,43.5%,13,56.5%,s,s,s,s,17,73.9%,s,s,s,s
+15K700,KBEP,Brooklyn Chinese American Association Day Care,2017-18,52,25,48.1%,27,51.9%,51,98.1%,s,s,s,s,s,s,s,s
+15K700,KBNU,Stanley S. Lamm Institute Preschool,2017-18,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+15K700,KBYN,Bumble Bees R Us 2,2017-18,10,s,s,s,s,s,s,s,s,8,80.0%,s,s,s,s
+15K700,KBUJ,Brooklyn Chinese American Association - Bay Ridge DCC,2017-18,76,40,52.6%,36,47.4%,72,94.7%,s,s,s,s,s,s,s,s
+15K700,KCPN,One World Project - Brooklyn,2017-18,34,21,61.8%,13,38.2%,s,s,s,s,13,38.2%,8,23.5%,13,38.2%
+15K700,KAAO,AL Noor School,2017-18,35,19,54.3%,16,45.7%,13,37.1%,s,s,s,s,s,s,16,45.7%
+15K700,KBVG,Brooklyn Chinese-American Association,2017-18,34,20,58.8%,14,41.2%,32,94.1%,s,s,s,s,s,s,s,s
+15K700,KCOT,"Giocare, LLC",2017-18,18,6,33.3%,12,66.7%,s,s,s,s,s,s,s,s,15,83.3%
+15K700,KBMU,ACE Early Childhood Center,2017-18,21,13,61.9%,8,38.1%,s,s,s,s,15,71.4%,s,s,s,s
+15K700,KBNC,Nesivos Bais Yaakov,2017-18,20,s,s,s,s,s,s,s,s,s,s,s,s,20,100.0%
+15K700,KCHV,"New York Creative Childcare, Inc.",2017-18,35,17,48.6%,18,51.4%,34,97.1%,s,s,s,s,s,s,s,s
+15K700,KBFQ,Saint Andrews Community Day Care,2017-18,19,7,36.8%,12,63.2%,s,s,s,s,15,78.9%,s,s,s,s
+15K700,KCGR,Brooklyn Chinese American Association,2017-18,29,15,51.7%,14,48.3%,23,79.3%,s,s,s,s,s,s,s,s
+15K700,KBMN,BROOKLYN FREE SPACE,2017-18,29,16,55.2%,13,44.8%,s,s,s,s,s,s,s,s,18,62.1%
+15K700,KBGI,Yeled V'Yalda 1257,2017-18,85,46,54.1%,39,45.9%,s,s,s,s,s,s,s,s,82,96.5%
+15K767,Z076,The Little Brooklyn Pre-K Center at 173-177 25th Street,2017-18,38,20,52.6%,18,47.4%,s,s,s,s,28,73.7%,s,s,7,18.4%
+15K767,Z108,The Little Brooklyn Pre-K Center at 219 25th Street,2017-18,26,9,34.6%,17,65.4%,s,s,s,s,21,80.8%,s,s,s,s
+15K767,Z093,The Little Brooklyn Pre-K Center at 305-307 Third Avenue,2017-18,46,23,50.0%,23,50.0%,s,s,s,s,s,s,s,s,37,80.4%
+15K863,15K863,Pre-K Center At Bishop Ford School Site,2017-18,428,213,49.8%,215,50.2%,70,16.4%,s,s,71,16.6%,s,s,254,59.3%
+16K005,16K005,P.S. 5 Dr. Ronald Mcnair,2017-18,24,10,41.7%,14,58.3%,s,s,20,83.3%,s,s,s,s,s,s
+16K021,16K021,P.S. 21 Crispus Attucks,2017-18,50,28,56.0%,22,44.0%,s,s,41,82.0%,8,16.0%,s,s,s,s
+16K025,16K025,P.S. 25 Eubie Blake School,2017-18,8,s,s,s,s,s,s,8,100.0%,s,s,s,s,s,s
+16K026,16K026,P.S. 26 Jesse Owens,2017-18,18,s,s,s,s,s,s,13,72.2%,s,s,s,s,s,s
+16K028,16K028,P.S. 28 The Warren Prep Academy,2017-18,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+16K040,16K040,P.S. 40 George W. Carver,2017-18,35,22,62.9%,13,37.1%,s,s,24,68.6%,s,s,s,s,s,s
+16K081,16K081,P.S. 81 Thaddeus Stevens,2017-18,30,13,43.3%,17,56.7%,s,s,21,70.0%,6,20.0%,s,s,s,s
+16K243,16K243,P.S. 243 - The Weeksville School,2017-18,22,12,54.5%,10,45.5%,s,s,14,63.6%,s,s,s,s,s,s
+16K262,16K262,P.S. 262 El Hajj Malik El Shabazz Elementary School,2017-18,18,10,55.6%,8,44.4%,s,s,17,94.4%,s,s,s,s,s,s
+16K308,16K308,P.S. 308 Clara Cardwell,2017-18,20,9,45.0%,11,55.0%,s,s,14,70.0%,6,30.0%,s,s,s,s
+16K309,16K309,P.S. 309 The George E. Wibecan Preparatory Academy,2017-18,31,14,45.2%,17,54.8%,s,s,13,41.9%,9,29.0%,s,s,7,22.6%
+16K335,16K335,P.S. 335 Granville T. Woods,2017-18,17,10,58.8%,7,41.2%,s,s,14,82.4%,s,s,s,s,s,s
+16K627,16K627,Brighter Choice Community School,2017-18,37,20,54.1%,17,45.9%,s,s,19,51.4%,13,35.1%,s,s,s,s
+16K628,16K628,Brooklyn Brownstone School,2017-18,35,14,40.0%,21,60.0%,s,s,23,65.7%,7,20.0%,s,s,s,s
+16K700,KBNL,Bedford Stuyvesant ECDC 265,2017-18,45,25,55.6%,20,44.4%,s,s,40,88.9%,s,s,s,s,s,s
+16K700,KBUA,BCS Atlantic Avenue Early Learning Center,2017-18,10,s,s,s,s,s,s,6,60.0%,s,s,s,s,s,s
+16K700,KBTA,Bedford Stuyvesant ECDC 133,2017-18,10,s,s,s,s,s,s,9,90.0%,s,s,s,s,s,s
+16K700,KAXC,Bishop Sexton,2017-18,36,16,44.4%,20,55.6%,s,s,30,83.3%,6,16.7%,s,s,s,s
+16K700,KAZZ,Cornerstone Day Care Center,2017-18,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+16K700,KAZQ,Bedford Stuyvesant Early Childhood Development Center,2017-18,17,8,47.1%,9,52.9%,s,s,12,70.6%,s,s,s,s,s,s
+16K700,KCKK,"Adaptive Solutions Multi Services (SLP, OT, PT, & PSY) LLC",2017-18,32,s,s,s,s,s,s,10,31.3%,14,43.8%,s,s,s,s
+16K700,KBZU,Bedford Stuyvesant ECDC 510,2017-18,40,20,50.0%,20,50.0%,s,s,26,65.0%,9,22.5%,s,s,s,s
+16K700,KBKK,Friends of Crown Heights 29,2017-18,40,20,50.0%,20,50.0%,s,s,35,87.5%,s,s,s,s,s,s
+16K700,KBNT,Shirley Chisholm Day Care Center Site 1,2017-18,36,19,52.8%,17,47.2%,s,s,30,83.3%,s,s,s,s,s,s
+16K700,KBJJ,LSSNY: Marcus Garvey,2017-18,24,13,54.2%,11,45.8%,s,s,22,91.7%,s,s,s,s,s,s
+16K700,KCMT,Glorious and Gifted Early Childhood Center Inc.,2017-18,12,s,s,s,s,s,s,12,100.0%,s,s,s,s,s,s
+16K700,KASC,Brevoort Children's Center,2017-18,10,s,s,s,s,s,s,10,100.0%,s,s,s,s,s,s
+16K700,KBNP,Community Parents Head Start,2017-18,22,11,50.0%,11,50.0%,s,s,18,81.8%,s,s,s,s,s,s
+17K012,17K012,Dr. Jacqueline Peek-Davis School,2017-18,21,10,47.6%,11,52.4%,s,s,14,66.7%,6,28.6%,s,s,s,s
+17K091,17K091,P.S. 91 The Albany Avenue School,2017-18,29,21,72.4%,8,27.6%,s,s,22,75.9%,6,20.7%,s,s,s,s
+17K092,17K092,P.S. 92 Adrian Hegeman,2017-18,36,26,72.2%,10,27.8%,6,16.7%,25,69.4%,s,s,s,s,s,s
+17K138,17K138,P.S. 138 Brooklyn,2017-18,25,11,44.0%,14,56.0%,s,s,18,72.0%,s,s,s,s,s,s
+17K161,17K161,P.S. 161 The Crown,2017-18,33,21,63.6%,12,36.4%,s,s,27,81.8%,s,s,s,s,s,s
+17K181,17K181,P.S. 181 Brooklyn,2017-18,34,16,47.1%,18,52.9%,s,s,30,88.2%,s,s,s,s,s,s
+17K191,17K191,P.S. 191 Paul Robeson,2017-18,15,s,s,s,s,s,s,13,86.7%,s,s,s,s,s,s
+17K221,17K221,P.S. 221 Toussaint L'Ouverture,2017-18,37,20,54.1%,17,45.9%,s,s,34,91.9%,s,s,s,s,s,s
+17K241,17K241,P.S. 241 Emma L. Johnston,2017-18,57,31,54.4%,26,45.6%,s,s,45,78.9%,7,12.3%,s,s,s,s
+17K249,17K249,P.S. 249 The Caton,2017-18,37,24,64.9%,13,35.1%,s,s,11,29.7%,21,56.8%,s,s,s,s
+17K289,17K289,P.S. 289 George V. Brower,2017-18,33,18,54.5%,15,45.5%,s,s,23,69.7%,s,s,s,s,s,s
+17K316,17K316,P.S. 316 Elijah Stroud,2017-18,45,22,48.9%,23,51.1%,s,s,23,51.1%,6,13.3%,s,s,10,22.2%
+17K375,17K375,P.S. 375 Jackie Robinson School,2017-18,27,14,51.9%,13,48.1%,6,22.2%,14,51.9%,6,22.2%,s,s,s,s
+17K394,17K394,M.S. 394,2017-18,43,23,53.5%,20,46.5%,s,s,28,65.1%,11,25.6%,s,s,s,s
+17K397,17K397,P.S. 397 Foster-Laurie,2017-18,18,8,44.4%,10,55.6%,s,s,s,s,s,s,10,55.6%,s,s
+17K398,17K398,P.S. 398 Walter Weaver,2017-18,34,15,44.1%,19,55.9%,s,s,30,88.2%,s,s,s,s,s,s
+17K532,17K532,New Bridges Elementary,2017-18,72,35,48.6%,37,51.4%,s,s,54,75.0%,14,19.4%,s,s,s,s
+17K700,KBJE,Be Above 37,2017-18,60,s,s,s,s,s,s,s,s,s,s,s,s,60,100.0%
+17K700,KAYS,Hawthorne Corners Day Care Center,2017-18,18,8,44.4%,10,55.6%,s,s,16,88.9%,s,s,s,s,s,s
+17K700,KAQX,Precious Memories Daycare Inc,2017-18,12,s,s,s,s,s,s,11,91.7%,s,s,s,s,s,s
+17K700,KBXS,"Roger Day Care, Inc.",2017-18,26,17,65.4%,9,34.6%,s,s,23,88.5%,s,s,s,s,s,s
+17K700,KBWV,Saint Johns Place Family Center Day Care Program,2017-18,12,s,s,s,s,s,s,s,s,6,50.0%,s,s,s,s
+17K700,KAIN,Phyl's Academy,2017-18,115,61,53.0%,54,47.0%,s,s,100,87.0%,8,7.0%,s,s,s,s
+17K700,KAWQ,M.A.C.A.D.E.M.Y.,2017-18,18,11,61.1%,7,38.9%,s,s,16,88.9%,s,s,s,s,s,s
+17K700,KBWE,Inner Force Tots,2017-18,67,37,55.2%,30,44.8%,s,s,61,91.0%,s,s,s,s,s,s
+17K700,KCJC,Blue Star Day Care Center,2017-18,36,20,55.6%,16,44.4%,s,s,27,75.0%,6,16.7%,s,s,s,s
+17K700,KAJW,Saint Francis of Assisi,2017-18,32,12,37.5%,20,62.5%,s,s,26,81.3%,s,s,s,s,s,s
+17K700,KCPM,"High Definition Day Care, Inc.",2017-18,17,9,52.9%,8,47.1%,s,s,16,94.1%,s,s,s,s,s,s
+17K700,KBEZ,Friends of Crown Heights Educational Center #11,2017-18,38,20,52.6%,18,47.4%,s,s,36,94.7%,s,s,s,s,s,s
+17K700,KCOJ,candy kid's day care center,2017-18,18,9,50.0%,9,50.0%,s,s,18,100.0%,s,s,s,s,s,s
+17K700,KASK,Friends of Crown Heights 13,2017-18,32,22,68.8%,10,31.3%,s,s,29,90.6%,s,s,s,s,s,s
+17K700,KASG,Edwards L. Cleaveland,2017-18,25,14,56.0%,11,44.0%,s,s,19,76.0%,s,s,s,s,s,s
+17K700,KAAS,Associated Beth Rivkah School - UPK,2017-18,80,s,s,s,s,s,s,s,s,s,s,s,s,79,98.8%
+17K700,KBVL,Ella Baker Charles Romain CDC of Medgar Evers,2017-18,13,s,s,s,s,s,s,12,92.3%,s,s,s,s,s,s
+17K700,KBOF,Friends of Crown Heights 2,2017-18,15,s,s,s,s,s,s,12,80.0%,s,s,s,s,s,s
+17K700,KCME,BKA Utica,2017-18,20,9,45.0%,11,55.0%,s,s,13,65.0%,s,s,s,s,s,s
+17K700,KBJH,All My Children Day Care 10,2017-18,30,13,43.3%,17,56.7%,s,s,s,s,s,s,s,s,29,96.7%
+17K700,KBLJ,"Community Parents, Inc.",2017-18,47,21,44.7%,26,55.3%,s,s,38,80.9%,9,19.1%,s,s,s,s
+17K700,KALL,St. Gregory The Great Catholic Academy,2017-18,33,19,57.6%,14,42.4%,s,s,31,93.9%,s,s,s,s,s,s
+17K700,KBJS,Friends of Crown Heights 10,2017-18,35,20,57.1%,15,42.9%,s,s,30,85.7%,s,s,s,s,s,s
+17K700,KCJO,Aim High Childrens Services,2017-18,30,16,53.3%,14,46.7%,s,s,14,46.7%,12,40.0%,s,s,s,s
+17K700,KBVX,Yeled V'Yalda 667,2017-18,54,s,s,s,s,s,s,s,s,s,s,s,s,54,100.0%
+17K700,KBNV,Friends of Crown Heights #16,2017-18,25,14,56.0%,11,44.0%,s,s,24,96.0%,s,s,s,s,s,s
+17K700,KCIO,Honeydew Drop Playhouse,2017-18,17,11,64.7%,6,35.3%,s,s,s,s,s,s,s,s,8,47.1%
+17K700,KCHJ,"Arista Prep, Inc.",2017-18,30,15,50.0%,15,50.0%,s,s,24,80.0%,s,s,s,s,s,s
+17K700,KCAD,Higher Level,2017-18,20,14,70.0%,6,30.0%,s,s,15,75.0%,s,s,s,s,s,s
+17K700,KBKY,Infant and Child Learning Center,2017-18,7,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+17K700,KBLA,"The Little Darlings Day Care Center, Inc.",2017-18,18,7,38.9%,11,61.1%,s,s,17,94.4%,s,s,s,s,s,s
+17K700,KBOL,"PHEBEANA PRESCHOOL, INC.",2017-18,35,15,42.9%,20,57.1%,s,s,23,65.7%,10,28.6%,s,s,s,s
+17K700,KAXW,"HIGHLIGHTS ACADEMY, INC.",2017-18,35,16,45.7%,19,54.3%,s,s,34,97.1%,s,s,s,s,s,s
+17K700,KADG,Bnos Menachem,2017-18,30,s,s,s,s,s,s,s,s,s,s,s,s,30,100.0%
+17K700,KBSI,Friends of Crown Heights 9,2017-18,54,21,38.9%,33,61.1%,s,s,48,88.9%,6,11.1%,s,s,s,s
+17K700,KCOS,G.A.T.E.D. Academy,2017-18,15,s,s,s,s,s,s,7,46.7%,6,40.0%,s,s,s,s
+17K700,KBKP,All My Children # 11,2017-18,20,s,s,s,s,s,s,14,70.0%,s,s,s,s,s,s
+17K700,KAFB,Epiphany Lutheran School,2017-18,24,11,45.8%,13,54.2%,s,s,20,83.3%,s,s,s,s,s,s
+17K700,KBOI,Joan Watkins Corp D/B/A Pre-School Minds DCC,2017-18,38,18,47.4%,20,52.6%,s,s,34,89.5%,s,s,s,s,s,s
+17K705,17K705,Brooklyn Arts and Science Elementary School,2017-18,36,24,66.7%,12,33.3%,s,s,9,25.0%,8,22.2%,s,s,14,38.9%
+17K770,17K770,P.S. 770 New American Academy,2017-18,36,14,38.9%,22,61.1%,s,s,12,33.3%,s,s,8,22.2%,11,30.6%
+18K066,18K066,P.S. 66,2017-18,31,19,61.3%,12,38.7%,s,s,25,80.6%,s,s,s,s,s,s
+18K114,18K114,P.S. 114 Ryder Elementary,2017-18,52,26,50.0%,26,50.0%,s,s,40,76.9%,6,11.5%,s,s,s,s
+18K115,18K115,P.S. 115 Daniel Mucatel School,2017-18,98,43,43.9%,55,56.1%,s,s,82,83.7%,s,s,s,s,6,6.1%
+18K135,18K135,P.S. 135 Sheldon A. Brookner,2017-18,29,15,51.7%,14,48.3%,s,s,24,82.8%,s,s,s,s,s,s
+18K208,18K208,P.S. 208 Elsa Ebeling,2017-18,24,16,66.7%,8,33.3%,s,s,22,91.7%,s,s,s,s,s,s
+18K219,18K219,P.S. 219 Kennedy-King,2017-18,65,30,46.2%,35,53.8%,s,s,57,87.7%,s,s,s,s,s,s
+18K233,18K233,P.S. 233 Langston Hughes,2017-18,46,27,58.7%,19,41.3%,s,s,44,95.7%,s,s,s,s,s,s
+18K235,18K235,P.S. 235 Janice Marie Knight School,2017-18,32,22,68.8%,10,31.3%,s,s,28,87.5%,s,s,s,s,s,s
+18K244,18K244,P.S. 244 Richard R. Green,2017-18,35,15,42.9%,20,57.1%,s,s,33,94.3%,s,s,s,s,s,s
+18K268,18K268,P.S. 268 Emma Lazarus,2017-18,35,20,57.1%,15,42.9%,s,s,34,97.1%,s,s,s,s,s,s
+18K272,18K272,P.S. 272 Curtis Estabrook,2017-18,43,18,41.9%,25,58.1%,s,s,29,67.4%,8,18.6%,s,s,s,s
+18K276,18K276,P.S. 276 Louis Marshall,2017-18,58,28,48.3%,30,51.7%,s,s,49,84.5%,s,s,s,s,s,s
+18K279,18K279,P.S. 279 Herman Schreiber,2017-18,50,28,56.0%,22,44.0%,s,s,43,86.0%,s,s,s,s,s,s
+18K700,KCJF,Clarkson Early Childhood Center,2017-18,18,6,33.3%,12,66.7%,s,s,14,77.8%,s,s,s,s,s,s
+18K700,KBOP,Traditional Day Care Center,2017-18,30,16,53.3%,14,46.7%,s,s,29,96.7%,s,s,s,s,s,s
+18K700,KAKU,St. Catherine of Genoa ~ St. Therese of Lisieux Catholic Academy,2017-18,33,17,51.5%,16,48.5%,s,s,26,78.8%,s,s,s,s,s,s
+18K700,KBOW,Friends of Crown Heights 4,2017-18,28,15,53.6%,13,46.4%,s,s,27,96.4%,s,s,s,s,s,s
+18K700,KBBY,Be Above #27,2017-18,44,23,52.3%,21,47.7%,s,s,37,84.1%,s,s,s,s,s,s
+18K700,KBXV,Yeled V'Yalda 6012,2017-18,87,35,40.2%,52,59.8%,s,s,12,13.8%,s,s,s,s,73,83.9%
+18K700,KAVQ,Hebrew Educational Society,2017-18,65,38,58.5%,27,41.5%,s,s,57,87.7%,s,s,s,s,s,s
+18K700,KCNU,Learning Zone,2017-18,12,s,s,s,s,s,s,s,s,s,s,10,83.3%,s,s
+18K700,KCLE,"Faces of the Future Early Learning Center, LLC",2017-18,23,12,52.2%,11,47.8%,s,s,23,100.0%,s,s,s,s,s,s
+18K700,KBDN,"Raven's Early Childhood Center, Inc.",2017-18,68,31,45.6%,37,54.4%,s,s,65,95.6%,s,s,s,s,s,s
+18K700,KCGP,Birch Family Services,2017-18,12,s,s,s,s,s,s,12,100.0%,s,s,s,s,s,s
+18K700,KBPI,Breukelen Head Start,2017-18,18,9,50.0%,9,50.0%,s,s,16,88.9%,s,s,s,s,s,s
+18K700,KCIC,"Little Einsteins of Canarsie, LLC",2017-18,73,42,57.5%,31,42.5%,s,s,69,94.5%,s,s,s,s,s,s
+18K700,KCKC,Alpha Christian Academy,2017-18,17,10,58.8%,7,41.2%,s,s,17,100.0%,s,s,s,s,s,s
+18K700,KABP,Battalion Christian Academy,2017-18,36,21,58.3%,15,41.7%,s,s,31,86.1%,s,s,s,s,s,s
+18K700,KBOQ,Yeled V'Yalda 407,2017-18,24,s,s,s,s,s,s,s,s,s,s,s,s,24,100.0%
+18K700,KBGP,Great Oaks Academy,2017-18,51,18,35.3%,33,64.7%,s,s,49,96.1%,s,s,s,s,s,s
+18K700,KBBO,"Khyle Brenaj Kiddie Daycare, Inc.",2017-18,19,9,47.4%,10,52.6%,s,s,18,94.7%,s,s,s,s,s,s
+18K700,KCML,BRYAN'S EDUCATIONAL CENTER,2017-18,54,25,46.3%,29,53.7%,s,s,53,98.1%,s,s,s,s,s,s
+18K700,KCLF,"Einstein Daycare, Inc.",2017-18,33,13,39.4%,20,60.6%,s,s,29,87.9%,s,s,s,s,s,s
+18K700,KBPB,Breukelen Early Childhood Development Center,2017-18,37,22,59.5%,15,40.5%,s,s,28,75.7%,s,s,s,s,s,s
+18K700,KBON,Children's Center at SUNY Brooklyn,2017-18,13,s,s,s,s,s,s,8,61.5%,s,s,s,s,s,s
+18K700,KCQC,Ms. Taylor's House Pre-School,2017-18,11,s,s,s,s,s,s,10,90.9%,s,s,s,s,s,s
+19K007,19K007,P.S. 7 Abraham Lincoln,2017-18,36,21,58.3%,15,41.7%,s,s,s,s,32,88.9%,s,s,s,s
+19K013,19K013,P.S. 13 Roberto Clemente,2017-18,35,19,54.3%,16,45.7%,s,s,17,48.6%,15,42.9%,s,s,s,s
+19K089,19K089,P.S. 89 Cypress Hills,2017-18,18,s,s,s,s,s,s,s,s,16,88.9%,s,s,s,s
+19K108,19K108,P.S. 108 Sal Abbracciamento,2017-18,105,53,50.5%,52,49.5%,s,s,9,8.6%,91,86.7%,s,s,s,s
+19K149,19K149,P.S. 149 Danny Kaye,2017-18,69,34,49.3%,35,50.7%,s,s,42,60.9%,26,37.7%,s,s,s,s
+19K158,19K158,P.S. 158 Warwick,2017-18,49,29,59.2%,20,40.8%,s,s,24,49.0%,19,38.8%,s,s,s,s
+19K190,19K190,P.S. 190 Sheffield,2017-18,14,7,50.0%,7,50.0%,s,s,10,71.4%,s,s,s,s,s,s
+19K202,19K202,P.S. 202 Ernest S. Jenkyns,2017-18,31,14,45.2%,17,54.8%,s,s,21,67.7%,9,29.0%,s,s,s,s
+19K213,19K213,P.S. 213 New Lots,2017-18,27,15,55.6%,12,44.4%,s,s,18,66.7%,s,s,s,s,s,s
+19K214,19K214,P.S. 214 Michael Friedsam,2017-18,102,61,59.8%,41,40.2%,66,64.7%,8,7.8%,25,24.5%,s,s,s,s
+19K224,19K224,P.S. 224 Hale A. Woodruff,2017-18,40,18,45.0%,22,55.0%,s,s,29,72.5%,11,27.5%,s,s,s,s
+19K273,19K273,P.S. 273 Wortman,2017-18,36,20,55.6%,16,44.4%,s,s,29,80.6%,6,16.7%,s,s,s,s
+19K290,19K290,P.S. 290 Juan Morel Campos,2017-18,18,s,s,s,s,s,s,s,s,14,77.8%,s,s,s,s
+19K306,19K306,P.S. 306 Ethan Allen,2017-18,31,25,80.6%,6,19.4%,s,s,22,71.0%,9,29.0%,s,s,s,s
+19K325,19K325,The Fresh Creek School,2017-18,15,9,60.0%,6,40.0%,s,s,9,60.0%,s,s,s,s,s,s
+19K328,19K328,P.S. 328 Phyllis Wheatley,2017-18,31,18,58.1%,13,41.9%,s,s,16,51.6%,13,41.9%,s,s,s,s
+19K345,19K345,P.S. 345 Patrolman Robert Bolden,2017-18,33,20,60.6%,13,39.4%,6,18.2%,s,s,21,63.6%,s,s,s,s
+19K346,19K346,P.S. 346 Abe Stark,2017-18,41,19,46.3%,22,53.7%,s,s,26,63.4%,8,19.5%,s,s,s,s
+19K557,19K557,Brooklyn Gardens Elementary School,2017-18,17,9,52.9%,8,47.1%,s,s,11,64.7%,s,s,s,s,s,s
+19K677,19K677,East New York Elementary School of Excellence,2017-18,35,18,51.4%,17,48.6%,s,s,18,51.4%,13,37.1%,s,s,s,s
+19K700,KBOZ,Blake & Milford DCC,2017-18,15,6,40.0%,9,60.0%,s,s,9,60.0%,s,s,s,s,s,s
+19K700,KCJH,"A Castle For Classy Kids Learning Center, Inc.",2017-18,34,12,35.3%,22,64.7%,8,23.5%,s,s,17,50.0%,s,s,s,s
+19K700,KBPD,Sylvia Klein Child Care Center,2017-18,14,6,42.9%,8,57.1%,s,s,6,42.9%,8,57.1%,s,s,s,s
+19K700,KBKU,Friends of Crown Heights 15,2017-18,55,31,56.4%,24,43.6%,s,s,17,30.9%,34,61.8%,s,s,s,s
+19K700,KBKC,Friends of Crown Heights 16,2017-18,55,25,45.5%,30,54.5%,s,s,45,81.8%,7,12.7%,s,s,s,s
+19K700,KBLB,Friends of Crown Heights 18,2017-18,40,21,52.5%,19,47.5%,s,s,s,s,29,72.5%,s,s,s,s
+19K700,KBPK,United Community DCC,2017-18,40,21,52.5%,19,47.5%,s,s,34,85.0%,s,s,s,s,s,s
+19K700,KABU,BE-ER HAGOLAH INSTITUTES,2017-18,34,19,55.9%,15,44.1%,6,17.6%,s,s,s,s,s,s,27,79.4%
+19K700,KBKX,NEW AGE DAY CARE,2017-18,10,s,s,s,s,s,s,s,s,8,80.0%,s,s,s,s
+19K700,KBJR,Friends of Crown Heights 19,2017-18,63,25,39.7%,38,60.3%,s,s,60,95.2%,s,s,s,s,s,s
+19K700,KBJP,PAL Arnold and Marie Schwartz Early Learn Center,2017-18,41,23,56.1%,18,43.9%,s,s,27,65.9%,12,29.3%,s,s,s,s
+19K700,KBPC,Marie Durdin Child Care Center,2017-18,19,8,42.1%,11,57.9%,s,s,9,47.4%,10,52.6%,s,s,s,s
+19K700,KBPJ,Starrett Early Learning Center,2017-18,34,16,47.1%,18,52.9%,s,s,24,70.6%,9,26.5%,s,s,s,s
+19K700,KBGS,Urban Strategies 5 - Georgia L. McMurray ECDC,2017-18,48,24,50.0%,24,50.0%,s,s,37,77.1%,8,16.7%,s,s,s,s
+19K700,KBDC,Cypress Hills CCC,2017-18,33,18,54.5%,15,45.5%,s,s,s,s,33,100.0%,s,s,s,s
+19K700,KCLM,Trey Whitfield School,2017-18,32,14,43.8%,18,56.3%,s,s,27,84.4%,s,s,s,s,s,s
+19K700,KBPA,Boulevard Nursery School,2017-18,20,11,55.0%,9,45.0%,s,s,15,75.0%,s,s,s,s,s,s
+19K700,KAXU,University Settlement Children's Corner,2017-18,56,37,66.1%,19,33.9%,s,s,38,67.9%,16,28.6%,s,s,s,s
+19K700,KCHT,"Baybee Lounge Daycare, Inc.",2017-18,25,12,48.0%,13,52.0%,s,s,9,36.0%,12,48.0%,s,s,s,s
+19K700,KBVE,Urban Strategies 3,2017-18,36,17,47.2%,19,52.8%,s,s,29,80.6%,6,16.7%,s,s,s,s
+19K700,KBRP,Friends of Crown Heights Educational Center #5,2017-18,60,37,61.7%,23,38.3%,31,51.7%,13,21.7%,12,20.0%,s,s,s,s
+19K700,KBPL,Starrett Early Learning Center,2017-18,15,8,53.3%,7,46.7%,s,s,11,73.3%,s,s,s,s,s,s
+19K700,KBBL,SAINT PETER'S PRESCHOOL,2017-18,83,45,54.2%,38,45.8%,s,s,s,s,71,85.5%,s,s,s,s
+19K700,KBCZ,Crescent-Pine Day Care,2017-18,18,10,55.6%,8,44.4%,s,s,11,61.1%,s,s,s,s,s,s
+19K700,KCPU,NEW AGE DAY CARE CENTER,2017-18,17,10,58.8%,7,41.2%,s,s,s,s,16,94.1%,s,s,s,s
+19K700,KBJQ,Friends of Crown Heights Educational Center,2017-18,44,17,38.6%,27,61.4%,s,s,31,70.5%,12,27.3%,s,s,s,s
+19K700,KBDA,Urban Strategies 1,2017-18,68,41,60.3%,27,39.7%,18,26.5%,30,44.1%,19,27.9%,s,s,s,s
+19K700,KBPG,HELP I,2017-18,31,13,41.9%,18,58.1%,s,s,19,61.3%,11,35.5%,s,s,s,s
+20K048,20K048,P.S. 48 Mapleton,2017-18,18,8,44.4%,10,55.6%,s,s,s,s,8,44.4%,s,s,s,s
+20K112,20K112,P.S. 112 Lefferts Park,2017-18,20,8,40.0%,12,60.0%,s,s,s,s,s,s,s,s,14,70.0%
+20K164,20K164,P.S. 164 Caesar Rodney,2017-18,28,17,60.7%,11,39.3%,9,32.1%,s,s,18,64.3%,s,s,s,s
+20K179,20K179,P.S. 179 Kensington,2017-18,36,19,52.8%,17,47.2%,21,58.3%,s,s,8,22.2%,s,s,6,16.7%
+20K180,20K180,The SEEALL Academy,2017-18,16,7,43.8%,9,56.3%,s,s,s,s,6,37.5%,s,s,s,s
+20K192,20K192,P.S. 192 - The Magnet School for Math and Science Inquiry,2017-18,31,17,54.8%,14,45.2%,7,22.6%,s,s,9,29.0%,s,s,14,45.2%
+20K200,20K200,P.S. 200 Benson School,2017-18,20,10,50.0%,10,50.0%,9,45.0%,s,s,s,s,s,s,s,s
+20K204,20K204,P.S. 204 Vince Lombardi,2017-18,35,16,45.7%,19,54.3%,19,54.3%,s,s,11,31.4%,s,s,s,s
+20K205,20K205,P.S. 205 Clarion,2017-18,54,27,50.0%,27,50.0%,30,55.6%,s,s,17,31.5%,s,s,7,13.0%
+20K229,20K229,P.S. 229 Dyker,2017-18,32,15,46.9%,17,53.1%,13,40.6%,s,s,s,s,s,s,14,43.8%
+20K700,KBPQ,Generation21 Day Care,2017-18,50,31,62.0%,19,38.0%,17,34.0%,s,s,12,24.0%,s,s,20,40.0%
+20K700,KCRB,Dreamland Day Care,2017-18,17,9,52.9%,8,47.1%,s,s,s,s,s,s,s,s,16,94.1%
+20K700,KBBB,BAMBI DAY CARE IV,2017-18,57,32,56.1%,25,43.9%,s,s,s,s,s,s,s,s,57,100.0%
+20K700,KAET,Dimitrios & Georgia Kaloidis PS of Holy Cross GOC,2017-18,57,25,43.9%,32,56.1%,s,s,s,s,7,12.3%,s,s,50,87.7%
+20K700,KBPN,Beth Jacob Day Care Center,2017-18,68,s,s,s,s,s,s,s,s,s,s,s,s,68,100.0%
+20K700,KCPO,Redeemer St. John's Nursery School,2017-18,18,10,55.6%,8,44.4%,s,s,s,s,s,s,s,s,15,83.3%
+20K700,KBMM,Brooklyn Chinese American Association,2017-18,68,34,50.0%,34,50.0%,68,100.0%,s,s,s,s,s,s,s,s
+20K700,KBGJ,MEVAKSHEI HASHEM,2017-18,36,s,s,s,s,s,s,s,s,s,s,s,s,36,100.0%
+20K700,KCJK,LPBC Day Care,2017-18,14,8,57.1%,6,42.9%,s,s,s,s,s,s,s,s,s,s
+20K700,KAJD,St. Anselm Catholic Academy,2017-18,58,26,44.8%,32,55.2%,s,s,s,s,19,32.8%,s,s,37,63.8%
+20K700,KCSO,Step Ahead Llc,2017-18,25,12,48.0%,13,52.0%,s,s,s,s,8,32.0%,s,s,15,60.0%
+20K700,KAZC,Talmud Torah Ohr Moshe,2017-18,20,s,s,s,s,s,s,s,s,s,s,s,s,20,100.0%
+20K700,KCNW,Okie Dokie Day Care,2017-18,41,23,56.1%,18,43.9%,32,78.0%,s,s,s,s,s,s,s,s
+20K700,KBIZ,Shalva UPK I,2017-18,60,s,s,s,s,s,s,s,s,s,s,s,s,59,98.3%
+20K700,KAHX,Gateway City Academy,2017-18,125,60,48.0%,65,52.0%,11,8.8%,s,s,57,45.6%,s,s,51,40.8%
+20K700,KBYF,Edith and Karl Marks JCH of Bensonhurst,2017-18,30,15,50.0%,15,50.0%,s,s,s,s,s,s,s,s,27,90.0%
+20K700,KBQA,"Tiny Tots Playhouse, LLC",2017-18,26,15,57.7%,11,42.3%,s,s,s,s,7,26.9%,s,s,18,69.2%
+20K700,KCSP,Carroll BH LLC. dba Bunny Hill,2017-18,26,14,53.8%,12,46.2%,s,s,s,s,6,23.1%,s,s,16,61.5%
+20K700,KCOL,"Happy Scholars, Inc.",2017-18,38,16,42.1%,22,57.9%,34,89.5%,s,s,s,s,s,s,s,s
+20K700,KCJN,Stillwell Avenue Prep School,2017-18,52,25,48.1%,27,51.9%,29,55.8%,s,s,9,17.3%,s,s,13,25.0%
+20K700,KAJR,HEARTSHARE HUMAN SERVICES OF NEW YORK,2017-18,40,23,57.5%,17,42.5%,s,s,s,s,23,57.5%,s,s,11,27.5%
+20K700,KCNN,"Little Brilliant Minds, Inc.",2017-18,13,s,s,s,s,s,s,s,s,6,46.2%,s,s,s,s
+20K700,KCAK,Kindstart Preschool,2017-18,20,9,45.0%,11,55.0%,s,s,s,s,7,35.0%,s,s,7,35.0%
+20K700,KBPZ,"STAR AMERICA, INC.",2017-18,72,38,52.8%,34,47.2%,64,88.9%,s,s,s,s,7,9.7%,s,s
+20K700,KCRG,Wise Kidz,2017-18,99,46,46.5%,53,53.5%,88,88.9%,s,s,s,s,s,s,s,s
+20K700,KBPS,Mother Love,2017-18,28,11,39.3%,17,60.7%,s,s,s,s,s,s,s,s,25,89.3%
+20K700,KCLI,"Yeshivat Beth Hillel of Krasna, Inc.",2017-18,36,s,s,s,s,s,s,s,s,s,s,s,s,36,100.0%
+20K700,KBPT,NYL - William O'Connor,2017-18,19,11,57.9%,8,42.1%,s,s,s,s,s,s,s,s,10,52.6%
+20K700,KBTL,Gan Yisroel,2017-18,42,35,83.3%,7,16.7%,s,s,s,s,s,s,s,s,42,100.0%
+20K700,KCEB,Brooklyn Chinese American Association,2017-18,71,33,46.5%,38,53.5%,71,100.0%,s,s,s,s,s,s,s,s
+20K700,KBJO,"Yeled V'Yalda ECC, Inc.",2017-18,27,s,s,s,s,s,s,s,s,s,s,s,s,27,100.0%
+20K700,KBPY,Smart Start Early Childhood Center,2017-18,46,23,50.0%,23,50.0%,7,15.2%,s,s,19,41.3%,s,s,19,41.3%
+20K700,KBQB,"Long Xing Day Care Center, Inc.",2017-18,42,23,54.8%,19,45.2%,40,95.2%,s,s,s,s,s,s,s,s
+20K700,KCTG,Worldtots,2017-18,11,s,s,s,s,9,81.8%,s,s,s,s,s,s,s,s
+20K700,KCOI,Treasure Island,2017-18,40,21,52.5%,19,47.5%,s,s,s,s,7,17.5%,s,s,23,57.5%
+20K700,KCOX,Little Hands and Feet School,2017-18,13,7,53.8%,6,46.2%,s,s,s,s,s,s,s,s,6,46.2%
+20K700,KCRK,Bay One Preschool,2017-18,19,10,52.6%,9,47.4%,7,36.8%,s,s,8,42.1%,s,s,s,s
+20K700,KBPU,OUR SAVIOUR'S LUTHERAN PRESCHOOL,2017-18,86,41,47.7%,45,52.3%,14,16.3%,s,s,10,11.6%,s,s,52,60.5%
+20K700,KCIZ,Al Madinah School Site 2,2017-18,32,17,53.1%,15,46.9%,12,37.5%,s,s,s,s,s,s,15,46.9%
+20K700,KADP,Gan Day Care Center,2017-18,28,s,s,s,s,s,s,s,s,s,s,s,s,28,100.0%
+20K700,KBYQ,Bumble Bees R Us 8,2017-18,14,s,s,s,s,11,78.6%,s,s,s,s,s,s,s,s
+20K700,KBYG,Happy Dragon Children and Family Center,2017-18,87,42,48.3%,45,51.7%,83,95.4%,s,s,s,s,s,s,s,s
+20K700,KBZG,Ring Around The Rosie,2017-18,28,15,53.6%,13,46.4%,6,21.4%,s,s,8,28.6%,s,s,11,39.3%
+20K700,KCOH,Sweet Home Day Care Center,2017-18,40,17,42.5%,23,57.5%,7,17.5%,s,s,s,s,s,s,28,70.0%
+20K700,KCJY,Angel Early Childhood Development Center,2017-18,33,16,48.5%,17,51.5%,23,69.7%,s,s,7,21.2%,s,s,s,s
+20K700,KADN,Zion Day Care,2017-18,50,s,s,s,s,s,s,s,s,s,s,s,s,50,100.0%
+20K700,KABD,Bais Tziporah,2017-18,40,s,s,s,s,s,s,s,s,s,s,s,s,40,100.0%
+20K700,KBPP,Georgia L. Mcmurray Bat Kids Center,2017-18,6,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+20K700,KAAE,Adelphi Academy of Brooklyn,2017-18,69,34,49.3%,35,50.7%,7,10.1%,s,s,15,21.7%,s,s,44,63.8%
+20K700,KCDI,Beth Jacob of Borough Park,2017-18,73,s,s,s,s,s,s,s,s,s,s,s,s,73,100.0%
+20K700,KCMA,Seeds of Unity,2017-18,16,7,43.8%,9,56.3%,7,43.8%,s,s,7,43.8%,s,s,s,s
+20K700,KCIE,Bnos Chaya,2017-18,20,s,s,s,s,s,s,s,s,s,s,s,s,20,100.0%
+20K700,KCNH,Kiddieprise-1520 86th Street,2017-18,17,10,58.8%,7,41.2%,14,82.4%,s,s,s,s,s,s,s,s
+20K700,KCST,Little Sunshine Child Development,2017-18,40,22,55.0%,18,45.0%,28,70.0%,s,s,8,20.0%,s,s,s,s
+20K700,KAOA,Yeshiva HeadStart 40th Street,2017-18,35,s,s,s,s,s,s,s,s,s,s,s,s,35,100.0%
+20K700,KCIW,IP Kids Montessori,2017-18,84,39,46.4%,45,53.6%,83,98.8%,s,s,s,s,s,s,s,s
+20K700,KBUL,Brooklyn Chinese American Association,2017-18,35,18,51.4%,17,48.6%,35,100.0%,s,s,s,s,s,s,s,s
+20K700,KBPO,"BROOKLYN CHILD CARE, INC.",2017-18,16,10,62.5%,6,37.5%,s,s,s,s,s,s,s,s,9,56.3%
+20K700,KBAI,Guild for Exceptional Children,2017-18,18,7,38.9%,11,61.1%,s,s,s,s,13,72.2%,s,s,s,s
+20K700,KCNP,Little Sunshine Preschool,2017-18,55,28,50.9%,27,49.1%,45,81.8%,s,s,s,s,s,s,7,12.7%
+20K700,KCOU,"My Sunshine Kids, Inc.",2017-18,62,25,40.3%,37,59.7%,58,93.5%,s,s,s,s,s,s,s,s
+20K700,KCRJ,Athena Scholars,2017-18,25,9,36.0%,16,64.0%,23,92.0%,s,s,s,s,s,s,s,s
+20K700,KABC,Bais Sarah School,2017-18,55,s,s,s,s,s,s,s,s,s,s,s,s,54,98.2%
+20K700,KCRV,Brooklyn Chinese-American Association,2017-18,73,28,38.4%,45,61.6%,72,98.6%,s,s,s,s,s,s,s,s
+20K768,Z112,District 20 Pre-K Center at 1423 62nd Street,2017-18,48,25,52.1%,23,47.9%,24,50.0%,s,s,17,35.4%,s,s,s,s
+20K768,Z073,District 20 Pre-K Center at 7415 Fort Hamilton Parkway,2017-18,163,72,44.2%,91,55.8%,106,65.0%,s,s,23,14.1%,s,s,32,19.6%
+20K768,Z099,District 20 Pre-K Center at 550 59th Street,2017-18,174,94,54.0%,80,46.0%,92,52.9%,s,s,77,44.3%,s,s,s,s
+20K768,Z067,Pre-K Center at 1355 84th Street,2017-18,115,55,47.8%,60,52.2%,25,21.7%,s,s,17,14.8%,s,s,73,63.5%
+20K768,Z075,District 20 Pre-K Center at 21 Bay 11th Street,2017-18,267,134,50.2%,133,49.8%,104,39.0%,s,s,77,28.8%,s,s,78,29.2%
+20K768,Z013,District 20 Pre-K Center at 1668 46th Street,2017-18,87,47,54.0%,40,46.0%,42,48.3%,s,s,34,39.1%,s,s,8,9.2%
+20K768,Z074,District 20 Pre-K Center at 140 58th Street,2017-18,61,27,44.3%,34,55.7%,6,9.8%,s,s,43,70.5%,s,s,11,18.0%
+20K768,Z072,District 20 Pre-K Center at 8501 5th Avenue,2017-18,20,10,50.0%,10,50.0%,s,s,s,s,6,30.0%,s,s,13,65.0%
+20K768,Z094,District 20 Pre-K Center at 2165 71st Street,2017-18,98,47,48.0%,51,52.0%,38,38.8%,s,s,10,10.2%,s,s,48,49.0%
+20K768,Z011,District 20 Pre-K Center at 1258 65th Street,2017-18,99,44,44.4%,55,55.6%,60,60.6%,s,s,23,23.2%,s,s,14,14.1%
+21K090,21K090,P.S. 90 Edna Cohen School,2017-18,75,37,49.3%,38,50.7%,s,s,14,18.7%,43,57.3%,s,s,s,s
+21K095,21K095,P.S. 95 The Gravesend,2017-18,18,12,66.7%,6,33.3%,9,50.0%,s,s,7,38.9%,s,s,s,s
+21K099,21K099,P.S. 99 Isaac Asimov,2017-18,36,19,52.8%,17,47.2%,22,61.1%,s,s,8,22.2%,s,s,6,16.7%
+21K100,21K100,P.S. 100 The Coney Island School,2017-18,54,24,44.4%,30,55.6%,6,11.1%,s,s,s,s,s,s,39,72.2%
+21K153,21K153,P.S. 153 Homecrest,2017-18,62,37,59.7%,25,40.3%,25,40.3%,s,s,24,38.7%,s,s,9,14.5%
+21K177,21K177,P.S. 177 The Marlboro,2017-18,72,32,44.4%,40,55.6%,35,48.6%,s,s,25,34.7%,s,s,11,15.3%
+21K188,21K188,P.S. 188 Michael E. Berdy,2017-18,30,15,50.0%,15,50.0%,s,s,14,46.7%,9,30.0%,s,s,s,s
+21K199,21K199,P.S. 199 Frederick Wachtel,2017-18,35,20,57.1%,15,42.9%,11,31.4%,s,s,10,28.6%,s,s,12,34.3%
+21K209,21K209,P.S. 209 Margaret Mead,2017-18,36,10,27.8%,26,72.2%,22,61.1%,s,s,6,16.7%,s,s,6,16.7%
+21K212,21K212,P.S. 212 Lady Deborah Moody,2017-18,54,25,46.3%,29,53.7%,20,37.0%,s,s,22,40.7%,s,s,9,16.7%
+21K215,21K215,P.S. 215 Morris H. Weiss,2017-18,54,32,59.3%,22,40.7%,15,27.8%,s,s,16,29.6%,s,s,23,42.6%
+21K216,21K216,P.S. 216 Arturo Toscanini,2017-18,101,46,45.5%,55,54.5%,37,36.6%,s,s,20,19.8%,s,s,41,40.6%
+21K225,21K225,P.S. 225 - The Eileen E. Zaglin,2017-18,47,20,42.6%,27,57.4%,20,42.6%,s,s,10,21.3%,s,s,14,29.8%
+21K226,21K226,P.S. 226 Alfred De B. Mason,2017-18,54,26,48.1%,28,51.9%,18,33.3%,s,s,17,31.5%,s,s,18,33.3%
+21K238,21K238,P.S. 238 Anne Sullivan,2017-18,72,35,48.6%,37,51.4%,21,29.2%,s,s,28,38.9%,s,s,18,25.0%
+21K253,21K253,P.S. 253,2017-18,36,16,44.4%,20,55.6%,21,58.3%,s,s,12,33.3%,s,s,s,s
+21K288,21K288,P.S. 288 The Shirley Tanyhill,2017-18,29,17,58.6%,12,41.4%,s,s,24,82.8%,s,s,s,s,s,s
+21K329,21K329,P.S. 329 Surfside,2017-18,38,18,47.4%,20,52.6%,s,s,30,78.9%,7,18.4%,s,s,s,s
+21K700,KABF,Bais Yaakov Academy UPK,2017-18,56,s,s,s,s,s,s,s,s,s,s,s,s,56,100.0%
+21K700,KCPE,Little Scholars II,2017-18,18,11,61.1%,7,38.9%,s,s,s,s,s,s,s,s,17,94.4%
+21K700,KAOP,Yeshivah of Flatbush,2017-18,81,33,40.7%,48,59.3%,s,s,s,s,s,s,s,s,80,98.8%
+21K700,KBQI,"Red Hat Day Care Center, Inc.",2017-18,33,17,51.5%,16,48.5%,s,s,s,s,s,s,s,s,28,84.8%
+21K700,KCIX,IP Kids,2017-18,76,37,48.7%,39,51.3%,70,92.1%,s,s,s,s,s,s,s,s
+21K700,KCPR,Bam Bam'S Playhouse,2017-18,18,11,61.1%,7,38.9%,s,s,s,s,8,44.4%,s,s,s,s
+21K700,KATZ,Neptune Avenue Head Start,2017-18,90,42,46.7%,48,53.3%,25,27.8%,s,s,58,64.4%,s,s,s,s
+21K700,KABE,BAIS YAAKOV D'CHASSIDEI GUR,2017-18,49,s,s,s,s,s,s,s,s,s,s,s,s,48,98.0%
+21K700,KCQV,Neshama Preschool-431 Avenue P,2017-18,18,8,44.4%,10,55.6%,s,s,s,s,s,s,s,s,17,94.4%
+21K700,KCMV,ABC PLUS,2017-18,12,s,s,s,s,s,s,s,s,s,s,s,s,12,100.0%
+21K700,KBQG,M.S. SUNSHINE DAY CARE CENTER,2017-18,35,15,42.9%,20,57.1%,s,s,s,s,6,17.1%,s,s,27,77.1%
+21K700,KBAY,BET YAAKOV ATERET TORAH,2017-18,40,20,50.0%,20,50.0%,s,s,s,s,s,s,s,s,40,100.0%
+21K700,KBQH,MAGEN DAVID YESHIVAH,2017-18,100,58,58.0%,42,42.0%,s,s,s,s,s,s,s,s,100,100.0%
+21K700,KCHX,Dezzenterprise LLC,2017-18,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+21K700,KAJE,St. Athanasius School,2017-18,60,36,60.0%,24,40.0%,7,11.7%,s,s,20,33.3%,s,s,30,50.0%
+21K700,KCGT,Gold Material Montessori School,2017-18,39,17,43.6%,22,56.4%,6,15.4%,s,s,6,15.4%,s,s,26,66.7%
+21K700,KCPC,Wonderland P.A. LLC,2017-18,57,23,40.4%,34,59.6%,10,17.5%,s,s,s,s,s,s,37,64.9%
+21K700,KCDM,BUTTERFLY DAY CARE CENTER,2017-18,20,11,55.0%,9,45.0%,s,s,s,s,s,s,s,s,18,90.0%
+21K700,KCBJ,Congregation Yeshiva Bnei Torah,2017-18,17,s,s,s,s,s,s,s,s,s,s,s,s,16,94.1%
+21K700,KBQP,Shore Parkway Head Start,2017-18,32,17,53.1%,15,46.9%,20,62.5%,s,s,10,31.3%,s,s,s,s
+21K700,KAYF,PAL La Puerta Abierta,2017-18,21,8,38.1%,13,61.9%,s,s,s,s,14,66.7%,s,s,s,s
+21K700,KBQN,Friends of Crown Heights 6,2017-18,20,14,70.0%,6,30.0%,17,85.0%,s,s,s,s,s,s,s,s
+21K700,KCBR,Yeshivat Darche Eres,2017-18,90,47,52.2%,43,47.8%,s,s,s,s,s,s,s,s,90,100.0%
+21K700,KBWG,Life - Coney Island,2017-18,15,9,60.0%,6,40.0%,s,s,s,s,s,s,s,s,6,40.0%
+21K700,KBAW,Bet Yaakov Ohr Sarah,2017-18,20,s,s,s,s,s,s,s,s,s,s,s,s,20,100.0%
+21K700,KBXU,Yeled V Yalda,2017-18,15,s,s,s,s,s,s,s,s,s,s,s,s,15,100.0%
+21K700,KACI,Bambi Day Care,2017-18,60,26,43.3%,34,56.7%,s,s,s,s,s,s,s,s,60,100.0%
+21K700,KCPF,Sarah Winner Daycare,2017-18,12,s,s,s,s,s,s,s,s,s,s,s,s,12,100.0%
+21K700,KANX,Yeshiva Karlin Stolin,2017-18,29,s,s,s,s,s,s,s,s,s,s,s,s,27,93.1%
+21K700,KALT,THE CHEDER,2017-18,39,s,s,s,s,s,s,s,s,s,s,s,s,39,100.0%
+21K700,KCED,Sunshine Center of Coney Island,2017-18,17,10,58.8%,7,41.2%,s,s,12,70.6%,s,s,s,s,s,s
+21K700,KBQK,Sephardic Community Center,2017-18,18,11,61.1%,7,38.9%,s,s,s,s,s,s,s,s,18,100.0%
+21K700,KBVO,"Yeled V'Yalda ECC, Inc.",2017-18,40,20,50.0%,20,50.0%,s,s,s,s,s,s,s,s,40,100.0%
+21K700,KCOW,Little Scholars Learning Center,2017-18,16,9,56.3%,7,43.8%,s,s,s,s,s,s,s,s,9,56.3%
+21K700,KBQE,BURATINO INTERNATIONAL DAY CARE,2017-18,18,7,38.9%,11,61.1%,s,s,s,s,s,s,s,s,13,72.2%
+21K700,KBQL,SHOREFRONT YM-YWHA,2017-18,52,16,30.8%,36,69.2%,s,s,s,s,s,s,s,s,50,96.2%
+21K700,KBCJ,Mazel Day School,2017-18,26,12,46.2%,14,53.8%,s,s,s,s,s,s,s,s,26,100.0%
+21K700,KCNK,Learn and Explore,2017-18,53,32,60.4%,21,39.6%,s,s,s,s,s,s,s,s,52,98.1%
+21K700,KCPY,Tiny Bumblebees,2017-18,12,s,s,s,s,s,s,s,s,s,s,s,s,8,66.7%
+21K700,KBQF,Cinderella Day Care,2017-18,18,s,s,s,s,s,s,s,s,s,s,s,s,16,88.9%
+21K700,KCLH,Neshama Preschool,2017-18,20,11,55.0%,9,45.0%,s,s,s,s,s,s,s,s,20,100.0%
+21K700,KAFZ,HIDEC,2017-18,44,25,56.8%,19,43.2%,19,43.2%,s,s,12,27.3%,s,s,10,22.7%
+21K700,KAKI,St. Peter Catholic Academy,2017-18,72,42,58.3%,30,41.7%,32,44.4%,s,s,13,18.1%,s,s,24,33.3%
+21K700,KCIY,"Ronomoza, Inc. / The Learning Experience",2017-18,36,16,44.4%,20,55.6%,8,22.2%,s,s,12,33.3%,s,s,13,36.1%
+21K700,KCJM,"Circle, Triangle, Square Daycare, Inc.",2017-18,36,19,52.8%,17,47.2%,11,30.6%,6,16.7%,15,41.7%,s,s,s,s
+21K700,KBUR,Znayka Daycare Center,2017-18,24,13,54.2%,11,45.8%,7,29.2%,s,s,7,29.2%,s,s,9,37.5%
+21K700,KBYC,YWCA-NYC Roberta Bright Early Learning Center,2017-18,18,9,50.0%,9,50.0%,s,s,13,72.2%,s,s,s,s,s,s
+21K700,KCQX,KINGS POINTE TALENT INC.,2017-18,35,15,42.9%,20,57.1%,16,45.7%,s,s,s,s,s,s,14,40.0%
+21K700,KBBE,PAL Carey gardens,2017-18,17,7,41.2%,10,58.8%,s,s,14,82.4%,s,s,s,s,s,s
+21K700,KABN,Barkai Yeshivah,2017-18,22,13,59.1%,9,40.9%,s,s,s,s,s,s,s,s,22,100.0%
+21K700,KBWQ,Family Head Start Coney Island,2017-18,16,8,50.0%,8,50.0%,s,s,6,37.5%,8,50.0%,s,s,s,s
+21K700,KAOV,YESHIVA OHR SHRAGA,2017-18,14,s,s,s,s,s,s,s,s,s,s,s,s,13,92.9%
+21K700,KAUK,NYL/WOC MIDWOOD,2017-18,14,6,42.9%,8,57.1%,s,s,s,s,9,64.3%,s,s,s,s
+21K840,Z010,Brooklyn's Daily Discovery Pre-K Center at 2202 60th Street,2017-18,93,47,50.5%,46,49.5%,34,36.6%,s,s,29,31.2%,s,s,30,32.3%
+21K840,Z095,Brooklyn's Daily Discovery Pre-K Center at 10 Bouck Court,2017-18,67,36,53.7%,31,46.3%,18,26.9%,s,s,25,37.3%,s,s,18,26.9%
+21K840,Z014,Brooklyn's Daily Discovery Pre-K Center at 1215 Avenue X,2017-18,72,37,51.4%,35,48.6%,16,22.2%,s,s,11,15.3%,s,s,41,56.9%
+21K840,Z077,Brooklyn's Daily Discovery Pre-K Center at 385 Avenue W,2017-18,32,14,43.8%,18,56.3%,s,s,s,s,7,21.9%,s,s,19,59.4%
+22K052,22K052,P.S. 52 Sheepshead Bay,2017-18,72,31,43.1%,41,56.9%,22,30.6%,s,s,11,15.3%,s,s,34,47.2%
+22K109,22K109,P.S. 109,2017-18,28,16,57.1%,12,42.9%,s,s,25,89.3%,s,s,s,s,s,s
+22K119,22K119,P.S. 119 Amersfort,2017-18,34,16,47.1%,18,52.9%,8,23.5%,16,47.1%,6,17.6%,s,s,s,s
+22K139,22K139,P.S. 139 Alexine A. Fenty,2017-18,69,38,55.1%,31,44.9%,20,29.0%,12,17.4%,25,36.2%,s,s,s,s
+22K152,22K152,School of Science & Technology,2017-18,35,19,54.3%,16,45.7%,6,17.1%,19,54.3%,10,28.6%,s,s,s,s
+22K193,22K193,P.S. 193 Gil Hodges,2017-18,18,8,44.4%,10,55.6%,s,s,s,s,6,33.3%,s,s,s,s
+22K194,22K194,P.S. 194 Raoul Wallenberg,2017-18,54,26,48.1%,28,51.9%,s,s,21,38.9%,13,24.1%,s,s,20,37.0%
+22K195,22K195,P.S. 195 Manhattan Beach,2017-18,18,11,61.1%,7,38.9%,s,s,s,s,s,s,s,s,16,88.9%
+22K197,22K197,P.S. 197 - The Kings Highway Academy,2017-18,67,38,56.7%,29,43.3%,14,20.9%,s,s,6,9.0%,s,s,40,59.7%
+22K198,22K198,P.S. 198 Brooklyn,2017-18,29,15,51.7%,14,48.3%,s,s,24,82.8%,s,s,s,s,s,s
+22K203,22K203,P.S. 203 Floyd Bennett School,2017-18,84,45,53.6%,39,46.4%,7,8.3%,65,77.4%,9,10.7%,s,s,s,s
+22K206,22K206,P.S. 206 Joseph F Lamb,2017-18,18,8,44.4%,10,55.6%,7,38.9%,s,s,s,s,s,s,7,38.9%
+22K207,22K207,P.S. 207 Elizabeth G. Leary,2017-18,18,8,44.4%,10,55.6%,s,s,s,s,s,s,s,s,9,50.0%
+22K217,22K217,P.S. 217 Colonel David Marcus School,2017-18,54,34,63.0%,20,37.0%,34,63.0%,s,s,7,13.0%,s,s,6,11.1%
+22K222,22K222,P.S. 222 Katherine R. Snyder,2017-18,36,18,50.0%,18,50.0%,9,25.0%,s,s,7,19.4%,s,s,14,38.9%
+22K236,22K236,P.S. 236 Mill Basin,2017-18,49,23,46.9%,26,53.1%,s,s,10,20.4%,9,18.4%,s,s,21,42.9%
+22K245,22K245,P.S. 245,2017-18,18,9,50.0%,9,50.0%,s,s,12,66.7%,s,s,s,s,s,s
+22K251,22K251,P.S. 251 Paerdegat,2017-18,54,30,55.6%,24,44.4%,s,s,35,64.8%,11,20.4%,s,s,s,s
+22K254,22K254,P.S. 254 Dag Hammarskjold,2017-18,17,9,52.9%,8,47.1%,6,35.3%,s,s,s,s,s,s,10,58.8%
+22K255,22K255,P.S. 255 Barbara Reing School,2017-18,14,6,42.9%,8,57.1%,s,s,s,s,s,s,s,s,8,57.1%
+22K277,22K277,P.S. 277 Gerritsen Beach,2017-18,18,8,44.4%,10,55.6%,s,s,s,s,s,s,s,s,15,83.3%
+22K312,22K312,P.S. 312 Bergen Beach,2017-18,51,30,58.8%,21,41.2%,s,s,17,33.3%,12,23.5%,s,s,15,29.4%
+22K315,22K315,P.S. 315,2017-18,36,16,44.4%,20,55.6%,s,s,12,33.3%,13,36.1%,s,s,s,s
+22K326,22K326,P.S. 326,2017-18,28,10,35.7%,18,64.3%,s,s,17,60.7%,s,s,s,s,s,s
+22K361,22K361,P.S. 361 East Flatbush Early Childhood School,2017-18,50,26,52.0%,24,48.0%,s,s,40,80.0%,7,14.0%,s,s,s,s
+22K700,KBUM,Bumble Bees R Us 3,2017-18,18,11,61.1%,7,38.9%,s,s,15,83.3%,s,s,s,s,s,s
+22K700,KBQU,KESHET LEARNING CENTER,2017-18,18,12,66.7%,6,33.3%,s,s,s,s,s,s,s,s,17,94.4%
+22K700,KBXQ,"Gan, Inc. - Gan Jewish Day Care",2017-18,31,17,54.8%,14,45.2%,s,s,18,58.1%,s,s,s,s,s,s
+22K700,KBRL,"Tiny Tots Express, Inc.",2017-18,14,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+22K700,KCEI,Bambi Day Care II,2017-18,87,39,44.8%,48,55.2%,s,s,s,s,s,s,s,s,87,100.0%
+22K700,KCJT,Kaleidoscope Early Childhood Develepment Center,2017-18,44,24,54.5%,20,45.5%,10,22.7%,s,s,s,s,s,s,26,59.1%
+22K700,KCNA,"The Friends of Crown Heights Educational Centers, Inc.",2017-18,29,16,55.2%,13,44.8%,s,s,26,89.7%,s,s,s,s,s,s
+22K700,KAFO,Good Shepherd School,2017-18,36,19,52.8%,17,47.2%,s,s,6,16.7%,8,22.2%,s,s,20,55.6%
+22K700,KCMZ,Free Greek Community of the Three Hierarchs,2017-18,48,28,58.3%,20,41.7%,s,s,s,s,8,16.7%,s,s,34,70.8%
+22K700,KAOQ,YESHIVA OF KINGS BAY,2017-18,10,s,s,s,s,s,s,s,s,s,s,s,s,10,100.0%
+22K700,KAPR,Talmud Torah Crown Heights Yeshivah,2017-18,40,23,57.5%,17,42.5%,s,s,s,s,s,s,s,s,36,90.0%
+22K700,KAHA,MASORES BAIS YAAKOV,2017-18,54,s,s,s,s,s,s,s,s,s,s,s,s,52,96.3%
+22K700,KCKU,Promise World Day Care,2017-18,28,11,39.3%,17,60.7%,6,21.4%,s,s,s,s,s,s,20,71.4%
+22K700,KCPT,Noah'S Ark Uni Day Care Center,2017-18,8,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+22K700,KADW,Brooklyn Amity School,2017-18,48,26,54.2%,22,45.8%,s,s,s,s,s,s,s,s,32,66.7%
+22K700,KCHU,Infinity UPK of Gerritsen Avenue,2017-18,26,11,42.3%,15,57.7%,s,s,s,s,s,s,s,s,17,65.4%
+22K700,KBRD,"KINGSBAY YM-YWHA, INC.",2017-18,20,8,40.0%,12,60.0%,s,s,s,s,s,s,s,s,8,40.0%
+22K700,KCJS,Yeshiva Torah Vodaath,2017-18,30,s,s,s,s,s,s,s,s,s,s,s,s,30,100.0%
+22K700,KASR,Glennwood Avenue Head Start,2017-18,52,26,50.0%,26,50.0%,s,s,24,46.2%,23,44.2%,s,s,s,s
+22K700,KCQB,Imaginarium Child,2017-18,11,s,s,s,s,s,s,s,s,s,s,s,s,11,100.0%
+22K700,KCGO,Child Development Center of Kingsborough,2017-18,17,8,47.1%,9,52.9%,s,s,s,s,s,s,s,s,10,58.8%
+22K700,KBDJ,Cortelyou Academy,2017-18,18,7,38.9%,11,61.1%,s,s,14,77.8%,s,s,s,s,s,s
+22K700,KAKF,Saint Mark School,2017-18,54,28,51.9%,26,48.1%,18,33.3%,s,s,11,20.4%,s,s,14,25.9%
+22K700,KBSL,Charles R Drew ELC 5,2017-18,16,8,50.0%,8,50.0%,s,s,15,93.8%,s,s,s,s,s,s
+22K700,KBRB,Infinity UPK,2017-18,57,27,47.4%,30,52.6%,s,s,12,21.1%,9,15.8%,s,s,26,45.6%
+22K700,KBFD,Saint Marks,2017-18,103,53,51.5%,50,48.5%,s,s,38,36.9%,64,62.1%,s,s,s,s
+22K700,KCOG,Stepz 2 Success Child Care Center,2017-18,12,6,50.0%,6,50.0%,s,s,10,83.3%,s,s,s,s,s,s
+22K700,KBRI,RAINBOW DAY CARE CENTER,2017-18,19,8,42.1%,11,57.9%,s,s,s,s,s,s,s,s,12,63.2%
+22K700,KCPL,"Brooklyn Star Daycare, Inc.",2017-18,47,24,51.1%,23,48.9%,37,78.7%,s,s,s,s,s,s,s,s
+22K700,KBRH,NAYEMA UNIVERSAL CHILD CENTER,2017-18,15,9,60.0%,6,40.0%,8,53.3%,s,s,s,s,s,s,s,s
+22K700,KBQQ,Bambi Day Care III,2017-18,95,51,53.7%,44,46.3%,s,s,s,s,s,s,s,s,95,100.0%
+22K700,KCHN,Friends of Crown Heights,2017-18,27,14,51.9%,13,48.1%,s,s,22,81.5%,s,s,s,s,s,s
+22K700,KASI,Cortelyou Early Childhood Center,2017-18,52,26,50.0%,26,50.0%,7,13.5%,27,51.9%,14,26.9%,s,s,s,s
+22K700,KCJZ,COPO Pre-K Program,2017-18,26,11,42.3%,15,57.7%,26,100.0%,s,s,s,s,s,s,s,s
+22K700,KBXT,"New Generation Learning Center, Inc.",2017-18,16,s,s,s,s,s,s,15,93.8%,s,s,s,s,s,s
+22K700,KAPM,YESHIVA TORAS EMES,2017-18,10,s,s,s,s,s,s,s,s,s,s,s,s,10,100.0%
+22K700,KAIT,Prospect Park Yeshiva,2017-18,31,s,s,s,s,s,s,s,s,s,s,s,s,31,100.0%
+22K700,KBUF,Butterfly,2017-18,18,7,38.9%,11,61.1%,s,s,s,s,s,s,s,s,9,50.0%
+22K700,KCNI,"Klever Kidz, LLC DBA Basin Prep",2017-18,19,9,47.4%,10,52.6%,s,s,s,s,s,s,s,s,19,100.0%
+22K700,KBQV,FANTASIA DAY CARE CENTER,2017-18,33,14,42.4%,19,57.6%,9,27.3%,s,s,s,s,s,s,22,66.7%
+22K700,KCNF,Itty Bitty Adventures Preschool,2017-18,27,9,33.3%,18,66.7%,s,s,9,33.3%,s,s,s,s,12,44.4%
+22K700,KASZ,East Midwood Hebrew Day School,2017-18,27,15,55.6%,12,44.4%,s,s,s,s,s,s,s,s,22,81.5%
+22K700,KBZX,Yeshiva Torah Vodaath Preschool,2017-18,35,s,s,s,s,s,s,s,s,s,s,s,s,35,100.0%
+22K700,KCKZ,"A2Z Kidz Center, LLC",2017-18,53,33,62.3%,20,37.7%,s,s,s,s,s,s,s,s,50,94.3%
+22K700,KCJQ,Initial Steps Child Development Center,2017-18,20,11,55.0%,9,45.0%,s,s,17,85.0%,s,s,s,s,s,s
+22K700,KAMW,"YESHIVA & MESIVTA TORAH TEMIMAH, INC.",2017-18,15,s,s,s,s,s,s,s,s,s,s,s,s,15,100.0%
+22K700,KCTN,YESHIVA OHR SHRAGA,2017-18,14,s,s,s,s,s,s,s,s,s,s,s,s,14,100.0%
+22K700,KCJR,A to Z Day Care Center,2017-18,28,14,50.0%,14,50.0%,s,s,s,s,s,s,s,s,25,89.3%
+22K853,Z063,The Joan Snow Pre-K Center at 1340 East 29th Street,2017-18,42,19,45.2%,23,54.8%,9,21.4%,17,40.5%,s,s,s,s,10,23.8%
+22K853,Z064,The Joan Snow Pre-K Center at 3610 Glenwood Road,2017-18,50,24,48.0%,26,52.0%,s,s,36,72.0%,10,20.0%,s,s,s,s
+22K853,Z012,The Joan Snow Pre-K Center at 1139 Coney Island Avenue,2017-18,137,65,47.4%,72,52.6%,72,52.6%,s,s,20,14.6%,s,s,28,20.4%
+22K889,22K889,P.S. 889,2017-18,34,17,50.0%,17,50.0%,16,47.1%,s,s,7,20.6%,s,s,9,26.5%
+23K137,23K137,P.S./I.S. 137 Rachel Jean Mitchell,2017-18,28,17,60.7%,11,39.3%,s,s,23,82.1%,s,s,s,s,s,s
+23K155,23K155,P.S./I.S. 155 Nicholas Herkimer,2017-18,31,19,61.3%,12,38.7%,s,s,9,29.0%,19,61.3%,s,s,s,s
+23K156,23K156,P.S. 156 Waverly,2017-18,48,23,47.9%,25,52.1%,s,s,37,77.1%,9,18.8%,s,s,s,s
+23K165,23K165,P.S. 165 Ida Posner,2017-18,54,30,55.6%,24,44.4%,s,s,40,74.1%,12,22.2%,s,s,s,s
+23K178,23K178,P.S. 178 Saint Clair Mckelway,2017-18,68,36,52.9%,32,47.1%,s,s,52,76.5%,12,17.6%,s,s,s,s
+23K184,23K184,P.S. 184 Newport,2017-18,41,21,51.2%,20,48.8%,s,s,30,73.2%,10,24.4%,s,s,s,s
+23K284,23K284,"The Gregory Jocko Jackson School of Sports, Art, and Technology",2017-18,17,8,47.1%,9,52.9%,s,s,13,76.5%,s,s,s,s,s,s
+23K298,23K298,P.S. 298 Dr. Betty Shabazz,2017-18,57,28,49.1%,29,50.9%,s,s,50,87.7%,7,12.3%,s,s,s,s
+23K323,23K323,P.S./I.S. 323,2017-18,50,20,40.0%,30,60.0%,s,s,47,94.0%,s,s,s,s,s,s
+23K327,23K327,P.S. 327 Dr. Rose B. English,2017-18,29,21,72.4%,8,27.6%,s,s,20,69.0%,6,20.7%,s,s,s,s
+23K401,23K401,Christopher Avenue Community School,2017-18,58,28,48.3%,30,51.7%,s,s,40,69.0%,18,31.0%,s,s,s,s
+23K446,23K446,Riverdale Avenue Community School,2017-18,34,17,50.0%,17,50.0%,s,s,25,73.5%,9,26.5%,s,s,s,s
+23K599,23K599,Brooklyn Landmark Elementary School,2017-18,31,15,48.4%,16,51.6%,s,s,21,67.7%,8,25.8%,s,s,s,s
+23K700,KBRT,Salvation Army - Brownsville Day Care Center,2017-18,14,s,s,s,s,s,s,7,50.0%,7,50.0%,s,s,s,s
+23K700,KBJZ,Saratoga II - Shirley Chisholm Center,2017-18,74,37,50.0%,37,50.0%,s,s,45,60.8%,20,27.0%,s,s,s,s
+23K700,KBYM,Friends of Crown Heights 26,2017-18,36,15,41.7%,21,58.3%,s,s,35,97.2%,s,s,s,s,s,s
+23K700,KCOE,"Step By Step Early Childhood Education, Inc.",2017-18,36,18,50.0%,18,50.0%,s,s,35,97.2%,s,s,s,s,s,s
+23K700,KCFA,SCO Family of Services,2017-18,37,13,35.1%,24,64.9%,s,s,20,54.1%,14,37.8%,s,s,s,s
+23K700,KAWX,PAL World of Creative Experiences Head Start,2017-18,78,36,46.2%,42,53.8%,s,s,48,61.5%,24,30.8%,s,s,s,s
+23K700,KBJW,YWCA-NYC Brownsville Early Learning Center,2017-18,10,s,s,s,s,s,s,6,60.0%,s,s,s,s,s,s
+23K700,KBJL,Saratoga - Morris Koppelman Center,2017-18,50,23,46.0%,27,54.0%,s,s,47,94.0%,s,s,s,s,s,s
+23K700,KBAZ,Nat Azarow Children's Center,2017-18,35,22,62.9%,13,37.1%,s,s,20,57.1%,14,40.0%,s,s,s,s
+23K700,KCGN,SCO Family of Services,2017-18,78,40,51.3%,38,48.7%,s,s,71,91.0%,s,s,s,s,s,s
+23K700,KBJU,Shirley Chisholm Day Care Center Site 5 Advent Center,2017-18,18,9,50.0%,9,50.0%,s,s,17,94.4%,s,s,s,s,s,s
+23K700,KBFC,Shirley Chisholm Child Care Center Site 4 Somers,2017-18,35,17,48.6%,18,51.4%,s,s,31,88.6%,s,s,s,s,s,s
+24Q007,24Q007,P.S. 007 Louis F. Simeone,2017-18,51,26,51.0%,25,49.0%,31,60.8%,s,s,20,39.2%,s,s,s,s
+24Q028,24Q028,P.S. 28 - The Thomas Emanuel Early Childhood Center,2017-18,14,8,57.1%,6,42.9%,s,s,s,s,11,78.6%,s,s,s,s
+24Q058,24Q058,P.S. 58 - The School of Heroes,2017-18,36,12,33.3%,24,66.7%,17,47.2%,s,s,12,33.3%,s,s,7,19.4%
+24Q068,24Q068,P.S. 68 Cambridge,2017-18,41,25,61.0%,16,39.0%,s,s,s,s,36,87.8%,s,s,s,s
+24Q071,24Q071,P.S. 71 Forest,2017-18,56,25,44.6%,31,55.4%,7,12.5%,s,s,33,58.9%,13,23.2%,s,s
+24Q081,24Q081,P.S. 81 Jean Paul Richter,2017-18,51,24,47.1%,27,52.9%,s,s,s,s,36,70.6%,s,s,11,21.6%
+24Q087,24Q087,P.S./I.S. 87 Middle Village,2017-18,46,25,54.3%,21,45.7%,s,s,s,s,22,47.8%,s,s,21,45.7%
+24Q088,24Q088,P.S. 88 Seneca,2017-18,32,17,53.1%,15,46.9%,s,s,s,s,21,65.6%,s,s,10,31.3%
+24Q091,24Q091,P.S. 91 Richard Arkwright,2017-18,62,25,40.3%,37,59.7%,s,s,s,s,25,40.3%,s,s,34,54.8%
+24Q102,24Q102,P.S. 102 Bayview,2017-18,40,18,45.0%,22,55.0%,27,67.5%,s,s,12,30.0%,s,s,s,s
+24Q153,24Q153,P.S. 153 Maspeth Elem,2017-18,53,31,58.5%,22,41.5%,s,s,s,s,23,43.4%,s,s,25,47.2%
+24Q199,24Q199,P.S. 199 Maurice A. Fitzgerald,2017-18,72,32,44.4%,40,55.6%,34,47.2%,s,s,30,41.7%,s,s,7,9.7%
+24Q229,24Q229,P.S. 229 Emanuel Kaplan,2017-18,35,19,54.3%,16,45.7%,11,31.4%,s,s,10,28.6%,s,s,12,34.3%
+24Q239,24Q239,P.S. 239,2017-18,36,16,44.4%,20,55.6%,s,s,s,s,30,83.3%,s,s,s,s
+24Q290,24Q290,A.C.E. Academy for Scholars at the Geraldine Ferraro Campus,2017-18,36,17,47.2%,19,52.8%,s,s,s,s,23,63.9%,s,s,8,22.2%
+24Q305,24Q305,Learners and Leaders,2017-18,33,17,51.5%,16,48.5%,6,18.2%,s,s,23,69.7%,s,s,s,s
+24Q331,Z016,Mosaic Pre-K Center at 46-16 76th Street,2017-18,61,28,45.9%,33,54.1%,33,54.1%,s,s,24,39.3%,s,s,s,s
+24Q331,Z104,Mosaic Pre-K Center at 41-15 104 Street,2017-18,65,33,50.8%,32,49.2%,s,s,s,s,62,95.4%,s,s,s,s
+24Q331,Z047,Mosaic Pre-K Center at 378 Seneca Avenue,2017-18,52,28,53.8%,24,46.2%,7,13.5%,s,s,36,69.2%,s,s,6,11.5%
+24Q331,Z046,Mosaic Pre-K Center at P.S. 087 Middle Village,2017-18,24,9,37.5%,15,62.5%,s,s,s,s,12,50.0%,s,s,8,33.3%
+24Q331,Z115,Mosaic Pre-K Center at 104-14 Roosevelt Avenue,2017-18,73,39,53.4%,34,46.6%,s,s,s,s,71,97.3%,s,s,s,s
+24Q331,Z080,Mosaic Pre-K Center at 50-15 44th Street,2017-18,32,19,59.4%,13,40.6%,7,21.9%,s,s,20,62.5%,s,s,s,s
+24Q331,Z102,Mosaic Pre-K Center at 106-02 Northern Boulevard,2017-18,38,25,65.8%,13,34.2%,s,s,s,s,37,97.4%,s,s,s,s
+24Q331,Z088,Mosaic Pre-K Center at 56-01 61st Street,2017-18,24,12,50.0%,12,50.0%,s,s,s,s,15,62.5%,s,s,8,33.3%
+24Q331,Z120,Mosaic Pre-K Center at 50-51 98th Street,2017-18,74,32,43.2%,42,56.8%,8,10.8%,6,8.1%,56,75.7%,s,s,s,s
+24Q331,Z105,Mosaic Pre-K Center at 109-10 47 Avenue,2017-18,87,41,47.1%,46,52.9%,6,6.9%,s,s,81,93.1%,s,s,s,s
+24Q331,Z114,Mosaic Pre-K Center at 70-24 47th Avenue,2017-18,11,s,s,s,s,6,54.5%,s,s,s,s,s,s,s,s
+24Q331,Z022,Mosaic Pre-K Center at 44-15 Judge Street,2017-18,153,88,57.5%,65,42.5%,62,40.5%,s,s,88,57.5%,s,s,s,s
+24Q331,Z097,Mosaic Pre-K Center at 107-17 Northern Boulevard,2017-18,62,31,50.0%,31,50.0%,s,s,s,s,55,88.7%,s,s,s,s
+24Q331,Z116,Mosaic Pre-K Center at 55-41 98 Place,2017-18,32,16,50.0%,16,50.0%,s,s,s,s,25,78.1%,s,s,s,s
+24Q331,Z106,Mosaic Pre-K Center at 80-55 Cornish Avenue,2017-18,49,22,44.9%,27,55.1%,39,79.6%,s,s,10,20.4%,s,s,s,s
+24Q331,Z023,Mosaic Pre-K Center at 68-20 Myrtle Avenue,2017-18,23,9,39.1%,14,60.9%,s,s,s,s,15,65.2%,s,s,7,30.4%
+24Q331,Z117,Mosaic Pre-K Center at 57-06 99th Street,2017-18,35,15,42.9%,20,57.1%,9,25.7%,s,s,20,57.1%,s,s,s,s
+24Q331,Z078,Mosaic Pre-K Center at P.S. 91 Richard Arkwright,2017-18,29,12,41.4%,17,58.6%,s,s,s,s,16,55.2%,s,s,10,34.5%
+24Q343,24Q343,The Children's Lab School,2017-18,36,15,41.7%,21,58.3%,9,25.0%,s,s,19,52.8%,s,s,8,22.2%
+24Q700,QAGR,Saint Stanislaus Kostka School,2017-18,44,23,52.3%,21,47.7%,s,s,s,s,15,34.1%,s,s,24,54.5%
+24Q700,QAKT,Mi Nuevo Mundo,2017-18,18,8,44.4%,10,55.6%,s,s,s,s,18,100.0%,s,s,s,s
+24Q700,QAGW,Sesame Sprout,2017-18,60,28,46.7%,32,53.3%,7,11.7%,s,s,47,78.3%,s,s,s,s
+24Q700,QBCD,Mi Nuevo Mundo,2017-18,20,12,60.0%,8,40.0%,s,s,s,s,20,100.0%,s,s,s,s
+24Q700,QASB,Mi Nuevo Mundo,2017-18,33,21,63.6%,12,36.4%,s,s,s,s,33,100.0%,s,s,s,s
+24Q700,QAFZ,St. Leo Catholic Academy,2017-18,39,19,48.7%,20,51.3%,s,s,s,s,39,100.0%,s,s,s,s
+24Q700,QBDB,"Queens Pointe Talent, INC.",2017-18,91,50,54.9%,41,45.1%,46,50.5%,s,s,41,45.1%,s,s,s,s
+24Q700,QASV,BWY preschool,2017-18,130,60,46.2%,70,53.8%,55,42.3%,s,s,74,56.9%,s,s,s,s
+24Q700,QARX,Redeemer Lutheran School,2017-18,33,19,57.6%,14,42.4%,s,s,s,s,14,42.4%,s,s,16,48.5%
+24Q700,QBNP,Corona Friends,2017-18,55,25,45.5%,30,54.5%,s,s,s,s,52,94.5%,s,s,s,s
+24Q700,QANR,Malcolm X Day Care,2017-18,47,20,42.6%,27,57.4%,s,s,s,s,44,93.6%,s,s,s,s
+24Q700,QATM,Star America Preschool,2017-18,80,41,51.2%,39,48.8%,49,61.3%,s,s,29,36.3%,s,s,s,s
+24Q700,QBNS,GRYC Little Stars at Fairview,2017-18,37,18,48.6%,19,51.4%,s,s,s,s,15,40.5%,s,s,18,48.6%
+24Q700,QBOQ,Precious Moments,2017-18,12,s,s,s,s,s,s,s,s,s,s,s,s,7,58.3%
+24Q700,QBNR,Noah's Ark Preparatory III Inc.,2017-18,76,43,56.6%,33,43.4%,s,s,s,s,73,96.1%,s,s,s,s
+24Q700,QBEH,Mi Nuevo Mundo Corp.,2017-18,36,20,55.6%,16,44.4%,s,s,s,s,36,100.0%,s,s,s,s
+24Q700,QBGL,"Star Paradise, Inc.",2017-18,40,23,57.5%,17,42.5%,35,87.5%,s,s,s,s,s,s,s,s
+24Q700,QBEF,The Learning Tree,2017-18,36,15,41.7%,21,58.3%,s,s,s,s,14,38.9%,s,s,18,50.0%
+24Q700,QATH,MASPETH TOWN HALL PRESCHOOL,2017-18,40,18,45.0%,22,55.0%,14,35.0%,s,s,10,25.0%,s,s,10,25.0%
+24Q700,QBEK,YMCA of Greater NY- Ridgewood Y,2017-18,34,18,52.9%,16,47.1%,6,17.6%,s,s,16,47.1%,s,s,11,32.4%
+24Q700,QALW,Peek-A-Boo! Learning Center,2017-18,28,17,60.7%,11,39.3%,12,42.9%,s,s,12,42.9%,s,s,s,s
+24Q700,QASX,"CHILDREN'S BIG APPLE, INC.",2017-18,19,6,31.6%,13,68.4%,s,s,s,s,15,78.9%,s,s,s,s
+24Q700,QBOY,Kidz Village Preschool,2017-18,13,7,53.8%,6,46.2%,s,s,s,s,6,46.2%,s,s,s,s
+24Q700,QBBN,Noah's Ark Progressive Learning Center,2017-18,49,23,46.9%,26,53.1%,s,s,s,s,21,42.9%,s,s,24,49.0%
+24Q700,QASU,Child Center of NY 2,2017-18,72,42,58.3%,30,41.7%,s,s,s,s,71,98.6%,s,s,s,s
+24Q700,QANU,Happy Dragon of New York,2017-18,28,16,57.1%,12,42.9%,18,64.3%,s,s,6,21.4%,s,s,s,s
+24Q700,QBLR,Play and Learn Day Care Center,2017-18,20,8,40.0%,12,60.0%,s,s,s,s,8,40.0%,s,s,9,45.0%
+24Q700,QADR,Notre Dame Catholic Academy of Ridgewood,2017-18,49,27,55.1%,22,44.9%,s,s,s,s,10,20.4%,s,s,36,73.5%
+24Q700,QBJC,Maroos Preschool,2017-18,20,11,55.0%,9,45.0%,7,35.0%,s,s,12,60.0%,s,s,s,s
+24Q700,QBIH,Mi Nuevo Mundo,2017-18,36,18,50.0%,18,50.0%,s,s,s,s,36,100.0%,s,s,s,s
+24Q700,QBCS,"FUNDAY DAYCARE CENTER, INC.",2017-18,61,38,62.3%,23,37.7%,16,26.2%,s,s,44,72.1%,s,s,s,s
+24Q700,QAEN,Resurrection Ascension Catholic Academy,2017-18,36,17,47.2%,19,52.8%,9,25.0%,s,s,13,36.1%,s,s,11,30.6%
+24Q700,QAER,Sacred Heart Catholic Academy,2017-18,54,30,55.6%,24,44.4%,s,s,s,s,14,25.9%,s,s,37,68.5%
+24Q700,QAZW,LaGuardia Community College Preschool,2017-18,33,19,57.6%,14,42.4%,s,s,s,s,20,60.6%,s,s,s,s
+24Q700,QBEC,Emilia's Kids,2017-18,39,19,48.7%,20,51.3%,26,66.7%,s,s,8,20.5%,s,s,s,s
+24Q700,QATC,"LITTLE FRIENDS SCHOOL ELMHURST, INC.",2017-18,40,14,35.0%,26,65.0%,s,s,s,s,34,85.0%,s,s,s,s
+24Q700,QASW,"Children's Big Apple, inc.",2017-18,97,53,54.6%,44,45.4%,6,6.2%,s,s,91,93.8%,s,s,s,s
+24Q700,QAES,St. Adalbert's Catholic Academy,2017-18,36,21,58.3%,15,41.7%,19,52.8%,s,s,10,27.8%,s,s,6,16.7%
+24Q700,QBEG,Magic Years Preschool and Nursery,2017-18,54,31,57.4%,23,42.6%,40,74.1%,s,s,12,22.2%,s,s,s,s
+24Q700,QATL,Rainbow Christian Preschool,2017-18,76,42,55.3%,34,44.7%,56,73.7%,s,s,16,21.1%,s,s,s,s
+24Q700,QAAD,A Child's Place Too - 108th Street,2017-18,74,31,41.9%,43,58.1%,s,s,s,s,62,83.8%,s,s,s,s
+24Q700,QAKQ,Denizko DCC,2017-18,21,9,42.9%,12,57.1%,s,s,s,s,11,52.4%,s,s,s,s
+24Q700,QANO,International Chidren's School,2017-18,20,10,50.0%,10,50.0%,s,s,s,s,20,100.0%,s,s,s,s
+24Q700,QATA,J.C.'s Daywatch Pre-K,2017-18,10,s,s,s,s,s,s,s,s,9,90.0%,s,s,s,s
+24Q700,QABC,CHRIST THE KING COMMUNITY PRESCHOOL,2017-18,88,37,42.0%,51,58.0%,s,s,s,s,34,38.6%,s,s,47,53.4%
+24Q700,QBGP,Moving Up Children Center,2017-18,90,51,56.7%,39,43.3%,s,s,s,s,86,95.6%,s,s,s,s
+24Q700,QAPD,NY LEAGUE FOREST HILLS WEST,2017-18,16,10,62.5%,6,37.5%,s,s,s,s,s,s,s,s,12,75.0%
+24Q700,QAST,"ABC Preschool & Kindergarten Center, Corp",2017-18,82,32,39.0%,50,61.0%,21,25.6%,s,s,40,48.8%,s,s,18,22.0%
+24Q700,QBEX,"Towers Play-N-Learn, Inc.",2017-18,16,10,62.5%,6,37.5%,8,50.0%,s,s,s,s,s,s,s,s
+24Q700,QATB,JOHNSON'S ACADEMY LLC,2017-18,19,11,57.9%,8,42.1%,s,s,s,s,12,63.2%,s,s,s,s
+24Q700,QBME,Happily Ever After,2017-18,36,18,50.0%,18,50.0%,s,s,s,s,19,52.8%,s,s,14,38.9%
+24Q700,QAMO,Greater Ridgewood Youth Council,2017-18,33,19,57.6%,14,42.4%,s,s,s,s,22,66.7%,s,s,8,24.2%
+25Q020,25Q020,P.S. 20 John Bowne,2017-18,102,47,46.1%,55,53.9%,69,67.6%,s,s,27,26.5%,s,s,s,s
+25Q021,25Q021,P.S. 21 Edward Hart,2017-18,87,48,55.2%,39,44.8%,44,50.6%,s,s,34,39.1%,s,s,s,s
+25Q022,25Q022,P.S. 22 Thomas Jefferson,2017-18,36,20,55.6%,16,44.4%,15,41.7%,s,s,19,52.8%,s,s,s,s
+25Q029,25Q029,P.S. 29 Queens,2017-18,36,13,36.1%,23,63.9%,9,25.0%,s,s,27,75.0%,s,s,s,s
+25Q032,25Q032,P.S. 32 State Street,2017-18,33,15,45.5%,18,54.5%,17,51.5%,s,s,9,27.3%,s,s,6,18.2%
+25Q079,25Q079,P.S. 79 Francis Lewis,2017-18,36,18,50.0%,18,50.0%,15,41.7%,s,s,10,27.8%,s,s,10,27.8%
+25Q107,25Q107,P.S. 107 Thomas A Dooley,2017-18,72,31,43.1%,41,56.9%,36,50.0%,s,s,28,38.9%,s,s,6,8.3%
+25Q120,25Q120,P.S. 120 Queens,2017-18,54,27,50.0%,27,50.0%,47,87.0%,s,s,7,13.0%,s,s,s,s
+25Q130,25Q130,P.S. 130,2017-18,35,20,57.1%,15,42.9%,20,57.1%,s,s,7,20.0%,s,s,7,20.0%
+25Q154,25Q154,P.S. 154 Queens,2017-18,36,11,30.6%,25,69.4%,18,50.0%,6,16.7%,9,25.0%,s,s,s,s
+25Q163,25Q163,P.S. 163 Flushing Heights,2017-18,70,37,52.9%,33,47.1%,47,67.1%,s,s,16,22.9%,6,8.6%,s,s
+25Q164,25Q164,P.S. 164 Queens Valley,2017-18,33,18,54.5%,15,45.5%,9,27.3%,s,s,13,39.4%,s,s,7,21.2%
+25Q165,25Q165,P.S. 165 Edith K. Bergtraum,2017-18,43,22,51.2%,21,48.8%,25,58.1%,s,s,9,20.9%,s,s,s,s
+25Q169,25Q169,P.S. 169 Bay Terrace,2017-18,36,22,61.1%,14,38.9%,13,36.1%,s,s,9,25.0%,s,s,8,22.2%
+25Q184,25Q184,P.S. 184 Flushing Manor,2017-18,31,14,45.2%,17,54.8%,12,38.7%,s,s,s,s,s,s,16,51.6%
+25Q193,25Q193,P.S. 193 Alfred J. Kennedy,2017-18,55,28,50.9%,27,49.1%,7,12.7%,s,s,7,12.7%,s,s,41,74.5%
+25Q200,25Q200,P.S./M.S. 200 - The Pomonok School & STAR Academy,2017-18,45,20,44.4%,25,55.6%,10,22.2%,8,17.8%,21,46.7%,s,s,s,s
+25Q201,25Q201,P.S. 201 The Discovery School for Inquiry and Research,2017-18,47,22,46.8%,25,53.2%,s,s,19,40.4%,22,46.8%,s,s,s,s
+25Q209,25Q209,P.S. 209 Clearview Gardens,2017-18,18,10,55.6%,8,44.4%,8,44.4%,s,s,s,s,s,s,9,50.0%
+25Q214,25Q214,P.S. 214 Cadwallader Colden,2017-18,34,19,55.9%,15,44.1%,25,73.5%,s,s,s,s,s,s,s,s
+25Q219,25Q219,P.S. 219 Paul Klapper,2017-18,37,17,45.9%,20,54.1%,21,56.8%,s,s,9,24.3%,s,s,s,s
+25Q242,25Q242,P.S. 242 Leonard P. Stavisky Early Childhood School,2017-18,36,13,36.1%,23,63.9%,26,72.2%,s,s,6,16.7%,s,s,s,s
+25Q244,25Q244,The Active Learning Elementary School,2017-18,36,12,33.3%,24,66.7%,31,86.1%,s,s,s,s,s,s,s,s
+25Q409,Z118,District 25 Pre-K Center at 123-07 22nd Ave,2017-18,123,65,52.8%,58,47.2%,49,39.8%,s,s,67,54.5%,s,s,s,s
+25Q409,Z100,District 25 Pre-K Center at 14-45 143 Street,2017-18,58,34,58.6%,24,41.4%,15,25.9%,s,s,36,62.1%,s,s,s,s
+25Q499,25Q499,"The Queens College School for Math, Science and Technology",2017-18,18,6,33.3%,12,66.7%,6,33.3%,s,s,s,s,s,s,s,s
+25Q700,QATZ,"Judi's Nursery, Inc.",2017-18,60,33,55.0%,27,45.0%,s,s,s,s,s,s,s,s,60,100.0%
+25Q700,QAKY,Kissena Cherry Day Care,2017-18,63,33,52.4%,30,47.6%,58,92.1%,s,s,s,s,s,s,s,s
+25Q700,QAUE,"Ready, Set, Grow Child Center, LLC",2017-18,32,8,25.0%,24,75.0%,29,90.6%,s,s,s,s,s,s,s,s
+25Q700,QBBH,"New Milestone, Inc.",2017-18,18,s,s,s,s,16,88.9%,s,s,s,s,s,s,s,s
+25Q700,QAHH,"Stepping Stone Day School, Inc.",2017-18,28,11,39.3%,17,60.7%,s,s,s,s,14,50.0%,s,s,8,28.6%
+25Q700,QALC,Little Sweet Angels Preschool,2017-18,35,14,40.0%,21,60.0%,32,91.4%,s,s,s,s,s,s,s,s
+25Q700,QBHQ,Sholom Sholom Inc.,2017-18,32,17,53.1%,15,46.9%,s,s,s,s,s,s,s,s,31,96.9%
+25Q700,QAJR,YMCA OF GREATER NEW YORK - FLUSHING,2017-18,52,25,48.1%,27,51.9%,31,59.6%,s,s,13,25.0%,s,s,s,s
+25Q700,QAZV,Macedonia Child Development Center,2017-18,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+25Q700,QATU,EVBO Inc. D/B/A Jack & Jill Nursery School,2017-18,72,42,58.3%,30,41.7%,65,90.3%,s,s,s,s,s,s,s,s
+25Q700,QBJV,Rainbow Child Development Center,2017-18,31,16,51.6%,15,48.4%,31,100.0%,s,s,s,s,s,s,s,s
+25Q700,QATY,INTERNATIONAL NURSERY SCHOOL,2017-18,21,12,57.1%,9,42.9%,14,66.7%,s,s,s,s,s,s,s,s
+25Q700,QASG,Positive Beginnings II,2017-18,36,12,33.3%,24,66.7%,s,s,s,s,s,s,s,s,35,97.2%
+25Q700,QBHO,Holy Mountain,2017-18,17,6,35.3%,11,64.7%,12,70.6%,s,s,s,s,s,s,s,s
+25Q700,QATQ,Better community Life DCC 2,2017-18,20,11,55.0%,9,45.0%,13,65.0%,s,s,6,30.0%,s,s,s,s
+25Q700,QAHB,The Solomon Schechter School of Queens,2017-18,28,14,50.0%,14,50.0%,s,s,s,s,s,s,s,s,28,100.0%
+25Q700,QBCT,Kiddie Academy Of Whitestone,2017-18,50,22,44.0%,28,56.0%,8,16.0%,s,s,12,24.0%,s,s,25,50.0%
+25Q700,QAUQ,NYL Clearview School,2017-18,14,7,50.0%,7,50.0%,7,50.0%,s,s,s,s,s,s,s,s
+25Q700,QBJN,Al-Mamoor School,2017-18,22,10,45.5%,12,54.5%,22,100.0%,s,s,s,s,s,s,s,s
+25Q700,QBLY,Ivy Day School,2017-18,35,18,51.4%,17,48.6%,29,82.9%,s,s,s,s,s,s,s,s
+25Q700,QBGI,Tiny Footsteps,2017-18,51,20,39.2%,31,60.8%,7,13.7%,s,s,7,13.7%,s,s,33,64.7%
+25Q700,QAUH,THE CORNER SCHOOL,2017-18,18,8,44.4%,10,55.6%,12,66.7%,s,s,s,s,s,s,s,s
+25Q700,QBBC,Northside School,2017-18,52,22,42.3%,30,57.7%,11,21.2%,s,s,17,32.7%,s,s,22,42.3%
+25Q700,QBHB,Rainbow Child Dev Center II,2017-18,69,31,44.9%,38,55.1%,41,59.4%,7,10.1%,14,20.3%,s,s,s,s
+25Q700,QBMF,The Little Learning Center,2017-18,15,8,53.3%,7,46.7%,12,80.0%,s,s,s,s,s,s,s,s
+25Q700,QATT,Preschool R Us,2017-18,38,22,57.9%,16,42.1%,36,94.7%,s,s,s,s,s,s,s,s
+25Q700,QATV,Happy Dragon Children's Learning Center Site 2,2017-18,26,11,42.3%,15,57.7%,19,73.1%,s,s,6,23.1%,s,s,s,s
+25Q700,QAUJ,Martin l. King Jr. Mem DCC,2017-18,13,s,s,s,s,13,100.0%,s,s,s,s,s,s,s,s
+25Q700,QAUC,PEE WEE FOLKS,2017-18,40,25,62.5%,15,37.5%,11,27.5%,s,s,9,22.5%,s,s,18,45.0%
+25Q700,QBIG,Kiddie Academy of Flushing,2017-18,82,32,39.0%,50,61.0%,48,58.5%,s,s,26,31.7%,s,s,s,s
+25Q700,QBHP,Happy Maryann Day School,2017-18,36,22,61.1%,14,38.9%,36,100.0%,s,s,s,s,s,s,s,s
+25Q700,QAFY,Saint Kevin Catholic Academy,2017-18,84,47,56.0%,37,44.0%,25,29.8%,s,s,22,26.2%,s,s,31,36.9%
+25Q700,QBAJ,Community Nursery School COTH,2017-18,20,10,50.0%,10,50.0%,7,35.0%,s,s,s,s,s,s,12,60.0%
+25Q700,QBIE,CPC Corona Queens UPK,2017-18,14,6,42.9%,8,57.1%,14,100.0%,s,s,s,s,s,s,s,s
+25Q700,QAUG,SHARON NURSERY,2017-18,20,s,s,s,s,15,75.0%,s,s,s,s,s,s,s,s
+25Q700,QBBQ,Most Holy Redeemer Catholic Academy,2017-18,79,39,49.4%,40,50.6%,65,82.3%,s,s,13,16.5%,s,s,s,s
+25Q700,QBIZ,Preschool R Us II,2017-18,58,30,51.7%,28,48.3%,53,91.4%,s,s,s,s,s,s,s,s
+25Q700,QAIM,Yeshiva Of Central Queens,2017-18,40,18,45.0%,22,55.0%,s,s,s,s,s,s,s,s,40,100.0%
+25Q700,QALA,Rainbow Child Dev Center,2017-18,71,37,52.1%,34,47.9%,65,91.5%,s,s,s,s,s,s,s,s
+25Q700,QATX,Immanuel Creative,2017-18,29,14,48.3%,15,51.7%,20,69.0%,s,s,8,27.6%,s,s,s,s
+25Q700,QBOL,Leading Kids Preschool,2017-18,17,6,35.3%,11,64.7%,s,s,s,s,14,82.4%,s,s,s,s
+25Q700,QBDW,Sunflower Daycare Center,2017-18,11,s,s,s,s,11,100.0%,s,s,s,s,s,s,s,s
+25Q700,QASC,Saint Mel Catholic Academy,2017-18,43,22,51.2%,21,48.8%,9,20.9%,s,s,8,18.6%,s,s,23,53.5%
+25Q700,QAUB,"NEW MILESTONE, INC.",2017-18,21,6,28.6%,15,71.4%,11,52.4%,s,s,7,33.3%,s,s,s,s
+25Q700,QAKV,Honeypot Day Care,2017-18,31,16,51.6%,15,48.4%,29,93.5%,s,s,s,s,s,s,s,s
+25Q700,QAUA,KON WAH DAY SCHOOL,2017-18,89,45,50.6%,44,49.4%,81,91.0%,s,s,s,s,s,s,s,s
+25Q700,QAUD,PRECIOUS MOMENTS,2017-18,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+25Q700,QBEJ,Queens Herald Community Corp.,2017-18,32,16,50.0%,16,50.0%,29,90.6%,s,s,s,s,s,s,s,s
+25Q700,QBMQ,Dream Day Care,2017-18,7,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+25Q700,QBAF,SAMUEL FIELD YM & YWHA (BAYSIDE),2017-18,40,25,62.5%,15,37.5%,21,52.5%,s,s,9,22.5%,s,s,10,25.0%
+25Q700,QBDU,Morning Star Preschool II,2017-18,11,s,s,s,s,9,81.8%,s,s,s,s,s,s,s,s
+25Q700,QBLI,I Bear Daycare Center,2017-18,18,10,55.6%,8,44.4%,8,44.4%,s,s,9,50.0%,s,s,s,s
+26Q018,26Q018,P.S. 18 Winchester,2017-18,18,10,55.6%,8,44.4%,14,77.8%,s,s,s,s,s,s,s,s
+26Q026,26Q026,P.S. 26 Rufus King,2017-18,30,18,60.0%,12,40.0%,21,70.0%,s,s,s,s,s,s,s,s
+26Q031,26Q031,P.S. 31 Bayside,2017-18,30,11,36.7%,19,63.3%,10,33.3%,s,s,11,36.7%,s,s,6,20.0%
+26Q046,26Q046,P.S. 046 Alley Pond,2017-18,18,9,50.0%,9,50.0%,13,72.2%,s,s,s,s,s,s,s,s
+26Q098,26Q098,P.S. 098 The Douglaston School,2017-18,17,6,35.3%,11,64.7%,10,58.8%,s,s,s,s,s,s,s,s
+26Q115,26Q115,P.S. 115 The James J. Ambrose School,2017-18,54,24,44.4%,30,55.6%,40,74.1%,s,s,9,16.7%,s,s,s,s
+26Q133,26Q133,P.S. 133 Queens,2017-18,48,29,60.4%,19,39.6%,32,66.7%,s,s,12,25.0%,s,s,s,s
+26Q159,26Q159,P.S. 159,2017-18,44,29,65.9%,15,34.1%,26,59.1%,s,s,s,s,s,s,11,25.0%
+26Q162,26Q162,P.S. 162 John Golden,2017-18,18,7,38.9%,11,61.1%,13,72.2%,s,s,s,s,s,s,s,s
+26Q173,26Q173,P.S. 173 Fresh Meadows,2017-18,36,25,69.4%,11,30.6%,24,66.7%,s,s,s,s,s,s,6,16.7%
+26Q178,26Q178,P.S./I.S. 178 Holliswood,2017-18,33,17,51.5%,16,48.5%,8,24.2%,s,s,s,s,s,s,21,63.6%
+26Q186,26Q186,P.S. 186 Castlewood,2017-18,30,9,30.0%,21,70.0%,14,46.7%,s,s,s,s,s,s,10,33.3%
+26Q188,26Q188,P.S. 188 Kingsbury,2017-18,36,15,41.7%,21,58.3%,15,41.7%,s,s,s,s,s,s,19,52.8%
+26Q191,26Q191,P.S. 191 Mayflower,2017-18,36,22,61.1%,14,38.9%,29,80.6%,s,s,7,19.4%,s,s,s,s
+26Q203,26Q203,P.S. 203 Oakland Gardens,2017-18,62,28,45.2%,34,54.8%,36,58.1%,s,s,12,19.4%,s,s,13,21.0%
+26Q205,26Q205,P.S. 205 Alexander Graham Bell,2017-18,33,18,54.5%,15,45.5%,19,57.6%,s,s,9,27.3%,s,s,s,s
+26Q213,26Q213,P.S. 213 The Carl Ullman School,2017-18,72,29,40.3%,43,59.7%,46,63.9%,s,s,10,13.9%,s,s,s,s
+26Q221,26Q221,P.S. 221 The North Hills School,2017-18,18,11,61.1%,7,38.9%,12,66.7%,s,s,s,s,s,s,s,s
+26Q266,26Q266,P.S./I.S. 266,2017-18,18,7,38.9%,11,61.1%,6,33.3%,s,s,6,33.3%,s,s,s,s
+26Q376,26Q376,P.S. 376,2017-18,42,24,57.1%,18,42.9%,24,57.1%,s,s,12,28.6%,s,s,s,s
+26Q700,QAJX,YMCA of Greater New York - Cross Island,2017-18,54,25,46.3%,29,53.7%,37,68.5%,s,s,7,13.0%,s,s,s,s
+26Q700,QASD,Immanuel Genius,2017-18,22,9,40.9%,13,59.1%,18,81.8%,s,s,s,s,s,s,s,s
+26Q700,QALD,Kiddie Academy of Little Neck,2017-18,53,28,52.8%,25,47.2%,36,67.9%,s,s,s,s,6,11.3%,8,15.1%
+26Q700,QAKZ,"BRIGHT BEGINNINGS IN QUEENS VILLAGE, INC.",2017-18,18,10,55.6%,8,44.4%,8,44.4%,s,s,s,s,s,s,s,s
+26Q700,QBBG,Han-I Preschool,2017-18,14,s,s,s,s,11,78.6%,s,s,s,s,s,s,s,s
+26Q700,QADX,Our Lady of the Blessed Sacrament School,2017-18,34,14,41.2%,20,58.8%,s,s,s,s,9,26.5%,s,s,18,52.9%
+26Q700,QBEQ,Apple Tree Day Care Center,2017-18,29,13,44.8%,16,55.2%,23,79.3%,s,s,s,s,s,s,s,s
+26Q700,QAUL,COMMUNITY CHURCH OF DOUGLASTON,2017-18,13,6,46.2%,7,53.8%,6,46.2%,s,s,s,s,s,s,s,s
+26Q700,QBHN,Leading Kids Preschool,2017-18,17,11,64.7%,6,35.3%,16,94.1%,s,s,s,s,s,s,s,s
+26Q700,QBMZ,The Learning Experience - Bayside,2017-18,37,18,48.6%,19,51.4%,18,48.6%,s,s,8,21.6%,s,s,6,16.2%
+26Q700,QBGS,Ivy League Early Learning Academy,2017-18,53,27,50.9%,26,49.1%,23,43.4%,s,s,13,24.5%,7,13.2%,s,s
+26Q700,QALM,Professional Childcare Inc.,2017-18,18,8,44.4%,10,55.6%,16,88.9%,s,s,s,s,s,s,s,s
+26Q700,QAEQ,Sacred Heart School,2017-18,36,19,52.8%,17,47.2%,11,30.6%,s,s,6,16.7%,s,s,12,33.3%
+26Q700,QAUK,CHABAD EARLY LEARNING CENTER,2017-18,20,7,35.0%,13,65.0%,s,s,s,s,s,s,s,s,18,90.0%
+26Q700,QBLV,Rainbow - Little Neck,2017-18,36,20,55.6%,16,44.4%,32,88.9%,s,s,s,s,s,s,s,s
+26Q700,QBJX,Divine Wisdom Catholic Academy,2017-18,47,30,63.8%,17,36.2%,20,42.6%,s,s,8,17.0%,s,s,12,25.5%
+26Q700,QARQ,All My Children,2017-18,17,11,64.7%,6,35.3%,s,s,s,s,s,s,s,s,17,100.0%
+26Q700,QAUN,JACK & JILL II,2017-18,31,17,54.8%,14,45.2%,17,54.8%,s,s,7,22.6%,s,s,s,s
+26Q700,QAUM,Home Sweet Home Children's School,2017-18,42,21,50.0%,21,50.0%,30,71.4%,s,s,s,s,s,s,s,s
+26Q700,QADU,Roman Catholic Church of Our Lady of the Snows d/b/a Our Lady of the Snows School,2017-18,54,33,61.1%,21,38.9%,34,63.0%,s,s,14,25.9%,s,s,s,s
+26Q700,QBGK,Kon Gen International Preschool,2017-18,63,28,44.4%,35,55.6%,56,88.9%,s,s,s,s,s,s,s,s
+26Q700,QAKH,SAMUEL FIELD YM & YWHA (LITTLE NECK),2017-18,53,27,50.9%,26,49.1%,24,45.3%,s,s,8,15.1%,s,s,15,28.3%
+26Q700,QBHM,Immanuel Genius,2017-18,24,17,70.8%,7,29.2%,16,66.7%,s,s,s,s,s,s,s,s
+26Q700,QBJE,Morning Star Preschool,2017-18,21,9,42.9%,12,57.1%,20,95.2%,s,s,s,s,s,s,s,s
+26Q700,QAKA,Little Meadows Early Childhood Center,2017-18,28,14,50.0%,14,50.0%,13,46.4%,s,s,8,28.6%,s,s,s,s
+26Q700,QBGV,Apple Tree Day Care Center (197th Street),2017-18,12,s,s,s,s,10,83.3%,s,s,s,s,s,s,s,s
+26Q700,QBBF,Divine Wisdom Catholic Academy Douglaston,2017-18,49,24,49.0%,25,51.0%,17,34.7%,s,s,10,20.4%,s,s,16,32.7%
+26Q700,QAUO,NOAH'S ARK PROGRESSIVE LEARNING CENTER,2017-18,32,19,59.4%,13,40.6%,s,s,s,s,18,56.3%,s,s,9,28.1%
+26Q700,QASH,Ganeinu Early Learning Center,2017-18,32,12,37.5%,20,62.5%,s,s,s,s,s,s,s,s,32,100.0%
+26Q700,QAUT,All My Children Day Care 2,2017-18,8,s,s,s,s,s,s,s,s,s,s,s,s,7,87.5%
+26Q700,QAUS,Lutheran Schools of Flushing and Bayside,2017-18,33,18,54.5%,15,45.5%,18,54.5%,s,s,7,21.2%,s,s,s,s
+26Q700,QBEO,ABC Early Learning Center,2017-18,52,24,46.2%,28,53.8%,25,48.1%,s,s,12,23.1%,s,s,10,19.2%
+27Q042,27Q042,P.S./M.S. 42 R. Vernam,2017-18,38,20,52.6%,18,47.4%,s,s,25,65.8%,11,28.9%,s,s,s,s
+27Q043,27Q043,P.S. 43,2017-18,65,36,55.4%,29,44.6%,s,s,38,58.5%,22,33.8%,s,s,s,s
+27Q045,27Q045,P.S. 45 Clarence Witherspoon,2017-18,25,12,48.0%,13,52.0%,s,s,21,84.0%,s,s,s,s,s,s
+27Q047,27Q047,P.S. 47 Chris Galas,2017-18,15,8,53.3%,7,46.7%,s,s,s,s,s,s,s,s,13,86.7%
+27Q051,27Q051,P.S. 51,2017-18,36,22,61.1%,14,38.9%,11,30.6%,s,s,17,47.2%,s,s,s,s
+27Q060,27Q060,P.S. 60 Woodhaven,2017-18,72,35,48.6%,37,51.4%,12,16.7%,s,s,56,77.8%,s,s,s,s
+27Q062,27Q062,P.S. 62 - Chester Park School,2017-18,36,15,41.7%,21,58.3%,17,47.2%,s,s,12,33.3%,s,s,s,s
+27Q063,27Q063,P.S. 63 Old South,2017-18,54,28,51.9%,26,48.1%,23,42.6%,s,s,28,51.9%,s,s,s,s
+27Q066,27Q066,P.S. 66 Jacqueline Kennedy Onassis,2017-18,36,15,41.7%,21,58.3%,s,s,s,s,20,55.6%,s,s,9,25.0%
+27Q090,27Q090,P.S. 90 Horace Mann,2017-18,54,29,53.7%,25,46.3%,25,46.3%,s,s,24,44.4%,s,s,s,s
+27Q096,27Q096,P.S. 96,2017-18,35,18,51.4%,17,48.6%,21,60.0%,7,20.0%,s,s,s,s,s,s
+27Q097,27Q097,P.S. 97 Forest Park,2017-18,36,16,44.4%,20,55.6%,6,16.7%,s,s,27,75.0%,s,s,s,s
+27Q100,27Q100,P.S. 100 Glen Morris,2017-18,64,36,56.3%,28,43.8%,14,21.9%,s,s,9,14.1%,40,62.5%,s,s
+27Q104,27Q104,P.S. 104 The Bays Water,2017-18,49,21,42.9%,28,57.1%,s,s,26,53.1%,19,38.8%,s,s,s,s
+27Q105,27Q105,P.S. 105 The Bay School,2017-18,36,15,41.7%,21,58.3%,s,s,18,50.0%,14,38.9%,s,s,s,s
+27Q106,27Q106,Lighthouse Elementary School,2017-18,14,s,s,s,s,s,s,10,71.4%,s,s,s,s,s,s
+27Q108,27Q108,P.S. 108 Captain Vincent G. Fowler,2017-18,36,11,30.6%,25,69.4%,6,16.7%,s,s,27,75.0%,s,s,s,s
+27Q114,27Q114,P.S. / M.S. 114 Belle Harbor,2017-18,36,21,58.3%,15,41.7%,s,s,s,s,s,s,s,s,34,94.4%
+27Q123,27Q123,P.S. 123,2017-18,54,28,51.9%,26,48.1%,12,22.2%,21,38.9%,13,24.1%,s,s,s,s
+27Q146,27Q146,P.S. 146 Howard Beach,2017-18,16,10,62.5%,6,37.5%,s,s,s,s,s,s,s,s,10,62.5%
+27Q155,27Q155,P.S. 155,2017-18,53,27,50.9%,26,49.1%,18,34.0%,s,s,9,17.0%,17,32.1%,s,s
+27Q183,27Q183,P.S. 183 Dr. Richard R. Green,2017-18,18,9,50.0%,9,50.0%,s,s,10,55.6%,7,38.9%,s,s,s,s
+27Q197,27Q197,P.S. 197 The Ocean School,2017-18,41,20,48.8%,21,51.2%,s,s,21,51.2%,17,41.5%,s,s,s,s
+27Q207,27Q207,P.S. 207 Rockwood Park,2017-18,52,23,44.2%,29,55.8%,s,s,s,s,9,17.3%,s,s,41,78.8%
+27Q223,27Q223,P.S. 223 Lyndon B. Johnson,2017-18,31,13,41.9%,18,58.1%,9,29.0%,15,48.4%,s,s,s,s,s,s
+27Q253,27Q253,P.S. 253,2017-18,29,13,44.8%,16,55.2%,s,s,8,27.6%,16,55.2%,s,s,s,s
+27Q254,27Q254,P.S. 254 - The Rosa Parks School,2017-18,35,14,40.0%,21,60.0%,s,s,s,s,26,74.3%,s,s,s,s
+27Q273,27Q273,P.S. 273,2017-18,36,19,52.8%,17,47.2%,8,22.2%,s,s,25,69.4%,s,s,s,s
+27Q306,27Q306,New York City Academy for Discovery,2017-18,34,14,41.2%,20,58.8%,13,38.2%,s,s,17,50.0%,s,s,s,s
+27Q316,27Q316,Queens Explorers Elementary School,2017-18,108,53,49.1%,55,50.9%,36,33.3%,s,s,53,49.1%,10,9.3%,s,s
+27Q317,27Q317,Waterside Children's Studio School,2017-18,51,30,58.8%,21,41.2%,s,s,11,21.6%,21,41.2%,s,s,14,27.5%
+27Q333,27Q333,Goldie Maple Academy,2017-18,42,21,50.0%,21,50.0%,s,s,29,69.0%,13,31.0%,s,s,s,s
+27Q362,27Q362,Wave Preparatory Elementary School,2017-18,51,33,64.7%,18,35.3%,s,s,24,47.1%,27,52.9%,s,s,s,s
+27Q377,27Q377,P.S. 377,2017-18,106,44,41.5%,62,58.5%,27,25.5%,s,s,47,44.3%,18,17.0%,s,s
+27Q700,QAVF,CUOMO FIRST STEP,2017-18,29,14,48.3%,15,51.7%,19,65.5%,s,s,6,20.7%,s,s,s,s
+27Q700,QAFR,Saint Helen Catholic Academy,2017-18,39,24,61.5%,15,38.5%,s,s,s,s,21,53.8%,s,s,14,35.9%
+27Q700,QARK,Sholom Day Care 2,2017-18,11,s,s,s,s,s,s,s,s,7,63.6%,s,s,s,s
+27Q700,QAVO,Omega Psi Phi Fraternity,2017-18,21,11,52.4%,10,47.6%,6,28.6%,8,38.1%,s,s,s,s,s,s
+27Q700,QBNU,Hidden Treasures,2017-18,12,s,s,s,s,s,s,s,s,8,66.7%,s,s,s,s
+27Q700,QARC,Lucille Rose DCC,2017-18,18,10,55.6%,8,44.4%,s,s,18,100.0%,s,s,s,s,s,s
+27Q700,QBNY,Divine Mercy Catholic Academy,2017-18,35,20,57.1%,15,42.9%,9,25.7%,s,s,23,65.7%,s,s,s,s
+27Q700,QAGU,Saint Thomas Apostle Catholic Academy,2017-18,76,32,42.1%,44,57.9%,16,21.1%,s,s,50,65.8%,s,s,s,s
+27Q700,QABS,Holy Child Jesus School,2017-18,77,41,53.2%,36,46.8%,17,22.1%,s,s,48,62.3%,s,s,7,9.1%
+27Q700,QAVV,UP THE LADDER,2017-18,28,17,60.7%,11,39.3%,23,82.1%,s,s,s,s,s,s,s,s
+27Q700,QAVD,Community and Family Head Start,2017-18,66,37,56.1%,29,43.9%,s,s,20,30.3%,43,65.2%,s,s,s,s
+27Q700,QBGM,Yeshiva Darchei Torah,2017-18,58,s,s,s,s,s,s,s,s,s,s,s,s,57,98.3%
+27Q700,QBOA,Aim High Leadership Academy Center Too,2017-18,12,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+27Q700,QARO,Committee for Early Childhood Development Head Start 2,2017-18,108,60,55.6%,48,44.4%,10,9.3%,73,67.6%,16,14.8%,s,s,s,s
+27Q700,QAFC,Saint Camillus School,2017-18,39,22,56.4%,17,43.6%,s,s,9,23.1%,18,46.2%,s,s,10,25.6%
+27Q700,QBHV,Queens Library UPK - Woodhaven,2017-18,18,8,44.4%,10,55.6%,s,s,s,s,13,72.2%,s,s,s,s
+27Q700,QAVG,RUSSO FIRST STEP,2017-18,16,9,56.3%,7,43.8%,8,50.0%,s,s,s,s,s,s,s,s
+27Q700,QBOG,Aim High Leadership Academy,2017-18,20,10,50.0%,10,50.0%,9,45.0%,s,s,s,s,7,35.0%,s,s
+27Q700,QBDS,"Claire Heureuse Community Center, Inc",2017-18,10,s,s,s,s,9,90.0%,s,s,s,s,s,s,s,s
+27Q700,QAVC,Blanche Community Progress DCC #2,2017-18,77,43,55.8%,34,44.2%,s,s,58,75.3%,15,19.5%,s,s,s,s
+27Q700,QBJH,Bethel Mission Station Church / Bethel Mission Loving Day CAre Center,2017-18,19,13,68.4%,6,31.6%,s,s,14,73.7%,s,s,s,s,s,s
+27Q700,QAKW,Kwanis First Step,2017-18,28,10,35.7%,18,64.3%,s,s,s,s,12,42.9%,s,s,12,42.9%
+27Q700,QBNF,Al-Ihsan Academy 3,2017-18,20,13,65.0%,7,35.0%,9,45.0%,s,s,s,s,s,s,s,s
+27Q700,QAVP,ON OUR WAY LEARNING CENTER,2017-18,19,12,63.2%,7,36.8%,s,s,7,36.8%,7,36.8%,s,s,s,s
+27Q700,QAVY,Nadya Day Care I,2017-18,12,s,s,s,s,10,83.3%,s,s,s,s,s,s,s,s
+27Q700,QAVS,SAINT JOHN'S LUTHERAN CHURCH,2017-18,20,9,45.0%,11,55.0%,7,35.0%,s,s,10,50.0%,s,s,s,s
+27Q700,QAUW,Alpha Kappa Alpha Epsilon Pi Omega DCC,2017-18,51,25,49.0%,26,51.0%,s,s,33,64.7%,8,15.7%,s,s,s,s
+27Q700,QANZ,Battalion Christian Academy,2017-18,10,s,s,s,s,s,s,7,70.0%,s,s,s,s,s,s
+27Q700,QAVZ,NADYA Day Care II,2017-18,12,s,s,s,s,10,83.3%,s,s,s,s,s,s,s,s
+27Q700,QAVB,"Bev's Kiddie Daycare, Inc.",2017-18,12,s,s,s,s,8,66.7%,s,s,s,s,s,s,s,s
+27Q700,QAMJ,LITTLE DOLPHIN,2017-18,40,17,42.5%,23,57.5%,17,42.5%,s,s,14,35.0%,s,s,7,17.5%
+27Q700,QAGC,St. Mary Gate of Heaven,2017-18,60,32,53.3%,28,46.7%,23,38.3%,s,s,26,43.3%,6,10.0%,s,s
+27Q700,QADN,Ave Maria Catholic Academy,2017-18,52,27,51.9%,25,48.1%,s,s,s,s,16,30.8%,s,s,30,57.7%
+27Q700,QAMT,Ralph Hirschkorn Child Care Center,2017-18,38,16,42.1%,22,57.9%,s,s,s,s,33,86.8%,s,s,s,s
+27Q700,QAVI,Little Tots Red Wagon,2017-18,34,14,41.2%,20,58.8%,s,s,s,s,s,s,s,s,30,88.2%
+27Q700,QAQC,Howard Beach Judea Center,2017-18,18,6,33.3%,12,66.7%,s,s,s,s,s,s,s,s,12,66.7%
+27Q700,QANH,"Quick Start Day Care Center, Inc.",2017-18,20,8,40.0%,12,60.0%,s,s,10,50.0%,7,35.0%,s,s,s,s
+27Q700,QBML,Al-Ihsan Academy,2017-18,20,11,55.0%,9,45.0%,16,80.0%,s,s,s,s,s,s,s,s
+27Q700,QASN,Community Development Institute Head Start,2017-18,35,15,42.9%,20,57.1%,s,s,14,40.0%,16,45.7%,s,s,s,s
+27Q700,QAOW,All My Children Day Care 6,2017-18,19,6,31.6%,13,68.4%,s,s,14,73.7%,s,s,s,s,s,s
+27Q700,QAFJ,Saint Elizabeth School,2017-18,142,80,56.3%,62,43.7%,42,29.6%,s,s,78,54.9%,s,s,11,7.7%
+27Q700,QAOQ,Rockaway Child Care Center,2017-18,9,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+27Q700,QAZI,Sheldon R. Weaver Child Care Center,2017-18,15,6,40.0%,9,60.0%,s,s,13,86.7%,s,s,s,s,s,s
+27Q700,QAVW,WEST END TEMPLE NURSERY SCHOOL,2017-18,13,s,s,s,s,s,s,s,s,s,s,s,s,10,76.9%
+27Q700,QBHY,Aim High Leadership Academy,2017-18,12,s,s,s,s,6,50.0%,s,s,s,s,s,s,s,s
+28Q040,28Q040,P.S. 40 Samuel Huntington,2017-18,36,18,50.0%,18,50.0%,s,s,8,22.2%,9,25.0%,s,s,12,33.3%
+28Q048,28Q048,P.S. 48 William Wordsworth,2017-18,52,25,48.1%,27,51.9%,15,28.8%,26,50.0%,7,13.5%,s,s,s,s
+28Q050,28Q050,P.S. 50 Talfourd Lawn Elementary School,2017-18,77,38,49.4%,39,50.6%,27,35.1%,s,s,26,33.8%,12,15.6%,s,s
+28Q055,28Q055,P.S. 55 Maure,2017-18,61,33,54.1%,28,45.9%,22,36.1%,s,s,11,18.0%,21,34.4%,s,s
+28Q080,28Q080,P.S. 80 The Thurgood Marshall Magnet School of Multimedia and Communication,2017-18,33,23,69.7%,10,30.3%,s,s,25,75.8%,s,s,s,s,s,s
+28Q086,28Q086,P.S. 86,2017-18,35,20,57.1%,15,42.9%,25,71.4%,s,s,8,22.9%,s,s,s,s
+28Q101,28Q101,P.S. 101 School in the Gardens,2017-18,18,12,66.7%,6,33.3%,s,s,s,s,s,s,s,s,8,44.4%
+28Q117,28Q117,P.S. 117 J. Keld / Briarwood School,2017-18,71,30,42.3%,41,57.7%,38,53.5%,s,s,24,33.8%,s,s,s,s
+28Q121,28Q121,P.S. 121 Queens,2017-18,36,15,41.7%,21,58.3%,22,61.1%,s,s,s,s,8,22.2%,s,s
+28Q140,28Q140,P.S. 140 Edward K Ellington,2017-18,34,18,52.9%,16,47.1%,s,s,23,67.6%,8,23.5%,s,s,s,s
+28Q144,28Q144,P.S. 144 Col Jeromus Remsen,2017-18,54,28,51.9%,26,48.1%,16,29.6%,s,s,12,22.2%,s,s,18,33.3%
+28Q160,28Q160,P.S. 160 Walter Francis Bishop,2017-18,71,31,43.7%,40,56.3%,s,s,26,36.6%,14,19.7%,19,26.8%,s,s
+28Q161,28Q161,P.S. 161 Arthur Ashe School,2017-18,47,25,53.2%,22,46.8%,38,80.9%,s,s,s,s,s,s,s,s
+28Q174,28Q174,P.S. 174 William Sidney Mount,2017-18,30,13,43.3%,17,56.7%,11,36.7%,s,s,9,30.0%,s,s,9,30.0%
+28Q175,28Q175,P.S. 175 The Lynn Gross Discovery School,2017-18,52,27,51.9%,25,48.1%,s,s,s,s,7,13.5%,s,s,37,71.2%
+28Q196,28Q196,P.S. 196 Grand Central Parkway,2017-18,18,8,44.4%,10,55.6%,s,s,s,s,s,s,s,s,8,44.4%
+28Q206,28Q206,P.S. 206 The Horace Harding School,2017-18,36,19,52.8%,17,47.2%,12,33.3%,s,s,12,33.3%,s,s,8,22.2%
+28Q220,28Q220,P.S. 220 Edward Mandel,2017-18,36,19,52.8%,17,47.2%,9,25.0%,s,s,8,22.2%,s,s,16,44.4%
+28Q303,28Q303,The Academy for Excellence through the Arts,2017-18,36,18,50.0%,18,50.0%,17,47.2%,s,s,6,16.7%,s,s,10,27.8%
+28Q335,Z018,Ezra Jack Keats Pre-K Center at 153-36 89th Ave,2017-18,72,35,48.6%,37,51.4%,45,62.5%,s,s,22,30.6%,s,s,s,s
+28Q335,Z024,Ezra Jack Keats Pre-K Center at 83-30 Kew Gardens Road,2017-18,72,42,58.3%,30,41.7%,21,29.2%,s,s,23,31.9%,s,s,14,19.4%
+28Q335,Z019,Ezra Jack Keats Pre-K Center at 132-10 Jamaica Avenue,2017-18,90,53,58.9%,37,41.1%,29,32.2%,s,s,54,60.0%,s,s,s,s
+28Q349,28Q349,The Queens School for Leadership and Excellence,2017-18,35,15,42.9%,20,57.1%,21,60.0%,s,s,9,25.7%,s,s,s,s
+28Q354,28Q354,The Jermaine L. Green STEM Institute of Queens,2017-18,27,18,66.7%,9,33.3%,s,s,24,88.9%,s,s,s,s,s,s
+28Q700,QAWZ,All My Children Day Care (69th Avenue),2017-18,17,6,35.3%,11,64.7%,8,47.1%,s,s,s,s,s,s,6,35.3%
+28Q700,QAYD,"South Jamaica Center For Children and Parents, Inc.",2017-18,42,19,45.2%,23,54.8%,s,s,s,s,38,90.5%,s,s,s,s
+28Q700,QBOB,Aleph Bet Toddler Care Inc,2017-18,12,6,50.0%,6,50.0%,s,s,s,s,s,s,s,s,s,s
+28Q700,QAWH,CENTRAL QUEENS YM & YWHA,2017-18,54,31,57.4%,23,42.6%,9,16.7%,s,s,s,s,7,13.0%,32,59.3%
+28Q700,QBMJ,Allen Christian School,2017-18,36,21,58.3%,15,41.7%,s,s,31,86.1%,s,s,s,s,s,s
+28Q700,QADZ,OUR SAVIOUR LUTHERAN SCHOOL,2017-18,88,41,46.6%,47,53.4%,17,19.3%,7,8.0%,39,44.3%,6,6.8%,19,21.6%
+28Q700,QBGD,Afro-American #4,2017-18,15,s,s,s,s,s,s,13,86.7%,s,s,s,s,s,s
+28Q700,QAPK,Concerned Parents of Jamaica Early Learning Center,2017-18,63,27,42.9%,36,57.1%,s,s,16,25.4%,28,44.4%,16,25.4%,s,s
+28Q700,QBDA,Highland Academics,2017-18,73,38,52.1%,35,47.9%,50,68.5%,10,13.7%,8,11.0%,s,s,s,s
+28Q700,QBNV,"Independent Kidz Daycare, Inc.",2017-18,36,16,44.4%,20,55.6%,20,55.6%,s,s,6,16.7%,s,s,9,25.0%
+28Q700,QBHS,Bright Kids Day Care,2017-18,13,6,46.2%,7,53.8%,s,s,s,s,s,s,s,s,s,s
+28Q700,QAWE,"Ira's Parkway Daycare & Preschool, Inc.",2017-18,34,10,29.4%,24,70.6%,11,32.4%,s,s,9,26.5%,s,s,9,26.5%
+28Q700,QAPL,Sholom Day Care 1,2017-18,22,10,45.5%,12,54.5%,s,s,s,s,6,27.3%,s,s,16,72.7%
+28Q700,QAOC,Afro American Parents,2017-18,16,8,50.0%,8,50.0%,s,s,14,87.5%,s,s,s,s,s,s
+28Q700,QAIR,Yeshiva Tifereth Moshe Day Care,2017-18,38,s,s,s,s,s,s,s,s,s,s,s,s,37,97.4%
+28Q700,QAWS,IT'S MY TURN,2017-18,20,7,35.0%,13,65.0%,8,40.0%,s,s,s,s,9,45.0%,s,s
+28Q700,QAGI,Saint Nicolas of Tolentine School,2017-18,35,15,42.9%,20,57.1%,9,25.7%,7,20.0%,16,45.7%,s,s,s,s
+28Q700,QAWT,Afro-American Parents Educational Center Site 2,2017-18,37,20,54.1%,17,45.9%,s,s,32,86.5%,s,s,s,s,s,s
+28Q700,QAWY,CCS MONTESSORI CENTER,2017-18,36,20,55.6%,16,44.4%,s,s,33,91.7%,s,s,s,s,s,s
+28Q700,QBMC,"Beth Gavriel DCC, Inc.",2017-18,18,9,50.0%,9,50.0%,7,38.9%,s,s,s,s,s,s,7,38.9%
+28Q700,QAWK,"Sholom Sholom, Inc.",2017-18,40,18,45.0%,22,55.0%,7,17.5%,s,s,19,47.5%,s,s,10,25.0%
+28Q700,QBGH,Renanim Day Care,2017-18,17,8,47.1%,9,52.9%,s,s,s,s,6,35.3%,s,s,s,s
+28Q700,QARP,Myrtle P. Jarmon ECEC,2017-18,14,8,57.1%,6,42.9%,s,s,10,71.4%,s,s,s,s,s,s
+28Q700,QAIW,Yeshivath Ohr Haiim,2017-18,11,s,s,s,s,s,s,s,s,s,s,s,s,11,100.0%
+28Q700,QBNZ,Wonderland,2017-18,12,s,s,s,s,s,s,s,s,s,s,s,s,10,83.3%
+28Q700,QADQ,Our Lady of Mercy Catholic Academy,2017-18,64,24,37.5%,40,62.5%,18,28.1%,s,s,16,25.0%,s,s,22,34.4%
+28Q700,QAWG,BRIGHT BEGINNINGS PRE-SCHOOL,2017-18,32,16,50.0%,16,50.0%,18,56.3%,8,25.0%,6,18.8%,s,s,s,s
+28Q700,QATE,Center of Excellence Springfield Gardens Preschool,2017-18,50,20,40.0%,30,60.0%,s,s,37,74.0%,10,20.0%,s,s,s,s
+28Q700,QBNA,Lutheran Church of Our Saviour - Church Campus,2017-18,20,s,s,s,s,9,45.0%,s,s,7,35.0%,s,s,s,s
+28Q700,QAWW,"PICKWICK SCHOOL, INC.",2017-18,28,11,39.3%,17,60.7%,14,50.0%,s,s,7,25.0%,s,s,s,s
+28Q700,QARN,All My Children Day Care 8,2017-18,35,21,60.0%,14,40.0%,15,42.9%,s,s,7,20.0%,s,s,12,34.3%
+28Q700,QANV,"HAPPY DRAGON OF USA, INC.",2017-18,98,54,55.1%,44,44.9%,29,29.6%,11,11.2%,53,54.1%,s,s,s,s
+28Q700,QASJ,North Side School,2017-18,38,18,47.4%,20,52.6%,12,31.6%,7,18.4%,14,36.8%,s,s,s,s
+28Q700,QARG,South Jamaica Center for Children and Parents Inc. Center 1,2017-18,16,8,50.0%,8,50.0%,s,s,8,50.0%,s,s,s,s,s,s
+28Q700,QBCC,"Rochdale Village Nursery School, Inc.",2017-18,16,8,50.0%,8,50.0%,s,s,16,100.0%,s,s,s,s,s,s
+28Q700,QBHK,Rising Stars Islamic School (LCNA),2017-18,18,s,s,s,s,16,88.9%,s,s,s,s,s,s,s,s
+28Q700,QAPB,All My Children Day Care 4,2017-18,34,22,64.7%,12,35.3%,s,s,25,73.5%,7,20.6%,s,s,s,s
+28Q700,QBIS,Baby Steps Daycare Center II,2017-18,30,10,33.3%,20,66.7%,7,23.3%,s,s,8,26.7%,s,s,9,30.0%
+28Q700,QALO,Imagine Early Learning Center,2017-18,11,s,s,s,s,s,s,6,54.5%,s,s,s,s,s,s
+28Q700,QBJK,YC Child & Family Center,2017-18,14,8,57.1%,6,42.9%,s,s,s,s,7,50.0%,s,s,s,s
+28Q700,QBNM,Talented Little Children III,2017-18,12,s,s,s,s,10,83.3%,s,s,s,s,s,s,s,s
+28Q700,QBOW,Kuei Luck Early Childhood Center,2017-18,39,16,41.0%,23,59.0%,21,53.8%,s,s,s,s,s,s,13,33.3%
+28Q700,QASE,"Talented Little Children III/ TLC Spirit, LLC",2017-18,12,s,s,s,s,6,50.0%,s,s,s,s,s,s,s,s
+28Q700,QAWO,ICCD,2017-18,32,15,46.9%,17,53.1%,8,25.0%,s,s,14,43.8%,s,s,6,18.8%
+28Q700,QAWV,The Church in the Gardens,2017-18,17,7,41.2%,10,58.8%,s,s,s,s,s,s,s,s,13,76.5%
+28Q700,QAAF,Al-Iman School,2017-18,18,10,55.6%,8,44.4%,11,61.1%,s,s,s,s,s,s,s,s
+28Q700,QAJQ,Forest Hills Jewish Center Nursery and Pre-k,2017-18,35,19,54.3%,16,45.7%,s,s,s,s,s,s,s,s,30,85.7%
+28Q700,QASF,Ira's Parkway Day Care,2017-18,26,11,42.3%,15,57.7%,s,s,s,s,s,s,s,s,17,65.4%
+28Q700,QAWC,PACCOR KIDS,2017-18,36,25,69.4%,11,30.6%,s,s,29,80.6%,6,16.7%,s,s,s,s
+28Q700,QAAV,Bnos Malka Academy,2017-18,36,22,61.1%,14,38.9%,s,s,s,s,s,s,s,s,35,97.2%
+28Q700,QBMK,Ivy Day School,2017-18,72,36,50.0%,36,50.0%,39,54.2%,s,s,12,16.7%,s,s,12,16.7%
+28Q700,QBIB,Learning Ladder Center,2017-18,35,19,54.3%,16,45.7%,30,85.7%,s,s,s,s,s,s,s,s
+28Q700,QASL,Early Bird II Educational Center,2017-18,29,14,48.3%,15,51.7%,9,31.0%,s,s,16,55.2%,s,s,s,s
+28Q700,QBKE,Sholom Sholom Inc.,2017-18,85,41,48.2%,44,51.8%,11,12.9%,s,s,13,15.3%,s,s,57,67.1%
+28Q700,QAAM,BAIS YAAKOV ACADEMY OF QUEENS (Metropolitan Ave),2017-18,56,s,s,s,s,s,s,s,s,s,s,s,s,55,98.2%
+28Q700,QACJ,JEWISH INSTITUTE OF QUEENS,2017-18,70,36,51.4%,34,48.6%,s,s,s,s,s,s,s,s,64,91.4%
+28Q700,QAAB,Beth Gavriel/Sha'arei Zion Ohel Bracha,2017-18,40,16,40.0%,24,60.0%,s,s,s,s,s,s,s,s,40,100.0%
+28Q700,QBCW,IT'S MY TURN,2017-18,18,9,50.0%,9,50.0%,10,55.6%,s,s,s,s,6,33.3%,s,s
+28Q700,QAPM,Charles R Drew ELC 3,2017-18,33,13,39.4%,20,60.6%,s,s,11,33.3%,20,60.6%,s,s,s,s
+28Q700,QAOO,Forest Park - Beth Jacob,2017-18,130,68,52.3%,62,47.7%,29,22.3%,s,s,41,31.5%,s,s,55,42.3%
+28Q700,QBOD,Baby Steps Daycare Center Inc,2017-18,35,21,60.0%,14,40.0%,9,25.7%,s,s,9,25.7%,s,s,13,37.1%
+29Q015,29Q015,P.S. 15 Jackie Robinson,2017-18,36,23,63.9%,13,36.1%,s,s,33,91.7%,s,s,s,s,s,s
+29Q034,29Q034,P.S. 34 John Harvard,2017-18,36,22,61.1%,14,38.9%,s,s,23,63.9%,s,s,s,s,s,s
+29Q035,29Q035,P.S. 35 Nathaniel Woodhull,2017-18,32,20,62.5%,12,37.5%,9,28.1%,9,28.1%,9,28.1%,s,s,s,s
+29Q037,29Q037,Cynthia Jenkins School,2017-18,36,15,41.7%,21,58.3%,s,s,30,83.3%,s,s,s,s,s,s
+29Q052,29Q052,P.S. 52 Queens,2017-18,30,16,53.3%,14,46.7%,s,s,24,80.0%,s,s,s,s,s,s
+29Q116,29Q116,P.S./I.S. 116 William C. Hughley,2017-18,46,28,60.9%,18,39.1%,7,15.2%,19,41.3%,18,39.1%,s,s,s,s
+29Q118,29Q118,P.S. 118 Lorraine Hansberry,2017-18,36,19,52.8%,17,47.2%,s,s,29,80.6%,s,s,s,s,s,s
+29Q132,29Q132,P.S. 132 Ralph Bunche,2017-18,34,15,44.1%,19,55.9%,s,s,28,82.4%,s,s,s,s,s,s
+29Q134,29Q134,P.S. 134 Hollis,2017-18,28,16,57.1%,12,42.9%,s,s,14,50.0%,10,35.7%,s,s,s,s
+29Q135,29Q135,The Bellaire School,2017-18,101,55,54.5%,46,45.5%,36,35.6%,s,s,s,s,21,20.8%,s,s
+29Q136,29Q136,P.S. 136 Roy Wilkins,2017-18,41,17,41.5%,24,58.5%,s,s,34,82.9%,7,17.1%,s,s,s,s
+29Q138,29Q138,P.S./M.S. 138 Sunrise,2017-18,50,27,54.0%,23,46.0%,6,12.0%,32,64.0%,8,16.0%,s,s,s,s
+29Q147,29Q147,P.S./M.S. 147 Ronald Mcnair,2017-18,17,s,s,s,s,s,s,14,82.4%,s,s,s,s,s,s
+29Q156,29Q156,P.S. 156 Laurelton,2017-18,18,10,55.6%,8,44.4%,s,s,18,100.0%,s,s,s,s,s,s
+29Q176,29Q176,P.S. 176 Cambria Heights,2017-18,47,22,46.8%,25,53.2%,s,s,18,38.3%,s,s,26,55.3%,s,s
+29Q181,29Q181,P.S. 181 Brookfield,2017-18,19,10,52.6%,9,47.4%,s,s,16,84.2%,s,s,s,s,s,s
+29Q195,29Q195,P.S. 195 William Haberle,2017-18,54,28,51.9%,26,48.1%,s,s,45,83.3%,6,11.1%,s,s,s,s
+29Q251,29Q251,P.S. 251 Queens,2017-18,27,17,63.0%,10,37.0%,s,s,24,88.9%,s,s,s,s,s,s
+29Q270,29Q270,The Gordon Parks School,2017-18,18,10,55.6%,8,44.4%,s,s,16,88.9%,s,s,s,s,s,s
+29Q295,29Q295,P.S./I.S. 295,2017-18,18,10,55.6%,8,44.4%,s,s,s,s,10,55.6%,s,s,s,s
+29Q360,29Q360,P.S. 360,2017-18,21,8,38.1%,13,61.9%,s,s,20,95.2%,s,s,s,s,s,s
+29Q381,Z017,District 29 Pre-K Center at 168-42 Jamaica Avenue,2017-18,135,66,48.9%,69,51.1%,52,38.5%,20,14.8%,54,40.0%,s,s,s,s
+29Q381,Z020,District 29 Pre-K Center at 100-05 Springfield Boulevard,2017-18,40,20,50.0%,20,50.0%,13,32.5%,19,47.5%,s,s,s,s,s,s
+29Q700,QAWX,APPLE TREE NURSERY SCHOOL,2017-18,9,s,s,s,s,7,77.8%,s,s,s,s,s,s,s,s
+29Q700,QAYE,Quick Start Day Care Center,2017-18,46,25,54.3%,21,45.7%,s,s,39,84.8%,s,s,s,s,s,s
+29Q700,QBAC,Cambria Center for the Gifted Child,2017-18,50,21,42.0%,29,58.0%,s,s,46,92.0%,s,s,s,s,s,s
+29Q700,QAXD,"Blanche Community Progress Day Care Center, Inc.",2017-18,43,23,53.5%,20,46.5%,s,s,37,86.0%,s,s,s,s,s,s
+29Q700,QBIX,"Sunshine Learning Center, Inc.",2017-18,35,13,37.1%,22,62.9%,s,s,35,100.0%,s,s,s,s,s,s
+29Q700,QAYB,Charles R Drew ELC 1,2017-18,35,18,51.4%,17,48.6%,s,s,28,80.0%,s,s,s,s,s,s
+29Q700,QAPP,Be Above Site 16,2017-18,21,13,61.9%,8,38.1%,s,s,18,85.7%,s,s,s,s,s,s
+29Q700,QAVU,"St. Albans Montessori Day Care Center, Inc.",2017-18,57,27,47.4%,30,52.6%,s,s,54,94.7%,s,s,s,s,s,s
+29Q700,QBAB,"Mona Prep Day Care, Inc.",2017-18,49,30,61.2%,19,38.8%,s,s,44,89.8%,s,s,s,s,s,s
+29Q700,QACD,Incarnation School,2017-18,33,19,57.6%,14,42.4%,10,30.3%,10,30.3%,11,33.3%,s,s,s,s
+29Q700,QAFF,St. Clare Catholic Academy,2017-18,36,20,55.6%,16,44.4%,s,s,28,77.8%,s,s,s,s,s,s
+29Q700,QAPU,"Xcel Tiny Tots, Inc.",2017-18,18,9,50.0%,9,50.0%,s,s,17,94.4%,s,s,s,s,s,s
+29Q700,QBBE,Our Kids Place Country Day,2017-18,56,22,39.3%,34,60.7%,s,s,39,69.6%,8,14.3%,6,10.7%,s,s
+29Q700,QAXF,Committee for Early Childhood Development,2017-18,64,27,42.2%,37,57.8%,13,20.3%,26,40.6%,21,32.8%,s,s,s,s
+29Q700,QAXV,REDEEMER LUTHERAN CHURCH AND NURSERY SCHOOL,2017-18,51,29,56.9%,22,43.1%,28,54.9%,s,s,9,17.6%,13,25.5%,s,s
+29Q700,QAHI,Saints Joachim and Anne School,2017-18,36,19,52.8%,17,47.2%,s,s,35,97.2%,s,s,s,s,s,s
+29Q700,QANS,"A to Z Center Too, Inc.",2017-18,107,53,49.5%,54,50.5%,46,43.0%,18,16.8%,38,35.5%,s,s,s,s
+29Q700,QBIY,Kidz World Early Childhood Center,2017-18,30,19,63.3%,11,36.7%,s,s,30,100.0%,s,s,s,s,s,s
+29Q700,QAXN,Montessori Progressive,2017-18,68,33,48.5%,35,51.5%,s,s,59,86.8%,s,s,s,s,s,s
+29Q700,QAXI,Queens Early Childhood Center,2017-18,27,14,51.9%,13,48.1%,s,s,22,81.5%,s,s,s,s,s,s
+29Q700,QBBU,"Nurturing Center, Inc.",2017-18,51,26,51.0%,25,49.0%,s,s,48,94.1%,s,s,s,s,s,s
+29Q700,QBBP,The Laugh and Learn Place,2017-18,34,20,58.8%,14,41.2%,s,s,26,76.5%,s,s,s,s,s,s
+29Q700,QBGJ,Committee For Early Childhood Development DCC,2017-18,37,14,37.8%,23,62.2%,6,16.2%,20,54.1%,11,29.7%,s,s,s,s
+29Q700,QBII,Academy of Excellence Bell Park 7,2017-18,94,53,56.4%,41,43.6%,58,61.7%,10,10.6%,16,17.0%,s,s,s,s
+29Q700,QAPS,Be Above 22 (New World Education Center),2017-18,32,18,56.3%,14,43.8%,s,s,26,81.3%,s,s,s,s,s,s
+29Q700,QBCQ,HAUP UPK PROGRAM,2017-18,18,8,44.4%,10,55.6%,s,s,7,38.9%,s,s,s,s,s,s
+29Q700,QALP,EARLY SUNRISE PRESCHOOL,2017-18,12,s,s,s,s,6,50.0%,s,s,s,s,s,s,s,s
+29Q700,QAHG,Stepping Stone Pre & Grade School,2017-18,54,25,46.3%,29,53.7%,s,s,45,83.3%,s,s,6,11.1%,s,s
+29Q700,QASI,"Early Sunrise Preschool and Kindergarten, Inc.",2017-18,25,10,40.0%,15,60.0%,15,60.0%,s,s,s,s,s,s,s,s
+29Q700,QBEZ,Little People Day Care of NY,2017-18,10,s,s,s,s,s,s,9,90.0%,s,s,s,s,s,s
+29Q700,QAXK,Kids Circle Daycare,2017-18,13,6,46.2%,7,53.8%,s,s,s,s,s,s,s,s,s,s
+29Q700,QAXL,LAURELTON DAY CARE,2017-18,45,27,60.0%,18,40.0%,s,s,42,93.3%,s,s,s,s,s,s
+29Q700,QADP,Our Lady of Lourdes Catholic Academy,2017-18,16,7,43.8%,9,56.3%,s,s,s,s,6,37.5%,s,s,s,s
+29Q700,QAXQ,OUR SAVIOUR LUTHERAN,2017-18,45,20,44.4%,25,55.6%,35,77.8%,s,s,8,17.8%,s,s,s,s
+29Q700,QAEP,Sacred Heart Catholic Academy,2017-18,18,s,s,s,s,s,s,16,88.9%,s,s,s,s,s,s
+29Q700,QAMU,Saratoga Early Childhood Education Center,2017-18,13,7,53.8%,6,46.2%,s,s,7,53.8%,s,s,s,s,s,s
+29Q700,QAXC,All My Children Day Care (Mayfield),2017-18,35,12,34.3%,23,65.7%,14,40.0%,s,s,s,s,s,s,16,45.7%
+30Q017,30Q017,P.S. 17 Henry David Thoreau,2017-18,54,31,57.4%,23,42.6%,9,16.7%,s,s,35,64.8%,s,s,7,13.0%
+30Q069,30Q069,P.S. 69 Jackson Heights,2017-18,60,31,51.7%,29,48.3%,34,56.7%,s,s,19,31.7%,s,s,s,s
+30Q070,30Q070,P.S. 70,2017-18,93,56,60.2%,37,39.8%,11,11.8%,s,s,39,41.9%,s,s,37,39.8%
+30Q076,30Q076,P.S. 76 William Hallet,2017-18,47,25,53.2%,22,46.8%,s,s,15,31.9%,22,46.8%,s,s,7,14.9%
+30Q078,30Q078,P.S./I.S. 78,2017-18,34,17,50.0%,17,50.0%,8,23.5%,s,s,s,s,s,s,19,55.9%
+30Q084,30Q084,P.S. 84 Steinway,2017-18,49,24,49.0%,25,51.0%,s,s,s,s,20,40.8%,s,s,22,44.9%
+30Q085,30Q085,P.S. 85 Judge Charles Vallone,2017-18,66,38,57.6%,28,42.4%,9,13.6%,s,s,20,30.3%,s,s,36,54.5%
+30Q092,30Q092,P.S. 92 Harry T. Stewart Sr.,2017-18,86,47,54.7%,39,45.3%,s,s,s,s,85,98.8%,s,s,s,s
+30Q111,30Q111,P.S. 111 Jacob Blackwell,2017-18,24,13,54.2%,11,45.8%,s,s,13,54.2%,11,45.8%,s,s,s,s
+30Q112,30Q112,P.S. 112 Dutch Kills,2017-18,54,30,55.6%,24,44.4%,26,48.1%,s,s,11,20.4%,s,s,10,18.5%
+30Q122,30Q122,P.S. 122 Mamie Fay,2017-18,36,19,52.8%,17,47.2%,s,s,s,s,10,27.8%,s,s,20,55.6%
+30Q127,30Q127,P.S. 127 Aerospace Science Magnet,2017-18,36,16,44.4%,20,55.6%,10,27.8%,s,s,23,63.9%,s,s,s,s
+30Q148,30Q148,P.S. 148 Queens,2017-18,75,41,54.7%,34,45.3%,16,21.3%,s,s,54,72.0%,s,s,s,s
+30Q150,30Q150,P.S. 150 Queens,2017-18,46,31,67.4%,15,32.6%,8,17.4%,s,s,22,47.8%,s,s,13,28.3%
+30Q151,30Q151,P.S. 151 Mary D. Carter,2017-18,32,14,43.8%,18,56.3%,8,25.0%,6,18.8%,13,40.6%,s,s,s,s
+30Q152,30Q152,P.S. 152 Gwendoline N. Alleyne School,2017-18,54,30,55.6%,24,44.4%,32,59.3%,s,s,21,38.9%,s,s,s,s
+30Q166,30Q166,P.S. 166 Henry Gradstein,2017-18,36,19,52.8%,17,47.2%,16,44.4%,s,s,9,25.0%,s,s,9,25.0%
+30Q171,30Q171,P.S. 171 Peter G. Van Alst,2017-18,51,29,56.9%,22,43.1%,13,25.5%,7,13.7%,26,51.0%,s,s,s,s
+30Q212,30Q212,P.S. 212,2017-18,38,18,47.4%,20,52.6%,10,26.3%,s,s,24,63.2%,s,s,s,s
+30Q222,30Q222,P.S. 222 - Fire Fighter Christopher A. Santora School,2017-18,40,18,45.0%,22,55.0%,7,17.5%,s,s,26,65.0%,s,s,s,s
+30Q228,30Q228,P.S. 228 Early Childhood Magnet School of the Arts,2017-18,37,23,62.2%,14,37.8%,s,s,s,s,34,91.9%,s,s,s,s
+30Q234,30Q234,P.S. 234,2017-18,36,16,44.4%,20,55.6%,8,22.2%,s,s,14,38.9%,s,s,12,33.3%
+30Q361,30Q361,The Woodside Community School,2017-18,52,29,55.8%,23,44.2%,21,40.4%,s,s,27,51.9%,s,s,s,s
+30Q389,Z021,District 30 Pre-K Center at 96-10 23rd Avenue,2017-18,107,56,52.3%,51,47.7%,18,16.8%,12,11.2%,72,67.3%,s,s,s,s
+30Q389,Z119,District 30 Pre-K Center at 27-35 Jackson Avenue,2017-18,11,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+30Q389,Z070,District 30 Pre-K Center at 3252 37th Street,2017-18,33,14,42.4%,19,57.6%,7,21.2%,s,s,12,36.4%,s,s,13,39.4%
+30Q389,Z058,District 30 Pre-K Center at 48-09 Center Boulevard,2017-18,91,52,57.1%,39,42.9%,40,44.0%,s,s,10,11.0%,s,s,38,41.8%
+30Q700,QAMK,Lolly's Early Childhood Center,2017-18,17,6,35.3%,11,64.7%,s,s,s,s,s,s,s,s,s,s
+30Q700,QAYX,Saint Joseph School,2017-18,88,40,45.5%,48,54.5%,s,s,s,s,34,38.6%,s,s,48,54.5%
+30Q700,QAMV,SCO Family of Services Jerome Hardeman ECE,2017-18,63,33,52.4%,30,47.6%,s,s,s,s,59,93.7%,s,s,s,s
+30Q700,QAYW,Saint Francis of Assisi School,2017-18,54,29,53.7%,25,46.3%,s,s,s,s,13,24.1%,s,s,38,70.4%
+30Q700,QBDD,Hellenic Orthodox Community of Astoria St. Demetrios,2017-18,49,29,59.2%,20,40.8%,s,s,s,s,15,30.6%,s,s,30,61.2%
+30Q700,QAMS,Kid Krazy,2017-18,18,8,44.4%,10,55.6%,s,s,s,s,s,s,s,s,13,72.2%
+30Q700,QBJR,Grace Day Care Center,2017-18,17,s,s,s,s,16,94.1%,s,s,s,s,s,s,s,s
+30Q700,QBDC,SCO Corona Early Childhood Education Center,2017-18,53,28,52.8%,25,47.2%,s,s,s,s,47,88.7%,s,s,s,s
+30Q700,QAYN,Jackson Children's Services,2017-18,49,24,49.0%,25,51.0%,s,s,s,s,44,89.8%,s,s,s,s
+30Q700,QAYT,QUEENSVIEW NURSERY SCHOOL & KINDERGARTEN,2017-18,16,9,56.3%,7,43.8%,s,s,s,s,s,s,s,s,9,56.3%
+30Q700,QAYP,Kid Krazy at 21st Avenue,2017-18,18,8,44.4%,10,55.6%,s,s,s,s,s,s,s,s,14,77.8%
+30Q700,QBMP,Sunnyside Friends,2017-18,19,12,63.2%,7,36.8%,s,s,s,s,11,57.9%,s,s,s,s
+30Q700,QAYH,All Children's Child Care (24th Street),2017-18,17,s,s,s,s,s,s,7,41.2%,s,s,s,s,s,s
+30Q700,QAYL,82nd Street Academics,2017-18,129,60,46.5%,69,53.5%,15,11.6%,s,s,90,69.8%,s,s,15,11.6%
+30Q700,QAYK,Christ Evangelical Lutheran Church,2017-18,15,6,40.0%,9,60.0%,9,60.0%,s,s,s,s,s,s,s,s
+30Q700,QBBL,"ABC Kiddieland, Inc.",2017-18,46,29,63.0%,17,37.0%,22,47.8%,s,s,23,50.0%,s,s,s,s
+30Q700,QALQ,ElBer Islamic School,2017-18,11,s,s,s,s,s,s,s,s,s,s,s,s,6,54.5%
+30Q700,QARE,PAL Woodside Early Learn Center,2017-18,22,11,50.0%,11,50.0%,s,s,s,s,13,59.1%,s,s,s,s
+30Q700,QBNN,New Milestone,2017-18,36,13,36.1%,23,63.9%,6,16.7%,s,s,13,36.1%,s,s,15,41.7%
+30Q700,QBPD,Children of America,2017-18,33,14,42.4%,19,57.6%,s,s,s,s,22,66.7%,s,s,s,s
+30Q700,QAEK,Razi School,2017-18,13,7,53.8%,6,46.2%,8,61.5%,s,s,s,s,s,s,s,s
+30Q700,QAKM,Mi Nuevo Mundo (31-05 51st Street),2017-18,40,19,47.5%,21,52.5%,s,s,s,s,39,97.5%,s,s,s,s
+30Q700,QBLD,ABC KIDDIELAND DAY CARE CENTER,2017-18,15,6,40.0%,9,60.0%,6,40.0%,s,s,9,60.0%,s,s,s,s
+30Q700,QAYV,RAINBOWLAND NURSERY SCHOOL,2017-18,14,8,57.1%,6,42.9%,10,71.4%,s,s,s,s,s,s,s,s
+30Q700,QBHW,Ravenswood,2017-18,18,9,50.0%,9,50.0%,s,s,7,38.9%,8,44.4%,s,s,s,s
+30Q700,QBJO,Al Madinah School,2017-18,14,7,50.0%,7,50.0%,s,s,s,s,s,s,s,s,7,50.0%
+30Q700,QAGP,St. Sebastian School,2017-18,69,31,44.9%,38,55.1%,24,34.8%,s,s,34,49.3%,s,s,10,14.5%
+30Q700,QBGO,Sunnyside Up,2017-18,30,17,56.7%,13,43.3%,s,s,s,s,17,56.7%,s,s,s,s
+30Q700,QAYG,All Children's Child Care (31st Avenue),2017-18,14,s,s,s,s,s,s,s,s,s,s,6,42.9%,s,s
+30Q700,QAZC,PAL Western Queens,2017-18,24,13,54.2%,11,45.8%,s,s,12,50.0%,11,45.8%,s,s,s,s
+30Q700,QBJQ,Garden School,2017-18,126,63,50.0%,63,50.0%,35,27.8%,s,s,67,53.2%,17,13.5%,s,s
+30Q700,QAEG,GRACE LUTHERAN SCHOOL,2017-18,36,19,52.8%,17,47.2%,s,s,s,s,7,19.4%,s,s,20,55.6%
+30Q700,QABL,"Garden School, Inc.",2017-18,61,34,55.7%,27,44.3%,18,29.5%,s,s,32,52.5%,s,s,6,9.8%
+30Q700,QAYU,RAINBOWLAND NURSERY SCHOOL,2017-18,36,22,61.1%,14,38.9%,13,36.1%,s,s,16,44.4%,s,s,s,s
+30Q700,QASR,"A CHILD'S PLACE TOO, INC.",2017-18,53,28,52.8%,25,47.2%,s,s,7,13.2%,43,81.1%,s,s,s,s
+30Q700,QBGR,Mi Nuevo Mundo,2017-18,33,20,60.6%,13,39.4%,s,s,s,s,30,90.9%,s,s,s,s
+30Q700,QBBM,Mushroom House Day Care LLC,2017-18,18,8,44.4%,10,55.6%,s,s,s,s,8,44.4%,s,s,8,44.4%
+30Q700,QBJP,Magic Beans,2017-18,37,15,40.5%,22,59.5%,s,s,s,s,7,18.9%,6,16.2%,21,56.8%
+30Q700,QAYJ,Brite Adventure Center (58th Street),2017-18,24,12,50.0%,12,50.0%,10,41.7%,s,s,8,33.3%,s,s,s,s
+30Q700,QAMB,Jackson Heights Learning Center Annex,2017-18,17,7,41.2%,10,58.8%,s,s,s,s,s,s,s,s,13,76.5%
+30Q700,QBHX,Adventureland Child Care,2017-18,18,11,61.1%,7,38.9%,s,s,s,s,8,44.4%,s,s,7,38.9%
+30Q700,QAPW,Queensbridge ECDC,2017-18,62,30,48.4%,32,51.6%,8,12.9%,s,s,43,69.4%,s,s,s,s
+30Q700,QBLF,Discovery Lane Day Care Center,2017-18,23,11,47.8%,12,52.2%,s,s,s,s,8,34.8%,s,s,8,34.8%
+30Q700,QANT,Child Center of NY 1,2017-18,37,24,64.9%,13,35.1%,16,43.2%,s,s,19,51.4%,s,s,s,s
+30Q700,QBOX,Bright Start Child Learning Center,2017-18,18,9,50.0%,9,50.0%,s,s,s,s,s,s,s,s,9,50.0%
+30Q700,QATO,Long Island City YMCA,2017-18,40,17,42.5%,23,57.5%,10,25.0%,s,s,22,55.0%,s,s,s,s
+30Q700,QBHR,Kathy's Day Care,2017-18,10,s,s,s,s,s,s,s,s,7,70.0%,s,s,s,s
+30Q700,QAYZ,Atonement Preschool,2017-18,27,12,44.4%,15,55.6%,11,40.7%,s,s,15,55.6%,s,s,s,s
+30Q700,QBDX,Milton's Daycare,2017-18,10,s,s,s,s,s,s,s,s,7,70.0%,s,s,s,s
+30Q700,QATD,Little Friends School Sunnyside,2017-18,49,22,44.9%,27,55.1%,s,s,s,s,15,30.6%,12,24.5%,16,32.7%
+30Q700,QBHL,My Little Footprints Daycare Corp.,2017-18,12,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+30Q700,QACC,Immaculate Conception School,2017-18,72,40,55.6%,32,44.4%,12,16.7%,s,s,18,25.0%,s,s,32,44.4%
+30Q700,QBCP,Holy Land ECC,2017-18,12,s,s,s,s,6,50.0%,s,s,s,s,s,s,s,s
+31R001,31R001,P.S. 1 Tottenville,2017-18,35,25,71.4%,10,28.6%,s,s,s,s,s,s,s,s,31,88.6%
+31R003,31R003,P.S. 3 The Margaret Gioiosa School,2017-18,35,19,54.3%,16,45.7%,s,s,s,s,9,25.7%,s,s,23,65.7%
+31R004,31R004,P.S. 4 Maurice Wollin,2017-18,61,27,44.3%,34,55.7%,6,9.8%,s,s,8,13.1%,s,s,44,72.1%
+31R006,31R006,P.S. 6 Corporal Allan F. Kivlehan School,2017-18,43,21,48.8%,22,51.2%,s,s,s,s,16,37.2%,s,s,26,60.5%
+31R008,31R008,P.S. 8 Shirlee Solomon,2017-18,17,10,58.8%,7,41.2%,s,s,s,s,s,s,s,s,10,58.8%
+31R009,31R009,Naples Street Elementary School,2017-18,36,19,52.8%,17,47.2%,7,19.4%,s,s,7,19.4%,s,s,21,58.3%
+31R011,31R011,P.S. 11 Thomas Dongan School,2017-18,33,18,54.5%,15,45.5%,6,18.2%,s,s,15,45.5%,s,s,10,30.3%
+31R013,31R013,P.S. 13 M. L. Lindemeyer,2017-18,18,7,38.9%,11,61.1%,s,s,s,s,7,38.9%,s,s,6,33.3%
+31R016,31R016,P.S. 16 John J. Driscoll,2017-18,51,30,58.8%,21,41.2%,6,11.8%,18,35.3%,24,47.1%,s,s,s,s
+31R018,31R018,P.S. 18 John G. Whittier,2017-18,36,15,41.7%,21,58.3%,s,s,17,47.2%,16,44.4%,s,s,s,s
+31R019,31R019,P.S. 19 The Curtis School,2017-18,36,19,52.8%,17,47.2%,s,s,s,s,28,77.8%,s,s,s,s
+31R022,31R022,P.S. 22 Graniteville,2017-18,18,9,50.0%,9,50.0%,s,s,s,s,11,61.1%,s,s,s,s
+31R023,31R023,P.S. 23 Richmondtown,2017-18,35,12,34.3%,23,65.7%,s,s,s,s,s,s,s,s,28,80.0%
+31R026,31R026,P.S. 26 The Carteret School,2017-18,18,9,50.0%,9,50.0%,s,s,s,s,s,s,s,s,12,66.7%
+31R029,31R029,P.S. 29 Bardwell,2017-18,16,9,56.3%,7,43.8%,s,s,s,s,s,s,s,s,8,50.0%
+31R030,31R030,P.S. 30 Westerleigh,2017-18,18,12,66.7%,6,33.3%,s,s,s,s,7,38.9%,s,s,8,44.4%
+31R031,31R031,P.S. 31 William T. Davis,2017-18,26,12,46.2%,14,53.8%,s,s,12,46.2%,10,38.5%,s,s,s,s
+31R032,31R032,P.S. 32 The Gifford School,2017-18,54,32,59.3%,22,40.7%,7,13.0%,s,s,s,s,s,s,42,77.8%
+31R036,31R036,P.S. 36 J. C. Drumgoole,2017-18,73,42,57.5%,31,42.5%,s,s,s,s,14,19.2%,s,s,55,75.3%
+31R038,31R038,P.S. 38 George Cromwell,2017-18,36,21,58.3%,15,41.7%,7,19.4%,s,s,10,27.8%,s,s,16,44.4%
+31R041,31R041,The Stephanie A. Vierno School,2017-18,36,18,50.0%,18,50.0%,s,s,s,s,13,36.1%,s,s,15,41.7%
+31R042,31R042,P.S. 42 Eltingville,2017-18,54,22,40.7%,32,59.3%,s,s,s,s,s,s,s,s,45,83.3%
+31R044,31R044,P.S. 44 Thomas C. Brown,2017-18,69,37,53.6%,32,46.4%,s,s,21,30.4%,38,55.1%,s,s,s,s
+31R045,31R045,P.S. 45 John Tyler,2017-18,34,18,52.9%,16,47.1%,s,s,s,s,19,55.9%,s,s,7,20.6%
+31R046,31R046,P.S. 46 Albert V. Maniscalco,2017-18,17,9,52.9%,8,47.1%,s,s,s,s,7,41.2%,s,s,7,41.2%
+31R048,31R048,P.S. 48 William G. Wilcox,2017-18,18,7,38.9%,11,61.1%,s,s,s,s,s,s,s,s,10,55.6%
+31R050,31R050,P.S. 50 Frank Hankinson,2017-18,36,18,50.0%,18,50.0%,s,s,s,s,6,16.7%,s,s,25,69.4%
+31R052,31R052,P.S. 52 John C. Thompson,2017-18,58,28,48.3%,30,51.7%,9,15.5%,s,s,8,13.8%,s,s,37,63.8%
+31R053,31R053,P.S. 53 - The Barbara Esselborn School,2017-18,82,34,41.5%,48,58.5%,6,7.3%,s,s,17,20.7%,s,s,57,69.5%
+31R054,31R054,P.S. 54 Charles W. Leng,2017-18,69,36,52.2%,33,47.8%,24,34.8%,s,s,19,27.5%,s,s,23,33.3%
+31R055,31R055,P.S. 55 Henry M. Boehm,2017-18,36,17,47.2%,19,52.8%,s,s,s,s,6,16.7%,s,s,29,80.6%
+31R056,31R056,P.S. 56 The Louis Desario School,2017-18,62,33,53.2%,29,46.8%,s,s,s,s,6,9.7%,s,s,52,83.9%
+31R057,31R057,P.S. 57 Hubert H. Humphrey,2017-18,71,40,56.3%,31,43.7%,s,s,38,53.5%,26,36.6%,s,s,s,s
+31R058,31R058,Space Shuttle Columbia School,2017-18,54,30,55.6%,24,44.4%,s,s,s,s,15,27.8%,s,s,29,53.7%
+31R059,31R059,The Harbor View School,2017-18,35,13,37.1%,22,62.9%,s,s,7,20.0%,18,51.4%,s,s,6,17.1%
+31R060,31R060,P.S. 60 Alice Austen,2017-18,35,19,54.3%,16,45.7%,s,s,s,s,10,28.6%,s,s,20,57.1%
+31R062,31R062,The Kathleen Grimm School for Leadership and Sustainability,2017-18,18,10,55.6%,8,44.4%,s,s,s,s,s,s,s,s,16,88.9%
+31R065,31R065,P.S. 65 The Academy of Innovative Learning,2017-18,36,13,36.1%,23,63.9%,s,s,s,s,20,55.6%,s,s,9,25.0%
+31R066,Z026,The Richmond Hill Pre-K Center at 1 Teleport Drive,2017-18,81,41,50.6%,40,49.4%,8,9.9%,s,s,30,37.0%,s,s,35,43.2%
+31R066,Z027,The Richmond Hill Pre-K Center at 120 Stuyvesant Place,2017-18,16,s,s,s,s,s,s,7,43.8%,8,50.0%,s,s,s,s
+31R066,Z025,The Richmond Hill Pre-K Center at 1625 Forest Avenue,2017-18,80,35,43.8%,45,56.3%,s,s,17,21.3%,43,53.8%,s,s,11,13.8%
+31R068,31R068,Port Richmond School for Visionary Learning,2017-18,36,18,50.0%,18,50.0%,s,s,9,25.0%,19,52.8%,s,s,6,16.7%
+31R069,31R069,P.S. 69 Daniel D. Tompkins,2017-18,18,6,33.3%,12,66.7%,s,s,s,s,s,s,s,s,14,77.8%
+31R078,31R078,P.S. 78,2017-18,35,16,45.7%,19,54.3%,s,s,22,62.9%,9,25.7%,s,s,s,s
+31R080,31R080,The Michael J. Petrides School,2017-18,36,18,50.0%,18,50.0%,s,s,s,s,12,33.3%,s,s,17,47.2%
+31R700,RAFO,Jewish Community Center Of Staten Island,2017-18,44,22,50.0%,22,50.0%,s,s,s,s,7,15.9%,s,s,27,61.4%
+31R700,RACL,The Gingerbread Learning Center,2017-18,11,s,s,s,s,s,s,s,s,s,s,s,s,6,54.5%
+31R700,RAAA,Academy of Saint Dorothy,2017-18,18,9,50.0%,9,50.0%,s,s,s,s,s,s,s,s,9,50.0%
+31R700,RAEX,HOLY ROSARY SCHOOL,2017-18,67,33,49.3%,34,50.7%,10,14.9%,s,s,21,31.3%,s,s,30,44.8%
+31R700,RABP,SAINT JOHN'S EV PRESCHOOL,2017-18,35,18,51.4%,17,48.6%,s,s,s,s,12,34.3%,s,s,14,40.0%
+31R700,RAHD,J & J Academy,2017-18,36,20,55.6%,16,44.4%,12,33.3%,s,s,s,s,s,s,14,38.9%
+31R700,RAGR,Rabbi Jacob Joseph School,2017-18,31,16,51.6%,15,48.4%,s,s,s,s,s,s,s,s,29,93.5%
+31R700,RACE,St. Rita School,2017-18,36,20,55.6%,16,44.4%,11,30.6%,s,s,8,22.2%,s,s,14,38.9%
+31R700,RAAN,Gateway Academy UPK,2017-18,31,18,58.1%,13,41.9%,s,s,s,s,12,38.7%,s,s,16,51.6%
+31R700,RAGG,SI YMCA NURSERY - SOUTH,2017-18,72,35,48.6%,37,51.4%,s,s,s,s,15,20.8%,s,s,52,72.2%
+31R700,RAGF,SI YMCA NURSERY - NORTH,2017-18,36,20,55.6%,16,44.4%,7,19.4%,s,s,6,16.7%,s,s,23,63.9%
+31R700,RAAH,COMMUNITY RESOURCES PRESCHOOL,2017-18,18,9,50.0%,9,50.0%,s,s,s,s,s,s,s,s,12,66.7%
+31R700,RADP,Castleton Hill Moravian Preschool,2017-18,36,16,44.4%,20,55.6%,s,s,s,s,10,27.8%,s,s,25,69.4%
+31R700,RAGJ,Staten island Mental Health Society Head Start,2017-18,32,20,62.5%,12,37.5%,s,s,11,34.4%,18,56.3%,s,s,s,s
+31R700,RABD,Our Lady Queen of Peace School,2017-18,19,7,36.8%,12,63.2%,s,s,s,s,s,s,s,s,14,73.7%
+31R700,RADN,FOCH,2017-18,19,6,31.6%,13,68.4%,s,s,10,52.6%,7,36.8%,s,s,s,s
+31R700,RAFS,MISSION OF THE IMMACULATE VIRGIN,2017-18,27,12,44.4%,15,55.6%,s,s,s,s,s,s,s,s,22,81.5%
+31R700,RAIX,Blessed Sacrament Early Childhood Academy,2017-18,50,30,60.0%,20,40.0%,s,s,s,s,13,26.0%,s,s,30,60.0%
+31R700,RAFK,CHILDREN'S HARBOR MONTESSORI SCHOOL,2017-18,19,10,52.6%,9,47.4%,s,s,s,s,s,s,s,s,10,52.6%
+31R700,RABJ,Sacred Heart School,2017-18,52,25,48.1%,27,51.9%,s,s,14,26.9%,18,34.6%,s,s,12,23.1%
+31R700,RAFV,Small World Preschool,2017-18,21,10,47.6%,11,52.4%,s,s,s,s,s,s,s,s,16,76.2%
+31R700,RAGD,Yeled V'Yalda / Silver Lake Head Start II,2017-18,51,25,49.0%,26,51.0%,8,15.7%,10,19.6%,29,56.9%,s,s,s,s
+31R700,RAFU,STEPPING STONES PRESCHOOL,2017-18,80,47,58.7%,33,41.2%,s,s,s,s,s,s,s,s,77,96.2%
+31R700,RAFG,FRIENDS Preschool,2017-18,14,s,s,s,s,s,s,s,s,s,s,s,s,11,78.6%
+31R700,RAHZ,"Hylan Day Care, Inc.",2017-18,25,13,52.0%,12,48.0%,6,24.0%,s,s,s,s,s,s,12,48.0%
+31R700,RAFZ,The College of Staten Island - The Children's Center,2017-18,20,12,60.0%,8,40.0%,s,s,s,s,s,s,s,s,9,45.0%
+31R700,RAEL,"Smiles Around Us II, Inc.",2017-18,36,18,50.0%,18,50.0%,s,s,s,s,s,s,s,s,25,69.4%
+31R700,RAGC,YELED V'YALDA SILVER LAKE I Head Start,2017-18,26,17,65.4%,9,34.6%,s,s,s,s,22,84.6%,s,s,s,s
+31R700,RAGK,Staten Island Head Start,2017-18,58,25,43.1%,33,56.9%,s,s,29,50.0%,21,36.2%,s,s,s,s
+31R700,RAEY,Saint Adalbert's School,2017-18,40,22,55.0%,18,45.0%,s,s,10,25.0%,23,57.5%,s,s,s,s
+31R700,RACT,Staten Island Mental Health Society III,2017-18,44,21,47.7%,23,52.3%,s,s,15,34.1%,27,61.4%,s,s,s,s
+31R700,RAEM,Sisters of St. John the Baptist Inc.,2017-18,38,19,50.0%,19,50.0%,7,18.4%,s,s,8,21.1%,s,s,20,52.6%
+31R700,RAGH,Richmond Hill Children's Center,2017-18,36,17,47.2%,19,52.8%,9,25.0%,s,s,6,16.7%,s,s,19,52.8%
+31R700,RABM,Saint Charles School,2017-18,57,35,61.4%,22,38.6%,s,s,s,s,11,19.3%,s,s,38,66.7%
+31R700,RAFR,MINI WORLD PRESCHOOL,2017-18,15,s,s,s,s,s,s,s,s,s,s,s,s,9,60.0%
+31R700,RAFP,Jewish Community Center Of Staten Island,2017-18,25,13,52.0%,12,48.0%,7,28.0%,s,s,s,s,s,s,14,56.0%
+31R700,RAEW,"4 ANGELS DAY CARE, INC.",2017-18,13,7,53.8%,6,46.2%,s,s,s,s,7,53.8%,s,s,s,s
+31R700,RACS,Children's Aid Society Richmond Early Learning Center,2017-18,67,38,56.7%,29,43.3%,s,s,31,46.3%,30,44.8%,s,s,s,s
+31R700,RADW,Staten Island Preschool,2017-18,18,10,55.6%,8,44.4%,s,s,s,s,s,s,s,s,11,61.1%
+31R700,RAFJ,Child Study Center of New York,2017-18,29,15,51.7%,14,48.3%,6,20.7%,s,s,22,75.9%,s,s,s,s
+31R700,RADL,"Busy Beach Day Care, Inc.",2017-18,8,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+31R700,RADB,Little LAMB Preschool,2017-18,11,s,s,s,s,s,s,s,s,11,100.0%,s,s,s,s
+31R700,RAIJ,Hugs & kiddies,2017-18,15,6,40.0%,9,60.0%,s,s,s,s,s,s,s,s,12,80.0%
+31R700,RABC,Our Lady of Mount Carmel St. Benedicta,2017-18,20,9,45.0%,11,55.0%,s,s,s,s,14,70.0%,s,s,s,s
+31R700,RABA,Our Lady Help of Christians,2017-18,18,s,s,s,s,s,s,s,s,s,s,s,s,18,100.0%
+31R700,RAEH,Jewish Community Center Of Staten Island,2017-18,13,7,53.8%,6,46.2%,s,s,s,s,s,s,s,s,13,100.0%
+31R700,RAHW,Staten Island Children's Academy,2017-18,60,33,55.0%,27,45.0%,s,s,s,s,8,13.3%,s,s,44,73.3%
+31R700,RAFF,Big Birds Playhouse Corp.,2017-18,72,28,38.9%,44,61.1%,13,18.1%,s,s,14,19.4%,s,s,35,48.6%
+31R700,RAIT,Ivy League Early Learning Academy,2017-18,36,20,55.6%,16,44.4%,6,16.7%,s,s,8,22.2%,s,s,15,41.7%
+31R700,RAIM,Prodigy Preschool/ Staten Island Skating Pavilion,2017-18,15,s,s,s,s,s,s,s,s,s,s,s,s,11,73.3%
+31R700,RADK,Bumble Bees R Us,2017-18,18,9,50.0%,9,50.0%,s,s,s,s,8,44.4%,s,s,s,s
+31R700,RAHA,Lemon Tree,2017-18,32,15,46.9%,17,53.1%,6,18.8%,s,s,11,34.4%,s,s,12,37.5%
+31R700,RAGM,Staten Island Head Start,2017-18,16,7,43.8%,9,56.3%,s,s,s,s,12,75.0%,s,s,s,s
+31R700,RACH,St. Teresa of the Infant Jesus,2017-18,39,20,51.3%,19,48.7%,s,s,s,s,10,25.6%,s,s,24,61.5%
+31R700,RABL,St. Ann School,2017-18,35,20,57.1%,15,42.9%,s,s,s,s,11,31.4%,10,28.6%,10,28.6%
+31R700,RAFN,"High Hopes of Staten Island, Inc.",2017-18,20,7,35.0%,13,65.0%,s,s,s,s,s,s,s,s,15,75.0%
+31R700,RAIY,The Playgroup Experience,2017-18,13,s,s,s,s,s,s,s,s,s,s,s,s,8,61.5%
+31R700,RABZ,St. Patrick's,2017-18,35,15,42.9%,20,57.1%,s,s,s,s,s,s,s,s,33,94.3%
+31R700,RAHC,CBI Academy Preschool,2017-18,6,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+31R700,RAGA,Wonder Years Preschool,2017-18,47,27,57.4%,20,42.6%,s,s,s,s,11,23.4%,s,s,32,68.1%
+31R700,RACC,Saint Peter - Saint Paul School,2017-18,46,29,63.0%,17,37.0%,s,s,26,56.5%,17,37.0%,s,s,s,s
+31R700,RACX,Jewish Community Center Of Staten Island,2017-18,38,18,47.4%,20,52.6%,s,s,10,26.3%,14,36.8%,s,s,10,26.3%
+31R700,RAJH,"The Gingerbread Learning Center, Inc.",2017-18,9,s,s,s,s,s,s,s,s,s,s,s,s,s,s
+31R700,RAFW,South Shore Toddler Academy,2017-18,15,6,40.0%,9,60.0%,s,s,s,s,s,s,s,s,10,66.7%
+31R700,RABN,SAINT CHRISTOPHER SCHOOL,2017-18,38,26,68.4%,12,31.6%,s,s,s,s,11,28.9%,s,s,23,60.5%
+31R700,RAJA,Alphabet Academy,2017-18,36,15,41.7%,21,58.3%,s,s,s,s,s,s,s,s,34,94.4%
+31R861,31R861,Staten Island School of Civic Leadership,2017-18,18,12,66.7%,6,33.3%,s,s,s,s,8,44.4%,s,s,6,33.3%
+32K045,32K045,P.S./I.S. 45 Horace E. Greene,2017-18,41,20,48.8%,21,51.2%,s,s,17,41.5%,20,48.8%,s,s,s,s
+32K075,32K075,P.S. 75 Mayda Cortiella,2017-18,47,19,40.4%,28,59.6%,s,s,s,s,41,87.2%,s,s,s,s
+32K106,32K106,P.S. 106 Edward Everett Hale,2017-18,23,9,39.1%,14,60.9%,s,s,s,s,19,82.6%,s,s,s,s
+32K123,32K123,P.S. 123 Suydam,2017-18,35,18,51.4%,17,48.6%,s,s,s,s,28,80.0%,s,s,s,s
+32K145,32K145,P.S. 145 Andrew Jackson,2017-18,46,22,47.8%,24,52.2%,s,s,s,s,42,91.3%,s,s,s,s
+32K151,32K151,P.S. 151 Lyndon B. Johnson,2017-18,30,13,43.3%,17,56.7%,s,s,s,s,27,90.0%,s,s,s,s
+32K274,32K274,P.S. 274 Kosciusko,2017-18,31,17,54.8%,14,45.2%,s,s,s,s,24,77.4%,s,s,s,s
+32K299,32K299,P.S. 299 Thomas Warren Field,2017-18,19,10,52.6%,9,47.4%,s,s,7,36.8%,9,47.4%,s,s,s,s
+32K377,32K377,P.S. 377 Alejandrina B. De Gautier,2017-18,20,7,35.0%,13,65.0%,s,s,s,s,16,80.0%,s,s,s,s
+32K384,32K384,P.S./I.S. 384 Frances E. Carter,2017-18,23,13,56.5%,10,43.5%,s,s,s,s,20,87.0%,s,s,s,s
+32K700,KAZT,Bushwick United HDFC 1,2017-18,67,32,47.8%,35,52.2%,s,s,6,9.0%,59,88.1%,s,s,s,s
+32K700,KAJT,Saint Frances Cabrini Catholic Academy,2017-18,40,22,55.0%,18,45.0%,s,s,s,s,38,95.0%,s,s,s,s
+32K700,KBEB,New Life Child Development Center 4,2017-18,46,28,60.9%,18,39.1%,s,s,s,s,42,91.3%,s,s,s,s
+32K700,KBSA,Bushwick United HDFC 2,2017-18,27,11,40.7%,16,59.3%,s,s,s,s,24,88.9%,s,s,s,s
+32K700,KBLP,Grand Street Settlement Dual #3,2017-18,32,16,50.0%,16,50.0%,s,s,s,s,30,93.8%,s,s,s,s
+32K700,KBMB,Audrey Johnson DCC,2017-18,53,27,50.9%,26,49.1%,s,s,s,s,50,94.3%,s,s,s,s
+32K700,KBRA,Bushwick United HDFC 7,2017-18,31,16,51.6%,15,48.4%,s,s,s,s,28,90.3%,s,s,s,s
+32K700,KBRZ,Bushwick United HDFC 3,2017-18,16,8,50.0%,8,50.0%,s,s,s,s,13,81.3%,s,s,s,s
+32K700,KBKE,LSSMNY: Early LIFE Children's Center 9,2017-18,32,16,50.0%,16,50.0%,s,s,12,37.5%,20,62.5%,s,s,s,s
+32K700,KBXL,ACE Integration Head Start,2017-18,26,9,34.6%,17,65.4%,s,s,s,s,20,76.9%,s,s,s,s
+32K700,KBGB,Traditional Educational Center,2017-18,29,16,55.2%,13,44.8%,s,s,21,72.4%,8,27.6%,s,s,s,s
+32K700,KCIL,Urban Strategies Child Care,2017-18,10,s,s,s,s,s,s,s,s,6,60.0%,s,s,s,s
+32K700,KBES,Bushwick United HDFC 6,2017-18,38,22,57.9%,16,42.1%,s,s,s,s,37,97.4%,s,s,s,s
+32K700,KBWD,Child Prodigy Learning Inc.,2017-18,14,s,s,s,s,s,s,s,s,8,57.1%,s,s,s,s
+32K700,KBGY,"Kreative Kare Day Care Center, Inc.",2017-18,20,14,70.0%,6,30.0%,s,s,s,s,16,80.0%,s,s,s,s
+32K700,KCEC,Kreative Kare Day Care Center,2017-18,18,10,55.6%,8,44.4%,s,s,s,s,13,72.2%,s,s,s,s
+32K700,KBVB,New Life Child Development Center 2,2017-18,52,33,63.5%,19,36.5%,s,s,s,s,50,96.2%,s,s,s,s
+32K700,KBSD,Salvation Army - Bushwick,2017-18,16,8,50.0%,8,50.0%,s,s,11,68.8%,s,s,s,s,s,s
+32K700,KAJI,St. Brigid Catholic Academy,2017-18,19,9,47.4%,10,52.6%,s,s,s,s,13,68.4%,s,s,s,s
+32K700,KBGU,New Life Child Development Center 1,2017-18,56,31,55.4%,25,44.6%,s,s,s,s,49,87.5%,s,s,s,s
+32K700,KBSC,New Life Child Development Center 3,2017-18,34,23,67.6%,11,32.4%,s,s,s,s,32,94.1%,s,s,s,s
+32K700,KBOS,John Coker DCC,2017-18,21,10,47.6%,11,52.4%,s,s,9,42.9%,11,52.4%,s,s,s,s

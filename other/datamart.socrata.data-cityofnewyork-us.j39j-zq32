@@ -1,0 +1,1132 @@
+DBN,District,School Name,Is Org Split-Sited,Building ID(s),Transfer School,Total Enrollment,Grades Pk-5 Enrollment,Grades 6-8 Enrollment,Grades 9-12 Enrollment,% Asian,% Black,% Hispanic,% Multiple Race Categories Not Represented,% White,% Swd,% Ell,% Poverty,ELA # Tested,ELA # Proficient (L3&4),ELA % Proficient (L3&4),Math # Tested,Math # Proficient (L3&4),Math % Proficient (L3&4),Total Grad Cohort,% 4-Year August Graduates,% 6-Year Graduates
+01M015,01,P.S. 015 Roberto Clemente,NO,M015,No,178,178,0,0,7.9%,28.7%,59.0%,2.2%,2.2%,27.0%,6.7%,100.0%,67,24,35.8%,69,31,44.9%,No Data,No Data,No Data
+01M019,01,P.S. 019 Asher Levy,NO,M019,No,271,271,0,0,8.9%,18.8%,66.4%,0.4%,5.5%,31.0%,3.3%,76.4%,87,45,51.7%,84,43,51.2%,No Data,No Data,No Data
+01M063,01,The STAR Academy - P.S.63,NO,M063,No,200,200,0,0,4.0%,18.5%,64.5%,2.5%,10.5%,34.5%,3.0%,83.5%,63,39,61.9%,65,28,43.1%,No Data,No Data,No Data
+01M064,01,P.S. 064 Robert Simon,NO,M064,No,247,247,0,0,5.3%,19.4%,67.6%,1.2%,6.5%,31.2%,4.0%,96.4%,99,29,29.3%,101,33,32.7%,No Data,No Data,No Data
+01M142,01,P.S. 142 Amalia Castro,NO,M142,No,356,356,0,0,4.8%,11.8%,80.1%,2.2%,1.1%,32.0%,9.0%,97.8%,128,40,31.3%,127,35,27.6%,No Data,No Data,No Data
+01M188,01,P.S. 188 The Island School,NO,M188,No,445,283,162,0,2.2%,31.7%,62.5%,0.2%,3.4%,30.6%,14.4%,100.0%,273,41,15.0%,278,58,20.9%,No Data,No Data,No Data
+01M292,01,Henry Street School for International Studies,NO,M056,No,140,0,0,140,15.0%,24.3%,55.0%,0.7%,5.0%,27.1%,15.7%,90.7%,No Data,No Data,No Data,No Data,No Data,No Data,44,54.5%,55.6%
+01M301,01,"Technology, Arts, and Sciences Studio",NO,M019,No,127,0,127,0,8.7%,32.3%,51.2%,3.1%,4.7%,44.9%,4.7%,75.6%,109,35,32.1%,107,14,13.1%,No Data,No Data,No Data
+01M315,01,The East Village Community School,NO,M061,No,315,315,0,0,10.2%,5.4%,19.4%,6.7%,58.4%,17.8%,1.3%,21.9%,105,58,55.2%,106,63,59.4%,No Data,No Data,No Data
+01M332,01,University Neighborhood Middle School,NO,M056,No,234,0,234,0,9.4%,28.6%,56.8%,0.4%,4.7%,46.2%,9.8%,87.6%,175,40,22.9%,176,12,6.8%,No Data,No Data,No Data
+01M361,01,The Children's Workshop School,NO,M061,No,295,295,0,0,10.2%,9.8%,38.6%,4.7%,36.6%,21.7%,4.1%,48.1%,85,52,61.2%,83,43,51.8%,No Data,No Data,No Data
+01M363,01,Neighborhood School,NO,M063,No,304,304,0,0,4.9%,10.9%,34.5%,3.0%,46.7%,21.7%,3.3%,39.8%,28,12,42.9%,29,10,34.5%,No Data,No Data,No Data
+01M364,01,Earth School,NO,M064,No,331,331,0,0,6.0%,13.0%,34.1%,8.5%,38.4%,23.9%,5.1%,49.5%,39,20,51.3%,38,13,34.2%,No Data,No Data,No Data
+01M378,01,School for Global Leaders,NO,M025,No,283,0,283,0,14.5%,27.2%,55.1%,1.4%,1.8%,36.4%,10.2%,66.1%,230,56,24.3%,233,47,20.2%,No Data,No Data,No Data
+01M450,01,East Side Community School,NO,M060,No,699,0,306,393,11.2%,18.0%,54.5%,3.0%,13.3%,28.2%,0.6%,67.0%,233,114,48.9%,210,79,37.6%,90,84.4%,89.7%
+01M458,01,Forsyth Satellite Academy,NO,M510,Yes,212,0,0,212,0.5%,35.8%,59.9%,0.5%,3.3%,21.2%,5.2%,67.5%,No Data,No Data,No Data,No Data,No Data,No Data,82,15.9%,31.8%
+01M509,01,Marta Valle High School,NO,M025,No,204,0,0,204,2.9%,35.3%,59.3%,0.5%,2.0%,29.4%,8.8%,90.7%,No Data,No Data,No Data,No Data,No Data,No Data,74,59.5%,69.1%
+01M515,01,Lower East Side Preparatory High School,NO,M025,Yes,559,0,0,559,62.1%,10.7%,24.9%,0.5%,1.8%,5.4%,69.8%,100.0%,No Data,No Data,No Data,No Data,No Data,No Data,248,36.7%,35.6%
+01M650,01,Cascades High School,NO,M510,Yes,239,0,0,239,3.8%,34.3%,54.8%,1.7%,5.4%,11.7%,2.5%,77.0%,No Data,No Data,No Data,No Data,No Data,No Data,112,33.0%,68.2%
+01M839,01,Tompkins Square Middle School,NO,M064,No,374,0,374,0,26.5%,16.0%,35.3%,2.9%,19.3%,27.0%,3.7%,66.3%,253,143,56.5%,237,104,43.9%,No Data,No Data,No Data
+02M033,02,P.S. 033 Chelsea Prep,NO,M033,No,622,622,0,0,22.8%,14.3%,28.6%,8.7%,25.6%,13.3%,3.2%,45.7%,284,195,68.7%,285,192,67.4%,No Data,No Data,No Data
+02M040,02,P.S. 040 Augustus Saint-Gaudens,NO,M040,No,650,650,0,0,10.8%,2.8%,14.3%,10.3%,61.8%,16.6%,3.8%,8.3%,279,241,86.4%,287,253,88.2%,No Data,No Data,No Data
+02M047,02,47 The American Sign Language and English Secondary School,NO,M047,No,179,0,0,179,1.7%,30.7%,61.5%,1.7%,4.5%,25.1%,5.0%,89.4%,No Data,No Data,No Data,No Data,No Data,No Data,58,84.5%,92.1%
+02M051,02,P.S. 051 Elias Howe,NO,M338,No,389,389,0,0,20.8%,12.1%,45.5%,1.5%,20.1%,22.1%,9.8%,100.0%,144,71,49.3%,150,83,55.3%,No Data,No Data,No Data
+02M059,02,P.S. 059 Beekman Hill International,NO,M488,No,576,576,0,0,16.5%,1.9%,11.5%,10.2%,59.9%,18.1%,3.8%,9.5%,245,191,78.0%,249,204,81.9%,No Data,No Data,No Data
+02M077,02,P.S. 77 Lower Lab School,NO,M198,No,359,359,0,0,30.1%,0.3%,4.7%,10.6%,54.3%,11.1%,0.3%,4.2%,181,180,99.4%,181,178,98.3%,No Data,No Data,No Data
+02M089,02,P.S. 89,NO,M089,No,412,412,0,0,16.3%,2.2%,16.0%,4.6%,60.9%,16.0%,3.9%,2.9%,176,140,79.5%,176,150,85.2%,No Data,No Data,No Data
+02M114,02,East Side Middle School,NO,M114,No,443,0,443,0,14.0%,3.2%,9.0%,8.6%,65.2%,15.6%,0.0%,7.0%,437,399,91.3%,437,405,92.7%,No Data,No Data,No Data
+02M131,02,M.S. 131,NO,M131,No,457,0,457,0,83.6%,5.7%,9.4%,0.7%,0.7%,23.4%,34.4%,93.4%,386,136,35.2%,415,231,55.7%,No Data,No Data,No Data
+02M135,02,The Urban Assembly School for Emergency Management,NO,M520,No,315,0,0,315,5.7%,26.7%,61.3%,1.6%,4.8%,19.0%,6.7%,100.0%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+02M139,02,Stephen T. Mather Building Arts & Craftsmanship HS,NO,M625,No,378,0,0,378,2.6%,26.2%,62.2%,1.6%,7.4%,27.0%,6.9%,81.0%,No Data,No Data,No Data,No Data,No Data,No Data,s,s,s
+02M158,02,P.S. 158 Bayard Taylor,NO,M158,No,781,781,0,0,12.7%,2.3%,7.7%,5.1%,72.2%,15.2%,5.5%,10.5%,299,256,85.6%,305,253,83.0%,No Data,No Data,No Data
+02M167,02,J.H.S. 167 Robert F. Wagner,NO,M167,No,1357,0,1357,0,23.3%,8.1%,17.3%,4.3%,47.0%,15.4%,3.8%,33.3%,1263,915,72.4%,1173,843,71.9%,No Data,No Data,No Data
+02M177,02,Yorkville East Middle School,NO,M158,No,213,0,213,0,9.9%,10.3%,26.8%,5.2%,47.9%,26.8%,1.4%,28.2%,196,126,64.3%,172,102,59.3%,No Data,No Data,No Data
+02M198,02,P.S. 198 Isador E. Ida Straus,NO,M198,No,468,468,0,0,20.3%,9.2%,22.9%,2.4%,45.3%,20.3%,6.4%,40.0%,183,111,60.7%,186,128,68.8%,No Data,No Data,No Data
+02M212,02,P.S. 212 Midtown West,NO,M017,No,375,375,0,0,12.3%,5.6%,24.0%,9.9%,48.3%,13.1%,2.7%,21.1%,159,107,67.3%,158,110,69.6%,No Data,No Data,No Data
+02M225,02,Ella Baker School,NO,M480,No,311,241,70,0,5.8%,16.7%,37.6%,7.1%,32.8%,20.9%,2.9%,34.7%,71,38,53.5%,70,31,44.3%,No Data,No Data,No Data
+02M255,02,M.S. 255 Salk School of Science,NO,M040,No,390,0,390,0,18.5%,2.3%,10.3%,7.9%,61.0%,15.1%,0.3%,10.5%,386,361,93.5%,343,308,89.8%,No Data,No Data,No Data
+02M276,02,BATTERY PARK CITY SCHOOL,NO,M276,No,850,578,272,0,19.9%,4.9%,10.6%,7.9%,56.7%,17.1%,1.6%,8.2%,543,409,75.3%,510,356,69.8%,No Data,No Data,No Data
+02M280,02,Manhattan Early College School for Advertising (P-Tech),NO,M520,No,279,0,0,279,6.8%,35.1%,44.4%,4.3%,9.3%,21.9%,3.2%,81.7%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+02M281,02,The River School,NO,M281,No,187,187,0,0,28.9%,10.2%,13.9%,2.7%,44.4%,17.1%,13.4%,22.5%,22,15,68.2%,24,16,66.7%,No Data,No Data,No Data
+02M282,02,Urban Assembly Maker Academy,NO,M520,No,290,0,0,290,11.7%,26.2%,46.6%,5.5%,10.0%,13.1%,3.1%,76.9%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+02M288,02,Food and Finance High School,NO,M535,No,400,0,0,400,5.0%,38.7%,52.0%,2.5%,1.8%,18.5%,5.2%,78.5%,No Data,No Data,No Data,No Data,No Data,No Data,94,88.3%,87.8%
+02M289,02,I.S. 289,NO,M089,No,281,0,281,0,42.0%,5.7%,12.1%,2.5%,37.7%,23.1%,1.1%,43.8%,267,187,70.0%,265,174,65.7%,No Data,No Data,No Data
+02M294,02,Essex Street Academy,NO,M445,No,352,0,0,352,5.1%,39.5%,42.3%,6.5%,6.5%,29.0%,4.3%,71.9%,No Data,No Data,No Data,No Data,No Data,No Data,88,81.8%,74.0%
+02M296,02,High School of Hospitality Management,NO,M535,No,398,0,0,398,3.0%,26.9%,64.3%,3.0%,2.8%,21.4%,8.5%,90.7%,No Data,No Data,No Data,No Data,No Data,No Data,104,75.0%,78.6%
+02M298,02,Pace High School,NO,M131,No,508,0,0,508,8.5%,31.9%,52.6%,4.5%,2.6%,18.5%,2.4%,73.6%,No Data,No Data,No Data,No Data,No Data,No Data,109,90.8%,98.9%
+02M300,02,"Urban Assembly School of Design and Construction, The",NO,M535,No,391,0,0,391,3.6%,25.3%,66.5%,1.8%,2.8%,23.8%,11.0%,78.5%,No Data,No Data,No Data,No Data,No Data,No Data,81,67.9%,82.4%
+02M303,02,"Facing History School, The",NO,M535,No,431,0,0,431,1.6%,25.8%,68.9%,2.1%,1.6%,23.2%,16.5%,100.0%,No Data,No Data,No Data,No Data,No Data,No Data,90,70.0%,76.0%
+02M305,02,"Urban Assembly Academy of Government and Law, The",NO,M445,No,316,0,0,316,5.1%,36.7%,54.7%,0.3%,3.2%,22.5%,5.1%,81.3%,No Data,No Data,No Data,No Data,No Data,No Data,71,83.1%,91.5%
+02M308,02,Lower Manhattan Arts Academy,NO,M445,No,354,0,0,354,8.8%,27.4%,55.4%,5.4%,3.1%,34.7%,4.5%,100.0%,No Data,No Data,No Data,No Data,No Data,No Data,78,73.1%,82.0%
+02M312,02,New York City Lab Middle School for Collaborative Studies,NO,M070,No,541,0,541,0,51.9%,1.8%,5.7%,7.0%,33.5%,15.3%,1.1%,30.3%,528,457,86.6%,407,363,89.2%,No Data,No Data,No Data
+02M313,02,"James Baldwin School, The: A School for Expeditionary Learning",NO,M440,Yes,267,0,0,267,1.1%,43.4%,48.7%,1.5%,5.2%,19.9%,7.5%,71.5%,No Data,No Data,No Data,No Data,No Data,No Data,101,30.7%,64.2%
+02M316,02,"Urban Assembly School of Business for Young Women, the",NO,M282,No,275,0,0,275,2.5%,56.7%,33.5%,5.8%,1.5%,14.2%,3.3%,80.4%,No Data,No Data,No Data,No Data,No Data,No Data,90,68.9%,82.7%
+02M340,02,Sixth Avenue Elementary School,NO,M340,No,208,208,0,0,9.1%,2.9%,10.6%,12.0%,65.4%,15.9%,1.4%,6.3%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+02M343,02,The Peck Slip School,NO,m343,No,377,377,0,0,16.4%,4.0%,13.3%,10.9%,55.4%,16.2%,2.1%,7.2%,93,57,61.3%,95,72,75.8%,No Data,No Data,No Data
+02M347,02,The 47 American Sign Language & English Lower School,NO,M047,No,195,161,34,0,2.6%,21.5%,45.6%,7.7%,22.6%,54.4%,4.6%,61.5%,35,20,57.1%,32,13,40.6%,No Data,No Data,No Data
+02M374,02,Gramercy Arts High School,NO,M460,No,534,0,0,534,3.2%,41.0%,42.7%,6.6%,6.6%,15.2%,1.5%,78.1%,No Data,No Data,No Data,No Data,No Data,No Data,105,77.1%,82.3%
+02M376,02,NYC iSchool,NO,M615,No,449,0,0,449,7.8%,18.5%,29.2%,8.0%,36.5%,14.0%,0.4%,37.4%,No Data,No Data,No Data,No Data,No Data,No Data,107,97.2%,98.9%
+02M391,02,Pre-K Center District 02,YES,"M167, M281, M338, M340, M343, M391, M431, M453, M860",No,346,346,0,0,21.1%,6.9%,15.6%,11.0%,45.4%,5.8%,0.0%,12.1%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+02M392,02,MANHATTAN BUSINESS ACADEMY,NO,M440,No,432,0,0,432,3.2%,24.8%,65.0%,2.8%,4.2%,20.1%,6.9%,84.7%,No Data,No Data,No Data,No Data,No Data,No Data,96,88.5%,85.5%
+02M393,02,BUSINESS OF SPORTS SCHOOL,NO,M625,No,449,0,0,449,2.0%,31.6%,62.8%,1.3%,2.2%,24.5%,8.5%,100.0%,No Data,No Data,No Data,No Data,No Data,No Data,85,75.3%,82.8%
+02M394,02,EMMA LAZARUS HIGH SCHOOL,NO,M131,Yes,309,0,0,309,48.2%,8.1%,33.3%,2.3%,8.1%,0.0%,79.9%,93.9%,No Data,No Data,No Data,No Data,No Data,No Data,59,69.5%,60.5%
+02M397,02,SPRUCE STREET SCHOOL,NO,M971,No,508,390,118,0,15.6%,3.3%,12.6%,13.4%,55.1%,14.6%,2.8%,12.2%,264,200,75.8%,263,196,74.5%,No Data,No Data,No Data
+02M399,02,THE HIGH SCHOOL FOR LANGUAGE AND DIPLOMACY,NO,M460,No,402,0,0,402,29.4%,20.4%,42.5%,2.5%,5.2%,15.7%,10.4%,72.4%,No Data,No Data,No Data,No Data,No Data,No Data,96,86.5%,69.8%
+02M400,02,High School for Environmental Studies,NO,M834,No,1227,0,0,1227,13.0%,16.5%,62.9%,1.2%,6.4%,17.6%,7.7%,77.9%,No Data,No Data,No Data,No Data,No Data,No Data,309,81.9%,89.2%
+02M407,02,Institute for Collaborative Education,NO,M475,No,486,0,212,274,6.8%,17.5%,17.1%,6.8%,51.9%,9.5%,0.2%,19.8%,27,11,40.7%,21,10,47.6%,72,93.1%,94.6%
+02M408,02,Professional Performing Arts High School,NO,M017,No,544,0,95,449,6.4%,19.3%,19.9%,13.4%,41.0%,14.3%,0.0%,28.5%,70,67,95.7%,49,46,93.9%,113,97.3%,100.0%
+02M412,02,N.Y.C. Lab School for Collaborative Studies,NO,M070,No,531,0,0,531,21.3%,5.5%,14.7%,7.5%,51.0%,17.7%,0.2%,27.7%,No Data,No Data,No Data,No Data,No Data,No Data,133,97.7%,98.4%
+02M413,02,School of the Future High School,NO,M660,No,763,0,307,456,15.6%,11.4%,27.9%,8.0%,37.1%,19.5%,1.0%,33.0%,254,167,65.7%,248,151,60.9%,98,86.7%,96.6%
+02M414,02,N.Y.C. Museum School,NO,M070,No,454,0,0,454,29.7%,13.0%,36.6%,4.6%,16.1%,10.6%,1.3%,71.1%,No Data,No Data,No Data,No Data,No Data,No Data,119,99.2%,100.0%
+02M418,02,Millennium High School,NO,M824,No,659,0,0,659,41.7%,6.5%,15.2%,3.5%,33.1%,11.8%,1.2%,43.7%,No Data,No Data,No Data,No Data,No Data,No Data,171,99.4%,99.3%
+02M419,02,Landmark High School,NO,M440,No,380,0,0,380,2.6%,33.9%,58.7%,2.9%,1.8%,24.5%,6.8%,86.1%,No Data,No Data,No Data,No Data,No Data,No Data,87,62.1%,77.7%
+02M420,02,High School for Health Professions and Human Services,NO,M475,No,1792,0,0,1792,20.0%,16.9%,53.0%,2.0%,8.1%,13.8%,6.9%,100.0%,No Data,No Data,No Data,No Data,No Data,No Data,379,89.2%,94.9%
+02M422,02,Quest to Learn,NO,M440,No,643,0,275,368,11.0%,20.2%,40.4%,5.6%,22.7%,32.8%,2.6%,53.2%,218,98,45.0%,204,52,25.5%,78,74.4%,No Data
+02M427,02,MANHATTAN ACADEMY FOR ARTS & LANGUAGE,NO,M620,No,288,0,0,288,2.8%,3.8%,91.0%,0.0%,2.4%,6.6%,72.6%,90.3%,No Data,No Data,No Data,No Data,No Data,No Data,65,60.0%,58.9%
+02M432,02,MURRAY HILL ACADEMY,NO,M620,Yes,315,0,0,315,5.7%,31.1%,54.3%,2.5%,6.3%,25.7%,5.4%,79.0%,No Data,No Data,No Data,No Data,No Data,No Data,82,74.4%,76.6%
+02M437,02,HUDSON HIGH SCHOOL OF LEARNING TECHNOLOGIES,NO,M440,No,483,0,0,483,7.0%,29.4%,57.8%,2.3%,3.5%,23.8%,9.3%,87.0%,No Data,No Data,No Data,No Data,No Data,No Data,124,83.1%,95.8%
+02M438,02,INTERNATIONAL HIGH SCHOOL AT UNION SQUARE,NO,M460,No,362,0,0,362,20.4%,20.2%,51.1%,0.3%,8.0%,3.3%,82.0%,84.8%,No Data,No Data,No Data,No Data,No Data,No Data,90,72.2%,64.4%
+02M449,02,Vanguard High School,NO,M480,No,459,0,0,459,5.2%,25.3%,61.2%,3.9%,4.4%,24.0%,4.8%,75.6%,No Data,No Data,No Data,No Data,No Data,No Data,101,70.3%,80.2%
+02M459,02,Manhattan International High School,NO,M480,No,331,0,0,331,19.6%,15.4%,52.9%,0.3%,11.8%,3.9%,70.1%,100.0%,No Data,No Data,No Data,No Data,No Data,No Data,82,79.3%,87.9%
+02M475,02,Stuyvesant High School,NO,M477,No,3365,0,0,3365,74.5%,0.6%,2.4%,4.5%,17.9%,0.6%,0.0%,45.1%,No Data,No Data,No Data,No Data,No Data,No Data,800,98.6%,99.4%
+02M500,02,Unity Center for Urban Technologies,NO,M620,No,261,0,0,261,3.8%,29.5%,60.5%,3.1%,3.1%,28.4%,8.8%,91.2%,No Data,No Data,No Data,No Data,No Data,No Data,77,85.7%,78.2%
+02M507,02,Urban Assembly Gateway School for Technology,NO,M625,No,468,0,0,468,10.0%,29.7%,52.4%,3.8%,4.1%,19.2%,3.2%,100.0%,No Data,No Data,No Data,No Data,No Data,No Data,120,90.8%,100.0%
+02M519,02,Talent Unlimited High School,NO,M480,No,495,0,0,495,4.0%,32.9%,40.8%,6.5%,15.8%,14.9%,0.4%,48.5%,No Data,No Data,No Data,No Data,No Data,No Data,127,96.9%,96.0%
+02M520,02,Murry Bergtraum High School for Business Careers,NO,M520,No,407,0,0,407,8.8%,48.9%,38.6%,2.0%,1.7%,24.1%,8.6%,76.4%,No Data,No Data,No Data,No Data,No Data,No Data,220,53.2%,72.0%
+02M533,02,Union Square Academy for Health Sciences,NO,M460,No,406,0,0,406,13.1%,22.9%,55.9%,2.5%,5.7%,14.3%,6.9%,77.1%,No Data,No Data,No Data,No Data,No Data,No Data,96,92.7%,No Data
+02M534,02,Harvest Collegiate High School,NO,M883,No,458,0,0,458,7.0%,25.8%,44.5%,3.5%,19.2%,28.8%,1.7%,52.8%,No Data,No Data,No Data,No Data,No Data,No Data,118,89.8%,No Data
+02M542,02,Manhattan Bridges High School,NO,M535,No,525,0,0,525,0.2%,0.2%,99.0%,0.6%,0.0%,5.0%,45.7%,100.0%,No Data,No Data,No Data,No Data,No Data,No Data,120,95.0%,89.1%
+02M543,02,New Design High School,NO,M445,No,407,0,0,407,5.9%,34.9%,55.0%,2.5%,1.7%,27.5%,6.1%,100.0%,No Data,No Data,No Data,No Data,No Data,No Data,95,77.9%,91.0%
+02M544,02,Independence High School,NO,M834,Yes,338,0,0,338,2.7%,36.1%,52.1%,2.4%,6.8%,13.6%,6.5%,80.8%,No Data,No Data,No Data,No Data,No Data,No Data,143,18.9%,29.5%
+02M545,02,High School for Dual Language and Asian Studies,NO,M445,No,397,0,0,397,84.4%,4.3%,6.3%,1.5%,3.5%,2.8%,11.1%,84.6%,No Data,No Data,No Data,No Data,No Data,No Data,114,99.1%,97.7%
+02M546,02,Academy for Software Engineering,NO,M460,No,458,0,0,458,9.2%,25.3%,51.3%,3.9%,10.3%,24.2%,4.4%,72.7%,No Data,No Data,No Data,No Data,No Data,No Data,120,94.2%,No Data
+02M560,02,High School M560 - City As School,NO,M641,Yes,616,0,0,616,3.7%,38.1%,43.3%,1.6%,13.1%,20.0%,3.4%,45.8%,No Data,No Data,No Data,No Data,No Data,No Data,230,42.2%,57.1%
+02M565,02,Urban Academy Laboratory High School,NO,M480,Yes,166,0,0,166,6.6%,27.1%,36.1%,1.2%,28.9%,10.2%,0.0%,54.2%,No Data,No Data,No Data,No Data,No Data,No Data,29,44.8%,74.0%
+02M580,02,Richard R. Green High School of Teaching,NO,M282,No,534,0,0,534,6.9%,27.2%,59.4%,3.6%,3.0%,17.4%,3.9%,83.7%,No Data,No Data,No Data,No Data,No Data,No Data,111,69.4%,80.8%
+02M586,02,Harvey Milk High School,NO,M807,Yes,74,0,0,74,2.7%,29.7%,58.1%,1.4%,8.1%,41.9%,4.1%,81.1%,No Data,No Data,No Data,No Data,No Data,No Data,30,20.0%,67.7%
+02M600,02,The High School of Fashion Industries,NO,M600,No,1671,0,0,1671,6.2%,36.5%,51.5%,1.6%,4.2%,16.3%,3.0%,82.1%,No Data,No Data,No Data,No Data,No Data,No Data,456,95.0%,95.5%
+02M605,02,Humanities Preparatory Academy,NO,M440,Yes,225,0,0,225,6.2%,27.6%,53.8%,4.0%,8.4%,20.0%,4.0%,76.0%,No Data,No Data,No Data,No Data,No Data,No Data,47,74.5%,91.0%
+02M615,02,Chelsea Career and Technical Education High School,NO,M615,No,437,0,0,437,11.2%,21.5%,59.7%,2.5%,5.0%,19.9%,3.4%,88.3%,No Data,No Data,No Data,No Data,No Data,No Data,94,83.0%,86.4%
+02M630,02,Art and Design High School,NO,M488,No,1447,0,0,1447,7.4%,19.8%,53.8%,4.6%,14.4%,20.2%,1.1%,65.6%,No Data,No Data,No Data,No Data,No Data,No Data,354,82.2%,91.3%
+02M896,02,Lower Manhattan Community Middle School,NO,M282,No,386,0,386,0,44.0%,9.6%,16.6%,2.3%,27.5%,25.4%,8.0%,56.7%,342,225,65.8%,342,206,60.2%,No Data,No Data,No Data
+03M009,03,P.S. 009 Sarah Anderson,NO,M009,No,600,600,0,0,8.5%,5.5%,19.3%,7.8%,58.8%,16.7%,3.3%,19.5%,257,207,80.5%,259,223,86.1%,No Data,No Data,No Data
+03M075,03,P.S. 075 Emily Dickinson,NO,M075,No,575,575,0,0,2.4%,23.1%,55.0%,3.7%,15.8%,32.0%,14.1%,72.3%,212,100,47.2%,214,106,49.5%,No Data,No Data,No Data
+03M076,03,P.S. 076 A. Philip Randolph,NO,M076,No,508,347,161,0,0.0%,77.6%,18.9%,0.6%,3.0%,20.1%,8.5%,92.7%,262,57,21.8%,266,27,10.2%,No Data,No Data,No Data
+03M084,03,P.S. 084 Lillian Weber,NO,M084,No,565,565,0,0,3.5%,11.0%,40.7%,4.8%,40.0%,17.0%,8.5%,47.4%,211,120,56.9%,214,119,55.6%,No Data,No Data,No Data
+03M145,03,"P.S. 145, The Bloomingdale School",NO,M145,No,370,370,0,0,1.1%,29.7%,61.9%,2.7%,4.6%,23.5%,10.5%,100.0%,121,25,20.7%,123,34,27.6%,No Data,No Data,No Data
+03M149,03,P.S. 149 Sojourner Truth,NO,M207,No,256,175,81,0,2.0%,61.7%,28.9%,3.5%,3.9%,30.1%,10.5%,96.5%,133,17,12.8%,137,7,5.1%,No Data,No Data,No Data
+03M163,03,P.S. 163 Alfred E. Smith,NO,M163,No,567,567,0,0,5.5%,16.4%,45.0%,5.3%,27.9%,16.0%,7.1%,49.4%,266,161,60.5%,269,169,62.8%,No Data,No Data,No Data
+03M165,03,P.S. 165 Robert E. Simon,NO,M165,No,731,564,167,0,4.7%,13.7%,64.0%,1.9%,15.7%,20.4%,14.1%,74.4%,401,145,36.2%,413,148,35.8%,No Data,No Data,No Data
+03M185,03,P.S. 185 - The Early Childhood Discovery and Design Magnet School,NO,M208,No,234,234,0,0,2.1%,61.5%,26.5%,4.7%,5.1%,20.5%,3.4%,85.5%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+03M208,03,P.S. 208 Alain L. Locke,NO,M208,No,124,124,0,0,4.0%,59.7%,33.9%,1.6%,0.8%,29.8%,11.3%,96.0%,118,19,16.1%,119,29,24.4%,No Data,No Data,No Data
+03M241,03,STEM Institute of Manhattan,NO,M113,No,124,124,0,0,3.2%,47.6%,41.9%,1.6%,5.6%,35.5%,19.4%,89.5%,59,22,37.3%,63,11,17.5%,No Data,No Data,No Data
+03M242,03,P.S. 242 - The Young Diplomats Magnet Academy,NO,M144,No,187,187,0,0,1.1%,62.6%,29.4%,3.2%,3.7%,26.7%,4.3%,86.6%,68,14,20.6%,68,16,23.5%,No Data,No Data,No Data
+03M243,03,M.S. 243 Center School,NO,M009,No,234,59,175,0,6.8%,12.8%,14.5%,5.1%,60.7%,11.1%,0.0%,6.4%,221,198,89.6%,165,138,83.6%,No Data,No Data,No Data
+03M245,03,M.S. M245 The Computer School,NO,M044,No,401,0,401,0,5.2%,12.5%,28.7%,4.7%,48.9%,19.2%,1.7%,23.4%,373,297,79.6%,282,169,59.9%,No Data,No Data,No Data
+03M247,03,M.S. M247 Dual Language Middle School,NO,M084,No,211,0,211,0,0.0%,0.9%,98.1%,0.0%,0.9%,21.3%,28.0%,88.2%,182,65,35.7%,188,69,36.7%,No Data,No Data,No Data
+03M250,03,M.S. 250 West Side Collaborative Middle School,NO,M075,No,190,0,190,0,2.6%,27.4%,56.3%,2.1%,11.6%,27.4%,5.3%,71.6%,156,51,32.7%,153,25,16.3%,No Data,No Data,No Data
+03M256,03,M.S. 256 Academic & Athletic Excellence,NO,M118,No,149,0,149,0,0.7%,53.7%,32.9%,2.0%,10.7%,22.8%,20.1%,72.5%,124,31,25.0%,131,27,20.6%,No Data,No Data,No Data
+03M258,03,Community Action School - MS 258,NO,M118,No,223,0,223,0,1.3%,45.7%,42.6%,0.4%,9.9%,26.9%,2.2%,57.0%,180,81,45.0%,144,45,31.3%,No Data,No Data,No Data
+03M299,03,"High School for Arts, Imagination and Inquiry",NO,M490,No,442,0,0,442,1.4%,37.3%,56.6%,2.5%,2.3%,21.7%,12.4%,78.1%,No Data,No Data,No Data,No Data,No Data,No Data,101,65.3%,73.9%
+03M307,03,"Urban Assembly School for Media Studies, The",NO,M490,No,408,0,0,408,2.7%,38.5%,53.9%,2.9%,2.0%,18.1%,6.4%,77.9%,No Data,No Data,No Data,No Data,No Data,No Data,94,72.3%,75.7%
+03M333,03,P.S. 333 Manhattan School for Children,NO,M118,No,756,587,169,0,5.6%,11.8%,16.9%,4.9%,60.8%,18.3%,1.2%,14.8%,396,279,70.5%,363,231,63.6%,No Data,No Data,No Data
+03M334,03,The Anderson School,NO,M044,No,551,337,214,0,26.5%,3.6%,8.7%,6.7%,54.4%,5.4%,0.0%,8.0%,368,354,96.2%,300,293,97.7%,No Data,No Data,No Data
+03M402,03,THE URBAN ASSEMBLY SCHOOL FOR GREEN CAREERS,NO,M470,No,319,0,0,319,1.6%,27.0%,64.6%,2.5%,4.4%,26.6%,13.8%,84.0%,No Data,No Data,No Data,No Data,No Data,No Data,88,55.7%,61.5%
+03M403,03,THE GLOBAL LEARNING COLLABORATIVE,NO,M470,No,428,0,0,428,1.9%,24.5%,68.0%,1.2%,4.4%,19.4%,16.1%,75.0%,No Data,No Data,No Data,No Data,No Data,No Data,100,82.0%,81.3%
+03M404,03,INNOVATION DIPLOMA PLUS,NO,M470,Yes,174,0,0,174,0.6%,35.1%,62.6%,1.7%,0.0%,13.8%,0.6%,75.3%,No Data,No Data,No Data,No Data,No Data,No Data,69,21.7%,58.8%
+03M415,03,Wadleigh Secondary School for the Performing & Visual Arts,NO,M088,No,309,0,47,262,1.0%,55.3%,40.1%,1.9%,1.6%,24.6%,3.2%,100.0%,35,5,14.3%,35,0,0.0%,88,68.2%,67.0%
+03M417,03,FRANK McCOURT HIGH SCHOOL,NO,M470,No,411,0,0,411,5.4%,17.3%,43.6%,3.9%,29.9%,20.4%,1.0%,51.6%,No Data,No Data,No Data,No Data,No Data,No Data,77,89.6%,100.0%
+03M421,03,WEST PREP ACADEMY,NO,M145,No,201,0,201,0,1.5%,57.7%,35.3%,2.0%,3.5%,30.3%,7.0%,67.7%,180,57,31.7%,158,20,12.7%,No Data,No Data,No Data
+03M452,03,P.S. 452,NO,M044,No,319,319,0,0,9.7%,7.5%,9.4%,5.3%,68.0%,18.8%,2.2%,9.7%,129,110,85.3%,128,104,81.3%,No Data,No Data,No Data
+03M479,03,Beacon High School,NO,M912,No,1304,0,0,1304,8.1%,13.6%,19.9%,7.1%,51.4%,8.4%,0.2%,24.4%,No Data,No Data,No Data,No Data,No Data,No Data,363,99.4%,99.7%
+03M492,03,"High School for Law, Advocacy and Community Justice",NO,M490,No,498,0,0,498,2.4%,37.1%,58.0%,0.6%,1.8%,17.9%,6.6%,90.6%,No Data,No Data,No Data,No Data,No Data,No Data,106,81.1%,81.0%
+03M494,03,High School of Arts and Technology,NO,M490,No,542,0,0,542,3.5%,36.7%,56.1%,1.3%,2.4%,24.7%,10.3%,93.2%,No Data,No Data,No Data,No Data,No Data,No Data,129,66.7%,72.7%
+03M541,03,Manhattan / Hunter Science High School,NO,M490,No,451,0,0,451,25.1%,16.4%,36.4%,5.1%,17.1%,13.3%,0.4%,61.9%,No Data,No Data,No Data,No Data,No Data,No Data,97,99.0%,100.0%
+03M859,03,Special Music School,YES,"M490, M932",No,314,90,45,179,15.9%,13.7%,13.4%,14.6%,42.4%,12.7%,0.6%,18.2%,80,80,100.0%,67,67,100.0%,No Data,No Data,No Data
+03M860,03,Frederick Douglass Academy II Secondary School,NO,M088,No,386,0,49,337,2.8%,64.0%,29.5%,2.1%,1.6%,23.6%,9.3%,70.2%,40,10,25.0%,16,5,31.3%,58,63.8%,82.1%
+03M862,03,Mott Hall II,NO,M165,No,342,0,342,0,6.4%,26.3%,37.1%,6.7%,23.4%,21.1%,2.6%,47.4%,305,211,69.2%,252,129,51.2%,No Data,No Data,No Data
+04M007,04,P.S. 007 Samuel Stern,NO,M007,No,375,232,143,0,3.2%,25.9%,66.7%,1.3%,2.9%,28.3%,12.5%,100.0%,210,64,30.5%,216,60,27.8%,No Data,No Data,No Data
+04M012,04,Tag Young Scholars,NO,M117,No,569,361,208,0,35.7%,20.7%,18.6%,8.8%,16.2%,4.7%,0.0%,41.3%,375,353,94.1%,320,307,95.9%,No Data,No Data,No Data
+04M037,04,River East Elementary,NO,M112,No,182,182,0,0,0.0%,43.4%,52.7%,2.2%,1.6%,23.1%,4.4%,80.2%,68,35,51.5%,68,31,45.6%,No Data,No Data,No Data
+04M038,04,P.S. 38 Roberto Clemente,NO,M121,No,226,226,0,0,3.5%,35.8%,56.2%,2.2%,2.2%,27.0%,11.1%,92.5%,75,10,13.3%,77,6,7.8%,No Data,No Data,No Data
+04M050,04,P.S. 050 Vito Marcantonio,NO,M050,No,247,174,73,0,1.2%,44.1%,53.0%,0.8%,0.8%,30.8%,6.1%,100.0%,145,19,13.1%,150,13,8.7%,No Data,No Data,No Data
+04M083,04,P.S. 083 Luis Munoz Rivera,NO,M083,No,457,457,0,0,12.7%,18.8%,63.2%,1.3%,3.9%,19.7%,10.7%,89.3%,202,82,40.6%,203,86,42.4%,No Data,No Data,No Data
+04M102,04,P.S. 102 Jacques Cartier,NO,M102,No,313,313,0,0,10.2%,26.8%,52.4%,5.8%,4.8%,26.8%,10.2%,85.6%,133,51,38.3%,134,51,38.1%,No Data,No Data,No Data
+04M108,04,P.S. 108 Assemblyman Angelo Del Toro Educational Complex,NO,M108,No,513,282,231,0,3.3%,29.8%,64.3%,0.8%,1.8%,29.8%,11.9%,100.0%,337,50,14.8%,341,45,13.2%,No Data,No Data,No Data
+04M112,04,P.S. 112 Jose Celso Barbosa,NO,M112,No,329,329,0,0,3.3%,21.9%,67.5%,2.7%,4.6%,37.7%,23.7%,100.0%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+04M146,04,P.S. 146 Ann M. Short,NO,M146,No,362,362,0,0,6.4%,24.3%,66.3%,0.8%,2.2%,39.8%,19.6%,98.1%,148,25,16.9%,154,29,18.8%,No Data,No Data,No Data
+04M155,04,P.S. 155 William Paca,NO,M155,No,294,294,0,0,1.7%,9.5%,86.1%,2.0%,0.7%,30.6%,42.2%,98.0%,122,16,13.1%,126,17,13.5%,No Data,No Data,No Data
+04M171,04,P.S. 171 Patrick Henry,NO,M171,No,742,461,281,0,6.2%,26.3%,61.7%,2.3%,3.5%,21.6%,2.4%,100.0%,461,287,62.3%,452,302,66.8%,No Data,No Data,No Data
+04M182,04,The Bilingual Bicultural School,NO,M083,No,349,349,0,0,0.9%,6.0%,92.3%,0.3%,0.6%,24.4%,40.7%,96.0%,155,43,27.7%,162,56,34.6%,No Data,No Data,No Data
+04M206,04,P.S. 206 Jose Celso Barbosa,NO,M112,No,479,293,186,0,2.9%,26.7%,63.5%,2.5%,4.4%,39.9%,13.2%,100.0%,415,89,21.4%,357,74,20.7%,No Data,No Data,No Data
+04M224,04,M.S. 224 Manhattan East School for Arts & Academics,NO,M099,No,155,0,155,0,8.4%,27.7%,51.6%,1.9%,10.3%,27.7%,4.5%,67.1%,145,61,42.1%,105,34,32.4%,No Data,No Data,No Data
+04M372,04,ESPERANZA PREPARATORY ACADEMY,NO,M117,No,586,0,217,369,1.7%,10.9%,85.7%,0.0%,1.7%,25.4%,29.5%,81.9%,175,31,17.7%,184,15,8.2%,70,70.0%,0.0%
+04M375,04,Mosaic Preparatory Academy,NO,M101,No,317,317,0,0,2.8%,46.1%,46.4%,3.5%,1.3%,34.1%,8.2%,95.0%,110,23,20.9%,110,18,16.4%,No Data,No Data,No Data
+04M377,04,Renaissance School of the Arts,NO,M155,No,142,0,142,0,0.7%,38.7%,57.7%,0.0%,2.8%,35.9%,7.0%,83.1%,124,31,25.0%,76,13,17.1%,No Data,No Data,No Data
+04M406,04,GLOBAL TECHNOLOGY PREPARATORY,NO,M007,No,134,0,134,0,3.0%,47.0%,50.0%,0.0%,0.0%,38.8%,10.4%,83.6%,114,20,17.5%,113,9,8.0%,No Data,No Data,No Data
+04M409,04,Coalition School for Social Change,NO,M045,No,161,0,0,161,3.7%,39.1%,53.4%,0.6%,3.1%,36.0%,9.3%,100.0%,No Data,No Data,No Data,No Data,No Data,No Data,75,49.3%,55.8%
+04M435,04,Manhattan Center for Science and Mathematics,NO,M435,No,1604,0,0,1604,19.0%,20.0%,54.1%,2.4%,4.5%,10.8%,5.2%,84.9%,No Data,No Data,No Data,No Data,No Data,No Data,380,96.1%,96.4%
+04M497,04,Central Park East I,NO,M013,No,214,214,0,0,11.7%,17.3%,29.0%,12.1%,29.9%,15.0%,1.9%,36.0%,38,12,31.6%,36,8,22.2%,No Data,No Data,No Data
+04M555,04,Central Park East High School,NO,M013,No,490,0,0,490,9.8%,24.9%,57.1%,1.8%,6.3%,15.3%,2.7%,84.1%,No Data,No Data,No Data,No Data,No Data,No Data,104,94.2%,97.0%
+04M825,04,Isaac Newton Middle School for Math & Science,NO,M435,No,197,0,197,0,6.1%,26.9%,64.0%,0.0%,3.0%,27.4%,10.2%,90.4%,178,42,23.6%,100,22,22.0%,No Data,No Data,No Data
+04M964,04,Central Park East II,YES,"M108, M171",No,387,309,78,0,6.7%,29.5%,33.6%,8.0%,22.2%,21.7%,1.0%,100.0%,156,76,48.7%,157,59,37.6%,No Data,No Data,No Data
+05M030,05,P.S. 030 Hernandez/Hughes,NO,M030,No,269,269,0,0,0.4%,45.4%,50.9%,1.5%,1.9%,30.1%,9.7%,94.8%,112,31,27.7%,115,15,13.0%,No Data,No Data,No Data
+05M092,05,P.S. 092 Mary McLeod Bethune,NO,M092,No,277,277,0,0,0.7%,59.9%,37.5%,1.1%,0.7%,29.6%,10.1%,98.6%,115,41,35.7%,118,40,33.9%,No Data,No Data,No Data
+05M123,05,P.S. 123 Mahalia Jackson,NO,M123,No,518,353,165,0,1.2%,50.2%,44.0%,1.2%,3.5%,21.6%,19.3%,89.4%,289,60,20.8%,310,23,7.4%,s,s,s
+05M125,05,P.S. 125 Ralph Bunche,NO,M125,No,262,262,0,0,4.2%,42.4%,38.2%,3.8%,11.5%,17.9%,7.6%,72.5%,87,49,56.3%,88,49,55.7%,No Data,No Data,No Data
+05M148,05,Eagle Academy for Young Men of Harlem,NO,M136,No,274,0,188,86,0.0%,70.8%,24.8%,3.3%,1.1%,27.0%,2.6%,74.8%,150,18,12.0%,103,3,2.9%,No Data,No Data,No Data
+05M154,05,P.S. 154 Harriet Tubman,NO,M154,No,317,317,0,0,6.6%,55.8%,31.2%,2.8%,3.5%,23.3%,18.0%,97.5%,120,36,30.0%,123,20,16.3%,No Data,No Data,No Data
+05M157,05,The Urban Assembly School for Global Commerce,NO,M501,No,250,0,0,250,1.2%,49.6%,44.4%,3.2%,1.6%,27.2%,6.0%,82.0%,No Data,No Data,No Data,No Data,No Data,No Data,s,s,s
+05M175,05,P.S. 175 Henry H Garnet,NO,M175,No,311,311,0,0,3.9%,58.8%,33.1%,1.0%,3.2%,22.8%,15.1%,98.1%,145,31,21.4%,150,48,32.0%,No Data,No Data,No Data
+05M194,05,P.S. 194 Countee Cullen,NO,M194,No,188,188,0,0,1.6%,47.9%,40.4%,5.9%,4.3%,21.3%,18.1%,98.9%,84,11,13.1%,87,9,10.3%,No Data,No Data,No Data
+05M197,05,P.S. 197 John B. Russwurm,NO,M197,No,309,309,0,0,0.0%,60.2%,35.3%,1.6%,2.9%,30.7%,6.8%,90.0%,132,23,17.4%,140,16,11.4%,No Data,No Data,No Data
+05M285,05,Harlem Renaissance High School,NO,M911,Yes,231,0,0,231,3.0%,42.9%,51.9%,0.9%,1.3%,22.1%,13.4%,81.4%,No Data,No Data,No Data,No Data,No Data,No Data,105,18.1%,50.0%
+05M286,05,I.S. M286 Renaissance Leadership Academy,NO,M043,No,231,0,231,0,1.7%,59.3%,35.5%,0.4%,3.0%,35.5%,8.2%,78.4%,206,35,17.0%,204,8,3.9%,No Data,No Data,No Data
+05M302,05,KAPPA IV,NO,M136,No,145,0,145,0,4.8%,55.2%,36.6%,2.1%,1.4%,26.2%,15.2%,88.3%,134,12,9.0%,141,3,2.1%,No Data,No Data,No Data
+05M304,05,Mott Hall High School,NO,M136,No,364,0,0,364,2.2%,35.7%,59.9%,0.8%,1.4%,27.2%,14.0%,89.3%,No Data,No Data,No Data,No Data,No Data,No Data,95,71.6%,82.8%
+05M362,05,Columbia Secondary School,NO,M125,No,687,0,297,390,11.5%,22.9%,42.2%,2.9%,20.5%,12.4%,0.3%,54.3%,270,238,88.1%,180,148,82.2%,82,97.6%,100.0%
+05M367,05,Academy for Social Action: A College Board School,NO,M043,No,128,0,0,128,1.6%,50.0%,46.9%,0.8%,0.8%,32.0%,24.2%,83.6%,No Data,No Data,No Data,No Data,No Data,No Data,56,39.3%,60.9%
+05M369,05,Urban Assembly School for the Performing Arts,NO,M043,No,340,0,0,340,0.3%,52.6%,43.5%,2.9%,0.6%,23.8%,8.2%,87.4%,No Data,No Data,No Data,No Data,No Data,No Data,60,86.7%,81.2%
+05M514,05,New Design Middle School,NO,M195,No,162,0,162,0,0.6%,55.6%,40.7%,0.0%,3.1%,35.8%,8.6%,90.1%,147,18,12.2%,150,8,5.3%,No Data,No Data,No Data
+06M048,06,P.S. 048 P.O. Michael J. Buczek,NO,M048,No,579,579,0,0,0.7%,0.5%,94.6%,0.3%,3.8%,23.1%,32.6%,94.1%,271,53,19.6%,276,56,20.3%,No Data,No Data,No Data
+06M052,06,J.H.S. 052 Inwood,NO,M052,No,332,0,332,0,0.3%,4.2%,93.1%,0.9%,1.5%,19.3%,41.6%,84.6%,280,60,21.4%,294,24,8.2%,No Data,No Data,No Data
+06M103,06,Dos Puentes Elementary School,NO,M132,No,280,280,0,0,0.7%,2.1%,76.8%,0.7%,19.6%,23.6%,37.9%,100.0%,49,16,32.7%,51,16,31.4%,No Data,No Data,No Data
+06M115,06,P.S. 115 Alexander Humboldt,NO,M115,No,531,531,0,0,0.4%,0.9%,95.7%,0.4%,2.6%,16.9%,32.6%,97.7%,217,44,20.3%,231,37,16.0%,No Data,No Data,No Data
+06M128,06,P.S. 128 Audubon,NO,M128,No,622,622,0,0,1.6%,3.1%,93.1%,0.8%,1.4%,18.6%,26.8%,93.2%,237,56,23.6%,251,81,32.3%,No Data,No Data,No Data
+06M132,06,P.S. 132 Juan Pablo Duarte,NO,M132,No,376,376,0,0,0.3%,1.1%,97.6%,0.5%,0.5%,22.6%,48.4%,100.0%,214,44,20.6%,228,34,14.9%,No Data,No Data,No Data
+06M143,06,J.H.S. 143 Eleanor Roosevelt,NO,M143,No,316,0,316,0,0.0%,0.9%,94.6%,0.3%,4.1%,25.6%,55.1%,67.1%,265,42,15.8%,299,19,6.4%,No Data,No Data,No Data
+06M153,06,P.S. 153 Adam Clayton Powell,NO,M153,No,676,676,0,0,2.4%,20.3%,73.2%,1.0%,3.1%,15.5%,27.2%,83.6%,277,106,38.3%,283,101,35.7%,No Data,No Data,No Data
+06M173,06,P.S. 173,NO,M173,No,548,548,0,0,3.3%,1.8%,92.7%,0.4%,1.8%,15.3%,16.8%,86.9%,240,81,33.8%,249,91,36.5%,No Data,No Data,No Data
+06M192,06,P.S. 192 Jacob H. Schiff,NO,M192,No,281,281,0,0,0.7%,8.9%,88.3%,0.7%,1.4%,19.2%,32.0%,92.2%,122,39,32.0%,124,45,36.3%,No Data,No Data,No Data
+06M209,06,Hamilton Grange Middle School,NO,M192,No,246,0,246,0,1.2%,10.6%,84.6%,0.8%,2.8%,20.7%,30.5%,90.7%,232,66,28.4%,233,50,21.5%,No Data,No Data,No Data
+06M211,06,Inwood Early College for Health and Information Technologies (P-Tech),NO,M052,No,285,0,0,285,2.1%,17.9%,76.8%,1.1%,2.1%,22.1%,15.8%,92.6%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+06M218,06,I.S. 218 Salome Urena,NO,M218,No,198,0,198,0,0.5%,3.0%,93.4%,2.5%,0.5%,19.2%,46.5%,93.9%,162,31,19.1%,174,9,5.2%,No Data,No Data,No Data
+06M293,06,City College Academy of the Arts,NO,M218,No,598,0,256,342,0.5%,3.5%,93.1%,0.3%,2.5%,15.2%,5.2%,76.1%,241,114,47.3%,198,59,29.8%,88,98.9%,98.7%
+06M311,06,Amistad Dual Language School,NO,M176,No,423,289,134,0,1.4%,1.2%,92.0%,0.7%,4.7%,13.2%,24.3%,79.2%,252,90,35.7%,257,66,25.7%,No Data,No Data,No Data
+06M314,06,Muscota,NO,M176,No,281,281,0,0,5.7%,2.1%,42.3%,6.0%,43.8%,13.5%,5.0%,25.3%,107,80,74.8%,109,75,68.8%,No Data,No Data,No Data
+06M319,06,M.S. 319 - Maria Teresa,NO,M090,No,471,0,471,0,0.2%,4.9%,92.8%,0.2%,1.9%,21.7%,32.1%,92.8%,382,107,28.0%,351,82,23.4%,No Data,No Data,No Data
+06M322,06,Middle School 322,NO,M218,No,321,0,321,0,0.6%,3.7%,93.8%,0.3%,1.6%,20.2%,41.4%,91.6%,278,61,21.9%,305,61,20.0%,No Data,No Data,No Data
+06M324,06,M.S. 324 - Patria Mirabal,NO,M090,No,423,0,423,0,0.5%,11.8%,85.1%,0.2%,2.4%,23.9%,31.7%,89.1%,357,73,20.4%,358,66,18.4%,No Data,No Data,No Data
+06M325,06,P.S. 325,NO,M192,No,215,215,0,0,0.9%,5.6%,86.0%,0.5%,7.0%,23.3%,36.3%,94.9%,97,18,18.6%,102,7,6.9%,No Data,No Data,No Data
+06M348,06,Washington Heights Expeditionary Learning School,NO,M143,No,806,142,259,405,1.0%,4.0%,91.9%,0.4%,2.7%,20.3%,17.2%,100.0%,249,77,30.9%,216,29,13.4%,85,72.9%,95.5%
+06M349,06,Harbor Heights,NO,M173,No,155,0,155,0,0.0%,0.0%,99.4%,0.6%,0.0%,0.0%,90.3%,94.8%,101,5,5.0%,162,22,13.6%,No Data,No Data,No Data
+06M368,06,Hamilton Heights School,NO,M153,No,202,202,0,0,3.5%,19.8%,56.4%,5.0%,15.3%,14.4%,18.3%,70.8%,61,5,8.2%,57,6,10.5%,No Data,No Data,No Data
+06M423,06,High School for Excellence and Innovation,NO,M052,Yes,221,0,0,221,0.9%,11.8%,86.0%,0.5%,0.9%,26.7%,38.5%,85.5%,No Data,No Data,No Data,No Data,No Data,No Data,72,41.7%,57.4%
+06M462,06,The College Academy,NO,M465,No,459,0,0,459,0.7%,11.1%,86.3%,0.9%,1.1%,20.5%,43.6%,96.5%,No Data,No Data,No Data,No Data,No Data,No Data,101,56.4%,74.0%
+06M463,06,High School for Media and Communications,NO,M465,No,409,0,0,409,1.2%,12.0%,85.8%,0.2%,0.7%,16.6%,37.2%,87.5%,No Data,No Data,No Data,No Data,No Data,No Data,138,50.7%,78.1%
+06M467,06,High School for Law and Public Service,NO,M465,No,593,0,0,593,0.5%,14.7%,82.8%,0.3%,1.7%,22.4%,31.2%,75.5%,No Data,No Data,No Data,No Data,No Data,No Data,141,65.2%,77.2%
+06M468,06,High School for Health Careers and Sciences,NO,M465,No,460,0,0,460,1.5%,13.5%,82.2%,2.0%,0.9%,15.2%,37.8%,96.7%,No Data,No Data,No Data,No Data,No Data,No Data,135,65.2%,72.4%
+06M513,06,Castle Bridge School,NO,M128,No,227,227,0,0,1.8%,10.6%,64.8%,3.1%,19.8%,31.3%,26.9%,61.2%,19,11,57.9%,16,10,62.5%,No Data,No Data,No Data
+07X030,07,P.S. 030 Wilton,NO,X030,No,590,590,0,0,1.2%,20.2%,75.1%,0.7%,2.9%,22.2%,18.1%,90.2%,268,58,21.6%,274,53,19.3%,No Data,No Data,No Data
+07X031,07,P.S./M.S. 031 The William Lloyd Garrison,NO,X151,No,731,486,245,0,2.3%,26.8%,68.1%,0.7%,2.1%,24.6%,12.9%,92.7%,396,67,16.9%,393,40,10.2%,s,s,s
+07X043,07,P.S. 043 Jonas Bronck,NO,X043,No,470,470,0,0,0.6%,28.1%,69.8%,0.4%,1.1%,23.2%,12.1%,97.0%,227,61,26.9%,231,71,30.7%,No Data,No Data,No Data
+07X049,07,P.S. 049 Willis Avenue,NO,X049,No,662,662,0,0,0.3%,27.5%,70.2%,1.1%,0.9%,26.3%,16.2%,98.0%,273,103,37.7%,274,108,39.4%,No Data,No Data,No Data
+07X065,07,P.S. 065 Mother Hale Academy,NO,X065,No,425,425,0,0,1.6%,35.8%,60.5%,0.7%,1.4%,20.0%,12.2%,99.5%,164,32,19.5%,163,30,18.4%,No Data,No Data,No Data
+07X151,07,J.H.S. 151 Lou Gehrig,NO,X151,No,245,0,245,0,0.0%,27.8%,70.2%,0.0%,2.0%,26.1%,30.6%,95.9%,209,24,11.5%,223,9,4.0%,No Data,No Data,No Data
+07X154,07,P.S. 154 Jonathan D. Hyatt,NO,X154,No,385,385,0,0,0.3%,40.5%,56.4%,1.0%,1.8%,21.0%,10.6%,97.9%,179,57,31.8%,175,46,26.3%,No Data,No Data,No Data
+07X161,07,P.S. 161 Ponce De Leon,NO,X161,No,509,509,0,0,0.6%,21.6%,75.8%,0.6%,1.4%,25.5%,18.7%,92.1%,175,52,29.7%,175,47,26.9%,No Data,No Data,No Data
+07X162,07,J.H.S. 162 Lola Rodriguez De Tio,NO,X162,No,380,0,380,0,0.0%,26.8%,72.9%,0.3%,0.0%,35.3%,20.8%,91.1%,332,31,9.3%,344,13,3.8%,No Data,No Data,No Data
+07X179,07,P.S. 179,NO,X040,No,357,357,0,0,0.8%,12.9%,83.8%,2.0%,0.6%,22.4%,29.4%,96.9%,147,36,24.5%,147,30,20.4%,No Data,No Data,No Data
+07X221,07,South Bronx Preparatory: A College Board School,NO,X149,No,657,0,281,376,1.8%,23.3%,72.1%,1.1%,1.7%,24.8%,6.2%,95.6%,274,84,30.7%,274,53,19.3%,79,93.7%,92.8%
+07X223,07,M.S. 223 The Laboratory School of Finance and Technology,NO,X149,No,697,0,302,395,0.4%,18.4%,80.2%,0.3%,0.7%,21.2%,8.3%,96.8%,281,119,42.3%,280,111,39.6%,s,s,s
+07X224,07,P.S. / I.S. 224,NO,X139,No,389,0,389,0,0.3%,25.2%,73.3%,0.8%,0.5%,28.3%,21.6%,97.9%,343,37,10.8%,364,15,4.1%,No Data,No Data,No Data
+07X259,07,"HERO High School (Health, Education and Research Occupation High School)",NO,X655,No,455,0,0,455,1.1%,38.7%,57.1%,2.4%,0.7%,20.0%,10.5%,100.0%,No Data,No Data,No Data,No Data,No Data,No Data,s,s,s
+07X277,07,P.S. 277,NO,X027,No,461,461,0,0,0.9%,24.3%,72.5%,2.0%,0.4%,19.5%,14.8%,97.2%,192,69,35.9%,193,66,34.2%,No Data,No Data,No Data
+07X296,07,South Bronx Academy for Applied Media,NO,X184,No,296,0,296,0,0.7%,33.8%,63.2%,1.7%,0.7%,28.0%,12.5%,82.8%,256,51,19.9%,254,18,7.1%,No Data,No Data,No Data
+07X298,07,Academy of Public Relations,NO,X184,No,256,0,256,0,0.0%,20.7%,77.3%,0.4%,1.6%,28.5%,28.5%,78.5%,227,31,13.7%,212,15,7.1%,No Data,No Data,No Data
+07X334,07,International Community High School,NO,X139,No,443,0,0,443,4.3%,11.5%,81.3%,1.4%,1.6%,4.5%,79.5%,89.6%,No Data,No Data,No Data,No Data,No Data,No Data,88,64.8%,55.9%
+07X343,07,Academy of Applied Mathematics and Technology,NO,X139,No,302,0,302,0,0.7%,26.5%,71.5%,0.7%,0.7%,24.5%,8.9%,91.4%,295,111,37.6%,265,65,24.5%,No Data,No Data,No Data
+07X359,07,Concourse Village Elementary School,NO,X156,No,342,342,0,0,0.3%,32.2%,64.3%,0.9%,2.3%,21.1%,18.7%,94.7%,125,99,79.2%,127,107,84.3%,No Data,No Data,No Data
+07X369,07,Young Leaders Elementary School,NO,X040,No,237,237,0,0,0.0%,17.3%,81.0%,0.8%,0.8%,28.3%,45.1%,97.5%,105,9,8.6%,106,10,9.4%,No Data,No Data,No Data
+07X379,07,Jill Chaifetz Transfer High School,NO,X184,Yes,216,0,0,216,1.4%,34.3%,62.5%,1.4%,0.5%,25.9%,9.7%,100.0%,No Data,No Data,No Data,No Data,No Data,No Data,101,20.8%,48.8%
+07X381,07,Bronx Haven High School,NO,X600,Yes,192,0,0,192,1.6%,32.3%,65.6%,0.0%,0.5%,24.0%,5.2%,82.3%,No Data,No Data,No Data,No Data,No Data,No Data,83,14.5%,50.7%
+07X427,07,Community School for Social Justice,NO,X884,No,305,0,0,305,0.3%,24.6%,73.4%,0.7%,1.0%,25.9%,13.8%,92.8%,No Data,No Data,No Data,No Data,No Data,No Data,69,72.5%,69.8%
+07X473,07,Mott Haven Village Preparatory High School,NO,X470,No,397,0,0,397,0.5%,26.2%,71.8%,0.8%,0.8%,26.2%,16.4%,94.0%,No Data,No Data,No Data,No Data,No Data,No Data,85,58.8%,74.7%
+07X495,07,University Heights Secondary School,NO,X470,No,467,0,0,467,2.6%,26.1%,67.5%,1.9%,1.9%,17.1%,2.6%,90.1%,No Data,No Data,No Data,No Data,No Data,No Data,120,99.2%,94.8%
+07X500,07,Hostos-Lincoln Academy of Science,NO,X162,No,527,0,175,352,3.0%,19.9%,74.4%,1.5%,1.1%,19.7%,4.7%,78.7%,166,55,33.1%,136,26,19.1%,83,85.5%,94.0%
+07X522,07,Bronx Design and Construction Academy,NO,X600,No,561,0,0,561,1.4%,22.8%,71.5%,1.2%,3.0%,28.7%,16.8%,91.3%,No Data,No Data,No Data,No Data,No Data,No Data,130,62.3%,0.0%
+07X527,07,Bronx Leadership Academy II High School,NO,X790,No,500,0,0,500,1.8%,26.8%,68.6%,1.4%,1.4%,26.4%,17.8%,91.4%,No Data,No Data,No Data,No Data,No Data,No Data,128,80.5%,73.0%
+07X547,07,New Explorers High School,NO,X790,No,403,0,0,403,0.5%,27.8%,71.2%,0.0%,0.5%,29.0%,13.6%,81.4%,No Data,No Data,No Data,No Data,No Data,No Data,91,52.7%,61.6%
+07X548,07,Urban Assembly School for Careers in Sports,NO,X790,No,560,0,0,560,0.7%,30.0%,67.5%,0.0%,1.8%,24.6%,10.2%,86.8%,No Data,No Data,No Data,No Data,No Data,No Data,155,69.7%,80.5%
+07X551,07,The Urban Assembly Bronx Academy of Letters,NO,X183,No,592,0,251,341,0.7%,30.9%,65.0%,0.3%,3.0%,29.6%,13.0%,89.9%,234,38,16.2%,230,10,4.3%,75,53.3%,74.7%
+07X557,07,Mott Haven Community High School,NO,X655,Yes,242,0,0,242,0.0%,26.9%,71.1%,0.4%,1.7%,29.8%,7.9%,100.0%,No Data,No Data,No Data,No Data,No Data,No Data,88,23.9%,47.4%
+07X600,07,Alfred E. Smith Career and Technical Education High School,NO,X600,No,444,0,0,444,0.7%,23.6%,73.6%,0.7%,1.4%,28.6%,23.0%,88.7%,No Data,No Data,No Data,No Data,No Data,No Data,72,70.8%,72.6%
+07X670,07,Health Opportunities High School,NO,X884,No,461,0,0,461,2.0%,35.1%,59.0%,2.2%,1.7%,20.8%,11.9%,86.6%,No Data,No Data,No Data,No Data,No Data,No Data,145,62.8%,69.0%
+08X075,08,P.S. 75 School of Research and Discovery,NO,X075,No,641,641,0,0,1.1%,23.7%,72.1%,0.6%,2.5%,21.7%,15.3%,100.0%,268,60,22.4%,274,73,26.6%,No Data,No Data,No Data
+08X093,08,P.S. 093 Albert G. Oliver,NO,X093,No,358,358,0,0,0.3%,53.1%,43.3%,2.2%,1.1%,23.2%,6.4%,100.0%,136,31,22.8%,135,31,23.0%,No Data,No Data,No Data
+08X101,08,M.S. X101 Edward R. Byrne,NO,X101,No,501,0,501,0,13.4%,10.0%,55.3%,2.0%,19.4%,21.4%,1.8%,67.3%,463,287,62.0%,452,173,38.3%,No Data,No Data,No Data
+08X107,08,P.S. 107,NO,X107,No,551,551,0,0,0.7%,32.1%,63.5%,0.9%,2.7%,30.3%,11.4%,98.7%,233,76,32.6%,237,66,27.8%,No Data,No Data,No Data
+08X123,08,J.H.S. 123 James M. Kieran,NO,X123,No,325,0,325,0,3.4%,22.5%,73.2%,0.6%,0.3%,28.9%,28.0%,77.2%,274,64,23.4%,294,39,13.3%,No Data,No Data,No Data
+08X125,08,J.H.S. 125 Henry Hudson,NO,X125,No,365,0,365,0,23.8%,15.6%,51.8%,2.5%,6.3%,18.9%,24.7%,96.2%,331,83,25.1%,302,59,19.5%,No Data,No Data,No Data
+08X131,08,J.H.S. 131 Albert Einstein,NO,X131,No,469,0,469,0,2.8%,35.4%,59.9%,0.9%,1.1%,33.3%,7.2%,73.1%,447,80,17.9%,448,51,11.4%,No Data,No Data,No Data
+08X140,08,P.S. X140 The Eagle School,NO,X140,No,664,664,0,0,0.6%,36.0%,60.2%,1.2%,2.0%,19.9%,12.3%,91.4%,270,47,17.4%,268,34,12.7%,No Data,No Data,No Data
+08X146,08,P.S. 146 Edward Collins,NO,X146,No,402,402,0,0,0.7%,40.0%,56.2%,2.0%,1.0%,24.6%,11.4%,95.8%,145,39,26.9%,146,34,23.3%,No Data,No Data,No Data
+08X152,08,P.S. 152 Evergreen,YES,"X152, X823",No,936,936,0,0,1.5%,15.7%,79.9%,1.4%,1.5%,20.0%,26.1%,100.0%,412,83,20.1%,414,113,27.3%,No Data,No Data,No Data
+08X269,08,Bronx Studio School for Writers and Artists,NO,X392,No,638,0,284,354,0.8%,21.5%,76.0%,0.5%,1.3%,26.8%,12.2%,100.0%,256,71,27.7%,256,22,8.6%,73,61.6%,79.7%
+08X282,08,Women's Academy of Excellence,NO,X174,No,305,0,0,305,9.5%,42.0%,39.0%,3.0%,6.6%,21.6%,13.8%,89.5%,No Data,No Data,No Data,No Data,No Data,No Data,91,60.4%,78.3%
+08X293,08,Renaissance High School for Musical Theater & Technology,NO,X405,No,454,0,0,454,3.1%,26.0%,62.6%,1.5%,6.8%,26.2%,4.6%,100.0%,No Data,No Data,No Data,No Data,No Data,No Data,108,73.1%,74.3%
+08X301,08,M.S. 301 Paul L. Dunbar,NO,X120,No,237,0,237,0,0.0%,39.7%,57.4%,0.0%,3.0%,27.4%,24.1%,80.2%,218,18,8.3%,236,12,5.1%,No Data,No Data,No Data
+08X302,08,M.S. 302 Luisa Dessus Cruz,NO,X052,No,489,0,489,0,0.8%,19.4%,77.9%,0.2%,1.6%,30.3%,24.1%,94.5%,450,90,20.0%,462,55,11.9%,No Data,No Data,No Data
+08X304,08,P.S. 304 Early Childhood School,NO,X101,No,490,490,0,0,6.1%,5.1%,61.2%,1.8%,25.7%,19.0%,0.8%,71.0%,228,143,62.7%,228,134,58.8%,No Data,No Data,No Data
+08X305,08,Pablo Neruda Academy for Architecture and World Studies,NO,X450,No,323,0,0,323,5.6%,26.6%,62.8%,2.5%,2.5%,34.1%,19.8%,100.0%,No Data,No Data,No Data,No Data,No Data,No Data,93,62.4%,76.5%
+08X312,08,Millennium Art Academy,NO,X450,No,447,0,0,447,1.6%,26.0%,70.5%,1.1%,0.9%,28.0%,6.9%,100.0%,No Data,No Data,No Data,No Data,No Data,No Data,119,68.1%,81.1%
+08X320,08,Pelham Lab High School,NO,X405,No,459,0,0,459,7.4%,22.2%,56.4%,4.4%,9.6%,22.7%,12.0%,100.0%,No Data,No Data,No Data,No Data,No Data,No Data,s,s,s
+08X332,08,Holcombe L. Rucker School of Community Research,NO,X039,No,153,0,0,153,2.0%,54.9%,41.2%,0.7%,1.3%,25.5%,9.2%,89.5%,No Data,No Data,No Data,No Data,No Data,No Data,65,58.5%,61.2%
+08X333,08,P.S. 333 - The Museum School,NO,X060,No,413,413,0,0,0.5%,19.1%,78.0%,1.0%,1.5%,32.4%,28.3%,100.0%,168,29,17.3%,171,24,14.0%,No Data,No Data,No Data
+08X335,08,The Academy of the Arts,NO,X060,No,278,278,0,0,0.0%,27.0%,71.2%,0.7%,1.1%,29.5%,13.7%,92.4%,98,23,23.5%,99,40,40.4%,No Data,No Data,No Data
+08X337,08,The School for Inquiry and Social Justice,NO,X123,No,541,0,541,0,4.3%,23.8%,70.1%,1.3%,0.6%,26.4%,12.2%,69.1%,487,211,43.3%,491,213,43.4%,No Data,No Data,No Data
+08X348,08,Schuylerville Preparatory High School,NO,X405,No,359,0,0,359,4.5%,25.1%,59.1%,2.8%,8.6%,22.8%,11.1%,100.0%,No Data,No Data,No Data,No Data,No Data,No Data,s,s,s
+08X349,08,Bronx River High School,NO,X405,No,409,0,0,409,4.6%,25.2%,62.1%,3.2%,4.9%,23.5%,17.4%,100.0%,No Data,No Data,No Data,No Data,No Data,No Data,s,s,s
+08X367,08,"Archimedes Academy for Math, Science and Technology Applications",NO,X174,No,692,0,285,407,8.4%,31.8%,56.6%,1.2%,2.0%,25.7%,10.0%,79.5%,271,77,28.4%,261,21,8.0%,95,57.9%,69.1%
+08X371,08,Urban Institute of Mathematics,NO,X192,No,339,0,339,0,3.2%,14.2%,62.8%,1.2%,18.6%,20.6%,5.0%,78.8%,324,165,50.9%,325,91,28.0%,No Data,No Data,No Data
+08X375,08,The Bronx Mathematics Preparatory School,NO,X174,No,239,0,239,0,1.7%,34.3%,58.6%,3.8%,1.7%,32.6%,15.5%,99.2%,219,44,20.1%,231,18,7.8%,No Data,No Data,No Data
+08X376,08,Antonia Pantoja Preparatory Academy: A College Board School,NO,X450,No,420,0,181,239,7.1%,21.4%,69.0%,1.2%,1.2%,26.7%,15.0%,100.0%,165,54,32.7%,166,26,15.7%,69,58.0%,76.0%
+08X377,08,Bronx Community High School,NO,X450,Yes,180,0,0,180,2.8%,34.4%,60.0%,1.1%,1.7%,16.7%,3.3%,100.0%,No Data,No Data,No Data,No Data,No Data,No Data,80,12.5%,35.1%
+08X392,08,Bronx Delta School,NO,X192,No,204,204,0,0,6.9%,9.3%,65.7%,1.0%,17.2%,11.8%,11.3%,70.6%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+08X405,08,Herbert H. Lehman High School.,NO,X405,No,829,0,0,829,13.9%,22.7%,49.8%,2.5%,11.1%,23.8%,13.0%,70.7%,No Data,No Data,No Data,No Data,No Data,No Data,348,52.3%,66.8%
+08X424,08,The Hunts Point School,NO,X074,No,297,0,297,0,0.3%,21.9%,76.4%,1.3%,0.0%,30.6%,28.3%,87.9%,264,27,10.2%,284,5,1.8%,No Data,No Data,No Data
+08X432,08,BRONX BRIDGES HIGH SCHOOL,NO,X450,No,332,0,0,332,12.7%,4.2%,76.8%,2.7%,3.6%,13.9%,81.3%,100.0%,No Data,No Data,No Data,No Data,No Data,No Data,80,50.0%,85.1%
+08X448,08,SOUNDVIEW ACADEMY FOR CULTURE AND SCHOLARSHIP,NO,X131,No,375,0,375,0,2.1%,31.5%,64.8%,0.3%,1.3%,25.1%,10.9%,72.3%,341,73,21.4%,348,64,18.4%,No Data,No Data,No Data
+08X452,08,Bronx Guild,NO,X450,No,296,0,0,296,4.1%,29.7%,63.2%,2.4%,0.7%,29.1%,9.5%,100.0%,No Data,No Data,No Data,No Data,No Data,No Data,70,67.1%,69.6%
+08X467,08,MOTT HALL COMMUNITY SCHOOL,NO,X192,No,324,0,324,0,3.4%,13.9%,69.8%,0.3%,12.7%,25.3%,13.0%,82.4%,300,83,27.7%,310,38,12.3%,No Data,No Data,No Data
+08X519,08,"Felisa Rincon de Gautier Institute for Law and Public Policy, The",NO,X972,No,242,0,0,242,2.1%,22.7%,72.3%,1.2%,1.7%,33.9%,19.0%,86.4%,No Data,No Data,No Data,No Data,No Data,No Data,87,49.4%,49.4%
+08X530,08,Banana Kelly High School,NO,X039,No,172,0,0,172,0.6%,34.9%,63.4%,0.6%,0.6%,36.0%,12.8%,86.0%,No Data,No Data,No Data,No Data,No Data,No Data,92,45.7%,52.8%
+08X537,08,Bronx Arena High School,NO,X972,Yes,214,0,0,214,0.5%,37.4%,58.9%,0.9%,2.3%,9.3%,1.4%,84.1%,No Data,No Data,No Data,No Data,No Data,No Data,74,12.2%,40.8%
+08X558,08,Westchester Square Academy,NO,X405,No,589,0,0,589,5.6%,23.9%,57.6%,2.9%,10.0%,21.7%,7.1%,100.0%,No Data,No Data,No Data,No Data,No Data,No Data,98,76.5%,No Data
+08X559,08,School for Tourism and Hospitality,NO,X650,No,305,0,0,305,1.0%,38.0%,57.4%,2.0%,1.6%,24.9%,17.0%,87.5%,No Data,No Data,No Data,No Data,No Data,No Data,74,71.6%,50.0%
+08X561,08,Bronx Compass High School,NO,X450,No,469,0,0,469,2.6%,31.3%,62.7%,1.3%,2.1%,25.6%,9.4%,100.0%,No Data,No Data,No Data,No Data,No Data,No Data,98,68.4%,0.0%
+08X562,08,Blueprint Middle School,NO,X125,No,333,0,333,0,21.3%,14.7%,57.4%,1.2%,5.4%,19.8%,18.3%,88.3%,304,84,27.6%,320,60,18.8%,No Data,No Data,No Data
+09X004,09,P.S./M.S. 004 Crotona Park West,NO,X004,No,574,389,185,0,0.7%,54.7%,42.3%,1.4%,0.9%,24.0%,12.2%,96.2%,315,72,22.9%,327,89,27.2%,No Data,No Data,No Data
+09X022,09,J.H.S. 022 Jordan L. Mott,NO,X022,No,419,0,419,0,0.5%,20.5%,77.6%,0.7%,0.7%,21.2%,39.9%,92.1%,368,43,11.7%,413,17,4.1%,s,s,s
+09X042,09,P.S. 042 Claremont,NO,X042,No,444,444,0,0,0.7%,39.2%,59.0%,0.2%,0.9%,26.6%,14.6%,99.1%,173,35,20.2%,176,54,30.7%,No Data,No Data,No Data
+09X055,09,P.S. 055 Benjamin Franklin,NO,X055,No,702,702,0,0,0.1%,49.6%,49.6%,0.1%,0.6%,19.2%,12.3%,92.6%,260,38,14.6%,257,48,18.7%,No Data,No Data,No Data
+09X063,09,P.S. 063 Author's Academy,NO,X063,No,619,619,0,0,0.5%,36.3%,59.1%,0.8%,3.2%,19.1%,20.4%,95.5%,240,63,26.3%,242,76,31.4%,No Data,No Data,No Data
+09X110,09,P.S. 110 Theodore Schoenfeld,NO,X110,No,469,469,0,0,0.4%,40.7%,54.2%,0.0%,4.7%,19.6%,14.9%,94.9%,188,49,26.1%,196,50,25.5%,No Data,No Data,No Data
+09X117,09,I.S. 117 Joseph H. Wade,NO,X117,No,562,0,562,0,2.0%,17.8%,79.0%,0.5%,0.7%,27.2%,39.5%,86.7%,523,61,11.7%,565,46,8.1%,No Data,No Data,No Data
+09X128,09,Mott Hall III,NO,X110,No,360,0,360,0,1.7%,43.1%,54.7%,0.6%,0.0%,16.7%,5.3%,92.8%,355,154,43.4%,323,144,44.6%,No Data,No Data,No Data
+09X145,09,J.H.S. 145 Arturo Toscanini,NO,X145,No,287,0,287,0,1.4%,28.2%,69.3%,0.0%,1.0%,25.4%,40.1%,71.4%,196,10,5.1%,214,8,3.7%,No Data,No Data,No Data
+09X204,09,P.S. 204 Morris Heights,NO,X338,No,619,619,0,0,1.6%,27.9%,67.7%,1.0%,1.8%,21.3%,11.0%,100.0%,301,147,48.8%,313,154,49.2%,No Data,No Data,No Data
+09X215,09,Kappa,NO,X148,No,256,0,256,0,6.6%,44.5%,46.9%,1.2%,0.8%,22.3%,20.7%,74.6%,238,77,32.4%,210,37,17.6%,No Data,No Data,No Data
+09X218,09,P.S./I.S. 218 Rafael Hernandez Dual Language Magnet School,NO,X235,No,998,711,287,0,3.3%,4.8%,89.9%,0.9%,1.1%,19.1%,31.7%,100.0%,595,193,32.4%,514,147,28.6%,No Data,No Data,No Data
+09X219,09,I.S. 219 New Venture School,NO,X148,No,311,0,311,0,0.6%,39.9%,57.9%,0.6%,1.0%,27.7%,24.1%,88.4%,273,26,9.5%,293,10,3.4%,No Data,No Data,No Data
+09X227,09,Bronx Collegiate Academy,NO,X410,No,407,0,0,407,2.2%,25.6%,70.5%,0.7%,1.0%,24.6%,23.1%,100.0%,No Data,No Data,No Data,No Data,No Data,No Data,87,55.2%,64.9%
+09X229,09,I.S. 229 Roland Patterson,NO,X229,No,237,0,237,0,0.8%,33.8%,64.1%,0.8%,0.4%,33.8%,18.1%,79.7%,229,32,14.0%,232,17,7.3%,No Data,No Data,No Data
+09X232,09,I.S. 232,NO,X082,No,476,0,476,0,1.1%,21.2%,76.7%,0.8%,0.2%,22.1%,38.2%,97.1%,427,87,20.4%,458,52,11.4%,No Data,No Data,No Data
+09X241,09,"Urban Assembly School for Applied Math and Science, The",NO,X970,No,635,0,266,369,0.5%,35.0%,63.3%,0.6%,0.6%,26.8%,11.5%,95.0%,246,50,20.3%,191,37,19.4%,76,85.5%,83.8%
+09X250,09,Eximius College Preparatory Academy: A College Board School,NO,X002,No,433,0,0,433,2.1%,38.6%,57.5%,1.2%,0.7%,22.4%,11.1%,82.2%,No Data,No Data,No Data,No Data,No Data,No Data,94,80.9%,89.0%
+09X252,09,Mott Hall Bronx High School,NO,X970,No,390,0,0,390,0.8%,20.8%,75.4%,2.1%,1.0%,24.1%,13.1%,89.0%,No Data,No Data,No Data,No Data,No Data,No Data,109,76.1%,80.2%
+09X260,09,Bronx Center for Science and Mathematics,NO,X002,No,458,0,0,458,7.0%,21.4%,69.2%,0.9%,1.5%,22.3%,5.7%,86.0%,No Data,No Data,No Data,No Data,No Data,No Data,107,90.7%,91.6%
+09X263,09,Validus Preparatory Academy: An Expeditionary Learning School,NO,X970,No,397,0,0,397,0.3%,28.5%,69.3%,0.8%,1.3%,27.0%,16.1%,84.6%,No Data,No Data,No Data,No Data,No Data,No Data,97,72.2%,79.3%
+09X274,09,The New American Academy at Roberto Clemente State Park,NO,X229,No,807,807,0,0,0.5%,37.9%,59.5%,1.1%,1.0%,23.8%,16.7%,92.6%,305,51,16.7%,311,46,14.8%,No Data,No Data,No Data
+09X276,09,Leadership Institute,NO,X004,No,163,0,0,163,0.6%,36.8%,60.7%,0.0%,1.8%,27.0%,27.6%,96.9%,No Data,No Data,No Data,No Data,No Data,No Data,46,52.2%,61.4%
+09X294,09,The Walton Avenue School,NO,X064,No,497,497,0,0,1.0%,17.7%,78.3%,1.2%,1.8%,24.7%,25.4%,95.0%,156,95,60.9%,160,125,78.1%,No Data,No Data,No Data
+09X297,09,Morris Academy for Collaborative Studies,NO,X400,No,394,0,0,394,0.8%,25.1%,72.3%,0.8%,1.0%,27.4%,20.6%,93.1%,No Data,No Data,No Data,No Data,No Data,No Data,100,68.0%,69.0%
+09X303,09,I.S. X303 Leadership & Community Service,NO,X082,No,320,0,320,0,0.6%,23.1%,75.3%,0.6%,0.3%,32.2%,19.1%,99.7%,273,85,31.1%,273,51,18.7%,No Data,No Data,No Data
+09X311,09,Lucero Elementary School,NO,X064,No,410,410,0,0,1.0%,9.8%,87.6%,0.7%,1.0%,22.0%,52.2%,96.3%,189,48,25.4%,190,36,18.9%,No Data,No Data,No Data
+09X313,09,I.S. 313 School of Leadership Development,NO,X147,No,308,0,308,0,0.3%,32.1%,66.6%,0.0%,1.0%,22.7%,35.1%,74.7%,261,33,12.6%,291,23,7.9%,No Data,No Data,No Data
+09X323,09,Bronx Writing Academy,NO,X022,No,451,0,451,0,1.6%,32.6%,63.0%,0.9%,2.0%,22.6%,27.3%,95.3%,382,66,17.3%,366,32,8.7%,No Data,No Data,No Data
+09X324,09,Bronx Early College Academy for Teaching & Learning,NO,X166,No,549,0,273,276,1.6%,28.2%,68.7%,0.5%,0.9%,18.4%,13.1%,83.1%,243,51,21.0%,238,24,10.1%,68,92.6%,94.9%
+09X325,09,Urban Science Academy,NO,X145,No,254,0,254,0,1.6%,33.5%,63.8%,0.4%,0.8%,26.0%,33.9%,74.4%,242,14,5.8%,267,9,3.4%,No Data,No Data,No Data
+09X327,09,Comprehensive Model School Project M.S. 327,NO,X240,No,719,0,295,424,0.6%,20.9%,77.7%,0.3%,0.6%,22.8%,12.1%,86.5%,276,96,34.8%,281,119,42.3%,111,84.7%,No Data
+09X328,09,New Millennium Business Academy Middle School,NO,X145,No,199,0,199,0,0.5%,29.6%,68.3%,0.5%,1.0%,28.6%,23.6%,81.4%,177,22,12.4%,178,15,8.4%,s,s,s
+09X329,09,DreamYard Preparatory School,NO,X410,No,285,0,0,285,0.0%,33.0%,66.0%,0.4%,0.7%,24.2%,24.9%,100.0%,No Data,No Data,No Data,No Data,No Data,No Data,69,56.5%,59.3%
+09X339,09,I.S. 339,NO,X147,No,491,0,491,0,1.4%,27.9%,69.5%,0.2%,1.0%,27.3%,33.4%,92.5%,412,45,10.9%,450,40,8.9%,No Data,No Data,No Data
+09X350,09,New Directions Secondary School,NO,X410,No,251,0,139,112,0.4%,28.7%,67.3%,3.6%,0.0%,33.9%,36.7%,100.0%,84,2,2.4%,84,1,1.2%,s,s,s
+09X365,09,Academy for Language and Technology,NO,X082,No,314,0,0,314,0.0%,0.3%,99.7%,0.0%,0.0%,6.1%,66.9%,98.1%,No Data,No Data,No Data,No Data,No Data,No Data,73,93.2%,90.9%
+09X403,09,Bronx International High School,NO,X400,No,394,0,0,394,2.8%,16.2%,77.4%,1.3%,2.3%,3.3%,85.0%,84.3%,No Data,No Data,No Data,No Data,No Data,No Data,83,72.3%,84.0%
+09X404,09,School for Excellence,NO,X400,No,387,0,0,387,1.6%,25.6%,70.5%,1.3%,1.0%,27.9%,28.7%,85.8%,No Data,No Data,No Data,No Data,No Data,No Data,81,56.8%,68.6%
+09X412,09,Bronx High School of Business,NO,X410,No,287,0,0,287,2.8%,22.6%,71.1%,1.0%,2.4%,22.3%,38.0%,100.0%,No Data,No Data,No Data,No Data,No Data,No Data,64,51.6%,60.8%
+09X413,09,Bronx High School for Medical Science,NO,X410,No,410,0,145,265,8.5%,29.0%,59.5%,1.5%,1.5%,18.0%,10.2%,100.0%,133,61,45.9%,132,52,39.4%,78,94.9%,90.8%
+09X443,09,THE FAMILY SCHOOL,NO,X090,No,524,524,0,0,5.0%,27.3%,66.0%,0.6%,1.1%,19.5%,35.3%,90.1%,225,43,19.1%,235,59,25.1%,No Data,No Data,No Data
+09X449,09,GRANT AVENUE ELEMENTARY SCHOOL,NO,X166,No,444,444,0,0,4.5%,28.4%,62.2%,2.9%,2.0%,27.5%,23.4%,99.1%,187,36,19.3%,185,57,30.8%,No Data,No Data,No Data
+09X454,09,SCIENCE AND TECHNOLOGY ACADEMY: A MOTT HALL SCHOOL,NO,X166,No,433,0,433,0,2.8%,27.0%,69.7%,0.2%,0.2%,22.4%,20.3%,86.8%,397,146,36.8%,405,126,31.1%,No Data,No Data,No Data
+09X457,09,SHERIDAN ACADEMY FOR YOUNG LEADERS,NO,X090,No,570,570,0,0,0.9%,30.4%,66.5%,0.4%,1.9%,20.2%,21.1%,94.4%,275,51,18.5%,283,82,29.0%,No Data,No Data,No Data
+09X517,09,Frederick Douglass Academy III High School,NO,X148,No,409,0,0,409,0.2%,44.5%,51.8%,1.7%,1.7%,21.8%,14.2%,86.3%,No Data,No Data,No Data,No Data,No Data,No Data,90,65.6%,77.1%
+09X543,09,High School for Violin and Dance,NO,X400,No,288,0,0,288,0.7%,35.1%,62.8%,0.3%,1.0%,26.7%,16.7%,91.0%,No Data,No Data,No Data,No Data,No Data,No Data,69,66.7%,68.2%
+09X555,09,Mount Eden Children's Academy,NO,X240,No,432,432,0,0,0.2%,22.7%,75.5%,1.2%,0.5%,15.5%,19.9%,94.2%,174,66,37.9%,171,75,43.9%,No Data,No Data,No Data
+09X564,09,Claremont International HS,NO,X410,No,377,0,0,377,7.7%,20.7%,68.2%,0.8%,2.7%,3.7%,76.1%,100.0%,No Data,No Data,No Data,No Data,No Data,No Data,67,70.1%,0.0%
+09X568,09,Young Women's Leadership School of the Bronx,NO,X117,No,400,0,256,144,3.2%,35.0%,59.2%,1.8%,0.7%,18.0%,6.5%,100.0%,206,106,51.5%,203,62,30.5%,No Data,No Data,No Data
+10X015,10,P.S. X015 Institute for Environmental Learning,NO,X015,No,505,315,190,0,1.2%,12.9%,84.8%,1.0%,0.2%,22.4%,8.7%,100.0%,323,126,39.0%,324,144,44.4%,No Data,No Data,No Data
+10X020,10,P.S. 20 P.O.George J. Werdan III,NO,X020,No,1075,740,335,0,9.8%,9.4%,72.2%,2.1%,6.5%,26.1%,21.4%,93.8%,656,164,25.0%,670,123,18.4%,No Data,No Data,No Data
+10X045,10,Thomas C. Giordano Middle School 45,NO,X045,No,717,0,717,0,1.4%,16.2%,78.0%,0.7%,3.8%,18.5%,18.7%,97.4%,662,138,20.8%,623,27,4.3%,No Data,No Data,No Data
+10X077,10,Bedford Park Elementary School,NO,X177,No,294,294,0,0,11.2%,7.1%,68.7%,2.0%,10.9%,12.6%,28.2%,91.5%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+10X080,10,J.H.S. 080 The Mosholu Parkway,NO,X080,No,655,0,655,0,13.9%,12.7%,66.6%,0.8%,6.1%,20.6%,34.5%,86.9%,602,123,20.4%,637,77,12.1%,No Data,No Data,No Data
+10X095,10,P.S. 095 Sheila Mencher,NO,X095,No,1329,859,470,0,6.5%,17.2%,70.6%,1.8%,3.9%,20.2%,19.9%,100.0%,848,258,30.4%,813,169,20.8%,No Data,No Data,No Data
+10X213,10,Bronx Engineering and Technology Academy,NO,X475,No,403,0,0,403,4.0%,28.8%,63.0%,1.5%,2.7%,25.1%,13.6%,93.5%,No Data,No Data,No Data,No Data,No Data,No Data,90,76.7%,67.7%
+10X225,10,Theatre Arts Production Company School,NO,X137,No,615,0,201,414,1.1%,28.6%,66.2%,1.8%,2.3%,24.7%,6.2%,100.0%,177,58,32.8%,174,42,24.1%,78,79.5%,91.8%
+10X237,10,"The Marie Curie School for Medicine, Nursing, and Health Professions",NO,X143,No,533,0,0,533,3.2%,32.8%,58.7%,2.4%,2.8%,20.3%,12.6%,100.0%,No Data,No Data,No Data,No Data,No Data,No Data,123,74.0%,77.3%
+10X243,10,West Bronx Academy for the Future,NO,X435,No,605,0,272,333,1.7%,18.5%,77.5%,0.3%,2.0%,27.6%,11.9%,92.4%,250,88,35.2%,255,38,14.9%,68,86.8%,81.4%
+10X244,10,The New School for Leadership and Journalism,NO,X143,No,716,0,716,0,3.1%,9.8%,83.1%,1.0%,3.1%,24.2%,21.1%,93.4%,671,276,41.1%,623,142,22.8%,No Data,No Data,No Data
+10X264,10,Bronx Academy for Software Engineering (BASE),NO,X660,No,436,0,0,436,6.9%,28.7%,59.4%,2.5%,2.5%,28.0%,6.4%,100.0%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+10X268,10,Kingsbridge International High School,NO,X430,No,487,0,0,487,6.4%,3.3%,86.2%,0.4%,3.7%,4.3%,78.9%,84.4%,No Data,No Data,No Data,No Data,No Data,No Data,149,45.6%,64.5%
+10X280,10,P.S./M.S. 280 Mosholu Parkway,NO,X080,No,891,559,332,0,9.9%,9.0%,74.7%,0.4%,5.9%,27.6%,14.9%,93.4%,567,199,35.1%,580,200,34.5%,No Data,No Data,No Data
+10X284,10,Bronx School of Law and Finance,NO,X475,No,394,0,0,394,1.5%,27.7%,67.8%,1.0%,2.0%,24.4%,17.0%,82.2%,No Data,No Data,No Data,No Data,No Data,No Data,95,67.4%,81.2%
+10X291,10,P.S. 291,NO,X015,No,663,663,0,0,0.8%,10.6%,88.1%,0.3%,0.3%,16.7%,25.2%,98.6%,321,118,36.8%,331,110,33.2%,No Data,No Data,No Data
+10X306,10,P.S. 306,NO,X306,No,709,709,0,0,1.0%,24.4%,73.6%,0.1%,0.8%,20.2%,15.2%,100.0%,368,76,20.7%,377,71,18.8%,No Data,No Data,No Data
+10X331,10,The Bronx School of Young Leaders,NO,X306,No,391,0,391,0,1.5%,21.2%,76.2%,0.0%,1.0%,24.6%,19.7%,73.9%,335,74,22.1%,346,45,13.0%,No Data,No Data,No Data
+10X342,10,International School for Liberal Arts,NO,X430,No,533,0,146,387,0.0%,0.2%,99.4%,0.0%,0.4%,8.4%,62.5%,85.2%,126,20,15.9%,142,12,8.5%,100,71.0%,72.1%
+10X344,10,Ampark Neighborhood,NO,X095,No,398,398,0,0,4.0%,14.1%,63.3%,3.0%,15.6%,16.6%,4.0%,50.0%,196,77,39.3%,193,88,45.6%,No Data,No Data,No Data
+10X351,10,Bronx Collaborative High School,NO,X440,No,488,0,0,488,2.0%,30.9%,60.7%,2.9%,3.5%,21.7%,20.1%,83.2%,No Data,No Data,No Data,No Data,No Data,No Data,s,s,s
+10X353,10,World View High School,NO,X440,No,449,0,0,449,0.9%,24.1%,71.5%,2.2%,1.3%,17.8%,30.5%,84.9%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+10X363,10,ACADEMY FOR PERSONAL LEADERSHIP AND EXCELLENCE,NO,X115,No,503,0,503,0,2.2%,10.7%,85.3%,0.4%,1.4%,25.2%,33.4%,93.8%,450,92,20.4%,457,25,5.5%,No Data,No Data,No Data
+10X368,10,In-Tech Academy (M.S. / High School 368),NO,X368,No,945,0,459,486,3.9%,8.9%,81.5%,1.5%,4.2%,19.3%,16.2%,90.6%,438,138,31.5%,282,49,17.4%,160,84.4%,93.9%
+10X374,10,Knowledge and Power Preparatory Academy International High School (Kappa),NO,X435,No,473,0,0,473,3.0%,28.8%,63.2%,2.7%,2.3%,25.4%,12.3%,88.8%,No Data,No Data,No Data,No Data,No Data,No Data,138,90.6%,85.2%
+10X382,10,"Elementary School for Math, Science, and Technology",NO,X079,No,290,290,0,0,0.0%,24.8%,74.1%,0.7%,0.3%,14.5%,33.1%,97.2%,135,20,14.8%,138,34,24.6%,No Data,No Data,No Data
+10X386,10,School for Environmental Citizenship,NO,X079,No,617,617,0,0,0.5%,15.4%,82.7%,0.2%,1.3%,17.2%,31.8%,98.9%,235,42,17.9%,241,33,13.7%,No Data,No Data,No Data
+10X390,10,M.S. 390,NO,X026,No,522,0,522,0,1.1%,12.8%,85.4%,0.2%,0.4%,26.8%,26.4%,96.6%,447,104,23.3%,472,70,14.8%,No Data,No Data,No Data
+10X391,10,The Angelo Patri Middle School,NO,X137,No,528,0,528,0,1.3%,21.6%,76.1%,0.4%,0.6%,31.3%,37.3%,83.1%,460,68,14.8%,491,30,6.1%,No Data,No Data,No Data
+10X396,10,P.S. 396,NO,X026,No,349,349,0,0,0.3%,19.8%,77.1%,0.9%,2.0%,25.8%,24.1%,92.3%,159,36,22.6%,171,31,18.1%,No Data,No Data,No Data
+10X397,10,English Language Learners and International Support Preparatory Academy (ELLIS),NO,X475,Yes,384,0,0,384,1.0%,15.4%,79.9%,1.0%,2.6%,0.8%,78.1%,75.3%,No Data,No Data,No Data,No Data,No Data,No Data,117,28.2%,19.8%
+10X433,10,High School for Teaching and the Professions,NO,X430,No,462,0,0,462,2.2%,17.1%,76.8%,1.3%,2.6%,25.3%,20.8%,81.8%,No Data,No Data,No Data,No Data,No Data,No Data,112,68.8%,82.9%
+10X434,10,Belmont Preparatory High School,NO,X435,No,412,0,0,412,2.9%,26.2%,68.9%,0.7%,1.2%,21.1%,9.5%,88.3%,No Data,No Data,No Data,No Data,No Data,No Data,93,82.8%,82.1%
+10X437,10,Fordham High School for the Arts,NO,X435,No,375,0,0,375,1.3%,34.9%,59.5%,2.4%,1.9%,19.2%,2.7%,88.0%,No Data,No Data,No Data,No Data,No Data,No Data,75,97.3%,84.9%
+10X438,10,Fordham Leadership Academy for Business and Technology,NO,X435,No,349,0,0,349,2.0%,25.8%,68.8%,0.3%,3.2%,28.4%,20.1%,84.5%,No Data,No Data,No Data,No Data,No Data,No Data,111,64.0%,67.0%
+10X439,10,Bronx High School for Law and Community Service,NO,X435,No,423,0,0,423,2.1%,24.8%,68.8%,1.9%,2.4%,26.7%,14.4%,86.5%,No Data,No Data,No Data,No Data,No Data,No Data,94,77.7%,79.6%
+10X440,10,DeWitt Clinton High School,NO,X440,No,1476,0,0,1476,8.9%,32.1%,53.4%,2.1%,3.5%,15.7%,24.0%,77.8%,No Data,No Data,No Data,No Data,No Data,No Data,653,48.4%,57.7%
+10X442,10,"Celia Cruz Bronx High School of Music, The",NO,X430,No,428,0,0,428,2.1%,24.5%,68.5%,4.0%,0.9%,19.6%,5.1%,85.7%,No Data,No Data,No Data,No Data,No Data,No Data,92,91.3%,93.0%
+10X447,10,CRESTON ACADEMY,NO,X079,No,474,0,474,0,2.1%,10.5%,86.1%,0.2%,1.1%,20.9%,34.4%,90.3%,433,113,26.1%,460,93,20.2%,No Data,No Data,No Data
+10X459,10,EAST FORDHAM ACADEMY FOR THE ARTS,NO,X115,No,264,0,264,0,1.5%,14.8%,82.6%,0.8%,0.4%,27.7%,24.2%,89.8%,247,23,9.3%,248,5,2.0%,No Data,No Data,No Data
+10X477,10,Marble Hill High School for International Studies,NO,X475,No,429,0,0,429,9.6%,21.7%,63.2%,0.5%,5.1%,11.2%,27.3%,90.4%,No Data,No Data,No Data,No Data,No Data,No Data,113,92.9%,96.0%
+10X524,10,Crotona International High School,NO,X660,No,341,0,0,341,1.8%,8.2%,85.9%,1.2%,2.9%,4.4%,85.3%,100.0%,No Data,No Data,No Data,No Data,No Data,No Data,80,40.0%,100.0%
+10X546,10,Bronx Theatre High School,NO,X475,No,395,0,0,395,1.0%,31.1%,64.8%,1.5%,1.5%,23.3%,9.6%,85.1%,No Data,No Data,No Data,No Data,No Data,No Data,87,72.4%,77.9%
+10X549,10,Discovery High School,NO,X430,No,487,0,0,487,2.7%,17.2%,75.8%,1.4%,2.9%,28.7%,17.0%,81.7%,No Data,No Data,No Data,No Data,No Data,No Data,121,76.0%,70.8%
+10X565,10,High School for Energy and Technology,NO,X660,No,412,0,0,412,3.6%,24.3%,69.7%,1.5%,1.0%,24.3%,13.3%,100.0%,No Data,No Data,No Data,No Data,No Data,No Data,93,81.7%,No Data
+10X696,10,High School of American Studies at Lehman College,NO,X905,No,377,0,0,377,21.8%,3.7%,13.0%,5.6%,56.0%,2.7%,0.0%,23.6%,No Data,No Data,No Data,No Data,No Data,No Data,96,100.0%,100.0%
+11X111,11,P.S. 111 Seton Falls,NO,X111,No,670,670,0,0,0.9%,58.8%,37.8%,1.5%,1.0%,27.5%,6.7%,93.6%,288,47,16.3%,286,34,11.9%,No Data,No Data,No Data
+11X127,11,J.H.S. 127 The Castle Hill,NO,X127,No,776,0,776,0,31.2%,23.6%,39.3%,1.2%,4.8%,15.7%,16.9%,62.4%,733,275,37.5%,708,157,22.2%,No Data,No Data,No Data
+11X144,11,J.H.S. 144 Michelangelo,NO,X144,No,497,0,497,0,3.8%,62.4%,31.6%,0.4%,1.8%,27.2%,8.2%,61.2%,451,108,23.9%,460,37,8.0%,No Data,No Data,No Data
+11X153,11,P.S. 153 Helen Keller,NO,X153,No,688,688,0,0,9.4%,59.7%,24.4%,1.7%,4.7%,12.8%,1.7%,65.4%,366,191,52.2%,363,195,53.7%,No Data,No Data,No Data
+11X160,11,P.S. 160 Walt Disney,NO,X160,No,417,417,0,0,2.4%,60.9%,32.1%,3.1%,1.4%,23.0%,4.8%,74.6%,164,60,36.6%,161,28,17.4%,No Data,No Data,No Data
+11X178,11,P.S. 178 - Dr. Selman Waksman,NO,X178,No,484,484,0,0,2.5%,59.9%,31.4%,1.4%,4.8%,22.9%,4.3%,78.9%,261,76,29.1%,260,83,31.9%,No Data,No Data,No Data
+11X181,11,I.S. 181 Pablo Casals,NO,X181,No,850,0,850,0,4.5%,61.6%,28.6%,1.8%,3.5%,26.1%,2.1%,77.6%,808,344,42.6%,729,214,29.4%,No Data,No Data,No Data
+11X189,11,Cornerstone Academy for Social Action,NO,X189,No,395,395,0,0,0.5%,52.2%,41.5%,2.3%,3.5%,17.0%,4.6%,90.6%,167,47,28.1%,168,59,35.1%,No Data,No Data,No Data
+11X194,11,PS/MS 194,NO,X194,No,1345,866,479,0,35.5%,7.5%,50.3%,1.9%,4.8%,14.9%,18.5%,100.0%,897,305,34.0%,902,328,36.4%,No Data,No Data,No Data
+11X249,11,Bronx Health Sciences High School,NO,X455,No,322,0,0,322,9.3%,45.3%,36.3%,6.2%,2.8%,11.8%,6.5%,77.3%,No Data,No Data,No Data,No Data,No Data,No Data,61,90.2%,98.4%
+11X253,11,Bronx High School for Writing and Communication Arts,NO,X425,No,317,0,0,317,3.8%,45.7%,46.1%,1.9%,2.5%,25.6%,12.0%,100.0%,No Data,No Data,No Data,No Data,No Data,No Data,106,67.9%,70.5%
+11X265,11,Bronx Lab School,NO,X425,No,415,0,0,415,2.7%,43.1%,50.1%,1.4%,2.7%,26.7%,12.3%,100.0%,No Data,No Data,No Data,No Data,No Data,No Data,105,66.7%,83.2%
+11X270,11,Academy for Scholarship and Entrepreneurship: A College Board School,NO,X362,No,370,0,0,370,3.5%,62.2%,30.0%,2.7%,1.6%,22.2%,7.3%,78.6%,No Data,No Data,No Data,No Data,No Data,No Data,92,63.0%,72.1%
+11X275,11,High School of Computers and Technology,NO,X425,No,525,0,0,525,6.3%,34.3%,55.6%,1.9%,1.9%,25.5%,6.9%,100.0%,No Data,No Data,No Data,No Data,No Data,No Data,115,82.6%,86.5%
+11X287,11,The Forward School,NO,X113,No,263,0,263,0,2.7%,55.9%,34.2%,5.7%,1.5%,24.3%,10.6%,86.3%,244,49,20.1%,253,14,5.5%,No Data,No Data,No Data
+11X288,11,Collegiate Institute for Math and Science,NO,X415,No,637,0,0,637,11.8%,33.8%,42.2%,2.4%,9.9%,17.9%,3.1%,67.8%,No Data,No Data,No Data,No Data,No Data,No Data,193,83.4%,83.9%
+11X289,11,The Young Scholars Academy of The Bronx,NO,X113,No,319,0,319,0,4.7%,66.8%,25.1%,2.2%,1.3%,27.6%,11.3%,83.4%,288,48,16.7%,291,24,8.2%,No Data,No Data,No Data
+11X290,11,Bronx Academy of Health Careers,NO,X425,No,427,0,0,427,4.7%,37.0%,54.1%,2.1%,2.1%,22.5%,11.2%,100.0%,No Data,No Data,No Data,No Data,No Data,No Data,115,76.5%,77.1%
+11X299,11,Astor Collegiate Academy,NO,X415,No,500,0,0,500,6.0%,32.0%,46.6%,3.2%,12.2%,24.0%,5.6%,78.6%,No Data,No Data,No Data,No Data,No Data,No Data,99,71.7%,74.7%
+11X326,11,Bronx Green Middle School,NO,X135,No,394,0,394,0,6.9%,24.1%,57.1%,0.8%,11.2%,22.8%,16.0%,95.4%,371,108,29.1%,334,70,21.0%,No Data,No Data,No Data
+11X355,11,Bronx Alliance Middle School,NO,X142,No,332,0,332,0,3.3%,59.9%,33.7%,1.5%,1.5%,24.7%,8.4%,81.9%,333,71,21.3%,337,25,7.4%,No Data,No Data,No Data
+11X357,11,Young Voices Academy of the Bronx,NO,X292,No,274,274,0,0,9.1%,12.8%,63.5%,0.7%,13.9%,15.0%,18.6%,86.9%,48,23,47.9%,51,21,41.2%,No Data,No Data,No Data
+11X370,11,School of Diplomacy,NO,X113,No,393,0,393,0,2.5%,57.3%,34.4%,2.8%,3.1%,31.8%,16.8%,93.9%,357,61,17.1%,350,14,4.0%,s,s,s
+11X418,11,Bronx High School for the Visual Arts,NO,X839,No,471,0,0,471,2.8%,29.3%,56.9%,0.6%,10.4%,30.1%,4.2%,75.2%,No Data,No Data,No Data,No Data,No Data,No Data,122,61.5%,72.7%
+11X455,11,Harry S Truman High School,NO,X455,No,2023,0,0,2023,2.7%,50.8%,42.5%,1.1%,2.9%,25.6%,7.1%,67.7%,No Data,No Data,No Data,No Data,No Data,No Data,497,69.0%,72.1%
+11X462,11,CORNERSTONE ACADEMY FOR SOCIAL ACTION MIDDLE SCHOOL (CASA),NO,X189,No,264,0,264,0,0.8%,65.5%,29.9%,1.1%,2.7%,27.3%,1.5%,82.2%,190,54,28.4%,187,47,25.1%,No Data,No Data,No Data
+11X468,11,PELHAM ACADEMY OF ACADEMICS AND COMMUNITY ENGAGEMENT,NO,X135,No,333,0,333,0,7.8%,16.2%,61.9%,0.3%,13.8%,17.1%,15.0%,81.7%,298,113,37.9%,315,73,23.2%,No Data,No Data,No Data
+11X481,11, The STEAM Bridge School,NO,X311,No,101,101,0,0,3.0%,16.8%,66.3%,2.0%,11.9%,18.8%,16.8%,89.1%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+11X483,11, The Matilda Avenue School,NO,X314,No,75,75,0,0,2.7%,52.0%,32.0%,4.0%,9.3%,6.7%,4.0%,84.0%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+11X498,11,PS/MS 11X498 - VAN NEST ACADEMY,NO,X498,No,638,354,284,0,7.7%,11.6%,65.0%,0.9%,14.7%,21.5%,6.6%,77.6%,447,187,41.8%,448,184,41.1%,No Data,No Data,No Data
+11X508,11,Bronxdale High School,NO,X415,No,445,0,0,445,3.6%,30.1%,58.2%,1.1%,7.0%,21.6%,7.9%,78.2%,No Data,No Data,No Data,No Data,No Data,No Data,115,77.4%,25.0%
+11X509,11,High School of Language and Innovation,NO,X415,No,359,0,0,359,17.3%,9.2%,55.7%,2.5%,15.3%,2.5%,81.6%,95.3%,No Data,No Data,No Data,No Data,No Data,No Data,109,65.1%,100.0%
+11X513,11,New World High School,NO,X362,No,400,0,0,400,11.2%,13.5%,62.5%,3.5%,9.3%,5.0%,65.5%,92.8%,No Data,No Data,No Data,No Data,No Data,No Data,75,85.3%,82.4%
+11X514,11,The Bronxwood Preparatory Academy,NO,X362,No,402,0,0,402,4.0%,66.9%,26.1%,1.2%,1.7%,21.1%,7.2%,70.4%,No Data,No Data,No Data,No Data,No Data,No Data,101,67.3%,83.5%
+11X529,11,One World Middle School at Edenwald,NO,X142,No,343,0,343,0,2.9%,55.7%,33.5%,5.2%,2.6%,23.3%,7.0%,78.4%,322,108,33.5%,324,74,22.8%,No Data,No Data,No Data
+11X532,11,Baychester Middle School,NO,X142,No,304,0,304,0,1.0%,66.4%,30.3%,2.0%,0.3%,21.7%,3.6%,79.9%,289,57,19.7%,286,25,8.7%,No Data,No Data,No Data
+11X534,11,Pre-K Center District 11,YES,"X292, X311, X314",No,122,122,0,0,13.9%,21.3%,50.0%,1.6%,13.1%,1.6%,0.0%,60.7%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+11X542,11,Pelham Preparatory Academy,NO,X415,No,493,0,0,493,5.9%,30.2%,51.5%,2.8%,9.5%,20.9%,3.9%,72.4%,No Data,No Data,No Data,No Data,No Data,No Data,120,89.2%,93.5%
+11X544,11,High School for Contemporary Arts,NO,X425,No,476,0,0,476,1.7%,34.7%,61.3%,1.5%,0.8%,28.2%,10.7%,100.0%,No Data,No Data,No Data,No Data,No Data,No Data,124,63.7%,74.2%
+11X545,11,Bronx Aerospace High School,NO,X425,No,360,0,0,360,4.2%,34.2%,56.7%,1.9%,3.1%,28.6%,16.7%,100.0%,No Data,No Data,No Data,No Data,No Data,No Data,91,71.4%,66.7%
+11X556,11,Bronx Park Middle School,NO,X135,No,394,0,394,0,8.4%,21.1%,59.9%,1.3%,9.4%,19.5%,17.3%,85.0%,378,122,32.3%,396,58,14.6%,No Data,No Data,No Data
+11X566,11,Pelham Gardens Middle School,NO,X144,No,469,0,469,0,2.6%,61.4%,30.5%,2.6%,3.0%,23.5%,8.1%,66.1%,438,123,28.1%,454,55,12.1%,No Data,No Data,No Data
+11X567,11,Linden Tree Elementary School,NO,X127,No,343,343,0,0,15.2%,17.5%,61.8%,2.0%,3.5%,19.0%,25.7%,100.0%,108,35,32.4%,109,23,21.1%,No Data,No Data,No Data
+12X044,12,P.S. 044 David C. Farragut,NO,X044,No,274,274,0,0,0.0%,37.6%,60.9%,0.4%,1.1%,19.3%,14.6%,96.4%,104,25,24.0%,108,25,23.1%,No Data,No Data,No Data
+12X057,12,P.S. 057 Crescent,NO,X057,No,558,558,0,0,0.2%,24.2%,69.5%,5.4%,0.7%,24.4%,14.0%,100.0%,205,38,18.5%,205,29,14.1%,No Data,No Data,No Data
+12X061,12,P.S. 061 Francisco Oller,NO,X061,No,293,293,0,0,0.7%,19.1%,78.5%,1.4%,0.3%,16.7%,9.6%,95.2%,143,26,18.2%,144,21,14.6%,No Data,No Data,No Data
+12X066,12,P.S. 066 School of Higher Expectations,NO,X066,No,706,706,0,0,0.6%,24.1%,72.4%,0.6%,2.4%,18.6%,15.3%,100.0%,291,35,12.0%,293,45,15.4%,No Data,No Data,No Data
+12X067,12,P.S. 067 Mohegan School,NO,X067,No,605,605,0,0,0.0%,25.1%,73.2%,1.0%,0.7%,20.3%,9.4%,100.0%,254,82,32.3%,266,75,28.2%,No Data,No Data,No Data
+12X092,12,P.S. 092 Bronx,NO,X092,No,436,436,0,0,0.9%,18.3%,77.5%,1.1%,2.1%,21.3%,21.6%,90.4%,179,19,10.6%,191,22,11.5%,No Data,No Data,No Data
+12X098,12,J.H.S. 098 Herman Ridder,NO,X098,No,210,0,210,0,2.9%,22.9%,72.9%,0.5%,1.0%,26.7%,29.0%,94.8%,159,21,13.2%,139,16,11.5%,No Data,No Data,No Data
+12X129,12,P.S. 129 Twin Parks Upper,NO,X129,No,534,0,534,0,3.4%,32.2%,63.5%,0.6%,0.4%,27.7%,12.9%,89.9%,477,131,27.5%,487,90,18.5%,No Data,No Data,No Data
+12X134,12,P.S. 134 George F. Bristow,NO,X134,No,691,691,0,0,0.9%,43.7%,53.1%,1.0%,1.3%,16.9%,12.6%,97.1%,287,70,24.4%,287,44,15.3%,No Data,No Data,No Data
+12X190,12,E.S.M.T- I.S. 190,NO,X061,No,246,0,246,0,1.2%,27.2%,69.9%,0.8%,0.8%,30.1%,9.8%,86.6%,219,60,27.4%,219,33,15.1%,No Data,No Data,No Data
+12X195,12,P.S. 195,NO,X077,No,1005,1005,0,0,1.8%,14.7%,81.4%,1.9%,0.2%,21.5%,30.2%,100.0%,466,48,10.3%,471,39,8.3%,No Data,No Data,No Data
+12X196,12,P.S. 196,NO,X077,No,961,961,0,0,1.0%,17.8%,77.0%,2.9%,1.2%,18.0%,30.9%,100.0%,450,81,18.0%,464,68,14.7%,No Data,No Data,No Data
+12X211,12,P.S. 211,NO,X193,No,591,357,234,0,0.2%,13.0%,86.1%,0.2%,0.5%,19.8%,23.4%,90.5%,318,59,18.6%,353,62,17.6%,No Data,No Data,No Data
+12X212,12,P.S. 212,NO,X198,No,422,238,184,0,0.7%,36.7%,60.2%,1.7%,0.7%,14.9%,21.6%,96.7%,250,33,13.2%,259,40,15.4%,No Data,No Data,No Data
+12X214,12,P.S. 214,NO,X167,No,1064,605,459,0,3.4%,23.8%,69.5%,1.7%,1.6%,18.9%,10.7%,89.9%,675,142,21.0%,653,110,16.8%,No Data,No Data,No Data
+12X217,12,School of Performing Arts,NO,X116,No,299,0,299,0,2.7%,32.8%,63.2%,1.0%,0.3%,29.1%,17.4%,93.0%,248,44,17.7%,253,24,9.5%,No Data,No Data,No Data
+12X242,12,Mott Hall V,NO,X423,No,666,0,301,365,3.9%,17.1%,76.9%,1.5%,0.6%,25.1%,12.0%,84.7%,281,65,23.1%,248,20,8.1%,96,88.5%,84.3%
+12X248,12,"Metropolitan High School, The",NO,X099,No,436,0,0,436,1.4%,25.5%,71.6%,0.9%,0.7%,30.0%,22.9%,81.0%,No Data,No Data,No Data,No Data,No Data,No Data,74,56.8%,72.6%
+12X251,12,Explorations Academy,NO,X098,No,344,0,0,344,1.5%,25.6%,71.5%,0.3%,1.2%,26.7%,20.9%,92.7%,No Data,No Data,No Data,No Data,No Data,No Data,85,64.7%,70.4%
+12X267,12,Bronx Latin,NO,X158,No,561,0,233,328,1.4%,19.4%,77.7%,0.5%,0.9%,25.5%,13.4%,95.2%,212,56,26.4%,143,21,14.7%,62,90.3%,89.3%
+12X271,12,East Bronx Academy for the Future,NO,X973,No,673,0,264,409,0.9%,27.6%,69.4%,1.6%,0.4%,30.9%,11.4%,87.7%,237,45,19.0%,236,28,11.9%,99,82.8%,82.2%
+12X273,12,Frederick Douglass Academy V. Middle School,NO,X057,No,248,0,248,0,2.0%,32.7%,63.3%,0.4%,1.6%,25.0%,8.9%,74.6%,214,48,22.4%,225,15,6.7%,No Data,No Data,No Data
+12X286,12,Fannie Lou Hamer Middle School,NO,X066,No,272,0,272,0,1.1%,25.4%,71.0%,0.4%,2.2%,25.4%,15.8%,79.0%,244,48,19.7%,254,9,3.5%,No Data,No Data,No Data
+12X300,12,The School of Science and Applied Learning,NO,X129,No,615,615,0,0,0.5%,36.7%,61.5%,0.3%,1.0%,29.3%,15.1%,91.1%,262,49,18.7%,266,38,14.3%,No Data,No Data,No Data
+12X314,12,Fairmont Neighborhood School,NO,X050,No,321,321,0,0,0.3%,38.3%,59.2%,0.9%,1.2%,27.7%,13.7%,94.4%,137,10,7.3%,136,7,5.1%,No Data,No Data,No Data
+12X316,12,Kappa III,NO,X129,No,375,0,375,0,1.9%,30.7%,64.8%,1.1%,1.6%,23.5%,8.3%,85.3%,351,115,32.8%,292,53,18.2%,No Data,No Data,No Data
+12X318,12,"I.S. X318 Math, Science & Technology Through Arts",NO,X193,No,283,0,283,0,1.4%,26.5%,70.7%,0.4%,1.1%,29.7%,16.6%,95.1%,245,55,22.4%,245,26,10.6%,No Data,No Data,No Data
+12X341,12,Accion Academy,NO,X044,No,131,0,131,0,1.5%,25.2%,72.5%,0.0%,0.8%,26.0%,16.0%,85.5%,122,38,31.1%,126,11,8.7%,No Data,No Data,No Data
+12X372,12,Urban Assembly School for Wildlife Conservation,NO,X067,No,585,0,217,368,1.2%,24.6%,71.3%,0.9%,2.1%,27.0%,12.0%,100.0%,182,23,12.6%,186,10,5.4%,79,72.2%,85.9%
+12X383,12,Emolior Academy,NO,X167,No,251,0,251,0,2.8%,21.5%,65.7%,7.2%,2.8%,29.5%,20.7%,86.1%,227,58,25.6%,238,34,14.3%,No Data,No Data,No Data
+12X384,12,Entrada Academy,NO,X116,No,266,0,266,0,2.3%,14.7%,80.1%,0.8%,2.3%,19.2%,40.6%,95.9%,210,21,10.0%,228,9,3.9%,No Data,No Data,No Data
+12X388,12,Pan American International High School at Monroe,NO,X420,No,456,0,0,456,0.0%,0.0%,100.0%,0.0%,0.0%,2.4%,87.3%,93.0%,No Data,No Data,No Data,No Data,No Data,No Data,61,83.6%,77.6%
+12X446,12,Arturo A. Schomburg Satellite Academy Bronx,NO,X401,Yes,164,0,0,164,0.0%,42.7%,53.7%,1.2%,2.4%,11.6%,10.4%,75.6%,No Data,No Data,No Data,No Data,No Data,No Data,95,9.5%,54.5%
+12X458,12,Samara Community School,NO,X050,No,172,172,0,0,0.0%,15.1%,83.1%,1.2%,0.6%,15.7%,20.3%,95.3%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+12X463,12,URBAN SCHOLARS COMMUNITY SCHOOL,NO,X198,No,279,279,0,0,0.7%,43.4%,55.2%,0.4%,0.4%,23.7%,17.6%,93.2%,115,29,25.2%,117,26,22.2%,No Data,No Data,No Data
+12X478,12,THE CINEMA SCHOOL,NO,X423,No,310,0,0,310,2.3%,21.3%,71.3%,2.6%,2.6%,16.1%,7.4%,83.2%,No Data,No Data,No Data,No Data,No Data,No Data,78,85.9%,94.8%
+12X479,12,BRONX CAREER AND COLLEGE PREPARATORY HIGH SCHOOL,NO,X158,No,296,0,0,296,1.0%,40.5%,55.4%,1.4%,1.7%,28.7%,18.2%,87.8%,No Data,No Data,No Data,No Data,No Data,No Data,91,40.7%,54.9%
+12X480,12,Bronx Regional High School,NO,X401,Yes,237,0,0,237,0.8%,35.4%,61.6%,0.0%,2.1%,15.2%,11.4%,80.2%,No Data,No Data,No Data,No Data,No Data,No Data,106,3.8%,42.4%
+12X511,12,Bronx Envision Academy,NO,X098,No,401,0,0,401,2.2%,33.7%,59.9%,2.2%,2.0%,23.7%,12.2%,84.0%,No Data,No Data,No Data,No Data,No Data,No Data,88,68.2%,25.0%
+12X521,12,The Metropolitan Soundview High School,NO,X420,No,423,0,0,423,3.3%,25.8%,67.8%,1.2%,1.9%,23.4%,14.2%,95.7%,No Data,No Data,No Data,No Data,No Data,No Data,126,72.2%,50.0%
+12X531,12,Archer Elementary School,NO,X102,No,497,497,0,0,11.5%,24.5%,59.2%,3.0%,1.8%,23.5%,21.5%,100.0%,228,56,24.6%,238,43,18.1%,No Data,No Data,No Data
+12X536,12,PS 536,NO,X102,No,448,448,0,0,6.3%,23.7%,65.8%,2.7%,1.6%,15.8%,20.1%,100.0%,184,35,19.0%,191,33,17.3%,No Data,No Data,No Data
+12X550,12,High School of World Cultures,NO,X420,No,440,0,0,440,10.0%,7.0%,78.2%,1.8%,3.0%,1.4%,88.2%,95.5%,No Data,No Data,No Data,No Data,No Data,No Data,104,45.2%,72.2%
+12X691,12,Bronx Little School,NO,X102,No,318,318,0,0,11.0%,19.2%,67.0%,1.9%,0.9%,23.6%,17.3%,91.2%,153,26,17.0%,160,36,22.5%,No Data,No Data,No Data
+12X692,12,Monroe Academy for Visual Arts & Design,NO,X420,No,352,0,0,352,0.9%,17.0%,78.1%,2.3%,1.7%,29.8%,27.8%,94.0%,No Data,No Data,No Data,No Data,No Data,No Data,99,38.4%,54.6%
+13K009,13,P.S. 009 Teunis G. Bergen,NO,K009,No,866,866,0,0,6.9%,43.2%,14.7%,6.8%,28.4%,15.8%,2.7%,40.5%,275,174,63.3%,268,128,47.8%,No Data,No Data,No Data
+13K020,13,P.S. 020 Clinton Hill,NO,K020,No,410,410,0,0,4.6%,50.5%,21.7%,5.9%,17.3%,13.7%,4.1%,62.0%,133,56,42.1%,130,50,38.5%,No Data,No Data,No Data
+13K044,13,P.S. 044 Marcus Garvey,NO,K044,No,205,205,0,0,2.4%,81.5%,12.2%,2.0%,2.0%,20.0%,7.3%,94.6%,74,18,24.3%,74,18,24.3%,No Data,No Data,No Data
+13K046,13,P.S. 046 Edward C. Blum,NO,K046,No,320,320,0,0,1.6%,51.2%,43.8%,1.9%,1.6%,26.6%,13.8%,90.0%,129,27,20.9%,132,30,22.7%,No Data,No Data,No Data
+13K054,13,P.S. 054 Samuel C. Barnes,NO,K054,No,242,242,0,0,3.3%,58.3%,32.6%,3.3%,2.5%,23.1%,12.0%,97.1%,82,9,11.0%,90,8,8.9%,No Data,No Data,No Data
+13K056,13,P.S. 056 Lewis H. Latimer,NO,K056,No,201,201,0,0,3.5%,74.6%,11.9%,2.0%,8.0%,17.4%,3.5%,79.1%,86,26,30.2%,86,16,18.6%,No Data,No Data,No Data
+13K067,13,P.S. 067 Charles A. Dorsey,NO,K067,No,223,223,0,0,8.5%,52.9%,35.9%,2.2%,0.4%,30.5%,10.8%,96.4%,117,25,21.4%,118,23,19.5%,No Data,No Data,No Data
+13K093,13,P.S. 093 William H. Prescott,NO,K093,No,291,291,0,0,21.6%,71.1%,4.1%,0.7%,2.4%,18.6%,11.7%,90.7%,103,28,27.2%,108,26,24.1%,No Data,No Data,No Data
+13K113,13,M.S. 113 Ronald Edmonds Learning Center,NO,K113,No,321,0,321,0,2.5%,69.5%,24.3%,0.9%,2.8%,30.2%,5.0%,91.0%,279,53,19.0%,243,21,8.6%,No Data,No Data,No Data
+13K133,13,P.S. 133 William A. Butler,NO,K317,No,742,742,0,0,2.8%,25.2%,34.2%,5.9%,31.8%,13.2%,4.3%,100.0%,250,132,52.8%,256,116,45.3%,No Data,No Data,No Data
+13K256,13,P.S. 256 Benjamin Banneker,NO,K256,No,267,267,0,0,1.9%,70.8%,25.1%,0.0%,2.2%,20.6%,8.6%,95.9%,105,37,35.2%,105,39,37.1%,No Data,No Data,No Data
+13K265,13,Dr. Susan S. McKinney Secondary School of the Arts,NO,K265,No,401,0,107,294,1.7%,69.8%,24.4%,3.2%,0.7%,22.4%,3.5%,79.3%,98,19,19.4%,98,4,4.1%,91,69.2%,85.7%
+13K266,13,M.S. K266 - Park Place Community Middle School,NO,K093,No,166,0,166,0,3.0%,78.3%,15.7%,0.6%,2.4%,33.1%,6.6%,77.1%,133,35,26.3%,137,18,13.1%,No Data,No Data,No Data
+13K270,13,P.S. 270 Johann DeKalb,NO,K270,No,134,134,0,0,4.5%,70.1%,23.1%,1.5%,0.7%,31.3%,6.7%,91.8%,47,10,21.3%,48,16,33.3%,No Data,No Data,No Data
+13K287,13,P.S. 287 Bailey K. Ashford,NO,K287,No,200,200,0,0,5.0%,70.0%,20.5%,3.5%,1.0%,24.0%,5.5%,94.0%,86,12,14.0%,86,6,7.0%,No Data,No Data,No Data
+13K301,13,Satellite East Middle School,NO,K305,No,105,0,105,0,15.2%,61.9%,15.2%,2.9%,4.8%,29.5%,17.1%,96.2%,85,15,17.6%,90,8,8.9%,No Data,No Data,No Data
+13K305,13,P.S. 305 Dr. Peter Ray,NO,K305,No,148,148,0,0,8.1%,76.4%,8.1%,4.7%,2.7%,21.6%,8.8%,93.9%,70,16,22.9%,71,15,21.1%,No Data,No Data,No Data
+13K313,13,Satellite West Middle School,NO,K611,No,137,0,137,0,6.6%,66.4%,24.1%,0.7%,2.2%,27.7%,2.2%,77.4%,116,43,37.1%,116,44,37.9%,No Data,No Data,No Data
+13K350,13,Urban Assembly High School of Music and Art,NO,K805,No,268,0,0,268,0.7%,77.2%,18.7%,1.9%,1.5%,24.6%,1.9%,85.8%,No Data,No Data,No Data,No Data,No Data,No Data,80,82.5%,72.2%
+13K351,13,The Urban Assembly Unison School,NO,K056,No,143,0,143,0,10.5%,72.7%,13.3%,0.7%,2.8%,29.4%,9.8%,86.0%,131,20,15.3%,138,8,5.8%,No Data,No Data,No Data
+13K412,13,"Brooklyn Community High School of Communication, Arts and Media",NO,K117,No,410,0,0,410,1.2%,74.1%,21.7%,2.4%,0.5%,23.7%,3.9%,82.7%,No Data,No Data,No Data,No Data,No Data,No Data,83,68.7%,85.3%
+13K419,13,"Science Skills Center High School for Science, Technology and the Creative Arts",NO,K805,No,544,0,0,544,6.1%,70.8%,17.5%,2.4%,3.3%,15.8%,4.6%,80.0%,No Data,No Data,No Data,No Data,No Data,No Data,139,87.8%,79.8%
+13K439,13,Brooklyn International High School,NO,K805,No,361,0,0,361,28.0%,20.2%,37.1%,0.0%,14.7%,3.9%,74.8%,100.0%,No Data,No Data,No Data,No Data,No Data,No Data,86,79.1%,90.4%
+13K483,13,The Urban Assembly School for Law and Justice,NO,K313,No,460,0,0,460,2.6%,68.0%,24.1%,3.7%,1.5%,16.3%,1.7%,76.1%,No Data,No Data,No Data,No Data,No Data,No Data,105,95.2%,92.3%
+13K492,13,Academy of Arts and Letters,NO,K020,No,517,328,189,0,7.2%,36.9%,15.7%,6.4%,33.8%,20.3%,0.8%,25.3%,184,111,60.3%,176,84,47.7%,No Data,No Data,No Data
+13K527,13,Urban Assembly Institute of Math and Science for Young Women,NO,K313,No,487,0,166,321,6.2%,72.1%,11.7%,1.0%,9.0%,17.9%,6.6%,81.1%,132,47,35.6%,134,23,17.2%,63,73.0%,94.4%
+13K553,13,Brooklyn Academy High School,NO,K458,Yes,135,0,0,135,0.0%,73.3%,20.0%,5.9%,0.7%,26.7%,0.0%,85.9%,No Data,No Data,No Data,No Data,No Data,No Data,67,19.4%,62.7%
+13K575,13,Bedford Stuyvesant Preparatory High School,NO,K458,Yes,122,0,0,122,0.0%,82.0%,15.6%,1.6%,0.8%,6.6%,3.3%,77.0%,No Data,No Data,No Data,No Data,No Data,No Data,53,32.1%,58.9%
+13K605,13,George Westinghouse Career and Technical Education High School,NO,K580,No,690,0,0,690,4.2%,70.9%,21.0%,1.7%,2.2%,20.4%,2.0%,76.8%,No Data,No Data,No Data,No Data,No Data,No Data,132,81.1%,84.3%
+13K616,13,Brooklyn High School for Leadership and Community Service,NO,K117,Yes,203,0,0,203,0.5%,69.5%,27.1%,0.5%,2.5%,18.7%,4.4%,84.7%,No Data,No Data,No Data,No Data,No Data,No Data,78,19.2%,27.0%
+13K674,13,"CITY POLYTECHNIC HIGH SCHOOL OF ENGINEERING, ARCHITECTURE, AND TECHNOLOGY",NO,K580,No,449,0,0,449,6.2%,71.3%,17.4%,2.2%,2.9%,17.8%,1.6%,74.4%,No Data,No Data,No Data,No Data,No Data,No Data,107,86.0%,89.2%
+13K691,13,FORT GREENE PREPARATORY ACADEMY,NO,K046,No,218,0,218,0,2.8%,61.0%,30.7%,1.8%,3.7%,24.8%,8.3%,81.2%,193,40,20.7%,193,14,7.3%,No Data,No Data,No Data
+13K869,13,District 13 PRE-K Center,NO,K611,No,56,56,0,0,7.1%,10.7%,19.6%,8.9%,53.6%,3.6%,0.0%,3.6%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+14K016,14,P.S. 016 Leonard Dunkly,NO,K016,No,232,232,0,0,0.4%,28.0%,69.4%,0.9%,1.3%,30.2%,7.3%,100.0%,94,18,19.1%,95,14,14.7%,No Data,No Data,No Data
+14K017,14,P.S. 017 Henry D. Woodworth,NO,K017,No,295,295,0,0,1.4%,4.1%,82.4%,1.4%,10.8%,29.8%,17.6%,100.0%,129,50,38.8%,127,55,43.3%,No Data,No Data,No Data
+14K023,14,P.S. 023 Carter G. Woodson,NO,K023,No,321,321,0,0,0.6%,51.1%,44.5%,0.6%,3.1%,29.6%,10.6%,100.0%,113,17,15.0%,118,19,16.1%,No Data,No Data,No Data
+14K050,14,J.H.S. 050 John D. Wells,NO,K050,No,268,0,268,0,0.4%,25.7%,71.6%,0.4%,1.9%,36.9%,20.1%,84.7%,207,47,22.7%,233,41,17.6%,No Data,No Data,No Data
+14K059,14,P.S. 059 William Floyd,NO,K059,No,318,318,0,0,0.6%,49.7%,46.5%,1.9%,1.3%,21.7%,12.9%,100.0%,128,37,28.9%,130,30,23.1%,No Data,No Data,No Data
+14K071,14,Juan Morel Campos Secondary School,NO,K071,No,596,0,222,374,1.0%,16.4%,76.3%,0.7%,5.5%,31.7%,24.8%,100.0%,166,20,12.0%,177,12,6.8%,113,48.7%,66.0%
+14K120,14,P.S. 120 Carlos Tapia,NO,K120,No,450,450,0,0,2.2%,20.0%,75.6%,0.7%,1.6%,21.8%,13.6%,100.0%,157,57,36.3%,156,45,28.8%,No Data,No Data,No Data
+14K126,14,John Ericsson Middle School 126,NO,K126,No,393,0,393,0,1.5%,19.6%,62.6%,1.5%,14.8%,28.2%,11.5%,77.9%,356,116,32.6%,305,50,16.4%,No Data,No Data,No Data
+14K147,14,P.S. 147 Isaac Remsen,NO,K147,No,318,318,0,0,3.5%,20.8%,64.2%,4.1%,7.5%,17.9%,11.9%,79.9%,91,37,40.7%,83,24,28.9%,No Data,No Data,No Data
+14K196,14,P.S. 196 Ten Eyck,NO,K196,No,357,357,0,0,0.8%,17.4%,78.2%,1.7%,2.0%,25.5%,12.0%,89.1%,107,30,28.0%,100,28,28.0%,No Data,No Data,No Data
+14K380,14,P.S. 380 John Wayne Elementary,NO,K380,No,584,584,0,0,1.4%,18.5%,72.4%,0.3%,7.4%,24.1%,22.4%,100.0%,230,116,50.4%,230,117,50.9%,No Data,No Data,No Data
+14K449,14,"Brooklyn Latin School, The",NO,K049,No,724,0,0,724,45.7%,14.6%,13.3%,12.8%,13.5%,2.9%,0.0%,55.8%,No Data,No Data,No Data,No Data,No Data,No Data,116,95.7%,100.0%
+14K454,14,Green School: An Academy for Environmental Careers,NO,K049,No,244,0,0,244,0.8%,29.9%,66.4%,1.2%,1.6%,22.5%,33.6%,80.7%,No Data,No Data,No Data,No Data,No Data,No Data,56,69.6%,64.8%
+14K474,14,PROGRESS High School for Professional Careers,NO,K450,No,886,0,0,886,0.3%,36.9%,59.9%,1.6%,1.2%,20.8%,14.4%,78.9%,No Data,No Data,No Data,No Data,No Data,No Data,283,71.4%,72.2%
+14K477,14,School for Legal Studies,NO,K450,No,432,0,0,432,0.7%,42.8%,53.7%,1.6%,1.2%,19.2%,24.1%,85.2%,No Data,No Data,No Data,No Data,No Data,No Data,158,61.4%,69.2%
+14K478,14,"The High School for Enterprise, Business and Technology",NO,K450,No,934,0,0,934,3.3%,34.6%,58.1%,1.7%,2.2%,20.0%,9.5%,72.1%,No Data,No Data,No Data,No Data,No Data,No Data,233,84.1%,85.1%
+14K488,14,Brooklyn Preparatory High School,NO,K650,No,526,0,0,526,2.1%,50.2%,44.7%,1.7%,1.3%,16.5%,2.1%,82.5%,No Data,No Data,No Data,No Data,No Data,No Data,121,90.1%,87.5%
+14K558,14,Williamsburg High School for Architecture and Design,NO,K650,No,565,0,0,565,2.5%,31.3%,59.6%,1.6%,5.0%,25.3%,2.7%,83.4%,No Data,No Data,No Data,No Data,No Data,No Data,136,93.4%,90.5%
+14K561,14,Williamsburg Preparatory School,NO,K650,No,686,0,0,686,2.5%,16.9%,70.4%,0.7%,9.5%,17.8%,3.4%,82.8%,No Data,No Data,No Data,No Data,No Data,No Data,181,89.5%,93.4%
+14K577,14,Conselyea Preparatory School,NO,K017,No,506,0,506,0,2.8%,4.3%,56.1%,0.6%,36.2%,20.2%,4.2%,42.9%,460,254,55.2%,379,137,36.1%,No Data,No Data,No Data
+14K582,14,M.S. 582,NO,K196,No,261,0,261,0,0.4%,23.4%,70.9%,1.5%,3.8%,33.7%,12.3%,76.2%,229,74,32.3%,230,18,7.8%,No Data,No Data,No Data
+14K586,14,Lyons Community School,NO,K049,No,516,0,169,347,1.4%,36.8%,59.3%,0.0%,2.5%,24.8%,11.8%,88.0%,137,11,8.0%,135,1,0.7%,76,67.1%,60.8%
+14K610,14,Automotive High School,NO,K610,No,337,0,0,337,3.6%,49.0%,42.4%,2.1%,3.0%,30.6%,10.4%,85.2%,No Data,No Data,No Data,No Data,No Data,No Data,100,57.0%,61.7%
+14K614,14,Young Women's Leadership School of Brooklyn,NO,K147,No,394,0,156,238,3.0%,53.8%,35.3%,3.0%,4.8%,16.0%,5.3%,76.4%,130,48,36.9%,131,21,16.0%,63,100.0%,No Data
+14K632,14,Frances Perkins Academy,NO,K610,No,114,0,0,114,0.9%,65.8%,26.3%,2.6%,4.4%,32.5%,2.6%,80.7%,No Data,No Data,No Data,No Data,No Data,No Data,22,68.2%,68.8%
+15K032,15,P.S. 032 Samuels Mills Sprole,NO,K032,No,518,518,0,0,9.7%,19.9%,23.2%,2.7%,44.6%,22.4%,4.1%,42.5%,229,143,62.4%,229,148,64.6%,No Data,No Data,No Data
+15K088,15,J.H.S. 088 Peter Rouget,NO,K088,No,1308,0,1308,0,18.1%,9.9%,59.6%,0.9%,11.4%,26.9%,11.4%,75.3%,1171,512,43.7%,1068,385,36.0%,No Data,No Data,No Data
+15K118,15,The Maurice Sendak Community School,NO,K763,No,285,285,0,0,6.7%,10.5%,13.7%,9.5%,59.6%,10.2%,1.1%,8.8%,33,29,87.9%,34,31,91.2%,No Data,No Data,No Data
+15K136,15,I.S. 136 Charles O. Dewey,NO,K136,No,486,0,486,0,7.6%,2.3%,82.3%,0.6%,7.2%,22.8%,34.8%,96.5%,445,76,17.1%,446,33,7.4%,No Data,No Data,No Data
+15K146,15,P.S. 146,NO,K142,No,666,666,0,0,5.6%,19.4%,23.1%,9.0%,42.9%,28.1%,2.6%,27.6%,16,6,37.5%,15,5,33.3%,No Data,No Data,No Data
+15K261,15,P.S. 261 Philip Livingston,NO,K261,No,772,772,0,0,6.9%,26.3%,21.0%,5.2%,40.7%,18.9%,4.3%,39.5%,140,81,57.9%,140,78,55.7%,No Data,No Data,No Data
+15K295,15,P.S. 295,NO,K845,No,466,466,0,0,12.2%,5.8%,46.4%,5.4%,30.3%,25.5%,13.3%,100.0%,209,126,60.3%,209,130,62.2%,No Data,No Data,No Data
+15K429,15,Brooklyn School for Global Studies,NO,K293,No,190,0,29,161,3.2%,57.4%,36.8%,0.0%,2.6%,28.4%,3.2%,89.5%,23,5,21.7%,23,0,0.0%,43,79.1%,68.9%
+15K442,15,M.S. 442 Carroll Gardens School for Innovation,NO,K032,No,211,0,211,0,4.7%,26.5%,45.0%,0.9%,22.7%,38.9%,2.8%,66.4%,172,75,43.6%,155,55,35.5%,No Data,No Data,No Data
+15K443,15,New Voices School of Academic & Creative Arts,NO,K845,No,563,0,563,0,5.2%,9.8%,33.4%,2.3%,49.4%,20.8%,0.9%,27.0%,501,407,81.2%,438,274,62.6%,No Data,No Data,No Data
+15K447,15,The Math & Science Exploratory School,NO,K655,No,522,0,522,0,8.6%,13.0%,17.6%,4.4%,56.3%,17.8%,0.2%,15.7%,402,360,89.6%,351,295,84.0%,No Data,No Data,No Data
+15K448,15,Brooklyn Secondary School for Collaborative Studies,NO,K142,No,667,0,262,405,3.0%,37.9%,46.3%,2.1%,10.6%,32.2%,6.6%,68.5%,61,10,16.4%,59,4,6.8%,97,89.7%,90.4%
+15K462,15,Secondary School for Law,NO,K460,No,421,0,0,421,1.2%,69.4%,24.0%,2.9%,2.6%,13.8%,2.9%,72.0%,No Data,No Data,No Data,No Data,No Data,No Data,64,82.8%,91.0%
+15K463,15,Secondary School for Journalism,NO,K460,No,236,0,0,236,7.2%,48.7%,37.3%,1.3%,5.5%,19.1%,11.9%,77.1%,No Data,No Data,No Data,No Data,No Data,No Data,43,72.1%,71.7%
+15K464,15,Park Slope Collegiate,NO,K460,No,608,0,194,414,6.4%,36.0%,38.7%,3.1%,15.8%,23.0%,8.9%,67.9%,119,45,37.8%,92,33,35.9%,79,84.8%,74.6%
+15K497,15,School for International Studies,NO,K293,No,563,0,268,295,5.2%,39.8%,28.4%,5.0%,21.7%,22.4%,13.0%,63.8%,207,57,27.5%,206,66,32.0%,61,65.6%,75.3%
+15K516,15,Sunset Park Avenues Elementary School,NO,K333,No,351,351,0,0,21.1%,0.6%,74.6%,0.3%,3.4%,16.0%,46.4%,88.3%,42,10,23.8%,42,16,38.1%,No Data,No Data,No Data
+15K519,15,Cobble Hill School of American Studies,NO,K804,No,598,0,0,598,3.0%,63.7%,26.6%,3.8%,2.8%,20.4%,8.2%,83.8%,No Data,No Data,No Data,No Data,No Data,No Data,129,81.4%,80.2%
+15K592,15,Khalil Gibran International Academy,NO,K806,No,268,0,0,268,16.8%,35.4%,6.7%,4.5%,36.6%,13.8%,36.6%,100.0%,No Data,No Data,No Data,No Data,No Data,No Data,52,67.3%,0.0%
+15K656,15,Brooklyn High School of the Arts,NO,K655,No,866,0,0,866,2.9%,68.5%,21.8%,4.4%,2.4%,14.2%,1.2%,74.4%,No Data,No Data,No Data,No Data,No Data,No Data,225,87.1%,91.2%
+15K667,15,SUNSET PARK HIGH SCHOOL,NO,K564,No,1291,0,0,1291,7.3%,9.5%,75.5%,0.3%,7.4%,22.7%,17.0%,77.5%,No Data,No Data,No Data,No Data,No Data,No Data,313,67.4%,79.2%
+15K676,15,RED HOOK NEIGHBORHOOD SCHOOL,NO,K027,No,186,186,0,0,1.1%,46.8%,47.3%,1.6%,3.2%,22.6%,13.4%,94.1%,85,9,10.6%,85,14,16.5%,No Data,No Data,No Data
+15K684,15,Millennium Brooklyn HS,NO,K460,No,654,0,0,654,8.7%,23.4%,24.9%,9.0%,33.9%,13.6%,0.0%,42.0%,No Data,No Data,No Data,No Data,No Data,No Data,119,97.5%,100.0%
+15K767,15,Pre-K Center District 15,YES,"K333, K661, K692, K749, K763",No,150,150,0,0,10.0%,4.7%,54.7%,0.7%,30.0%,2.7%,0.0%,38.7%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+15K821,15,Sunset Park Prep,NO,K136,No,508,0,508,0,20.3%,0.6%,74.2%,0.0%,4.9%,21.9%,17.1%,93.9%,485,171,35.3%,413,135,32.7%,No Data,No Data,No Data
+15K839,15,M.S. 839,NO,K437,No,209,0,209,0,11.0%,16.7%,25.8%,5.3%,41.1%,27.8%,5.3%,38.3%,170,81,47.6%,165,64,38.8%,No Data,No Data,No Data
+16K005,16,P.S. 005 Dr. Ronald Mcnair,NO,K005,No,209,209,0,0,0.0%,78.9%,16.7%,1.9%,2.4%,29.7%,4.8%,87.6%,63,16,25.4%,58,23,39.7%,No Data,No Data,No Data
+16K021,16,P.S. 021 Crispus Attucks,NO,K021,No,589,589,0,0,1.0%,86.8%,9.0%,0.5%,2.7%,18.5%,2.5%,100.0%,235,76,32.3%,237,78,32.9%,No Data,No Data,No Data
+16K025,16,P.S. 025 Eubie Blake School,NO,K025,No,123,123,0,0,4.1%,67.5%,24.4%,0.8%,3.3%,26.0%,6.5%,98.4%,48,24,50.0%,47,25,53.2%,No Data,No Data,No Data
+16K026,16,P.S. 026 Jesse Owens,NO,K026,No,219,219,0,0,1.8%,67.1%,28.3%,0.0%,2.7%,24.7%,8.2%,100.0%,90,39,43.3%,89,41,46.1%,No Data,No Data,No Data
+16K035,16,M.S. 035 Stephen Decatur,NO,K035,No,181,0,181,0,1.7%,82.3%,14.9%,1.1%,0.0%,32.0%,1.1%,84.0%,170,41,24.1%,142,16,11.3%,No Data,No Data,No Data
+16K040,16,P.S. 040 George W. Carver,NO,K040,No,300,300,0,0,4.0%,71.0%,19.0%,3.7%,2.3%,24.0%,8.3%,100.0%,126,31,24.6%,122,49,40.2%,No Data,No Data,No Data
+16K057,16,J.H.S. 057 Whitelaw Reid,NO,K057,No,213,0,213,0,2.3%,62.4%,32.4%,0.0%,2.8%,32.9%,8.5%,91.1%,173,48,27.7%,168,26,15.5%,s,s,s
+16K081,16,P.S. 081 Thaddeus Stevens,NO,K081,No,315,315,0,0,4.8%,57.5%,33.0%,4.1%,0.6%,27.6%,7.0%,93.7%,123,22,17.9%,130,13,10.0%,No Data,No Data,No Data
+16K243,16,P.S. 243K- The Weeksville School,NO,K243,No,252,252,0,0,3.2%,74.2%,19.8%,2.8%,0.0%,26.6%,2.4%,94.4%,96,17,17.7%,100,16,16.0%,No Data,No Data,No Data
+16K267,16,"M.S. 267 Math, Science & Technology",NO,K324,No,161,0,161,0,3.1%,59.0%,26.7%,9.9%,1.2%,34.8%,14.3%,91.3%,106,47,44.3%,85,29,34.1%,No Data,No Data,No Data
+16K308,16,P.S. 308 Clara Cardwell,NO,K308,No,332,164,168,0,2.1%,73.8%,20.8%,2.1%,1.2%,27.1%,6.0%,85.8%,217,31,14.3%,218,6,2.8%,s,s,s
+16K309,16,P.S. 309 The George E. Wibecan Preparatory Academy,NO,K309,No,204,204,0,0,3.9%,63.2%,25.0%,3.4%,4.4%,30.9%,10.3%,78.9%,72,20,27.8%,74,12,16.2%,No Data,No Data,No Data
+16K335,16,P.S. 335 Granville T. Woods,NO,K335,No,281,281,0,0,0.0%,77.6%,18.5%,1.1%,2.8%,17.8%,3.9%,87.5%,123,33,26.8%,124,42,33.9%,No Data,No Data,No Data
+16K393,16,Frederick Douglass Academy IV Secondary School,NO,K057,No,69,0,0,69,0.0%,84.1%,14.5%,1.4%,0.0%,31.9%,0.0%,100.0%,No Data,No Data,No Data,No Data,No Data,No Data,19,63.2%,75.0%
+16K455,16,Boys and Girls High School,NO,K455,No,396,0,0,396,1.8%,84.1%,9.8%,2.3%,2.0%,28.5%,5.3%,78.8%,No Data,No Data,No Data,No Data,No Data,No Data,132,58.3%,58.7%
+16K584,16,M.S. 584,NO,K335,No,78,0,78,0,1.3%,75.6%,20.5%,0.0%,2.6%,37.2%,10.3%,85.9%,57,4,7.0%,56,0,0.0%,No Data,No Data,No Data
+16K594,16,Gotham Professional Arts Academy,NO,K040,No,203,0,0,203,0.0%,80.3%,17.7%,1.0%,1.0%,28.6%,3.4%,100.0%,No Data,No Data,No Data,No Data,No Data,No Data,36,63.9%,75.9%
+16K627,16,Brighter Choice Community School,NO,K304,No,317,317,0,0,0.6%,64.4%,32.8%,0.3%,1.9%,15.1%,3.5%,87.7%,115,59,51.3%,110,38,34.5%,No Data,No Data,No Data
+16K628,16,Brooklyn Brownstone School,NO,K035,No,244,244,0,0,0.4%,74.6%,11.5%,2.0%,11.5%,13.5%,0.0%,66.8%,65,33,50.8%,65,21,32.3%,No Data,No Data,No Data
+16K669,16,Research and Service HS,NO,K455,Yes,265,0,0,265,0.8%,85.3%,12.5%,1.1%,0.4%,35.5%,1.9%,75.1%,No Data,No Data,No Data,No Data,No Data,No Data,104,18.3%,29.9%
+16K681,16,Madiba Prep Middle School,NO,K026,No,136,0,136,0,0.7%,75.0%,17.6%,1.5%,5.1%,33.8%,11.0%,87.5%,111,36,32.4%,108,9,8.3%,No Data,No Data,No Data
+16K688,16,The Brooklyn Academy of Global Finance,NO,K057,No,112,0,0,112,6.3%,74.1%,13.4%,1.8%,4.5%,25.0%,8.9%,100.0%,No Data,No Data,No Data,No Data,No Data,No Data,39,71.8%,60.4%
+16K765,16,Nelson Mandela High School,NO,K455,No,265,0,0,265,0.4%,85.7%,10.6%,1.9%,1.5%,24.5%,1.5%,69.4%,No Data,No Data,No Data,No Data,No Data,No Data,s,s,s
+17K002,17,Parkside Preparatory Academy,NO,K002,No,495,0,495,0,4.4%,77.8%,13.9%,1.2%,2.6%,17.0%,10.9%,87.7%,466,155,33.3%,486,90,18.5%,No Data,No Data,No Data
+17K012,17,Dr. Jacqueline Peek-Davis School,NO,K012,No,241,241,0,0,0.0%,73.4%,22.0%,0.8%,3.7%,24.5%,7.1%,92.5%,68,22,32.4%,72,24,33.3%,No Data,No Data,No Data
+17K122,17,Pathways in Technology Early College High School (P-Tech),NO,K625,No,573,0,0,573,2.4%,85.5%,10.3%,1.4%,0.3%,15.5%,1.4%,75.6%,No Data,No Data,No Data,No Data,No Data,No Data,111,67.6%,No Data
+17K138,17,P.S. 138 Brooklyn,NO,K138,No,583,339,244,0,1.2%,83.9%,10.1%,1.0%,3.8%,16.0%,6.9%,88.7%,390,175,44.9%,411,154,37.5%,No Data,No Data,No Data
+17K161,17,P.S. 161 The Crown,NO,K161,No,374,374,0,0,3.7%,81.3%,11.5%,1.6%,1.9%,17.9%,3.5%,94.4%,178,61,34.3%,181,51,28.2%,No Data,No Data,No Data
+17K181,17,P.S. 181 Brooklyn,NO,K181,No,782,520,262,0,0.9%,83.5%,11.1%,2.2%,2.3%,17.3%,12.3%,100.0%,490,118,24.1%,506,66,13.0%,No Data,No Data,No Data
+17K191,17,P.S. 191 Paul Robeson,NO,K191,No,192,192,0,0,2.1%,80.7%,13.0%,3.1%,1.0%,24.0%,4.2%,96.9%,65,22,33.8%,66,33,50.0%,No Data,No Data,No Data
+17K221,17,P.S. 221 Toussaint L'Ouverture,NO,K221,No,352,352,0,0,0.3%,87.2%,9.1%,0.9%,2.6%,20.5%,3.4%,86.4%,153,52,34.0%,153,47,30.7%,No Data,No Data,No Data
+17K289,17,P.S. 289 George V. Brower,NO,K289,No,409,409,0,0,5.4%,73.1%,16.1%,3.9%,1.5%,25.9%,6.1%,100.0%,166,73,44.0%,165,64,38.8%,No Data,No Data,No Data
+17K316,17,P.S. 316 Elijah Stroud,NO,K316,No,489,489,0,0,1.6%,71.2%,17.4%,1.4%,8.4%,17.8%,3.3%,68.7%,150,84,56.0%,151,87,57.6%,No Data,No Data,No Data
+17K352,17,Ebbets Field Middle School,NO,K320,No,167,0,167,0,6.0%,62.3%,28.7%,1.2%,1.8%,26.3%,22.2%,94.6%,145,18,12.4%,159,15,9.4%,s,s,s
+17K353,17,Elijah Stroud Middle School,NO,K316,No,164,0,164,0,2.4%,81.1%,15.9%,0.6%,0.0%,31.1%,7.3%,88.4%,148,47,31.8%,149,21,14.1%,No Data,No Data,No Data
+17K354,17,The School of Integrated Learning,NO,K390,No,223,0,223,0,2.2%,77.6%,17.5%,1.3%,1.3%,31.8%,9.0%,86.5%,187,87,46.5%,190,61,32.1%,No Data,No Data,No Data
+17K375,17,P.S. 375 Jackie Robinson School,NO,K320,No,430,430,0,0,4.0%,61.6%,29.3%,1.4%,3.7%,24.7%,25.6%,90.0%,212,46,21.7%,216,44,20.4%,No Data,No Data,No Data
+17K382,17,Academy for College Preparation and Career Exploration: A College Board School,NO,K465,No,412,0,153,259,1.9%,78.4%,13.6%,4.4%,1.7%,16.3%,9.5%,79.6%,136,29,21.3%,139,13,9.4%,95,58.9%,79.8%
+17K394,17,M.S. K394,NO,K210,No,552,392,160,0,8.0%,75.2%,15.9%,0.2%,0.7%,15.6%,5.8%,92.6%,300,66,22.0%,303,38,12.5%,No Data,No Data,No Data
+17K398,17,P.S. 398 Walter Weaver,NO,K398,No,344,344,0,0,1.5%,75.3%,12.2%,9.3%,1.7%,27.0%,9.9%,97.4%,118,29,24.6%,121,25,20.7%,No Data,No Data,No Data
+17K408,17,Academy of Hospitality and Tourism,NO,K465,No,191,0,0,191,4.2%,79.6%,11.5%,1.0%,3.7%,20.4%,15.7%,84.3%,No Data,No Data,No Data,No Data,No Data,No Data,58,51.7%,69.4%
+17K484,17,Ronald Edmonds Learning Center II,NO,K012,No,144,0,144,0,0.7%,78.5%,14.6%,4.9%,1.4%,24.3%,6.3%,84.0%,118,34,28.8%,121,11,9.1%,No Data,No Data,No Data
+17K489,17,W.E.B. Dubois Academic High School,NO,K824,Yes,105,0,0,105,1.9%,82.9%,12.4%,1.9%,1.0%,16.2%,1.0%,73.3%,No Data,No Data,No Data,No Data,No Data,No Data,40,10.0%,39.0%
+17K524,17,International High School at Prospect Heights,NO,K440,No,420,0,0,420,17.6%,22.4%,47.4%,1.0%,11.7%,5.2%,82.1%,100.0%,No Data,No Data,No Data,No Data,No Data,No Data,79,72.2%,71.1%
+17K528,17,The High School for Global Citizenship,NO,K440,No,214,0,0,214,3.3%,77.1%,13.6%,2.3%,3.7%,18.2%,16.8%,93.5%,No Data,No Data,No Data,No Data,No Data,No Data,57,64.9%,68.3%
+17K531,17,"School for Human Rights, The",NO,K470,No,357,0,79,278,1.1%,88.8%,7.8%,0.8%,1.4%,18.2%,5.3%,84.9%,70,16,22.9%,72,8,11.1%,78,82.1%,90.5%
+17K533,17,School for Democracy and Leadership,NO,K470,No,246,0,34,212,0.8%,91.1%,4.9%,1.2%,2.0%,26.4%,6.1%,76.0%,24,5,20.8%,25,1,4.0%,74,55.4%,79.1%
+17K537,17,High School for Youth and Community Development at Erasmus,NO,K465,No,432,0,0,432,1.6%,79.6%,13.9%,2.3%,2.5%,21.5%,10.2%,79.9%,No Data,No Data,No Data,No Data,No Data,No Data,95,76.8%,78.7%
+17K539,17,High School for Service & Learning at Erasmus,NO,K465,No,362,0,0,362,2.8%,78.5%,13.8%,2.2%,2.8%,18.5%,12.7%,73.5%,No Data,No Data,No Data,No Data,No Data,No Data,106,73.6%,85.6%
+17K543,17,"Science, Technology and Research Early College High School at Erasmus",NO,K465,No,559,0,209,350,4.7%,81.4%,11.6%,1.3%,1.1%,10.6%,0.7%,75.5%,182,111,61.0%,181,88,48.6%,78,94.9%,98.8%
+17K546,17,High School for Public Service: Heroes of Tomorrow,NO,K470,No,460,0,0,460,4.6%,75.4%,17.2%,1.7%,1.1%,13.5%,2.2%,81.7%,No Data,No Data,No Data,No Data,No Data,No Data,104,93.3%,99.0%
+17K547,17,Brooklyn Academy of Science and the Environment,NO,K440,No,386,0,0,386,4.9%,81.1%,9.6%,2.1%,2.3%,18.7%,6.2%,79.0%,No Data,No Data,No Data,No Data,No Data,No Data,146,76.0%,84.5%
+17K548,17,Brooklyn School for Music & Theatre,NO,K440,No,312,0,0,312,1.0%,80.8%,15.4%,1.0%,1.9%,19.6%,1.6%,83.0%,No Data,No Data,No Data,No Data,No Data,No Data,77,88.3%,88.6%
+17K568,17,Brownsville Academy High School,NO,K907,Yes,155,0,0,155,0.6%,85.8%,9.7%,3.9%,0.0%,22.6%,2.6%,74.8%,No Data,No Data,No Data,No Data,No Data,No Data,83,24.1%,52.9%
+17K600,17,Clara Barton High School,NO,K600,No,1244,0,0,1244,1.0%,88.9%,6.6%,2.8%,0.6%,18.3%,8.4%,79.8%,No Data,No Data,No Data,No Data,No Data,No Data,332,71.7%,86.1%
+17K705,17,Brooklyn Arts and Science Elementary School,NO,K022,No,378,378,0,0,5.3%,46.6%,28.6%,1.1%,18.5%,25.4%,10.3%,64.3%,107,17,15.9%,107,21,19.6%,No Data,No Data,No Data
+17K722,17,New Heights Middle School,NO,K391,No,250,0,250,0,0.8%,80.8%,12.8%,4.4%,1.2%,28.0%,5.6%,79.6%,228,37,16.2%,230,23,10.0%,No Data,No Data,No Data
+17K745,17,Brooklyn Institute for Liberal Arts,NO,K470,No,359,0,0,359,1.1%,88.9%,6.7%,1.9%,1.4%,17.8%,5.6%,88.3%,No Data,No Data,No Data,No Data,No Data,No Data,96,92.7%,No Data
+17K751,17,ACADEMY FOR HEALTH CAREERS,NO,K625,No,399,0,0,399,3.3%,82.0%,9.0%,4.3%,1.5%,15.8%,4.8%,79.7%,No Data,No Data,No Data,No Data,No Data,No Data,72,76.4%,75.0%
+17K770,17,P.S. 770 New American Academy,NO,K398,No,276,276,0,0,1.4%,61.2%,8.3%,12.0%,17.0%,13.4%,1.4%,61.6%,74,27,36.5%,74,18,24.3%,No Data,No Data,No Data
+18K066,18,P.S. 66,NO,K066,No,814,500,314,0,0.6%,88.3%,7.2%,1.6%,2.2%,10.2%,2.3%,73.3%,538,196,36.4%,530,179,33.8%,No Data,No Data,No Data
+18K068,18,I.S. 068 Isaac Bildersee,NO,K068,No,393,0,393,0,1.3%,86.8%,6.6%,1.3%,4.1%,29.0%,16.0%,68.7%,348,52,14.9%,363,41,11.3%,No Data,No Data,No Data
+18K114,18,P.S. 114 Ryder Elementary,NO,K114,No,521,521,0,0,1.5%,80.4%,10.2%,0.6%,7.3%,20.3%,14.0%,100.0%,228,59,25.9%,231,58,25.1%,No Data,No Data,No Data
+18K211,18,I.S. 211 John Wilson,NO,K211,No,539,0,539,0,0.9%,86.1%,10.2%,0.9%,1.9%,24.3%,3.7%,80.5%,499,145,29.1%,505,83,16.4%,No Data,No Data,No Data
+18K233,18,P.S. 233 Langston Hughes,NO,K233,No,479,479,0,0,1.3%,92.3%,5.2%,0.6%,0.6%,17.1%,2.9%,87.9%,211,58,27.5%,214,47,22.0%,No Data,No Data,No Data
+18K244,18,P.S. 244 Richard R. Green,NO,K244,No,550,550,0,0,0.2%,94.9%,3.6%,0.4%,0.9%,22.4%,4.0%,83.8%,265,118,44.5%,273,93,34.1%,No Data,No Data,No Data
+18K279,18,P.S. 279 Herman Schreiber,NO,K279,No,462,462,0,0,1.5%,91.3%,4.8%,1.1%,1.3%,11.0%,4.1%,84.0%,206,71,34.5%,209,50,23.9%,No Data,No Data,No Data
+18K563,18,It Takes a Village Academy,NO,K415,No,733,0,1,732,1.4%,86.8%,7.0%,3.3%,1.6%,13.9%,18.1%,67.9%,No Data,No Data,No Data,No Data,No Data,No Data,125,87.2%,88.8%
+18K566,18,Brooklyn Generation School,NO,K515,No,227,0,0,227,1.3%,87.7%,8.4%,2.2%,0.4%,21.1%,5.7%,72.7%,No Data,No Data,No Data,No Data,No Data,No Data,65,67.7%,72.4%
+18K567,18,Brooklyn Theatre Arts High School,NO,K515,No,372,0,0,372,0.8%,81.7%,12.1%,3.8%,1.6%,17.2%,2.4%,77.7%,No Data,No Data,No Data,No Data,No Data,No Data,66,68.2%,75.9%
+18K569,18,Kurt Hahn Expeditionary Learning School,NO,K415,No,382,0,0,382,0.5%,92.9%,6.0%,0.5%,0.0%,22.8%,2.9%,74.3%,No Data,No Data,No Data,No Data,No Data,No Data,72,70.8%,82.5%
+18K576,18,Victory Collegiate High School,NO,K515,No,340,0,0,340,0.6%,88.2%,6.5%,4.1%,0.6%,23.8%,1.8%,72.6%,No Data,No Data,No Data,No Data,No Data,No Data,73,78.1%,81.7%
+18K578,18,Brooklyn Bridge Academy,NO,K515,Yes,200,0,0,200,0.5%,84.5%,10.5%,2.0%,2.5%,20.5%,4.0%,75.0%,No Data,No Data,No Data,No Data,No Data,No Data,111,18.9%,56.9%
+18K581,18,East Flatbush Community Research School,NO,K232,No,127,0,127,0,0.0%,84.3%,5.5%,6.3%,3.9%,24.4%,15.7%,94.5%,121,25,20.7%,118,10,8.5%,No Data,No Data,No Data
+18K588,18,Middle School for Art and Philosophy,NO,K252,No,191,0,191,0,0.5%,84.8%,7.9%,3.1%,3.7%,28.8%,9.4%,92.1%,172,40,23.3%,173,14,8.1%,No Data,No Data,No Data
+18K589,18,Arts & Media Preparatory Academy,NO,K232,No,184,0,0,184,2.7%,79.9%,11.4%,0.0%,6.0%,20.1%,11.4%,85.9%,No Data,No Data,No Data,No Data,No Data,No Data,55,69.1%,64.7%
+18K598,18,Middle School of Marketing and Legal Studies,NO,K232,No,155,0,155,0,3.2%,86.5%,6.5%,0.6%,3.2%,18.7%,8.4%,76.8%,145,45,31.0%,116,12,10.3%,No Data,No Data,No Data
+18K617,18,High School for Innovation in Advertising and Media,NO,K500,No,282,0,0,282,1.1%,84.8%,11.3%,1.1%,1.8%,17.4%,8.2%,71.6%,No Data,No Data,No Data,No Data,No Data,No Data,75,74.7%,85.0%
+18K629,18,Cultural Academy for the Arts and Sciences,NO,K415,No,332,0,0,332,1.2%,87.3%,8.1%,1.8%,1.5%,21.4%,8.4%,74.4%,No Data,No Data,No Data,No Data,No Data,No Data,81,61.7%,79.7%
+18K633,18,High School for Medical Professions,NO,K500,No,428,0,0,428,3.0%,81.5%,13.3%,0.5%,1.6%,15.9%,3.3%,93.7%,No Data,No Data,No Data,No Data,No Data,No Data,111,87.4%,94.9%
+18K635,18,Olympus Academy,NO,K242,Yes,226,0,0,226,0.0%,91.2%,4.9%,2.7%,1.3%,21.2%,1.8%,72.6%,No Data,No Data,No Data,No Data,No Data,No Data,74,13.5%,35.9%
+18K637,18,Academy for Conservation and the Environment,NO,K515,No,284,0,0,284,5.3%,78.5%,8.8%,0.7%,6.7%,19.0%,11.6%,78.5%,No Data,No Data,No Data,No Data,No Data,No Data,80,81.3%,83.1%
+18K642,18,Urban Action Academy,NO,K500,No,310,0,0,310,1.3%,79.7%,11.3%,1.3%,6.5%,21.6%,11.9%,73.9%,No Data,No Data,No Data,No Data,No Data,No Data,75,62.7%,73.4%
+18K763,18,Brooklyn Science and Engineering Academy,NO,K244,No,225,0,225,0,0.4%,95.6%,2.2%,1.3%,0.4%,15.6%,1.8%,78.7%,212,94,44.3%,189,41,21.7%,No Data,No Data,No Data
+19K007,19,P.S. 007 Abraham Lincoln,NO,K007,No,918,918,0,0,7.3%,10.3%,79.0%,1.9%,1.5%,18.1%,18.8%,93.6%,417,115,27.6%,430,117,27.2%,No Data,No Data,No Data
+19K013,19,P.S. 013 Roberto Clemente,NO,K013,No,501,501,0,0,3.0%,63.5%,28.3%,1.6%,3.6%,21.2%,13.6%,94.4%,189,42,22.2%,197,37,18.8%,No Data,No Data,No Data
+19K065,19,P.S. 065,NO,K798,No,642,642,0,0,3.3%,8.6%,83.0%,4.4%,0.8%,13.1%,27.7%,100.0%,332,157,47.3%,339,167,49.3%,No Data,No Data,No Data
+19K171,19,I.S. 171 Abraham Lincoln,NO,K171,No,458,0,458,0,5.7%,10.9%,77.9%,3.5%,2.0%,18.6%,26.4%,95.4%,402,107,26.6%,432,46,10.6%,s,s,s
+19K190,19,P.S. 190 Sheffield,NO,K190,No,160,160,0,0,0.6%,75.6%,21.9%,0.0%,1.9%,13.8%,3.8%,93.8%,74,20,27.0%,71,21,29.6%,No Data,No Data,No Data
+19K202,19,P.S. 202 Ernest S. Jenkyns,NO,K202,No,480,480,0,0,2.3%,59.6%,35.2%,1.5%,1.5%,27.1%,7.5%,93.8%,209,34,16.3%,218,32,14.7%,No Data,No Data,No Data
+19K218,19,J.H.S. 218 James P. Sinnott,NO,K218,No,392,0,392,0,23.5%,33.9%,39.3%,2.6%,0.8%,25.3%,26.0%,82.1%,370,76,20.5%,382,51,13.4%,No Data,No Data,No Data
+19K224,19,P.S. 224 Hale A. Woodruff,NO,K224,No,424,424,0,0,2.6%,64.4%,30.4%,1.2%,1.4%,23.3%,6.8%,89.6%,205,17,8.3%,212,28,13.2%,No Data,No Data,No Data
+19K292,19,J.H.S. 292 Margaret S. Douglas,NO,K292,No,579,0,579,0,13.1%,52.0%,30.2%,2.1%,2.6%,22.1%,12.1%,88.1%,533,194,36.4%,552,126,22.8%,No Data,No Data,No Data
+19K311,19,Essence School,NO,K190,No,109,0,109,0,3.7%,65.1%,23.9%,0.9%,6.4%,29.4%,21.1%,91.7%,100,5,5.0%,101,3,3.0%,No Data,No Data,No Data
+19K328,19,P.S. 328 Phyllis Wheatley,NO,K328,No,264,264,0,0,2.3%,54.9%,37.9%,0.8%,4.2%,26.5%,17.0%,98.5%,99,23,23.2%,101,23,22.8%,No Data,No Data,No Data
+19K346,19,P.S. 346 Abe Stark,NO,K346,No,633,633,0,0,6.2%,61.8%,22.9%,3.2%,6.0%,19.7%,1.6%,85.8%,276,72,26.1%,272,57,21.0%,No Data,No Data,No Data
+19K404,19,Academy for Young Writers,NO,K422,No,566,0,191,375,1.1%,70.0%,25.8%,2.3%,0.9%,20.1%,1.6%,79.7%,180,57,31.7%,177,15,8.5%,71,88.7%,85.1%
+19K422,19,Spring Creek Community School,NO,K422,No,397,0,224,173,1.5%,73.3%,22.4%,2.0%,0.8%,24.2%,2.5%,84.1%,212,37,17.5%,209,20,9.6%,No Data,No Data,No Data
+19K452,19,Frederick Douglass Academy VIII Middle School,NO,K346,No,324,0,324,0,4.0%,75.3%,19.1%,0.6%,0.9%,15.7%,2.8%,91.7%,306,130,42.5%,251,60,23.9%,No Data,No Data,No Data
+19K502,19,FDNY High School for Fire and Life Safety,NO,K435,No,340,0,0,340,1.2%,71.8%,25.3%,1.5%,0.3%,26.2%,4.1%,79.4%,No Data,No Data,No Data,No Data,No Data,No Data,53,84.9%,79.8%
+19K504,19,High School for Civil Rights,NO,K435,No,284,0,0,284,1.1%,74.3%,21.1%,1.4%,2.1%,22.9%,7.4%,72.5%,No Data,No Data,No Data,No Data,No Data,No Data,78,65.4%,62.4%
+19K507,19,Performing Arts and Technology High School,NO,K435,No,466,0,0,466,1.7%,69.5%,27.0%,1.3%,0.4%,20.2%,8.6%,88.2%,No Data,No Data,No Data,No Data,No Data,No Data,108,76.9%,78.9%
+19K510,19,World Academy for Total Community Health High School,NO,K435,No,246,0,0,246,4.5%,74.8%,18.7%,1.2%,0.8%,18.7%,8.9%,87.0%,No Data,No Data,No Data,No Data,No Data,No Data,69,71.0%,72.7%
+19K557,19,Brooklyn Gardens Elementary School,NO,K174,No,335,335,0,0,0.3%,62.7%,33.4%,1.2%,2.4%,28.1%,6.9%,100.0%,135,19,14.1%,138,9,6.5%,No Data,No Data,No Data
+19K583,19,Multicultural High School,NO,K420,No,202,0,0,202,0.0%,0.0%,99.5%,0.0%,0.5%,1.5%,86.1%,91.1%,No Data,No Data,No Data,No Data,No Data,No Data,46,67.4%,59.6%
+19K618,19,Academy of Innovative Technology,NO,K420,No,408,0,0,408,5.4%,43.4%,46.6%,2.7%,2.0%,23.8%,10.3%,82.6%,No Data,No Data,No Data,No Data,No Data,No Data,87,74.7%,74.7%
+19K639,19,Brooklyn Lab School,NO,K420,No,329,0,0,329,10.6%,31.3%,53.5%,1.8%,2.7%,19.5%,21.9%,83.3%,No Data,No Data,No Data,No Data,No Data,No Data,81,60.5%,64.5%
+19K654,19,Van Siclen Community Middle School,NO,K166,No,306,0,306,0,2.3%,67.6%,24.5%,1.0%,4.6%,29.4%,13.4%,90.5%,297,34,11.4%,299,14,4.7%,No Data,No Data,No Data
+19K659,19,Cypress Hills Collegiate Preparatory School,NO,K420,No,215,0,0,215,12.6%,21.9%,60.9%,2.8%,1.9%,15.8%,17.2%,90.2%,No Data,No Data,No Data,No Data,No Data,No Data,82,75.6%,64.3%
+19K660,19,W. H. Maxwell Career and Technical Education High School,NO,K660,No,465,0,0,465,2.6%,68.4%,28.0%,0.9%,0.2%,29.0%,7.1%,90.5%,No Data,No Data,No Data,No Data,No Data,No Data,106,66.0%,59.1%
+19K661,19,Vista Academy,NO,K302,No,381,0,381,0,5.2%,24.7%,64.3%,3.9%,1.8%,17.6%,10.0%,95.5%,371,136,36.7%,377,105,27.9%,No Data,No Data,No Data
+19K662,19,Liberty Avenue Middle School,NO,K302,No,443,0,443,0,3.4%,20.8%,72.2%,1.8%,1.8%,20.5%,19.9%,91.2%,418,77,18.4%,414,36,8.7%,No Data,No Data,No Data
+19K663,19,School of the Future Brooklyn,NO,K174,No,144,0,144,0,0.0%,68.8%,30.6%,0.0%,0.7%,26.4%,6.3%,93.8%,127,13,10.2%,125,7,5.6%,No Data,No Data,No Data
+19K677,19,EAST NEW YORK ELEMENTARY SCHOOL OF EXCELLENCE,NO,K072,No,530,530,0,0,3.2%,54.5%,38.3%,1.7%,2.3%,21.5%,16.6%,89.6%,257,57,22.2%,266,67,25.2%,No Data,No Data,No Data
+19K678,19,EAST NEW YORK MIDDLE SCHOOL OF EXCELLENCE,NO,K072,No,249,0,249,0,3.6%,55.8%,38.6%,0.4%,1.6%,26.9%,10.0%,89.6%,228,32,14.0%,231,15,6.5%,No Data,No Data,No Data
+19K683,19,"THE SCHOOL FOR CLASSICS: AN ACADEMY OF THINKERS, WRITERS AND PERFORMERS",NO,K218,No,313,0,0,313,13.7%,55.0%,27.5%,1.3%,2.6%,20.4%,17.9%,84.7%,No Data,No Data,No Data,No Data,No Data,No Data,74,60.8%,88.4%
+19K760,19,Highland Park Community School,NO,K171,No,298,0,298,0,2.7%,18.1%,76.2%,2.0%,1.0%,18.8%,14.8%,92.3%,286,76,26.6%,287,35,12.2%,No Data,No Data,No Data
+19K764,19,The Urban Assembly School for Collaborative Healthcare,NO,K420,No,230,0,0,230,16.1%,40.4%,37.0%,4.3%,2.2%,16.5%,20.9%,73.0%,No Data,No Data,No Data,No Data,No Data,No Data,s,s,s
+20K030,20,I.S. 30 Mary White Ovington,YES,"K331, K940",No,802,424,378,0,22.1%,1.4%,31.4%,0.6%,44.5%,19.2%,24.7%,80.3%,451,229,50.8%,465,229,49.2%,No Data,No Data,No Data
+20K104,20,P.S./I.S. 104 The Fort Hamilton School,NO,K104,No,1278,779,499,0,22.1%,3.8%,25.4%,3.0%,45.8%,13.5%,9.5%,57.7%,871,496,56.9%,880,469,53.3%,No Data,No Data,No Data
+20K163,20,P.S. 163 Bath Beach,NO,K807,No,611,360,251,0,27.5%,1.1%,33.9%,0.7%,36.8%,20.5%,19.1%,79.2%,431,206,47.8%,436,240,55.0%,No Data,No Data,No Data
+20K164,20,P.S. 164 Caesar Rodney,NO,K164,No,658,658,0,0,38.1%,1.4%,45.0%,2.3%,13.2%,19.0%,17.9%,100.0%,230,112,48.7%,235,131,55.7%,No Data,No Data,No Data
+20K180,20,The SEEALL Academy,NO,K180,No,1160,643,517,0,45.1%,0.9%,27.5%,1.1%,25.3%,15.9%,27.2%,88.6%,770,403,52.3%,742,424,57.1%,No Data,No Data,No Data
+20K192,20,P.S. 192 - The Magnet School for Math and Science Inquiry,NO,K192,No,693,505,188,0,21.1%,1.6%,48.9%,0.6%,27.8%,21.6%,33.0%,100.0%,354,129,36.4%,359,130,36.2%,No Data,No Data,No Data
+20K223,20,J.H.S. 223 The Montauk,NO,K223,No,1004,0,1004,0,62.7%,2.3%,25.1%,0.4%,9.5%,13.2%,32.4%,95.6%,886,338,38.1%,933,441,47.3%,No Data,No Data,No Data
+20K264,20,P.S. 264 BAY RIDGE ELEMENTARY SCHOOL FOR THE ARTS,NO,K264,No,500,500,0,0,11.8%,2.8%,31.4%,1.6%,52.4%,23.2%,14.4%,67.4%,220,125,56.8%,221,111,50.2%,No Data,No Data,No Data
+20K445,20,New Utrecht High School,NO,K445,No,3661,0,0,3661,39.9%,3.5%,29.9%,1.0%,25.8%,16.7%,20.6%,71.5%,No Data,No Data,No Data,No Data,No Data,No Data,730,72.5%,78.9%
+20K485,20,High School of Telecommunication Arts and Technology,NO,K485,No,1263,0,0,1263,19.2%,8.1%,52.7%,3.2%,16.9%,19.6%,6.3%,72.0%,No Data,No Data,No Data,No Data,No Data,No Data,299,83.6%,92.5%
+20K503,20,PS 503: The School of Discovery,NO,K314,No,1094,1094,0,0,18.7%,1.1%,74.7%,0.4%,5.1%,20.7%,57.7%,96.3%,505,118,23.4%,522,143,27.4%,No Data,No Data,No Data
+20K506,20,P.S. 506: The School of Journalism & Technology,NO,K314,No,836,836,0,0,28.9%,1.0%,65.4%,0.1%,4.5%,16.4%,29.2%,95.2%,352,109,31.0%,364,150,41.2%,No Data,No Data,No Data
+20K609,20,Urban Assembly School for Criminal Justice,NO,K223,No,558,0,217,341,47.0%,18.3%,19.0%,2.2%,13.6%,15.2%,15.1%,93.4%,190,85,44.7%,195,67,34.4%,63,93.7%,96.9%
+20K682,20,THE ACADEMY OF TALENTED SCHOLARS,NO,K237,No,360,360,0,0,18.3%,4.4%,14.2%,1.1%,61.9%,25.8%,4.7%,36.4%,151,102,67.5%,151,105,69.5%,No Data,No Data,No Data
+20K686,20,BROOKLYN SCHOOL OF INQUIRY,NO,K237,No,585,371,214,0,18.5%,5.0%,4.1%,2.9%,69.6%,6.8%,8.4%,21.0%,357,313,87.7%,357,322,90.2%,No Data,No Data,No Data
+20K768,20,Pre-K Center District 20,YES,"K237, K453, K491, K560, K664, K695, K747, K762, K767, K768, K780",No,1158,1158,0,0,49.2%,1.0%,26.7%,0.5%,22.5%,4.4%,0.0%,47.1%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+21K096,21,I.S. 096 Seth Low,NO,K096,No,723,0,723,0,34.2%,9.8%,26.1%,1.7%,28.2%,23.2%,33.3%,62.7%,592,187,31.6%,647,230,35.5%,No Data,No Data,No Data
+21K098,21,I.S. 98 Bay Academy,NO,K043,No,1513,0,1513,0,26.4%,2.7%,8.5%,2.3%,60.1%,9.6%,1.1%,54.7%,1382,1184,85.7%,1334,1229,92.1%,No Data,No Data,No Data
+21K100,21,P.S. 100 The Coney Island School,NO,K100,No,777,777,0,0,4.4%,3.5%,5.5%,0.3%,86.4%,16.1%,16.9%,53.7%,318,210,66.0%,328,231,70.4%,No Data,No Data,No Data
+21K128,21,P.S. 128 Bensonhurst,NO,K721,No,440,440,0,0,28.9%,0.7%,17.0%,0.2%,53.2%,15.9%,45.0%,83.6%,192,60,31.3%,205,77,37.6%,No Data,No Data,No Data
+21K215,21,P.S. 215 Morris H. Weiss,NO,K215,No,894,894,0,0,22.8%,2.6%,27.0%,1.1%,46.5%,13.3%,18.3%,71.8%,414,239,57.7%,413,249,60.3%,No Data,No Data,No Data
+21K225,21,P.S. K225 - The Eileen E. Zaglin,NO,K225,No,976,621,355,0,18.1%,1.9%,36.3%,0.9%,42.7%,20.4%,41.5%,100.0%,595,204,34.3%,652,210,32.2%,No Data,No Data,No Data
+21K238,21,P.S. 238 Anne Sullivan,NO,K238,No,593,404,189,0,18.0%,4.7%,53.6%,0.8%,22.8%,23.1%,29.5%,100.0%,320,107,33.4%,307,69,22.5%,No Data,No Data,No Data
+21K281,21,I.S. 281 Joseph B Cavallaro,NO,K281,No,1290,0,1290,0,38.5%,6.6%,24.9%,1.0%,29.0%,17.0%,15.7%,82.2%,1187,463,39.0%,1235,537,43.5%,No Data,No Data,No Data
+21K303,21,I.S. 303 Herbert S. Eisenberg,NO,K303,No,503,0,503,0,22.9%,10.9%,37.0%,0.4%,28.8%,15.9%,12.9%,60.2%,475,187,39.4%,490,144,29.4%,No Data,No Data,No Data
+21K329,21,P.S. 329 Surfside,NO,K329,No,443,443,0,0,6.3%,56.9%,30.0%,0.7%,6.1%,22.6%,3.4%,93.9%,188,40,21.3%,190,28,14.7%,No Data,No Data,No Data
+21K337,21,International High School at Lafayette,NO,K400,No,367,0,0,367,36.0%,5.4%,33.5%,0.3%,24.8%,2.7%,82.0%,85.3%,No Data,No Data,No Data,No Data,No Data,No Data,71,67.6%,69.6%
+21K344,21,Rachel Carson High School for Coastal Studies,NO,K303,No,587,0,0,587,11.8%,19.9%,23.5%,1.4%,43.4%,19.8%,13.3%,100.0%,No Data,No Data,No Data,No Data,No Data,No Data,136,80.1%,79.8%
+21K348,21,High School of Sports Management,NO,K400,No,273,0,0,273,4.0%,56.0%,24.9%,2.9%,12.1%,24.2%,8.8%,76.6%,No Data,No Data,No Data,No Data,No Data,No Data,62,69.4%,93.0%
+21K410,21,Abraham Lincoln High School,NO,K410,No,2049,0,0,2049,16.9%,39.1%,23.3%,1.4%,19.3%,15.8%,18.3%,75.5%,No Data,No Data,No Data,No Data,No Data,No Data,495,67.3%,80.6%
+21K468,21,Kingsborough Early College School,NO,K400,No,635,0,286,349,6.6%,23.8%,28.0%,1.4%,40.2%,19.1%,1.6%,72.0%,261,122,46.7%,235,54,23.0%,81,96.3%,98.6%
+21K525,21,Edward R. Murrow High School,NO,K525,No,3894,0,0,3894,25.4%,23.0%,21.5%,3.3%,26.8%,18.4%,9.2%,69.3%,No Data,No Data,No Data,No Data,No Data,No Data,912,82.1%,88.7%
+21K540,21,John Dewey High School,NO,K540,No,2325,0,0,2325,31.0%,33.2%,21.7%,1.8%,12.2%,13.8%,19.1%,74.9%,No Data,No Data,No Data,No Data,No Data,No Data,443,75.4%,84.3%
+21K559,21,Life Academy High School for Film and Music,NO,K400,No,302,0,0,302,8.9%,44.0%,30.5%,3.0%,13.6%,23.5%,3.0%,74.2%,No Data,No Data,No Data,No Data,No Data,No Data,75,94.7%,93.5%
+21K572,21,Expeditionary Learning School for Community Leaders,NO,K400,No,325,0,0,325,19.1%,18.8%,35.4%,3.7%,23.1%,18.5%,17.2%,80.3%,No Data,No Data,No Data,No Data,No Data,No Data,65,92.3%,86.6%
+21K620,21,William E. Grady Career and Technical Education High School,NO,K620,No,539,0,0,539,5.2%,65.5%,19.5%,2.0%,7.8%,32.7%,8.0%,78.3%,No Data,No Data,No Data,No Data,No Data,No Data,97,45.4%,68.3%
+21K690,21,Brooklyn Studio Secondary School,NO,K721,No,926,0,273,653,19.7%,3.7%,29.6%,0.9%,46.2%,20.2%,14.5%,74.1%,216,96,44.4%,220,63,28.6%,159,80.5%,87.1%
+22K014,22,J.H.S. 014 Shell Bank,NO,K014,No,534,0,534,0,12.4%,42.7%,16.7%,1.1%,27.2%,26.4%,24.3%,90.1%,462,116,25.1%,520,117,22.5%,No Data,No Data,No Data
+22K078,22,J.H.S. 078 Roy H. Mann,NO,K078,No,588,0,588,0,7.3%,69.9%,8.7%,1.5%,12.6%,24.8%,7.7%,82.3%,415,107,25.8%,402,64,15.9%,No Data,No Data,No Data
+22K109,22,P.S. 109,NO,K395,No,682,412,270,0,1.8%,78.0%,16.3%,1.3%,2.6%,24.6%,6.6%,87.4%,426,148,34.7%,412,95,23.1%,No Data,No Data,No Data
+22K152,22,School of Science & Technology,NO,K152,No,774,774,0,0,5.7%,62.8%,25.5%,1.8%,4.3%,20.4%,15.9%,100.0%,388,118,30.4%,404,97,24.0%,No Data,No Data,No Data
+22K197,22,P.S. 197 - The Kings Highway Academy,NO,K197,No,640,640,0,0,10.8%,11.9%,15.0%,2.2%,60.2%,18.3%,23.9%,100.0%,267,107,40.1%,287,153,53.3%,No Data,No Data,No Data
+22K236,22,P.S. 236 Mill Basin,NO,K236,No,544,544,0,0,9.7%,20.0%,13.2%,4.6%,52.4%,13.6%,5.0%,42.6%,237,161,67.9%,234,180,76.9%,No Data,No Data,No Data
+22K315,22,P.S. K315,NO,K152,No,657,657,0,0,9.4%,58.4%,25.9%,1.4%,4.9%,25.4%,14.3%,84.5%,288,97,33.7%,295,86,29.2%,No Data,No Data,No Data
+22K381,22,I. S. 381,NO,K197,No,290,0,290,0,8.6%,53.4%,18.3%,2.1%,17.6%,21.0%,15.2%,60.7%,265,99,37.4%,276,67,24.3%,No Data,No Data,No Data
+22K535,22,Leon M. Goldstein High School for the Sciences,NO,K535,No,1029,0,0,1029,23.6%,9.8%,9.4%,1.2%,56.0%,15.8%,0.7%,46.2%,No Data,No Data,No Data,No Data,No Data,No Data,265,95.1%,99.6%
+22K555,22,Brooklyn College Academy,YES,"K555, K917",No,618,0,0,618,8.3%,68.3%,10.8%,6.6%,6.0%,9.4%,0.2%,69.3%,No Data,No Data,No Data,No Data,No Data,No Data,147,98.0%,100.0%
+22K611,22,Origins High School,NO,K495,No,434,0,0,434,13.8%,36.9%,22.4%,0.7%,26.3%,13.1%,16.1%,71.0%,No Data,No Data,No Data,No Data,No Data,No Data,s,s,s
+22K630,22,Professional Pathways High School,NO,K495,Yes,209,0,0,209,9.6%,28.2%,32.5%,1.4%,28.2%,16.3%,1.4%,77.0%,No Data,No Data,No Data,No Data,No Data,No Data,102,19.6%,55.6%
+23K150,23,P.S. 150 Christopher,NO,K150,No,182,182,0,0,1.1%,62.1%,32.4%,2.2%,2.2%,34.6%,9.9%,97.8%,83,4,4.8%,88,7,8.0%,No Data,No Data,No Data
+23K156,23,P.S. 156 Waverly,NO,K356,No,762,762,0,0,0.5%,78.9%,18.1%,1.4%,1.0%,21.9%,1.7%,89.2%,356,71,19.9%,352,69,19.6%,No Data,No Data,No Data
+23K178,23,P.S. 178 Saint Clair Mckelway,NO,K178,No,370,267,103,0,0.8%,73.2%,20.0%,1.6%,4.3%,18.9%,6.5%,94.1%,183,48,26.2%,175,36,20.6%,No Data,No Data,No Data
+23K284,23,P.S. 284 Lew Wallace,NO,K284,No,476,301,175,0,1.1%,68.3%,30.3%,0.2%,0.2%,27.5%,7.1%,97.9%,303,46,15.2%,303,28,9.2%,No Data,No Data,No Data
+23K298,23,P.S. 298 Dr. Betty Shabazz,NO,K298,No,218,218,0,0,1.4%,63.8%,28.4%,3.7%,2.8%,20.2%,9.2%,98.2%,68,9,13.2%,68,10,14.7%,No Data,No Data,No Data
+23K323,23,P.S./I.S. 323,NO,K263,No,495,303,192,0,0.4%,76.8%,22.2%,0.2%,0.4%,16.8%,2.8%,90.1%,298,59,19.8%,299,38,12.7%,No Data,No Data,No Data
+23K327,23,P.S. 327 Dr. Rose B. English,NO,K327,No,401,329,72,0,1.2%,67.1%,27.7%,2.2%,1.7%,22.4%,7.7%,93.8%,226,26,11.5%,227,18,7.9%,No Data,No Data,No Data
+23K363,23,Brownsville Collaborative Middle School,NO,K298,No,88,0,88,0,0.0%,64.8%,30.7%,2.3%,2.3%,37.5%,8.0%,94.3%,83,13,15.7%,85,2,2.4%,No Data,No Data,No Data
+23K392,23,I.S. 392,NO,K356,No,294,0,294,0,4.4%,76.5%,13.9%,3.7%,1.4%,14.6%,0.3%,76.2%,267,168,62.9%,184,73,39.7%,No Data,No Data,No Data
+23K401,23,Christopher Avenue Community School,NO,K332,No,299,299,0,0,0.0%,68.6%,29.1%,1.0%,1.3%,24.1%,5.0%,96.7%,88,22,25.0%,92,18,19.6%,No Data,No Data,No Data
+23K446,23,Riverdale Avenue Community School,NO,K183,No,374,374,0,0,2.9%,75.1%,17.9%,2.7%,1.3%,23.8%,4.5%,96.5%,72,22,30.6%,69,9,13.0%,No Data,No Data,No Data
+23K493,23,Brooklyn Collegiate: A College Board School,NO,K055,No,306,0,0,306,1.3%,86.6%,10.5%,1.0%,0.7%,22.9%,4.6%,93.1%,No Data,No Data,No Data,No Data,No Data,No Data,86,67.4%,76.8%
+23K514,23,Frederick Douglass Academy VII High School,NO,K175,No,206,0,0,206,1.5%,83.5%,12.6%,1.9%,0.5%,31.1%,5.8%,92.7%,No Data,No Data,No Data,No Data,No Data,No Data,72,58.3%,65.5%
+23K518,23,Kappa V,NO,K275,No,200,0,200,0,1.0%,85.5%,10.5%,2.0%,1.0%,23.5%,0.5%,91.0%,172,51,29.7%,170,20,11.8%,No Data,No Data,No Data
+23K522,23,Mott Hall IV,NO,K271,No,165,0,165,0,3.0%,81.2%,15.2%,0.6%,0.0%,33.3%,4.8%,86.1%,127,43,33.9%,126,21,16.7%,No Data,No Data,No Data
+23K599,23,Brooklyn Landmark Elementary School,NO,K073,No,311,311,0,0,1.9%,72.0%,23.8%,1.3%,1.0%,21.5%,3.9%,100.0%,122,72,59.0%,121,73,60.3%,No Data,No Data,No Data
+23K643,23,Brooklyn Democracy Academy,NO,K275,Yes,208,0,0,208,1.0%,80.3%,15.9%,2.4%,0.5%,22.6%,3.8%,67.3%,No Data,No Data,No Data,No Data,No Data,No Data,72,16.7%,50.0%
+23K644,23,Eagle Academy for Young Men II,NO,K271,No,626,0,271,355,0.5%,89.8%,7.2%,1.6%,1.0%,25.6%,0.6%,77.0%,191,39,20.4%,133,34,25.6%,71,88.7%,No Data
+23K646,23,Aspirations Diploma Plus High School,NO,K894,Yes,236,0,0,236,1.3%,75.4%,20.8%,2.1%,0.4%,17.8%,3.0%,69.9%,No Data,No Data,No Data,No Data,No Data,No Data,112,17.0%,47.5%
+23K647,23,Metropolitan Diploma Plus High School,NO,K275,Yes,211,0,0,211,0.0%,84.8%,12.3%,2.4%,0.5%,25.1%,0.9%,91.5%,No Data,No Data,No Data,No Data,No Data,No Data,77,23.4%,71.4%
+23K664,23,Brooklyn Environmental Exploration School (BEES),NO,K073,No,89,0,89,0,0.0%,80.9%,14.6%,0.0%,4.5%,22.5%,1.1%,93.3%,77,20,26.0%,80,10,12.5%,No Data,No Data,No Data
+23K668,23,Riverdale Avenue Middle School,NO,K183,No,115,0,115,0,2.6%,83.5%,9.6%,2.6%,1.7%,26.1%,11.3%,85.2%,100,24,24.0%,103,13,12.6%,No Data,No Data,No Data
+23K671,23,MOTT HALL BRIDGES ACADEMY,NO,K263,No,198,0,198,0,1.5%,82.8%,15.2%,0.0%,0.5%,24.2%,1.5%,90.4%,183,44,24.0%,180,29,16.1%,No Data,No Data,No Data
+23K697,23,Teachers Preparatory High School,NO,K175,No,310,0,72,238,1.6%,78.1%,16.8%,1.0%,2.6%,31.0%,3.5%,81.6%,61,12,19.7%,42,3,7.1%,91,67.0%,72.3%
+24Q005,24,I.S. 5 - The Walter Crowley Intermediate School,NO,Q005,No,1836,0,1836,0,44.4%,1.4%,51.2%,0.7%,2.3%,16.1%,16.2%,57.2%,1748,954,54.6%,1714,832,48.5%,s,s,s
+24Q007,24,P.S. 007 Louis F. Simeone,NO,Q007,No,1042,1042,0,0,61.8%,0.1%,35.2%,0.4%,2.5%,10.1%,55.6%,86.3%,236,104,44.1%,244,115,47.1%,No Data,No Data,No Data
+24Q058,24,P.S. 58 - School of Heroes,NO,Q058,No,1039,926,113,0,39.5%,1.1%,38.0%,0.9%,20.6%,18.1%,14.8%,77.2%,527,251,47.6%,534,282,52.8%,No Data,No Data,No Data
+24Q087,24,P.S. 087 Middle Village,NO,Q087,No,592,400,192,0,4.6%,1.7%,50.7%,1.5%,41.6%,25.5%,7.1%,61.7%,307,144,46.9%,303,112,37.0%,No Data,No Data,No Data
+24Q088,24,P.S. 088 Seneca,NO,Q088,No,1033,1033,0,0,6.7%,1.8%,49.3%,0.9%,41.3%,16.3%,16.6%,71.9%,468,151,32.3%,474,195,41.1%,No Data,No Data,No Data
+24Q091,24,P.S. 091 Richard Arkwright,NO,Q091,No,765,765,0,0,3.9%,1.8%,49.3%,0.8%,44.2%,20.4%,11.1%,70.7%,323,115,35.6%,334,121,36.2%,No Data,No Data,No Data
+24Q093,24,I.S. 093 Ridgewood,NO,Q093,No,1103,0,1103,0,10.5%,1.4%,69.7%,0.5%,17.9%,21.8%,16.6%,73.9%,1035,395,38.2%,999,294,29.4%,No Data,No Data,No Data
+24Q110,24,PS 110,NO,Q315,No,607,607,0,0,6.9%,0.8%,91.3%,0.2%,0.8%,15.7%,38.9%,93.7%,95,42,44.2%,99,56,56.6%,No Data,No Data,No Data
+24Q128,24,"P.S. 128 The Lorraine Tuzzo, Juniper Valley Elementary School",NO,Q247,No,974,659,315,0,3.4%,0.5%,19.4%,0.5%,76.2%,14.1%,3.9%,33.2%,619,429,69.3%,592,364,61.5%,No Data,No Data,No Data
+24Q211,24,Elm Tree Elementary School,NO,Q269,No,270,270,0,0,3.7%,0.4%,95.2%,0.4%,0.4%,16.7%,63.0%,95.6%,40,21,52.5%,40,24,60.0%,No Data,No Data,No Data
+24Q236,24,International High School for Health Sciences,NO,Q455,No,310,0,0,310,27.1%,4.8%,58.4%,0.6%,9.0%,2.9%,68.7%,84.5%,No Data,No Data,No Data,No Data,No Data,No Data,s,s,s
+24Q239,24,P.S. 239,NO,Q239,No,584,584,0,0,14.7%,2.2%,75.9%,0.3%,6.8%,22.4%,26.2%,89.7%,264,79,29.9%,271,80,29.5%,No Data,No Data,No Data
+24Q264,24,Academy of Finance and Enterprise,NO,Q735,No,567,0,0,567,22.8%,5.5%,52.7%,2.6%,16.4%,12.5%,6.3%,81.7%,No Data,No Data,No Data,No Data,No Data,No Data,124,91.1%,95.7%
+24Q267,24,High School of Applied Communication,NO,Q735,No,423,0,0,423,13.5%,9.0%,59.6%,3.1%,14.9%,16.5%,7.1%,75.2%,No Data,No Data,No Data,No Data,No Data,No Data,108,80.6%,80.0%
+24Q290,24,A.C.E. Academy for Scholars at the Geraldine Ferraro Campus,NO,Q290,No,546,546,0,0,18.3%,3.1%,45.8%,2.6%,30.2%,8.8%,7.3%,66.3%,210,130,61.9%,215,142,66.0%,No Data,No Data,No Data
+24Q293,24,Civic Leadership Academy,NO,Q744,No,506,0,0,506,12.3%,6.1%,66.6%,8.5%,6.5%,17.8%,5.1%,79.4%,No Data,No Data,No Data,No Data,No Data,No Data,112,88.4%,88.2%
+24Q296,24,Pan American International High School,NO,Q744,No,498,0,0,498,0.0%,0.0%,99.8%,0.2%,0.0%,3.0%,82.9%,83.1%,No Data,No Data,No Data,No Data,No Data,No Data,70,77.1%,69.7%
+24Q299,24,Bard High School Early College Queens,NO,Q735,No,597,0,0,597,35.3%,11.7%,17.4%,2.7%,32.8%,2.0%,0.0%,41.7%,No Data,No Data,No Data,No Data,No Data,No Data,154,98.1%,100.0%
+24Q305,24,Learners and Leaders,YES,"Q245, Q320",No,617,617,0,0,7.3%,2.4%,76.5%,0.5%,13.3%,22.0%,24.6%,85.1%,215,69,32.1%,227,99,43.6%,No Data,No Data,No Data
+24Q307,24,Pioneer Academy,NO,Q260,No,961,961,0,0,2.6%,0.9%,94.6%,0.4%,1.5%,21.5%,42.1%,97.2%,476,118,24.8%,488,176,36.1%,No Data,No Data,No Data
+24Q311,24,Corona Arts and Sciences Academy,NO,Q311,No,537,0,537,0,2.2%,0.9%,96.3%,0.0%,0.6%,15.8%,21.6%,96.8%,517,144,27.9%,530,120,22.6%,No Data,No Data,No Data
+24Q331,24,Pre-K Center District 24,YES,"Q007, Q087, Q091, Q245, Q311, Q313, Q321, Q348, Q378, Q391, Q392, Q412, Q414, Q777, Q855, Q906, Q974",No,911,911,0,0,22.5%,0.2%,68.5%,0.4%,8.3%,2.7%,0.1%,63.2%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+24Q343,24,The Children's Lab School,NO,Q313,No,304,304,0,0,29.3%,0.3%,58.2%,0.7%,11.5%,20.7%,32.2%,81.9%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+24Q455,24,Newtown High School,NO,Q455,No,1892,0,0,1892,24.0%,8.7%,60.3%,1.5%,5.4%,12.4%,20.5%,71.8%,No Data,No Data,No Data,No Data,No Data,No Data,403,71.7%,71.5%
+24Q520,24,Middle College High School at LaGuardia Community College,NO,Q520,No,507,0,0,507,8.9%,4.1%,78.5%,0.8%,7.7%,15.0%,1.0%,100.0%,No Data,No Data,No Data,No Data,No Data,No Data,173,82.1%,85.9%
+24Q530,24,International High School at LaGuardia Community College,NO,Q520,No,530,0,0,530,29.1%,2.5%,55.7%,0.8%,12.1%,2.8%,61.3%,100.0%,No Data,No Data,No Data,No Data,No Data,No Data,167,89.2%,88.3%
+24Q585,24,Maspeth High School,NO,Q585,No,1046,0,0,1046,17.9%,1.4%,42.0%,4.3%,34.4%,15.2%,1.2%,68.8%,No Data,No Data,No Data,No Data,No Data,No Data,237,98.7%,No Data
+24Q744,24,VOYAGES Preparatory,NO,Q744,Yes,251,0,0,251,9.2%,18.7%,66.9%,0.4%,4.8%,6.0%,1.2%,72.1%,No Data,No Data,No Data,No Data,No Data,No Data,65,6.2%,42.7%
+25Q025,25,I.S. 025 Adrien Block,NO,Q025,No,957,0,957,0,50.7%,1.8%,24.0%,1.1%,22.4%,16.9%,13.1%,52.4%,870,496,57.0%,909,502,55.2%,No Data,No Data,No Data
+25Q107,25,P.S. 107 Thomas A Dooley,NO,Q107,No,963,963,0,0,54.3%,0.8%,32.4%,0.6%,11.8%,17.0%,25.2%,72.2%,411,229,55.7%,424,250,59.0%,No Data,No Data,No Data
+25Q130,25,P.S. 130,NO,Q130,No,357,357,0,0,54.9%,2.5%,16.8%,3.1%,22.7%,15.7%,16.2%,39.5%,58,41,70.7%,58,44,75.9%,No Data,No Data,No Data
+25Q154,25,P.S. 154 Queens,NO,Q154,No,706,706,0,0,54.8%,8.9%,22.1%,2.3%,11.9%,13.0%,25.4%,83.4%,308,155,50.3%,324,179,55.2%,No Data,No Data,No Data
+25Q169,25,P.S. 169 Bay Terrace,NO,Q169,No,439,439,0,0,33.9%,5.0%,21.2%,1.4%,38.5%,18.0%,5.7%,34.6%,192,96,50.0%,192,109,56.8%,No Data,No Data,No Data
+25Q189,25,J.H.S. 189 Daniel Carter Beard,NO,Q189,No,722,0,722,0,66.9%,2.8%,27.0%,0.7%,2.6%,17.6%,24.1%,48.9%,669,301,45.0%,634,322,50.8%,No Data,No Data,No Data
+25Q209,25,P.S. 209 Clearview Gardens,NO,Q209,No,620,620,0,0,44.2%,1.1%,16.8%,2.9%,35.0%,13.1%,6.8%,36.0%,288,189,65.6%,287,219,76.3%,No Data,No Data,No Data
+25Q237,25,I.S. 237,NO,Q237,No,1339,0,1339,0,73.7%,6.6%,17.3%,0.7%,1.6%,13.1%,20.4%,76.2%,1221,609,49.9%,1275,775,60.8%,No Data,No Data,No Data
+25Q240,25,Veritas Academy,NO,Q460,No,547,0,0,547,19.0%,13.0%,51.2%,4.6%,12.2%,17.2%,7.9%,76.4%,No Data,No Data,No Data,No Data,No Data,No Data,s,s,s
+25Q241,25,Queens High School for Language Studies,NO,Q460,No,399,0,0,399,60.7%,9.8%,25.1%,2.3%,2.3%,5.8%,24.3%,77.9%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+25Q250,25,I.S. 250 The Robert F. Kennedy Community Middle School,NO,Q168,No,398,0,398,0,32.4%,27.4%,26.4%,3.0%,10.8%,20.6%,15.3%,81.9%,363,119,32.8%,369,110,29.8%,No Data,No Data,No Data
+25Q252,25,"Queens School of Inquiry, The",NO,Q168,No,575,0,250,325,40.2%,16.0%,24.3%,2.4%,17.0%,15.0%,3.8%,61.7%,236,95,40.3%,162,55,34.0%,75,97.3%,97.2%
+25Q263,25,Flushing International High School,NO,Q189,No,454,0,0,454,52.6%,1.1%,42.3%,0.9%,3.1%,2.0%,75.6%,80.4%,No Data,No Data,No Data,No Data,No Data,No Data,94,71.3%,78.6%
+25Q281,25,East-West School of International Studies,NO,Q237,No,685,0,336,349,65.8%,9.8%,17.8%,1.6%,5.0%,12.1%,6.6%,81.8%,311,205,65.9%,253,182,71.9%,86,96.5%,98.8%
+25Q285,25,World Journalism Preparatory: A College Board School,NO,Q025,No,566,0,235,331,16.6%,4.4%,31.4%,0.9%,46.6%,20.7%,0.5%,53.7%,217,122,56.2%,211,77,36.5%,102,94.1%,100.0%
+25Q294,25,BELL Academy,NO,Q169,No,369,0,369,0,33.6%,4.9%,29.5%,0.8%,31.2%,20.1%,1.9%,52.8%,338,250,74.0%,238,153,64.3%,No Data,No Data,No Data
+25Q460,25,Flushing High School,NO,Q460,No,1759,0,0,1759,16.9%,20.8%,57.0%,2.0%,3.3%,14.2%,22.5%,67.5%,No Data,No Data,No Data,No Data,No Data,No Data,537,63.1%,70.9%
+25Q499,25,"The Queens College School for Math, Science and Technology",NO,Q499,No,479,312,167,0,52.8%,22.3%,13.6%,3.1%,8.1%,10.4%,5.0%,51.1%,298,226,75.8%,270,196,72.6%,No Data,No Data,No Data
+25Q525,25,Townsend Harris High School,NO,Q515,No,1110,0,0,1110,58.0%,5.4%,11.4%,4.1%,21.1%,2.6%,0.0%,53.5%,No Data,No Data,No Data,No Data,No Data,No Data,281,100.0%,100.0%
+26Q026,26,P.S. 026 Rufus King,NO,Q026,No,699,699,0,0,61.2%,8.9%,16.2%,2.6%,11.2%,16.3%,10.2%,58.1%,326,201,61.7%,329,226,68.7%,No Data,No Data,No Data
+26Q041,26,P.S. 041 Crocheron,NO,Q041,No,510,510,0,0,45.3%,2.5%,21.2%,2.9%,28.0%,15.1%,7.3%,37.8%,253,195,77.1%,260,220,84.6%,No Data,No Data,No Data
+26Q115,26,P.S. 115 Glen Oaks,NO,Q115,No,720,720,0,0,68.8%,6.3%,12.9%,4.4%,7.6%,9.3%,5.7%,40.6%,314,239,76.1%,312,245,78.5%,No Data,No Data,No Data
+26Q186,26,P.S. 186 Castlewood,NO,Q186,No,396,396,0,0,33.1%,10.1%,20.5%,3.8%,32.6%,27.8%,2.5%,33.1%,158,115,72.8%,160,120,75.0%,No Data,No Data,No Data
+26Q191,26,P.S. 191 Mayflower,NO,Q191,No,403,403,0,0,71.7%,3.5%,12.9%,2.5%,9.4%,11.9%,11.9%,58.3%,176,100,56.8%,179,112,62.6%,No Data,No Data,No Data
+26Q205,26,P.S. 205 Alexander Graham Bell,NO,Q205,No,323,323,0,0,42.4%,2.2%,19.2%,4.6%,31.6%,17.3%,5.6%,26.0%,134,100,74.6%,144,110,76.4%,No Data,No Data,No Data
+26Q213,26,P.S. 213 The Carl Ullman School,NO,Q213,No,464,464,0,0,67.5%,5.2%,14.7%,1.7%,11.0%,10.8%,11.4%,52.6%,175,112,64.0%,178,127,71.3%,No Data,No Data,No Data
+26Q266,26,P.S. / I.S. 266,NO,Q266,No,662,450,212,0,42.7%,16.8%,22.7%,2.6%,15.3%,18.3%,3.2%,53.8%,394,266,67.5%,361,209,57.9%,No Data,No Data,No Data
+26Q315,26,Business Technology Early College High School (P-Tech),NO,Q435,No,322,0,0,322,29.5%,35.4%,20.5%,7.8%,6.8%,18.6%,4.7%,63.4%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+26Q415,26,Benjamin N. Cardozo High School,NO,Q415,No,3744,0,0,3744,43.4%,20.4%,19.6%,2.3%,14.3%,12.5%,5.0%,46.7%,No Data,No Data,No Data,No Data,No Data,No Data,866,89.5%,90.9%
+26Q430,26,Francis Lewis High School,NO,Q430,No,4463,0,0,4463,56.3%,6.0%,20.9%,1.6%,15.1%,13.2%,10.5%,74.2%,No Data,No Data,No Data,No Data,No Data,No Data,1094,87.3%,90.3%
+26Q435,26,Martin Van Buren High School,NO,Q435,No,1234,0,0,1234,29.7%,46.8%,14.1%,5.0%,4.4%,10.4%,11.2%,71.1%,No Data,No Data,No Data,No Data,No Data,No Data,410,66.8%,66.7%
+26Q495,26,Bayside High School,NO,Q405,No,3181,0,0,3181,42.6%,13.1%,26.1%,1.0%,17.2%,17.0%,5.9%,75.0%,No Data,No Data,No Data,No Data,No Data,No Data,778,95.1%,94.8%
+26Q566,26,"Queens High School of Teaching, Liberal Arts and the Sciences",NO,Q566,No,1119,0,0,1119,21.7%,51.9%,14.9%,3.7%,7.8%,20.5%,2.0%,61.0%,No Data,No Data,No Data,No Data,No Data,No Data,283,90.8%,92.8%
+27Q042,27,P.S./M.S 042 R. Vernam,NO,Q042,No,719,508,211,0,1.1%,71.8%,22.9%,2.1%,2.1%,26.7%,4.0%,96.7%,424,67,15.8%,376,42,11.2%,No Data,No Data,No Data
+27Q043,27,P.S. 043,NO,Q043,No,924,687,237,0,4.2%,59.0%,31.5%,2.1%,3.2%,22.9%,7.8%,88.6%,549,101,18.4%,469,79,16.8%,No Data,No Data,No Data
+27Q053,27,M.S. 053 Brian Piccolo,NO,Q053,No,314,0,314,0,0.3%,56.7%,40.8%,1.0%,1.3%,37.3%,17.8%,66.6%,290,47,16.2%,324,14,4.3%,No Data,No Data,No Data
+27Q114,27,P.S. / M.S. 114 Belle Harbor,NO,Q114,No,663,547,116,0,0.9%,2.6%,10.0%,1.1%,85.5%,21.9%,0.5%,23.4%,331,214,64.7%,314,195,62.1%,No Data,No Data,No Data
+27Q202,27,J.H.S. 202 Robert H. Goddard,NO,Q202,No,1093,0,1093,0,35.0%,6.8%,47.0%,3.5%,7.7%,16.5%,7.9%,80.1%,1030,420,40.8%,996,282,28.3%,No Data,No Data,No Data
+27Q223,27,P.S. 223 Lyndon B. Johnson,NO,Q223,No,595,595,0,0,10.8%,64.9%,15.5%,8.4%,0.5%,21.2%,4.9%,92.9%,265,70,26.4%,267,59,22.1%,No Data,No Data,No Data
+27Q226,27,J.H.S. 226 Virgil I. Grissom,NO,Q226,No,917,0,917,0,21.4%,36.5%,16.0%,25.3%,0.8%,20.1%,6.0%,86.3%,854,273,32.0%,861,169,19.6%,No Data,No Data,No Data
+27Q253,27,P.S. 253,NO,Q253,No,600,600,0,0,2.7%,33.2%,60.8%,1.3%,2.0%,20.5%,28.8%,96.7%,279,63,22.6%,283,102,36.0%,No Data,No Data,No Data
+27Q254,27,P.S. 254 - The Rosa Parks School,NO,Q254,No,657,657,0,0,13.1%,4.9%,72.1%,2.4%,7.5%,14.3%,12.2%,81.7%,301,134,44.5%,313,171,54.6%,No Data,No Data,No Data
+27Q260,27,Frederick Douglass Academy VI High School,NO,Q465,No,344,0,0,344,1.7%,54.9%,40.7%,1.7%,0.9%,21.8%,16.3%,77.9%,No Data,No Data,No Data,No Data,No Data,No Data,106,66.0%,73.0%
+27Q261,27,Voyages Prep - South Queens,NO,Q400,Yes,291,0,0,291,8.9%,66.3%,18.9%,4.8%,1.0%,8.6%,0.0%,79.7%,No Data,No Data,No Data,No Data,No Data,No Data,120,20.8%,53.2%
+27Q262,27,Channel View School for Research,NO,Q410,No,804,0,313,491,8.6%,44.3%,32.6%,1.4%,13.2%,13.7%,2.0%,100.0%,304,86,28.3%,305,62,20.3%,124,95.2%,96.9%
+27Q282,27,Knowledge and Power Preparatory Academy VI,NO,Q465,No,259,0,259,0,4.6%,56.0%,36.7%,0.4%,2.3%,14.7%,6.9%,82.2%,257,93,36.2%,171,46,26.9%,No Data,No Data,No Data
+27Q297,27,Hawtree Creek Middle School,NO,Q226,No,402,0,402,0,26.6%,39.6%,19.4%,11.9%,2.5%,21.6%,5.2%,86.3%,384,131,34.1%,358,48,13.4%,No Data,No Data,No Data
+27Q302,27,"Queens High School for Information, Research, and Technology",NO,Q465,No,450,0,0,450,6.4%,40.2%,50.0%,1.3%,2.0%,14.9%,27.3%,67.3%,No Data,No Data,No Data,No Data,No Data,No Data,82,69.5%,81.3%
+27Q308,27,Robert H. Goddard High School of Communication Arts and Technology,NO,Q202,No,612,0,0,612,27.3%,9.2%,39.2%,5.1%,19.3%,17.2%,3.6%,72.2%,No Data,No Data,No Data,No Data,No Data,No Data,151,88.1%,95.9%
+27Q309,27,Academy of Medical Technology: A College Board School,NO,Q465,No,629,0,212,417,8.4%,42.9%,41.7%,2.7%,4.3%,16.9%,14.1%,74.7%,198,44,22.2%,181,14,7.7%,90,66.7%,73.6%
+27Q314,27,Epic High School - South,NO,Q226,No,263,0,0,263,25.5%,36.1%,28.9%,6.8%,2.7%,17.5%,7.6%,70.3%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+27Q317,27,WATERSIDE CHILDREN'S STUDIO SCHOOL,NO,Q225,No,491,491,0,0,4.5%,22.2%,47.3%,4.9%,21.2%,18.5%,11.4%,75.6%,205,73,35.6%,210,80,38.1%,No Data,No Data,No Data
+27Q318,27,WATERSIDE SCHOOL FOR LEADERSHIP,NO,Q225,No,230,0,230,0,2.2%,53.5%,33.5%,1.7%,9.1%,30.9%,8.7%,80.9%,217,64,29.5%,221,19,8.6%,No Data,No Data,No Data
+27Q319,27,VILLAGE ACADEMY,NO,Q053,No,314,0,314,0,1.3%,57.0%,38.5%,1.3%,1.9%,20.4%,15.6%,64.0%,307,57,18.6%,327,38,11.6%,No Data,No Data,No Data
+27Q324,27,ROCKAWAY PARK HIGH SCHOOL FOR ENVIRONMENTAL SUSTAINABILITY,NO,Q410,No,328,0,0,328,4.3%,43.9%,33.2%,6.4%,12.2%,25.0%,8.5%,100.0%,No Data,No Data,No Data,No Data,No Data,No Data,95,62.1%,69.2%
+27Q336,27,Pre-K Center District 27,NO,Q223,No,33,33,0,0,18.2%,36.4%,27.3%,12.1%,6.1%,0.0%,0.0%,57.6%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+27Q351,27,Rockaway Collegiate High School,NO,Q410,No,370,0,0,370,5.1%,50.3%,34.9%,4.6%,5.1%,18.9%,7.0%,100.0%,No Data,No Data,No Data,No Data,No Data,No Data,101,64.4%,20.0%
+27Q400,27,August Martin High School,NO,Q400,No,382,0,0,382,9.4%,68.3%,15.7%,5.8%,0.8%,19.6%,6.5%,78.3%,No Data,No Data,No Data,No Data,No Data,No Data,125,39.2%,57.8%
+27Q480,27,John Adams High School,NO,Q480,No,2215,0,0,2215,33.7%,22.3%,34.9%,5.8%,3.3%,16.1%,19.5%,79.6%,No Data,No Data,No Data,No Data,No Data,No Data,725,63.6%,66.2%
+27Q650,27,"High School for Construction Trades, Engineering and Architecture",NO,Q650,No,1015,0,0,1015,31.5%,9.7%,34.1%,11.4%,13.3%,14.0%,1.5%,62.6%,No Data,No Data,No Data,No Data,No Data,No Data,236,95.8%,98.7%
+28Q008,28,J.H.S. 008 Richard S. Grossley,NO,Q008,No,357,0,357,0,17.6%,45.7%,23.5%,12.9%,0.3%,23.2%,16.0%,86.6%,305,68,22.3%,320,57,17.8%,No Data,No Data,No Data
+28Q040,28,P.S. 040 Samuel Huntington,NO,Q040,No,498,498,0,0,10.4%,59.0%,23.9%,2.6%,4.0%,25.7%,4.4%,95.2%,263,64,24.3%,270,72,26.7%,No Data,No Data,No Data
+28Q048,28,P.S. 048 William Wordsworth,NO,Q276,No,628,628,0,0,15.6%,58.9%,19.3%,5.1%,1.1%,24.8%,8.3%,88.4%,256,84,32.8%,269,98,36.4%,No Data,No Data,No Data
+28Q072,28,Catherine & Count Basie Middle School 72,NO,Q072,No,442,0,442,0,11.1%,67.6%,12.7%,7.7%,0.9%,27.8%,6.3%,74.9%,413,68,16.5%,414,27,6.5%,No Data,No Data,No Data
+28Q139,28,P.S. 139 Rego Park,NO,Q139,No,773,773,0,0,23.5%,1.8%,30.5%,2.1%,42.0%,16.8%,17.1%,63.8%,367,182,49.6%,380,216,56.8%,No Data,No Data,No Data
+28Q161,28,P.S. 161 Arthur Ashe School,NO,Q161,No,740,740,0,0,65.8%,6.6%,16.2%,9.7%,1.6%,12.0%,13.2%,88.1%,347,166,47.8%,350,192,54.9%,No Data,No Data,No Data
+28Q167,28,METROPOLITAN EXPEDITIONARY LEARNING SCHOOL,NO,Q686,No,825,0,380,445,18.2%,16.8%,41.0%,6.1%,17.9%,20.1%,2.1%,66.8%,318,133,41.8%,255,70,27.5%,114,100.0%,No Data
+28Q182,28,P.S. 182 Samantha Smith,NO,Q277,No,796,796,0,0,27.3%,13.9%,54.9%,2.6%,1.3%,14.7%,34.7%,94.6%,383,110,28.7%,388,102,26.3%,No Data,No Data,No Data
+28Q190,28,J.H.S. 190 Russell Sage,NO,Q190,No,1036,0,1036,0,35.5%,6.7%,27.4%,3.4%,27.0%,12.6%,8.8%,39.4%,942,546,58.0%,863,432,50.1%,s,s,s
+28Q284,28,York Early College Academy,NO,Q008,No,620,0,271,349,30.5%,47.3%,10.3%,10.6%,1.3%,10.5%,1.0%,76.0%,264,168,63.6%,174,91,52.3%,80,97.5%,97.1%
+28Q287,28,The Emerson School,NO,Q008,No,372,0,372,0,16.1%,54.3%,21.2%,7.5%,0.8%,25.5%,9.7%,66.9%,343,85,24.8%,289,41,14.2%,No Data,No Data,No Data
+28Q310,28,Queens Collegiate: A College Board School,NO,Q470,No,668,0,247,421,29.9%,47.5%,13.8%,6.7%,2.1%,15.0%,7.8%,84.4%,232,94,40.5%,233,73,31.3%,93,77.4%,92.1%
+28Q312,28,Jamaica Children's School,NO,Q040,No,113,113,0,0,0.9%,67.3%,27.4%,2.7%,1.8%,23.0%,9.7%,95.6%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+28Q325,28,Hillside Arts & Letters Academy ,NO,Q470,No,495,0,0,495,25.1%,40.4%,25.3%,7.3%,2.0%,14.1%,12.3%,73.5%,No Data,No Data,No Data,No Data,No Data,No Data,121,80.2%,84.4%
+28Q328,28,HIGH SCHOOL FOR COMMUNITY LEADERSHIP,NO,Q470,No,476,0,0,476,24.8%,37.0%,25.0%,7.8%,5.5%,15.1%,13.2%,80.3%,No Data,No Data,No Data,No Data,No Data,No Data,106,84.0%,87.1%
+28Q332,28,Redwood Middle School,NO,Q072,No,329,0,329,0,10.3%,76.3%,9.4%,3.0%,0.9%,24.6%,2.7%,71.4%,296,78,26.4%,271,36,13.3%,No Data,No Data,No Data
+28Q335,28,Pre-K Center District 28,YES,"Q040, Q382, Q383, Q608",No,244,244,0,0,37.7%,4.5%,40.6%,9.0%,8.2%,5.3%,0.4%,48.8%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+28Q338,28,Queens Satellite High School for Opportunity,NO,Q595,Yes,198,0,0,198,9.1%,48.5%,25.8%,10.1%,6.6%,13.6%,2.0%,81.3%,No Data,No Data,No Data,No Data,No Data,No Data,94,5.3%,24.6%
+28Q349,28, The Queens School for Leadership and Excellence,NO,Q314,No,196,196,0,0,42.9%,21.4%,29.1%,4.1%,2.6%,11.7%,18.4%,86.2%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+28Q350,28,Jamaica Gateway to the Sciences,NO,Q470,No,523,0,0,523,41.7%,39.0%,10.7%,5.9%,2.7%,12.4%,9.8%,74.6%,No Data,No Data,No Data,No Data,No Data,No Data,123,90.2%,79.2%
+28Q358,28,M.S. 358,NO,Q314,No,262,0,262,0,22.1%,30.9%,39.7%,4.6%,2.7%,17.6%,15.6%,84.0%,251,76,30.3%,248,73,29.4%,No Data,No Data,No Data
+28Q620,28,Thomas A. Edison Career and Technical Education High School,NO,Q620,No,2090,0,0,2090,45.6%,21.1%,23.6%,4.9%,4.8%,12.2%,1.9%,80.0%,No Data,No Data,No Data,No Data,No Data,No Data,512,92.8%,92.3%
+28Q680,28,Queens Gateway to Health Sciences Secondary School,NO,Q695,No,704,0,277,427,49.4%,31.4%,9.2%,6.1%,3.8%,10.8%,0.7%,60.4%,261,237,90.8%,260,209,80.4%,124,96.8%,100.0%
+28Q686,28,QUEENS METROPOLITAN HIGH SCHOOL,NO,Q686,No,1067,0,0,1067,9.7%,3.5%,46.3%,1.5%,39.1%,16.3%,2.7%,61.6%,No Data,No Data,No Data,No Data,No Data,No Data,292,90.1%,93.2%
+28Q690,28,High School for Law Enforcement and Public Safety,NO,Q690,No,560,0,0,560,10.4%,64.1%,20.7%,3.6%,1.3%,17.5%,3.6%,70.7%,No Data,No Data,No Data,No Data,No Data,No Data,122,81.1%,84.3%
+29Q059,29,I.S. 059 Springfield Gardens,NO,Q059,No,573,0,573,0,0.9%,90.2%,5.9%,2.1%,0.9%,22.7%,1.7%,69.3%,521,146,28.0%,517,77,14.9%,No Data,No Data,No Data
+29Q136,29,P.S. 136 Roy Wilkins,NO,Q136,No,648,648,0,0,1.9%,88.7%,6.5%,1.5%,1.4%,15.0%,4.8%,92.1%,219,75,34.2%,228,67,29.4%,No Data,No Data,No Data
+29Q147,29,PS/MS 147 Ronald McNair,NO,Q147,No,606,381,225,0,1.7%,92.1%,3.6%,1.3%,1.3%,20.1%,4.3%,75.1%,393,121,30.8%,393,50,12.7%,No Data,No Data,No Data
+29Q156,29,P.S. 156 Laurelton,NO,Q156,No,287,287,0,0,2.8%,90.6%,5.2%,1.4%,0.0%,10.1%,6.3%,70.7%,122,37,30.3%,126,24,19.0%,No Data,No Data,No Data
+29Q192,29,I.S. 192 The Linden,NO,Q192,No,507,0,507,0,3.0%,79.5%,10.5%,5.3%,1.8%,18.9%,7.1%,65.3%,474,115,24.3%,469,23,4.9%,No Data,No Data,No Data
+29Q208,29,P.S. / I.S. 208,NO,Q208,No,739,451,288,0,8.9%,75.0%,12.3%,3.0%,0.8%,18.3%,0.9%,53.7%,505,263,52.1%,498,207,41.6%,No Data,No Data,No Data
+29Q243,29,Institute for Health Professions at Cambria Heights,NO,Q490,No,412,0,0,412,7.8%,71.8%,12.4%,5.3%,2.7%,10.0%,7.3%,72.6%,No Data,No Data,No Data,No Data,No Data,No Data,s,s,s
+29Q248,29,Queens Preparatory Academy,NO,Q420,No,480,0,0,480,4.4%,84.6%,7.1%,3.3%,0.6%,14.8%,4.8%,68.8%,No Data,No Data,No Data,No Data,No Data,No Data,116,72.4%,79.2%
+29Q251,29,P.S. 251 Queens,NO,Q231,No,354,354,0,0,5.1%,85.6%,5.6%,2.5%,1.1%,21.5%,0.0%,70.6%,151,68,45.0%,152,56,36.8%,No Data,No Data,No Data
+29Q259,29,Pathways College Preparatory School: A College Board School,NO,Q192,No,618,0,247,371,4.9%,85.9%,5.3%,2.6%,1.3%,15.7%,2.6%,74.4%,239,74,31.0%,157,16,10.2%,84,71.4%,93.3%
+29Q265,29,Excelsior Preparatory High School,NO,Q420,No,494,0,0,494,3.0%,84.0%,6.9%,3.8%,2.2%,14.6%,4.9%,78.5%,No Data,No Data,No Data,No Data,No Data,No Data,134,76.9%,90.4%
+29Q268,29,PS/IS 268,NO,Q268,No,604,415,189,0,25.7%,31.1%,31.5%,9.6%,2.2%,15.7%,14.1%,78.6%,373,157,42.1%,373,113,30.3%,No Data,No Data,No Data
+29Q270,29,The Gordon Parks School,NO,Q270,No,706,435,271,0,0.7%,96.3%,1.6%,1.3%,0.1%,15.0%,0.4%,54.0%,485,219,45.2%,448,125,27.9%,No Data,No Data,No Data
+29Q272,29,George Washington Carver High School for the Sciences,NO,Q420,No,493,0,0,493,6.3%,77.5%,12.2%,3.0%,1.0%,15.8%,5.5%,74.4%,No Data,No Data,No Data,No Data,No Data,No Data,131,86.3%,91.8%
+29Q283,29,Preparatory Academy for Writers: A College Board School,NO,Q420,No,609,0,182,427,2.8%,85.9%,6.4%,3.1%,1.8%,15.6%,1.8%,74.1%,179,82,45.8%,83,33,39.8%,93,81.7%,87.3%
+29Q289,29,Queens United Middle School,NO,Q156,No,232,0,232,0,0.4%,84.5%,6.0%,8.2%,0.9%,17.2%,1.3%,78.4%,222,48,21.6%,224,11,4.9%,No Data,No Data,No Data
+29Q295,29,P.S./I.S. 295,NO,Q263,No,532,341,191,0,35.0%,25.0%,29.9%,6.2%,3.9%,16.4%,10.3%,78.4%,326,166,50.9%,319,142,44.5%,No Data,No Data,No Data
+29Q313,29,Benjamin Franklin High School for Finance & Information Technology,NO,Q490,No,315,0,0,315,13.0%,64.4%,14.9%,4.1%,3.5%,17.8%,8.9%,77.1%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+29Q355,29,Collaborative Arts Middle School,NO,Q231,No,341,0,341,0,2.1%,87.4%,7.9%,1.2%,1.5%,24.0%,3.5%,71.6%,306,64,20.9%,307,36,11.7%,No Data,No Data,No Data
+29Q356,29,Community Voices Middle School,NO,Q231,No,314,0,314,0,1.9%,87.6%,7.0%,2.2%,1.3%,22.6%,6.1%,73.9%,297,74,24.9%,285,29,10.2%,No Data,No Data,No Data
+29Q492,29,"Mathematics, Science Research and Technology Magnet High School",NO,Q490,No,426,0,0,426,10.3%,68.3%,12.7%,6.6%,2.1%,14.6%,6.8%,77.0%,No Data,No Data,No Data,No Data,No Data,No Data,112,69.6%,75.8%
+29Q498,29,Humanities & Arts Magnet High School,NO,Q490,No,470,0,0,470,5.1%,77.7%,13.6%,1.9%,1.7%,13.8%,9.8%,83.0%,No Data,No Data,No Data,No Data,No Data,No Data,124,79.8%,89.7%
+30Q017,30,P.S. 017 Henry David Thoreau,NO,Q017,No,573,573,0,0,17.6%,11.5%,51.3%,2.1%,17.5%,18.5%,23.7%,100.0%,225,57,25.3%,233,74,31.8%,No Data,No Data,No Data
+30Q069,30,P.S. 069 Jackson Heights,NO,Q069,No,1035,1035,0,0,50.5%,0.4%,40.2%,2.1%,6.8%,9.3%,19.2%,100.0%,515,298,57.9%,535,296,55.3%,No Data,No Data,No Data
+30Q070,30,P.S. 070 Queens,NO,Q070,No,931,931,0,0,17.4%,2.4%,41.9%,1.8%,36.5%,13.0%,19.3%,82.5%,369,160,43.4%,386,175,45.3%,No Data,No Data,No Data
+30Q076,30,P.S. 076 William Hallet,NO,Q076,No,508,508,0,0,9.1%,29.5%,49.0%,2.6%,9.8%,33.5%,16.3%,100.0%,180,48,26.7%,180,45,25.0%,No Data,No Data,No Data
+30Q078,30,P.S. 078,YES,"Q312, Q868",No,648,538,110,0,18.8%,3.4%,30.9%,5.1%,41.8%,10.8%,5.1%,18.8%,263,174,66.2%,277,175,63.2%,No Data,No Data,No Data
+30Q111,30,P.S. 111 Jacob Blackwell,NO,Q111,No,284,208,76,0,3.9%,44.0%,46.8%,1.1%,4.2%,31.0%,17.6%,87.7%,156,25,16.0%,158,15,9.5%,No Data,No Data,No Data
+30Q126,30,Albert Shanker School for Visual and Performing Arts,NO,Q126,No,625,0,625,0,28.8%,14.9%,46.1%,0.6%,9.6%,20.3%,12.3%,89.4%,607,247,40.7%,607,188,31.0%,No Data,No Data,No Data
+30Q151,30,P.S. 151 Mary D. Carter,NO,Q151,No,419,419,0,0,16.5%,23.4%,52.3%,1.7%,6.2%,20.3%,11.0%,91.9%,165,30,18.2%,174,43,24.7%,No Data,No Data,No Data
+30Q204,30,I.S. 204 Oliver W. Holmes,NO,Q204,No,495,0,495,0,19.6%,20.0%,56.2%,0.6%,3.6%,28.3%,14.7%,77.0%,463,135,29.2%,476,105,22.1%,No Data,No Data,No Data
+30Q227,30,I.S. 227 Louis Armstrong,NO,Q227,No,1578,180,1398,0,13.6%,9.5%,48.9%,1.0%,27.1%,14.0%,3.9%,71.5%,1395,908,65.1%,1398,953,68.2%,No Data,No Data,No Data
+30Q234,30,P.S. 234,NO,Q234,No,558,558,0,0,23.7%,5.9%,37.8%,0.9%,31.7%,15.6%,18.8%,82.6%,263,89,33.8%,266,95,35.7%,No Data,No Data,No Data
+30Q235,30,Academy for New Americans,NO,Q234,No,149,0,149,0,17.4%,1.3%,65.1%,0.7%,15.4%,0.0%,97.3%,94.6%,88,1,1.1%,156,23,14.7%,No Data,No Data,No Data
+30Q258,30,Energy Tech High School,NO,Q204,No,435,0,0,435,19.3%,8.0%,52.0%,6.0%,14.7%,16.6%,2.3%,76.8%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+30Q291,30,Hunters Point Community Middle School,NO,Q404,No,410,0,410,0,13.4%,10.7%,52.7%,3.9%,19.3%,21.5%,5.4%,58.8%,374,202,54.0%,358,170,47.5%,No Data,No Data,No Data
+30Q300,30,The 30th Avenue School (G&T Citywide),YES,"Q017, Q126",No,370,219,151,0,43.2%,6.8%,8.6%,9.5%,31.9%,6.5%,1.4%,100.0%,194,179,92.3%,172,165,95.9%,No Data,No Data,No Data
+30Q301,30,Academy for Careers in Television and Film,NO,Q404,No,545,0,0,545,6.1%,15.4%,50.6%,5.9%,22.0%,20.4%,2.2%,58.9%,No Data,No Data,No Data,No Data,No Data,No Data,129,98.4%,96.8%
+30Q361,30, The Woodside Community School,NO,Q339,No,194,194,0,0,31.4%,0.5%,60.3%,3.1%,4.6%,13.4%,25.8%,75.8%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+30Q389,30,Pre-K Center District 30,YES,"Q070, Q312, Q389, Q397, Q904",No,248,248,0,0,22.2%,3.6%,48.4%,3.2%,22.6%,1.6%,0.0%,31.0%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+30Q450,30,Long Island City High School,NO,Q452,No,2090,0,0,2090,15.6%,12.4%,63.6%,1.9%,6.5%,15.6%,12.1%,73.4%,No Data,No Data,No Data,No Data,No Data,No Data,468,63.7%,71.9%
+30Q501,30,Frank Sinatra School of the Arts High School,NO,Q570,No,849,0,0,849,11.1%,13.3%,33.9%,6.9%,34.7%,12.2%,0.5%,40.8%,No Data,No Data,No Data,No Data,No Data,No Data,172,97.1%,99.4%
+30Q502,30,Information Technology High School,NO,Q725,No,1003,0,0,1003,20.1%,13.2%,55.9%,1.5%,9.3%,18.6%,8.0%,75.9%,No Data,No Data,No Data,No Data,No Data,No Data,212,75.5%,81.9%
+30Q555,30,Newcomers High School,NO,Q450,No,934,0,0,934,28.3%,1.5%,62.6%,0.1%,7.5%,0.9%,68.3%,84.0%,No Data,No Data,No Data,No Data,No Data,No Data,246,74.8%,73.3%
+30Q575,30,Academy of American Studies,NO,Q450,No,999,0,0,999,29.4%,6.4%,32.5%,0.4%,31.2%,9.1%,3.9%,69.3%,No Data,No Data,No Data,No Data,No Data,No Data,213,91.5%,94.2%
+31R004,31,P.S. 004 Maurice Wollin,NO,R004,No,764,764,0,0,7.7%,1.7%,19.2%,1.4%,69.9%,32.7%,4.5%,38.1%,360,184,51.1%,362,174,48.1%,No Data,No Data,No Data
+31R007,31,I.S. 007 Elias Bernstein,NO,R007,No,1165,0,1165,0,4.7%,0.4%,7.2%,1.2%,86.4%,17.1%,0.9%,34.4%,1103,684,62.0%,1079,624,57.8%,No Data,No Data,No Data
+31R009,31,Naples Street Elementary School,NO,R048,No,262,262,0,0,5.3%,16.8%,27.9%,3.1%,46.9%,24.0%,0.8%,39.7%,54,34,63.0%,54,22,40.7%,No Data,No Data,No Data
+31R010,31,Fort Hill Collaborative Elementary School,NO,R016,No,146,146,0,0,7.5%,27.4%,56.2%,4.1%,4.8%,26.7%,28.8%,91.8%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+31R016,31,P.S. 016 John J. Driscoll,NO,R016,No,557,557,0,0,5.4%,25.9%,59.1%,0.9%,8.8%,28.4%,26.6%,97.8%,288,53,18.4%,290,48,16.6%,No Data,No Data,No Data
+31R022,31,P.S. 022 Graniteville,NO,R022,No,1018,1018,0,0,7.5%,25.1%,54.5%,2.8%,10.1%,22.7%,16.6%,83.8%,497,152,30.6%,508,145,28.5%,No Data,No Data,No Data
+31R024,31,I.S. 024 Myra S. Barnes,NO,R024,No,1298,0,1298,0,3.9%,1.5%,13.8%,0.8%,80.0%,24.9%,2.1%,38.8%,1209,661,54.7%,1055,417,39.5%,No Data,No Data,No Data
+31R028,31,The Eagle Academy for Young Men of Staten Island,NO,R049,No,192,0,192,0,7.8%,51.0%,31.3%,2.1%,7.8%,31.3%,6.8%,69.8%,176,40,22.7%,174,28,16.1%,No Data,No Data,No Data
+31R030,31,P.S. 030 Westerleigh,NO,R030,No,812,812,0,0,6.8%,2.6%,24.6%,3.1%,62.9%,22.0%,8.0%,34.0%,367,214,58.3%,368,232,63.0%,No Data,No Data,No Data
+31R034,31,I.S. 034 Tottenville,NO,R034,No,1122,0,1122,0,3.7%,0.4%,10.6%,0.6%,84.8%,27.4%,1.9%,33.0%,1048,567,54.1%,1044,572,54.8%,No Data,No Data,No Data
+31R038,31,P.S. 038 George Cromwell,NO,R038,No,388,388,0,0,11.6%,2.3%,33.8%,1.8%,50.5%,20.1%,16.8%,67.5%,182,76,41.8%,186,78,41.9%,No Data,No Data,No Data
+31R047,31,CSI High School for International Studies,NO,R043,No,491,0,0,491,12.4%,8.6%,16.5%,12.2%,50.3%,16.7%,0.4%,45.6%,No Data,No Data,No Data,No Data,No Data,No Data,126,100.0%,97.7%
+31R048,31,P.S. 048 William C. Wilcox,NO,R071,No,975,658,317,0,18.7%,4.3%,17.0%,1.7%,58.3%,18.7%,6.7%,42.4%,611,395,64.6%,604,379,62.7%,No Data,No Data,No Data
+31R049,31,I.S. 49 Berta A. Dreyfus,NO,R049,No,762,0,762,0,9.8%,32.9%,45.0%,1.2%,11.0%,33.7%,11.5%,84.1%,729,159,21.8%,742,90,12.1%,No Data,No Data,No Data
+31R058,31,Space Shuttle Columbia School,NO,R058,No,730,730,0,0,16.3%,5.3%,25.9%,2.5%,50.0%,26.7%,6.0%,50.3%,372,176,47.3%,371,146,39.4%,No Data,No Data,No Data
+31R061,31,I.S. 061 William A Morris,NO,R061,No,1053,0,1053,0,4.1%,33.9%,41.6%,2.2%,18.2%,29.2%,9.9%,75.8%,992,315,31.8%,1000,139,13.9%,No Data,No Data,No Data
+31R063,31,Marsh Avenue School for Expeditionary Learning,NO,R043,No,449,0,449,0,8.9%,6.7%,22.5%,1.8%,60.1%,21.4%,0.2%,42.5%,443,269,60.7%,407,180,44.2%,No Data,No Data,No Data
+31R064,31,Gaynor McCown Expeditionary Learning School,NO,R043,No,440,0,0,440,3.9%,10.0%,18.9%,6.4%,60.9%,23.6%,0.5%,46.4%,No Data,No Data,No Data,No Data,No Data,No Data,113,89.4%,91.2%
+31R066,31,Pre-K Center District 31,YES,"R048, R066, R068, R077",No,164,164,0,0,10.4%,17.7%,46.3%,11.0%,14.6%,9.1%,0.0%,50.0%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+31R068,31,P.S. 68,NO,R066,No,55,55,0,0,1.8%,41.8%,36.4%,3.6%,16.4%,12.7%,3.6%,61.8%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+31R075,31,I.S. 075 Frank D. Paulo,NO,R075,No,1377,0,1377,0,9.0%,1.5%,11.4%,0.9%,77.1%,23.3%,1.5%,33.1%,1306,774,59.3%,1198,605,50.5%,No Data,No Data,No Data
+31R080,31,The Michael J. Petrides School,NO,R880,No,1340,582,290,468,8.7%,21.0%,22.6%,3.0%,44.7%,26.9%,1.6%,49.8%,576,300,52.1%,484,212,43.8%,109,90.8%,93.1%
+31R440,31,New Dorp High School,NO,R435,No,2974,0,0,2974,7.5%,11.3%,27.9%,2.5%,50.8%,21.4%,5.4%,57.2%,No Data,No Data,No Data,No Data,No Data,No Data,648,81.0%,82.5%
+31R445,31,Port Richmond High School,NO,R445,No,1583,0,0,1583,6.7%,24.4%,44.8%,1.5%,22.6%,26.0%,6.9%,66.2%,No Data,No Data,No Data,No Data,No Data,No Data,397,58.9%,73.1%
+31R450,31,Curtis High School,NO,R450,No,2558,0,0,2558,6.4%,36.7%,39.1%,1.5%,16.3%,19.4%,6.1%,73.7%,No Data,No Data,No Data,No Data,No Data,No Data,549,74.3%,83.1%
+31R455,31,Tottenville High School,NO,R455,No,3911,0,0,3911,5.3%,1.9%,11.9%,1.6%,79.4%,17.9%,1.0%,30.4%,No Data,No Data,No Data,No Data,No Data,No Data,974,88.3%,91.5%
+31R600,31,Ralph R. McKee Career and Technical Education High School,NO,R600,No,762,0,0,762,5.6%,28.9%,43.3%,2.0%,20.2%,29.1%,4.7%,68.0%,No Data,No Data,No Data,No Data,No Data,No Data,146,70.5%,84.0%
+31R861,31,Staten Island School of Civic Leadership,NO,R861,No,925,632,293,0,9.6%,21.7%,44.0%,4.8%,19.9%,24.8%,3.9%,78.2%,589,331,56.2%,587,277,47.2%,No Data,No Data,No Data
+32K168,32,The Brooklyn School for Math and Research,NO,K480,No,273,0,0,273,3.7%,46.2%,42.9%,2.2%,5.1%,17.6%,11.4%,91.2%,No Data,No Data,No Data,No Data,No Data,No Data,58,81.0%,50.0%
+32K291,32,J.H.S. 291 Roland Hayes,NO,K291,No,309,0,309,0,0.6%,13.6%,83.5%,0.3%,1.9%,23.6%,26.9%,81.9%,266,36,13.5%,276,10,3.6%,s,s,s
+32K347,32,I.S. 347 School of Humanities,NO,K111,No,300,0,300,0,2.7%,4.7%,90.7%,0.3%,1.7%,21.7%,21.3%,93.3%,275,44,16.0%,279,53,19.0%,No Data,No Data,No Data
+32K349,32,"I.S. 349 Math, Science & Tech.",NO,K111,No,295,0,295,0,0.7%,6.4%,91.9%,0.0%,1.0%,19.0%,28.8%,95.6%,280,48,17.1%,285,34,11.9%,No Data,No Data,No Data
+32K377,32,P.S. 377 Alejandrina B. De Gautier,NO,K377,No,375,231,144,0,0.8%,14.9%,82.7%,0.3%,1.3%,29.9%,17.9%,94.4%,234,37,15.8%,237,38,16.0%,No Data,No Data,No Data
+32K383,32,J.H.S. 383 Philippa Schuyler,NO,K383,No,915,38,877,0,4.6%,38.1%,55.1%,0.8%,1.4%,13.9%,4.5%,80.8%,868,488,56.2%,863,288,33.4%,No Data,No Data,No Data
+32K384,32,P.S. /I.S. 384 Frances E. Carter,NO,K384,No,558,367,191,0,1.3%,13.1%,84.8%,0.2%,0.7%,23.1%,26.2%,100.0%,323,78,24.1%,339,63,18.6%,No Data,No Data,No Data
+32K403,32,Academy for Environmental Leadership,NO,K480,No,288,0,0,288,4.5%,17.7%,75.0%,0.0%,2.8%,21.9%,38.2%,100.0%,No Data,No Data,No Data,No Data,No Data,No Data,80,71.3%,78.5%
+32K549,32,Bushwick School for Social Justice,NO,K480,No,389,0,0,389,0.5%,20.8%,75.3%,1.0%,2.3%,20.3%,30.6%,100.0%,No Data,No Data,No Data,No Data,No Data,No Data,99,71.7%,77.6%
+32K552,32,Academy of Urban Planning,NO,K480,No,194,0,0,194,0.5%,17.0%,79.4%,1.0%,2.1%,22.2%,32.0%,95.4%,No Data,No Data,No Data,No Data,No Data,No Data,75,69.3%,67.1%
+32K554,32,All City Leadership Secondary School,NO,K554,No,413,0,182,231,6.1%,10.2%,76.3%,0.5%,7.0%,8.0%,1.7%,87.7%,179,163,91.1%,117,98,83.8%,37,100.0%,96.7%
+32K562,32,Evergreen Middle School for Urban Exploration,NO,K296,No,325,0,325,0,0.6%,25.8%,71.1%,0.6%,1.8%,26.5%,21.8%,87.1%,282,29,10.3%,294,14,4.8%,No Data,No Data,No Data
+32K564,32,Bushwick Community High School,NO,K291,Yes,236,0,0,236,0.0%,28.4%,68.2%,0.4%,3.0%,23.3%,4.2%,100.0%,No Data,No Data,No Data,No Data,No Data,No Data,84,21.4%,42.1%
+75K004,75,P.S. K004,YES,"K007, K072, K081, K395, K798, K843, K853",No,331,331,0,0,5.7%,62.2%,24.8%,1.5%,5.7%,100.0%,17.2%,59.8%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+75K036,75,P.S. 36,YES,"K192, K224, K470, K857, K877",No,289,175,83,31,3.1%,66.4%,23.2%,1.7%,5.5%,99.7%,9.7%,76.1%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+75K053,75,P.S. K053,YES,"K088, K104, K296, K384, K410, K422, K437, K535",No,469,156,122,191,8.1%,37.3%,37.1%,6.0%,11.5%,100.0%,26.9%,61.8%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+75K077,75,P.S. K077,YES,"K014, K093, K164, K178, K555, K917",No,277,103,61,113,14.4%,43.7%,22.0%,0.4%,19.5%,99.6%,23.1%,57.8%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+75K140,75,P.S. K140,YES,"K021, K026, K258, K263, K304",No,293,190,103,0,3.4%,68.6%,23.2%,2.7%,2.0%,100.0%,12.3%,70.6%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+75K141,75,P.S. K141,YES,"K002, K035, K071, K380",No,358,192,139,27,5.0%,45.5%,34.1%,0.3%,15.1%,99.7%,22.9%,68.7%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+75K231,75,P.S. K231,YES,"K054, K104, K180, K215, K238, K264, K331",No,333,271,62,0,18.3%,31.8%,24.6%,0.6%,24.6%,99.7%,30.9%,62.5%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+75K368,75,P.S. 368,YES,"K033, K120, K293, KBBY",No,231,88,80,63,3.0%,50.6%,37.7%,1.7%,6.9%,95.7%,10.8%,72.3%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+75K369,75,P.S. K369 - Coy L. CoX School,YES,"K005, K056, K067, K117, K261, K265, K313, K317, K369, K580",No,661,340,194,127,3.8%,58.5%,29.3%,0.9%,7.4%,99.2%,10.0%,70.7%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+75K370,75,P.S. 370,YES,"K100, K237, K370, K445, K620, K807",No,242,83,89,70,12.0%,32.6%,26.0%,0.8%,28.5%,100.0%,28.5%,59.9%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+75K371,75,P.S. 371 - Lillian L. Rashkis,YES,"K371, K485, K564",No,258,0,0,258,6.6%,53.1%,31.4%,0.8%,8.1%,97.3%,12.0%,62.8%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+75K372,75,P.S. 372 -The Children's School,YES,"K113, K834",No,210,199,11,0,5.7%,22.4%,25.7%,1.9%,44.3%,100.0%,5.2%,27.6%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+75K396,75,P.S. K396,YES,"K181, K289, K327",No,320,228,92,0,4.7%,51.9%,19.4%,13.1%,10.9%,99.7%,23.1%,70.6%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+75K721,75,P.S. K721 - Brooklyn Occupational Training Center,YES,"K231, K540, K555, K722",No,509,29,0,480,12.0%,43.0%,22.8%,0.0%,22.2%,100.0%,31.0%,50.9%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+75K771,75,P.S. K771,YES,"K043, K066, K225, K236, K303, K329, K721",No,444,326,97,21,13.5%,38.3%,24.1%,1.4%,22.7%,99.8%,14.6%,62.4%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+75K811,75,P.S. K811 Connie Lekas School,YES,"K014, K281, K286, K525",No,349,0,53,296,7.7%,53.0%,21.5%,3.7%,14.0%,99.1%,24.6%,65.3%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+75M035,75,P.S. 035,YES,"M058, M912, XAUF",No,300,21,15,264,2.7%,41.3%,46.7%,1.0%,8.3%,85.0%,8.7%,70.7%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+75M079,75,P.S. M079 - Horan School,NO,M079,No,263,0,15,248,0.8%,28.1%,64.3%,1.1%,5.7%,98.9%,38.8%,64.3%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+75M094,75,P.S. M094,YES,"M015, M061, M188, M276, M281, M338, M340, M971",No,402,267,90,45,6.7%,29.6%,44.8%,2.0%,16.9%,99.8%,16.9%,62.7%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+75M138,75,P.S. 138,YES,"M030, M033, M045, M047, M048, M090, M114, M117, M380, M535, M660",No,603,288,140,175,3.0%,31.5%,56.9%,0.3%,8.3%,100.0%,26.7%,68.0%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+75M169,75,P.S. M169 - Robert F. Kennedy,YES,"M102, M146, M169, M435, M488",No,387,281,95,11,1.3%,47.5%,44.7%,1.3%,5.2%,99.7%,11.6%,77.8%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+75M226,75,P.S. M226,YES,"M076, M208, M475, M477, M480, M824, M875, MAMX",No,268,119,52,97,4.1%,34.0%,50.0%,2.2%,9.7%,100.0%,17.9%,61.9%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+75M721,75,P.S. M721 - Manhattan Occupational Training Center,YES,"M615, M641, M844, M883",No,170,0,8,162,11.2%,28.2%,55.3%,0.0%,5.3%,100.0%,47.6%,64.7%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+75M751,75,Manhattan School for Career Development,YES,"M440, M600, M751, M807",No,179,0,0,179,1.1%,43.0%,50.8%,1.7%,3.4%,99.4%,25.1%,61.5%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+75M811,75,P.S. M811 - Mickey Mantle School,YES,"M075, M101, M163, M207, M435, M841",No,369,257,112,0,1.6%,41.7%,51.8%,1.6%,3.3%,99.7%,17.1%,75.6%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+75Q004,75,P.S. Q004,YES,"Q161, Q179, Q213, Q270, Q667",No,409,320,89,0,21.5%,32.5%,28.1%,5.4%,12.5%,99.8%,12.7%,58.2%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+75Q009,75,P.S. 009,YES,"Q005, Q009, Q058, Q209, Q268, Q277, Q882",No,640,437,201,2,10.0%,32.7%,43.9%,1.4%,12.0%,99.4%,28.0%,59.4%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+75Q177,75,P.S. Q177,YES,"Q139, Q177, Q190, Q263",No,489,55,118,316,18.2%,30.7%,22.7%,1.8%,26.6%,100.0%,23.1%,52.8%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+75Q224,75,P.S. Q224,YES,"Q026, Q115, Q186, Q205, Q266, Q809",No,420,346,74,0,20.5%,24.5%,30.7%,12.4%,11.9%,99.3%,21.4%,50.2%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+75Q233,75,P.S. Q233,YES,"Q025, Q042, Q142, Q226, Q650, Q686, Q835",No,470,79,78,313,14.5%,34.9%,29.4%,6.0%,15.3%,99.6%,28.9%,50.2%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+75Q255,75,P.S. Q255,YES,"Q007, Q151, Q154, Q168, Q247, Q260, Q515, Q885",No,423,324,84,15,18.2%,11.1%,37.1%,2.8%,30.7%,99.8%,35.9%,46.6%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+75Q256,75,P.S. Q256,YES,"Q043, Q114, Q253, Q410, Q816, QBHF",No,533,180,97,256,5.3%,45.8%,33.6%,0.6%,14.8%,81.6%,15.6%,57.8%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+75Q277,75,The Riverview School,YES,"Q076, Q290, Q311, Q312, Q314, Q315, Q404",No,311,188,81,42,24.1%,14.5%,42.1%,2.6%,16.7%,99.7%,39.9%,49.2%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+75Q721,75,John F. Kennedy Jr. School,YES,"Q585, Q722, Q725, QBFD",No,478,0,0,478,19.9%,19.9%,42.3%,1.7%,16.3%,100.0%,47.7%,49.2%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+75Q752,75,Queens Transition Center,YES,"Q142, Q620, Q690, Q695, Q744",No,388,0,1,387,8.2%,53.9%,30.4%,1.5%,5.9%,98.2%,17.8%,56.7%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+84K367,84,Success Academy Charter School - Bed-Stuy 1,NO,K033,No,560,507,53,0,1.3%,69.5%,25.7%,2.1%,1.4%,15.0%,3.8%,55.0%,304,283,93.1%,305,302,99.0%,No Data,No Data,No Data
+75Q811,75,P.S. Q811,YES,"Q069, Q136, Q147, Q227, Q405, Q430, Q566, Q811, Q851",No,416,132,44,240,18.5%,33.2%,29.3%,3.8%,15.1%,100.0%,22.6%,53.6%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+75Q993,75,P.S. Q993,YES,"Q041, Q072, Q130, Q191, Q208, Q415, Q452, Q499, Q570",No,545,307,68,170,21.1%,20.6%,39.1%,2.2%,17.1%,100.0%,37.1%,48.8%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+75R025,75,South Richmond High School I.S./P.S. 25,YES,"R007, R025, R034, R061, R075, R435, R445, R450, R455, R826, RADL, RADM, RAIW",No,532,73,172,287,2.1%,37.0%,29.9%,1.5%,29.5%,97.7%,2.8%,69.2%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+75R037,75,P.S. R037,YES,"R004, R030, R038, R840, R880",No,366,239,60,67,3.6%,15.8%,27.9%,2.5%,50.3%,99.7%,5.5%,60.9%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+75R373,75,P.S. R373,YES,"R022, R040, R058, R071, R861, R884",No,525,485,40,0,4.4%,28.0%,32.0%,3.2%,32.4%,99.8%,11.8%,62.5%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+75R721,75,The Richard H. Hungerford School,YES,"R024, R043, R435, R455, R600, R722, RAFD",No,452,0,96,356,5.8%,19.2%,32.3%,1.3%,41.4%,100.0%,14.4%,63.1%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+75X010,75,P.S. X010,YES,"X015, X026, X101, X129, X152, X162, X240, X415, X817",No,506,391,109,6,1.6%,32.2%,58.7%,0.6%,6.9%,99.8%,22.5%,72.3%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+75X017,75,P.S. X017,YES,"X043, X156, X161, X184, X400",No,412,272,132,8,1.9%,35.4%,55.6%,1.7%,5.3%,100.0%,19.7%,68.2%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+75X168,75,P.S. 168,YES,"X020, X095, X160, X183, X194, X440, X973",No,497,328,153,16,2.4%,34.2%,61.0%,0.6%,1.8%,100.0%,22.7%,74.0%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+75X176,75,P.S. X176,YES,"X153, X178, X181, X425, X455, X498",No,875,363,235,277,2.1%,43.8%,46.3%,1.0%,6.9%,100.0%,9.5%,58.9%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+75X188,75,P.S. X188,YES,"X034, X120, X790",No,470,165,207,98,2.8%,38.1%,53.6%,0.9%,4.7%,99.6%,23.0%,69.1%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+75X352,75,The Vida Bogart School for All Children,YES,"X040, X074, X075, X092, X134",No,467,428,39,0,1.7%,39.2%,55.5%,1.9%,1.7%,100.0%,15.8%,75.2%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+75X469,75,P469X - The Bronx School for Continuous Learners,YES,"X027, X042, X079, X177, X855",No,265,265,0,0,4.5%,34.3%,58.1%,0.4%,2.6%,99.6%,29.4%,71.3%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+75X721,75,P.S. X721 - Stephen McSweeney School,YES,"X368, X405, X423, X722, XAOZ, XATS",No,552,0,0,552,2.2%,32.6%,58.5%,0.9%,5.8%,100.0%,35.5%,58.3%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+75X723,75,P.S. 723,YES,"X049, X099, X189, X235, X338, X425, X701, X927, XAHW, XAIB, XAIF",No,508,250,177,81,1.4%,35.2%,55.3%,2.0%,6.1%,96.9%,9.4%,79.7%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+75X754,75,J. M. Rapport School Career Development,YES,"Q733, X034, X101, X155, X184, X362, X980, XAUP",No,526,0,0,526,0.6%,36.9%,58.6%,0.4%,3.6%,97.3%,30.0%,71.7%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+79M645,79,School for Cooperative Technical Education,YES,"K500, KAPZ, M079, M646, MADB, Q142, Q452, Q480, RAAC, X039, X274, X455",No,807,0,0,807,6.8%,37.3%,43.5%,1.1%,11.3%,4.6%,6.2%,29.9%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+79M973,79,Restart Academy,YES,"K660, K824, KBJH, KBJJ, KBJK, KCBV, KCKX, KCQH, M465, M646, M834, MAHZ, MAKG, MASF, MASJ, MBGX, Q410, Q460, Q773, QARD, QBCX, QBEX, QBHI, QBNO, RAEL, RAEM",No,518,0,144,374,2.7%,37.3%,45.9%,2.1%,12.0%,33.6%,16.4%,76.4%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+79Q950,79,Pathways to Graduation,YES,"K231, K371, K410, K428, K455, K458, K515, K525, K554, K779, K871, K893, KAUS, KBHR, KBJL, KBJO, KBJQ, KBJR, KBJS, KBKE, KCKY, KCLT, KCQJ, M058, M510, M646",No,3836,0,0,3836,14.1%,36.0%,42.5%,2.0%,5.4%,10.8%,14.3%,40.2%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+84K037,84,Beginning With Children Charter School II,YES,"K071, KABV",No,304,304,0,0,1.6%,28.0%,68.1%,0.7%,1.6%,16.8%,20.7%,90.1%,141,81,57.4%,141,93,66.0%,No Data,No Data,No Data
+84K125,84,Success Academy Charter School - Bed-Stuy 2,NO,K059,No,368,368,0,0,0.5%,69.3%,25.5%,2.4%,2.2%,15.5%,3.3%,54.1%,153,134,87.6%,153,151,98.7%,No Data,No Data,No Data
+84K129,84,Success Academy Charter School - Cobble Hill,NO,K293,No,469,469,0,0,6.4%,33.5%,31.3%,2.8%,26.0%,10.4%,4.9%,38.0%,216,199,92.1%,216,210,97.2%,No Data,No Data,No Data
+84K182,84,Success Academy Charter School - Williamsburg,NO,K050,No,525,525,0,0,2.7%,26.7%,57.9%,2.9%,9.9%,14.9%,8.0%,69.3%,252,194,77.0%,251,235,93.6%,No Data,No Data,No Data
+84K333,84,Explore Exceed Charter School,YES,"K022, K320",No,493,376,117,0,3.0%,78.9%,16.0%,1.8%,0.2%,22.3%,5.1%,79.9%,294,54,18.4%,244,49,20.1%,No Data,No Data,No Data
+84K355,84,Williamsburg Collegiate Charter School,NO,K016,No,330,83,247,0,0.3%,30.6%,67.6%,0.0%,1.5%,18.5%,5.5%,85.2%,326,108,33.1%,241,121,50.2%,37,91.9%,100.0%
+84K356,84,Achievement First Crown Heights Charter School,YES,"K391, K434",No,1032,580,268,184,0.1%,95.2%,3.5%,0.8%,0.5%,15.4%,0.3%,77.4%,553,285,51.5%,551,355,64.4%,37,91.9%,100.0%
+84K357,84,KIPP AMP Charter School,YES,"K390, XAVN",No,866,450,251,165,1.2%,86.5%,9.2%,2.5%,0.6%,17.2%,1.6%,80.1%,407,184,45.2%,409,180,44.0%,24,100.0%,95.7%
+84K358,84,Achievement First East New York Charter School,YES,"K013, K065, K111",No,851,536,179,136,0.7%,79.9%,17.5%,1.5%,0.4%,11.5%,1.2%,83.0%,420,269,64.0%,418,314,75.1%,s,s,s
+84K359,84,UFT Charter School,NO,K166,No,316,4,0,312,1.9%,74.7%,22.2%,0.9%,0.3%,7.9%,3.5%,78.8%,No Data,No Data,No Data,No Data,No Data,No Data,73,74.0%,100.0%
+84K360,84,Launch Expeditionary Learning Charter School,NO,K243,No,312,0,312,0,1.0%,83.0%,13.8%,1.9%,0.3%,26.3%,4.8%,87.2%,296,74,25.0%,289,45,15.6%,No Data,No Data,No Data
+84K379,84,Explore Excel Charter School,YES,"K068, K114",No,544,357,187,0,0.9%,91.2%,4.4%,2.9%,0.6%,19.1%,3.7%,77.8%,353,125,35.4%,350,113,32.3%,No Data,No Data,No Data
+84K386,84,Invictus Preparatory Charter School,NO,K218,No,264,20,244,0,5.7%,70.5%,22.3%,0.8%,0.8%,17.8%,8.3%,75.4%,264,77,29.2%,260,54,20.8%,No Data,No Data,No Data
+84K395,84,ROADS Charter School I,NO,K894,Yes,223,0,0,223,0.4%,63.7%,25.6%,8.5%,1.8%,46.6%,4.0%,82.1%,No Data,No Data,No Data,No Data,No Data,No Data,93,6.5%,12.5%
+84K508,84,Achievement First Endeavor Charter School,YES,"K434, K784",No,1053,558,268,227,0.8%,85.8%,12.0%,0.9%,0.6%,15.7%,0.6%,78.5%,532,311,58.5%,528,357,67.6%,22,95.5%,100.0%
+84K517,84,Leadership Prep Bedford Stuyvesant Charter School,YES,"K258, K458",No,1106,546,255,305,0.9%,83.7%,10.4%,4.1%,0.9%,8.7%,2.0%,74.2%,497,304,61.2%,421,279,66.3%,No Data,No Data,No Data
+84K536,84,Community Roots Charter School,YES,"K067, K287",No,472,309,163,0,4.9%,29.9%,15.7%,7.8%,41.7%,23.7%,2.3%,26.1%,299,168,56.2%,290,137,47.2%,No Data,No Data,No Data
+84K538,84,Achievement First Bushwick Charter School,YES,"K111, K296, K383",No,1064,578,278,208,0.8%,32.3%,65.8%,0.3%,0.8%,15.6%,10.3%,85.3%,567,372,65.6%,571,475,83.2%,40,92.5%,100.0%
+84K608,84,Kings Collegiate Charter School,YES,"K252, K854",No,434,176,258,0,0.0%,92.6%,3.9%,2.5%,0.9%,13.1%,1.4%,79.7%,342,145,42.4%,260,113,43.5%,32,90.6%,No Data
+84K626,84,Achievement First Brownsville Charter School,YES,"K055, K292",No,937,559,275,103,0.3%,88.4%,10.1%,0.9%,0.3%,12.3%,2.5%,82.3%,527,256,48.6%,529,326,61.6%,No Data,No Data,No Data
+84K648,84,Bedford Stuyvesant Collegiate Charter School,NO,K324,No,346,87,259,0,1.4%,67.3%,26.6%,3.5%,1.2%,17.3%,2.6%,61.3%,332,149,44.9%,259,120,46.3%,26,84.6%,No Data
+84K649,84,La Cima Charter School,NO,K324,No,380,380,0,0,3.4%,67.1%,24.5%,2.1%,2.9%,16.1%,7.6%,72.9%,169,57,33.7%,168,64,38.1%,No Data,No Data,No Data
+84K680,84,Achievement First Aspire Charter School,NO,K202,No,442,442,0,0,0.7%,74.7%,21.9%,2.3%,0.5%,11.3%,2.9%,81.7%,169,82,48.5%,168,128,76.2%,No Data,No Data,No Data
+84K689,84,Citizens of the World Charter School - New York 1 (Williamsburg),NO,K126,No,323,323,0,0,2.2%,20.4%,65.9%,1.5%,9.9%,23.2%,14.6%,85.1%,111,24,21.6%,110,22,20.0%,No Data,No Data,No Data
+84K692,84,Citizens of the World Charter School - New York 2 (Crown Heights),NO,K221,No,338,338,0,0,0.0%,89.3%,7.4%,3.0%,0.3%,14.5%,1.5%,86.7%,117,23,19.7%,115,14,12.2%,No Data,No Data,No Data
+84K693,84,Northside Charter High School,NO,K126,No,400,0,0,400,2.0%,20.7%,68.8%,2.5%,6.0%,15.5%,8.0%,70.5%,No Data,No Data,No Data,No Data,No Data,No Data,85,82.4%,97.9%
+84K701,84,Brooklyn Charter School,NO,K023,No,235,235,0,0,2.6%,77.9%,18.3%,0.4%,0.9%,10.2%,6.4%,72.8%,109,42,38.5%,108,55,50.9%,No Data,No Data,No Data
+84K702,84,Community Partnership Charter School,YES,"K256, K270",No,418,270,148,0,1.0%,75.8%,20.1%,2.2%,1.0%,15.8%,2.4%,85.6%,260,84,32.3%,248,57,23.0%,No Data,No Data,No Data
+84K704,84,Explore Charter School,NO,K002,No,538,368,170,0,0.0%,82.2%,14.3%,3.5%,0.0%,13.6%,4.5%,75.8%,335,91,27.2%,336,76,22.6%,No Data,No Data,No Data
+84K710,84,Brownsville Collegiate Charter School,NO,K150,No,328,80,243,5,0.6%,68.9%,22.6%,7.0%,0.9%,20.4%,4.0%,85.1%,296,86,29.1%,234,86,36.8%,s,s,s
+84K711,84,Leadership Prep Brownsville Charter School,YES,"K275, K284",No,792,536,256,0,0.1%,84.1%,14.0%,1.5%,0.3%,12.4%,1.3%,88.0%,500,248,49.6%,421,248,58.9%,No Data,No Data,No Data
+84K712,84,Excellence Girls Charter School,YES,"K191, K309, K434",No,1366,577,271,518,1.8%,78.3%,16.6%,2.6%,0.7%,9.4%,2.0%,70.8%,512,335,65.4%,439,300,68.3%,No Data,No Data,No Data
+84K724,84,Leadership Prep Canarsie Charter School,YES,"K211, K279",No,676,414,262,0,1.2%,90.2%,4.7%,3.0%,0.9%,12.0%,0.3%,80.2%,397,182,45.8%,311,155,49.8%,No Data,No Data,No Data
+84K730,84,Summit Academy Charter School,NO,K027,No,327,0,113,214,0.3%,47.4%,46.2%,4.0%,2.1%,18.0%,5.2%,79.8%,101,28,27.7%,102,29,28.4%,52,80.8%,0.0%
+84K733,84,"Math, Engineering, and Science Academy Charter High School",NO,K291,No,479,0,0,479,1.9%,13.2%,76.6%,6.1%,2.3%,15.7%,7.5%,79.5%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+84K736,84,New American Academy Charter School (The),NO,K233,No,329,329,0,0,0.9%,91.8%,5.8%,0.6%,0.9%,14.6%,2.1%,80.9%,126,26,20.6%,126,20,15.9%,No Data,No Data,No Data
+84K737,84,Brownsville Ascend Charter School,NO,KBVT,No,1015,716,299,0,0.7%,86.3%,11.0%,1.7%,0.3%,11.4%,1.4%,57.5%,645,276,42.8%,644,298,46.3%,No Data,No Data,No Data
+84K738,84,New Visions Charter High School for Advanced Math and Science III,NO,K495,No,450,0,0,450,3.3%,81.3%,8.4%,5.1%,1.8%,12.9%,3.6%,71.1%,No Data,No Data,No Data,No Data,No Data,No Data,s,s,s
+84K739,84,New Visions Charter High School for the Humanities III,NO,K495,No,385,0,0,385,1.0%,84.7%,10.1%,3.1%,1.0%,16.9%,1.8%,61.3%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+84K741,84,Success Academy Charter School - Crown Heights,NO,K161,No,414,414,0,0,0.7%,90.8%,6.8%,1.7%,0.0%,13.3%,1.9%,80.4%,140,133,95.0%,141,140,99.3%,No Data,No Data,No Data
+84K742,84,Explore Empower Charter School,NO,K210,No,515,340,175,0,0.6%,88.9%,8.7%,1.0%,0.8%,20.4%,3.5%,81.4%,340,105,30.9%,339,91,26.8%,No Data,No Data,No Data
+84K744,84,Coney Island Preparatory Public Charter School,YES,"K281, K303, KAEG",No,935,342,273,320,9.0%,39.1%,34.1%,2.5%,15.3%,22.9%,4.7%,81.0%,418,180,43.1%,412,206,50.0%,No Data,No Data,No Data
+84K752,84,Success Academy Charter School - Fort Greene,NO,K265,No,376,376,0,0,0.8%,69.7%,23.9%,1.3%,4.3%,12.8%,4.0%,67.8%,131,102,77.9%,131,124,94.7%,No Data,No Data,No Data
+84K756,84,Success Academy Charter School - Prospect Heights,NO,K138,No,388,388,0,0,1.8%,89.4%,5.9%,1.3%,1.5%,14.4%,1.3%,69.8%,176,143,81.3%,177,169,95.5%,No Data,No Data,No Data
+84K757,84,Unity Prep Charter School,YES,"K044, K907",No,390,0,298,92,1.3%,78.5%,16.9%,1.8%,1.5%,21.5%,3.8%,78.7%,285,87,30.5%,280,60,21.4%,No Data,No Data,No Data
+84K769,84,Hyde Leadership Charter School - Brooklyn,NO,K328,No,404,404,0,0,0.5%,71.3%,27.5%,0.5%,0.2%,12.1%,8.4%,89.1%,186,69,37.1%,185,49,26.5%,No Data,No Data,No Data
+84K772,84,Success Academy Charter School - Bensonhurst,NO,K096,No,367,367,0,0,13.1%,13.1%,16.9%,1.1%,55.9%,12.8%,14.2%,31.6%,88,74,84.1%,89,87,97.8%,No Data,No Data,No Data
+84K774,84,Achievement First Apollo Charter School,YES,"K292, K302",No,777,582,195,0,4.6%,62.9%,30.0%,1.4%,1.0%,10.2%,6.2%,84.3%,460,226,49.1%,460,322,70.0%,No Data,No Data,No Data
+84K775,84,Leadership Prep Ocean Hill Charter School,YES,"K332, K515",No,1028,537,247,244,0.5%,84.4%,11.8%,2.6%,0.7%,9.3%,2.3%,69.2%,505,326,64.6%,430,335,77.9%,No Data,No Data,No Data
+84K777,84,Ocean Hill Collegiate Charter School,NO,K271,No,332,82,250,0,1.5%,85.2%,8.4%,4.5%,0.3%,15.4%,0.9%,77.7%,319,140,43.9%,244,138,56.6%,No Data,No Data,No Data
+84K780,84,Brooklyn East Collegiate Charter School,NO,K009,No,346,78,268,0,1.7%,78.0%,6.9%,11.8%,1.4%,14.5%,1.4%,79.2%,318,112,35.2%,239,93,38.9%,No Data,No Data,No Data
+84K781,84,Success Academy Charter School - Bergen Beach,NO,K078,No,346,346,0,0,0.9%,87.0%,6.4%,1.4%,4.3%,13.0%,1.2%,35.8%,58,58,100.0%,58,57,98.3%,No Data,No Data,No Data
+84K784,84,Achievement First North Brooklyn Preparatory  Charter School,NO,K377,No,303,303,0,0,1.3%,22.4%,74.6%,0.0%,1.7%,14.5%,16.2%,88.4%,85,49,57.6%,85,77,90.6%,No Data,No Data,No Data
+84K788,84,Achievement First Linden Charter School,NO,K166,No,346,346,0,0,1.2%,83.8%,13.6%,0.9%,0.6%,10.4%,1.2%,86.1%,89,42,47.2%,88,59,67.0%,No Data,No Data,No Data
+84K789,84,Compass Charter School,NO,K113,No,214,214,0,0,6.1%,33.2%,11.2%,9.3%,40.2%,15.9%,0.9%,31.8%,45,13,28.9%,44,5,11.4%,No Data,No Data,No Data
+84K803,84,Brooklyn LABCharter School,YES,"KCKX, KCSH",No,458,0,458,0,1.7%,73.6%,19.0%,2.6%,3.1%,27.7%,1.7%,60.5%,416,130,31.3%,397,92,23.2%,No Data,No Data,No Data
+84K876,84,Achievement First Voyager Middle School,NO,K884,No,66,66,0,0,3.0%,86.4%,3.0%,6.1%,1.5%,16.7%,0.0%,75.8%,61,13,21.3%,61,32,52.5%,No Data,No Data,No Data
+84K879,84,Brooklyn Prospect Charter School Downtown,NO,K117,No,97,0,97,0,4.1%,70.1%,10.3%,5.2%,10.3%,12.4%,1.0%,54.6%,87,26,29.9%,86,37,43.0%,No Data,No Data,No Data
+84K883,84,Success Academy Charter School - Bed-Stuy 3,NO,K025,No,105,105,0,0,0.0%,82.9%,15.2%,1.0%,1.0%,15.2%,3.8%,43.8%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+84K886,84,Success Academy Charter School - Flatbush,NO,K884,No,155,155,0,0,0.6%,91.0%,3.9%,2.6%,1.9%,11.6%,1.9%,74.8%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+84M065,84,Democracy Prep Endurance Charter School,YES,"M154, MADR",No,563,0,337,226,0.4%,67.9%,28.8%,2.0%,1.1%,19.7%,4.8%,80.6%,303,118,38.9%,287,104,36.2%,No Data,No Data,No Data
+84M068,84,KIPP NYC Washington Heights Academy Charter School,YES,"M090, M115, XAVN",No,914,555,267,92,0.1%,11.3%,87.2%,0.5%,0.9%,17.0%,12.8%,87.2%,536,306,57.1%,534,335,62.7%,No Data,No Data,No Data
+84M080,84,Manhattan Charter School 2,NO,M056,No,228,228,0,0,3.9%,29.8%,61.8%,2.6%,1.8%,17.1%,7.0%,85.1%,94,31,33.0%,94,28,29.8%,No Data,No Data,No Data
+84M168,84,East Harlem Scholars Academy Charter School II,NO,M013,No,312,312,0,0,3.5%,31.1%,61.9%,2.2%,1.3%,15.4%,11.5%,89.7%,98,28,28.6%,98,41,41.8%,No Data,No Data,No Data
+84M170,84,Success Academy Charter School - Hell's Kitchen,NO,M625,No,417,417,0,0,14.1%,17.3%,49.2%,2.9%,16.5%,15.3%,6.2%,34.1%,142,125,88.0%,142,141,99.3%,No Data,No Data,No Data
+84M174,84,Success Academy Charter School - Union Square,NO,M460,No,452,452,0,0,19.9%,23.2%,23.0%,5.3%,28.5%,13.5%,3.3%,21.9%,176,154,87.5%,178,167,93.8%,No Data,No Data,No Data
+84M279,84,Opportunity Charter School,NO,M113,No,425,0,202,223,1.4%,53.6%,43.1%,1.4%,0.5%,61.9%,9.9%,81.9%,195,22,11.3%,174,3,1.7%,54,57.4%,70.2%
+84M320,84,Manhattan Charter School,NO,M142,No,270,270,0,0,7.8%,17.8%,69.3%,1.1%,4.1%,20.4%,9.3%,84.8%,110,63,57.3%,110,56,50.9%,No Data,No Data,No Data
+84M329,84,Harlem Link Charter School,NO,M208,No,422,422,0,0,0.2%,64.2%,32.7%,0.9%,1.9%,18.2%,6.6%,87.9%,145,45,31.0%,145,38,26.2%,No Data,No Data,No Data
+84M330,84,Girls Preparatory Charter School of New York,YES,"M060, M188",No,631,441,190,0,1.9%,45.3%,47.9%,2.5%,2.4%,17.0%,3.0%,78.8%,401,228,56.9%,401,187,46.6%,No Data,No Data,No Data
+84M335,84,Harlem Village Academy Leadership Charter School,YES,"M045, M280",No,959,581,174,204,0.3%,61.5%,35.6%,1.7%,0.9%,18.6%,2.5%,81.1%,355,140,39.4%,355,149,42.0%,40,100.0%,96.7%
+84M336,84,KIPP Infinity Charter School,YES,"M195, XAVN",No,1141,581,265,295,0.4%,29.0%,68.9%,0.4%,1.3%,23.2%,10.7%,85.4%,551,288,52.3%,548,379,69.2%,58,89.7%,94.0%
+84M337,84,New York Center for Autism Charter School,NO,M050,No,32,11,3,18,12.5%,9.4%,31.3%,3.1%,43.8%,100.0%,3.1%,75.0%,No Data,No Data,No Data,No Data,No Data,No Data,s,s,s
+84M341,84,Harlem Children's Zone Promise Academy II Charter School,YES,"M501, MANO",No,998,556,240,202,0.4%,82.5%,14.3%,2.3%,0.5%,13.5%,3.2%,81.5%,479,239,49.9%,479,315,65.8%,No Data,No Data,No Data
+84M350,84,Democracy Prep Charter School,YES,"M092, M197",No,719,0,352,367,0.6%,65.4%,31.2%,1.9%,1.0%,17.2%,2.9%,77.7%,308,137,44.5%,274,137,50.0%,75,86.7%,97.9%
+84M351,84,Success Academy Charter School - Harlem 1,YES,"M088, M207, M620",No,1161,636,278,247,0.8%,74.3%,20.7%,2.8%,1.5%,15.8%,2.9%,62.4%,593,475,80.1%,593,548,92.4%,No Data,No Data,No Data
+84M382,84,DREAM Charter School,YES,"M050, MBMF",No,535,372,163,0,0.9%,32.0%,65.4%,0.9%,0.7%,24.9%,6.2%,83.9%,315,144,45.7%,313,174,55.6%,No Data,No Data,No Data
+84M384,84,Success Academy Charter School - Harlem 2,YES,"M030, M043",No,771,564,207,0,1.6%,69.8%,25.9%,0.8%,1.9%,16.5%,2.6%,75.6%,459,404,88.0%,462,437,94.6%,No Data,No Data,No Data
+84M385,84,Success Academy Charter School - Harlem 3,YES,"M099, M101",No,824,552,272,0,1.2%,60.2%,34.1%,2.5%,1.9%,14.6%,3.4%,55.2%,545,426,78.2%,541,495,91.5%,No Data,No Data,No Data
+84M386,84,Success Academy Charter School - Harlem 4,YES,"M113, M389",No,633,417,216,0,0.9%,65.4%,28.6%,3.0%,2.1%,20.9%,4.1%,73.5%,361,293,81.2%,360,320,88.9%,No Data,No Data,No Data
+84M388,84,St. HOPE Leadership Academy Charter School,NO,M092,No,302,0,302,0,2.0%,58.3%,36.1%,3.0%,0.7%,24.8%,9.6%,84.4%,277,68,24.5%,274,40,14.6%,No Data,No Data,No Data
+84M430,84,The Equity Project Charter School,YES,"M465, MBMD",No,598,248,350,0,0.3%,5.5%,93.3%,0.5%,0.3%,20.4%,26.4%,100.0%,473,148,31.3%,473,201,42.5%,No Data,No Data,No Data
+84M433,84,Renaissance Charter High School for Innovation,NO,M099,No,470,0,0,470,0.6%,38.3%,59.1%,0.9%,1.1%,36.6%,11.9%,75.7%,No Data,No Data,No Data,No Data,No Data,No Data,100,57.0%,72.4%
+84M482,84,Success Academy Charter School - Harlem 5,YES,"M123, M175",No,679,531,148,0,0.9%,67.7%,27.8%,2.5%,1.0%,18.1%,5.9%,67.6%,398,324,81.4%,396,373,94.2%,No Data,No Data,No Data
+84M523,84,Success Academy Charter School - Upper West,YES,"M470, M625",No,649,597,52,0,9.1%,19.6%,34.2%,3.4%,33.7%,17.9%,2.8%,25.7%,351,305,86.9%,350,338,96.6%,No Data,No Data,No Data
+84M708,84,Harlem Prep Charter School,YES,"M121, MADR",No,832,409,319,104,0.6%,57.3%,40.3%,1.2%,0.6%,16.0%,5.9%,83.9%,527,168,31.9%,520,188,36.2%,No Data,No Data,No Data
+84M709,84,Harlem Village Academy Charter School,YES,"M194, M280, MBGL",No,989,598,190,201,0.3%,78.2%,19.4%,1.4%,0.7%,19.0%,5.4%,81.1%,380,142,37.4%,375,177,47.2%,49,93.9%,100.0%
+84M726,84,KIPP STAR College Preparatory Charter School,YES,"M125, M195, XAVN",No,822,374,193,255,0.6%,50.2%,45.7%,2.6%,0.9%,23.6%,5.4%,79.6%,274,125,45.6%,273,161,59.0%,59,96.6%,100.0%
+84M861,84,Future Leaders Institute Charter School,NO,M144,No,379,268,111,0,0.8%,82.8%,15.0%,0.5%,0.8%,14.2%,7.1%,81.5%,239,74,31.0%,233,64,27.5%,No Data,No Data,No Data
+84Q304,84,VOICE Charter School of New York,YES,"Q111, QALJ",No,657,483,174,0,15.1%,13.2%,59.2%,3.3%,9.1%,14.6%,16.1%,78.2%,393,182,46.3%,393,218,55.5%,No Data,No Data,No Data
+84Q320,84,New Visions Charter High School for Advanced Math and Science IV,NO,Q400,No,255,0,0,255,7.1%,69.0%,19.2%,3.5%,1.2%,21.2%,4.7%,72.9%,No Data,No Data,No Data,No Data,No Data,No Data,s,s,s
+84Q339,84,Success Academy Charter School - Springfield Gardens,NO,Q059,No,326,326,0,0,2.1%,92.0%,3.7%,1.5%,0.6%,12.6%,1.8%,79.4%,55,47,85.5%,55,51,92.7%,No Data,No Data,No Data
+84Q375,84,Success Academy Charter School - Far Rockaway,NO,Q053,No,154,154,0,0,0.0%,73.4%,19.5%,4.5%,2.6%,16.9%,1.3%,64.3%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+84Q705,84,The Renaissance Charter School,NO,Q885,No,568,193,158,217,17.6%,7.4%,61.3%,1.2%,12.5%,16.7%,6.2%,76.4%,245,98,40.0%,244,117,48.0%,51,84.3%,100.0%
+84R012,84,New Ventures Charter School,NO,RAHR,No,93,0,0,93,3.2%,19.4%,30.1%,0.0%,47.3%,38.7%,1.1%,59.1%,No Data,No Data,No Data,No Data,No Data,No Data,23,17.4%,50.0%
+84R067,84,John W. Lavelle Preparatory Charter School,NO,RAHR,No,642,146,326,170,3.6%,40.2%,41.9%,1.6%,12.8%,34.6%,2.8%,74.6%,453,127,28.0%,420,91,21.7%,12,100.0%,No Data
+84X124,84,Children's Aid College Prep Charter School,YES,"X193, XACP",No,420,420,0,0,1.2%,46.4%,48.3%,2.4%,1.7%,19.8%,4.5%,75.2%,216,131,60.6%,215,132,61.4%,No Data,No Data,No Data
+84X133,84,Icahn Charter School 6,YES,"X004, XADA",No,291,249,42,0,0.3%,59.1%,38.8%,1.0%,0.7%,8.2%,3.8%,90.4%,165,91,55.2%,166,103,62.0%,No Data,No Data,No Data
+84X177,84,Mott Hall Charter School,NO,X063,No,294,0,294,0,0.3%,37.4%,58.8%,2.4%,1.0%,17.7%,10.9%,89.5%,286,52,18.2%,258,24,9.3%,No Data,No Data,No Data
+84X200,84,ROADS Charter School II,NO,X401,Yes,240,0,0,240,0.8%,45.4%,50.4%,1.3%,2.1%,47.5%,11.2%,75.0%,No Data,No Data,No Data,No Data,No Data,No Data,98,8.2%,19.6%
+84X202,84,New Visions Charter High School for Advanced Math and Science II,NO,X650,No,559,0,0,559,2.7%,42.8%,50.6%,2.9%,1.1%,17.2%,10.6%,88.2%,No Data,No Data,No Data,No Data,No Data,No Data,115,97.4%,No Data
+84X208,84,New Visions Charter High School for the Humanities II,NO,X655,No,476,0,0,476,0.4%,37.4%,60.7%,1.1%,0.4%,20.6%,14.5%,75.8%,No Data,No Data,No Data,No Data,No Data,No Data,91,86.8%,25.0%
+84X345,84,Hyde Leadership Charter School,YES,"X074, XATU",No,960,463,224,273,0.3%,32.2%,65.9%,0.8%,0.7%,21.7%,10.0%,89.5%,435,140,32.2%,363,105,28.9%,63,95.2%,98.3%
+84X346,84,South Bronx Classical Charter School,NO,X116,No,490,388,102,0,2.0%,38.8%,57.3%,0.6%,1.2%,9.4%,18.2%,87.8%,245,199,81.2%,244,189,77.5%,No Data,No Data,No Data
+84X362,84,Icahn Charter School 7,NO,X093,No,197,197,0,0,4.6%,46.2%,45.2%,1.0%,3.0%,3.0%,1.5%,67.5%,97,54,55.7%,97,53,54.6%,No Data,No Data,No Data
+84X364,84,South Bronx Classical Charter School II,NO,X154,No,291,291,0,0,0.0%,46.4%,50.9%,1.7%,1.0%,10.3%,15.8%,82.8%,77,61,79.2%,77,60,77.9%,No Data,No Data,No Data
+84X378,84,Icahn Charter School 2,NO,X498,No,323,221,102,0,5.3%,28.2%,62.8%,1.5%,2.2%,11.5%,6.8%,71.2%,204,149,73.0%,204,153,75.0%,No Data,No Data,No Data
+84X380,84,Success Academy Charter School - Bronx 3,YES,"X145, X146",No,425,425,0,0,0.5%,51.3%,45.9%,2.1%,0.2%,14.1%,4.9%,88.5%,168,139,82.7%,169,163,96.4%,No Data,No Data,No Data
+84X389,84,"The Bronx Global Learning Institute for Girls Charter School, The Shirley Rodriguez-Remeneski School",NO,X156,No,440,299,141,0,1.4%,25.7%,70.5%,1.8%,0.7%,11.1%,9.5%,84.8%,284,106,37.3%,274,56,20.4%,No Data,No Data,No Data
+84X393,84,University Prep Charter High School,NO,X162,No,406,0,0,406,1.2%,35.2%,61.6%,1.5%,0.5%,16.5%,8.6%,84.0%,No Data,No Data,No Data,No Data,No Data,No Data,83,95.2%,100.0%
+84X422,84,Icahn Charter School 3,NO,XAGA,No,320,233,87,0,3.1%,63.1%,30.0%,0.9%,2.8%,10.6%,3.8%,84.4%,196,113,57.7%,196,123,62.8%,No Data,No Data,No Data
+84X464,84,Success Academy Charter School - Bronx 4,NO,X131,No,392,392,0,0,1.3%,48.0%,47.4%,2.3%,1.0%,15.3%,4.6%,80.4%,93,73,78.5%,93,90,96.8%,No Data,No Data,No Data
+84X465,84,Boys Preparatory Charter School of New York,NO,X107,No,256,256,0,0,0.8%,40.2%,55.1%,1.2%,2.7%,20.3%,5.9%,87.9%,37,12,32.4%,37,19,51.4%,No Data,No Data,No Data
+84X471,84,American Dream Charter School (The),NO,X030,No,242,0,242,0,0.0%,7.4%,91.3%,0.8%,0.4%,21.5%,23.1%,94.6%,230,79,34.3%,236,73,30.9%,No Data,No Data,No Data
+84X482,84,Dr. Richard Izquierdo Health and Science Charter School,NO,X158,No,739,0,339,400,0.7%,29.8%,66.8%,1.1%,1.6%,19.1%,10.8%,94.2%,331,72,21.8%,319,48,15.0%,No Data,No Data,No Data
+84X484,84,Bronx Charter School for Better Learning II,NO,X144,No,148,148,0,0,1.4%,82.4%,14.9%,0.0%,1.4%,8.8%,4.7%,77.7%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+84X487,84,Girls Preparatory Charter School of the Bronx,YES,"X052, X120",No,806,507,299,0,0.2%,32.8%,63.9%,2.5%,0.6%,16.0%,5.7%,82.9%,490,242,49.4%,483,184,38.1%,No Data,No Data,No Data
+84X488,84,Equality Charter School,YES,"X160, XADU",No,534,0,268,266,1.7%,68.9%,27.2%,1.1%,1.1%,21.2%,3.0%,43.1%,264,77,29.2%,266,42,15.8%,No Data,No Data,No Data
+84X491,84,Academic Leadership Charter School,YES,"X065, X155",No,559,363,196,0,0.2%,45.1%,53.3%,0.9%,0.5%,9.3%,11.1%,93.2%,340,200,58.8%,333,195,58.6%,No Data,No Data,No Data
+84X493,84,Success Academy Charter School - Bronx 1,NO,X183,No,674,560,114,0,1.3%,54.5%,41.8%,1.9%,0.4%,11.1%,5.2%,87.7%,387,324,83.7%,387,378,97.7%,No Data,No Data,No Data
+84X494,84,Success Academy Charter School - Bronx 2,YES,"X022, X055",No,725,584,141,0,1.1%,63.6%,33.8%,0.4%,1.1%,11.9%,6.1%,60.1%,412,341,82.8%,413,394,95.4%,No Data,No Data,No Data
+84X496,84,Icahn Charter School 4,NO,XAGA,No,323,230,93,0,2.2%,60.4%,33.4%,2.8%,1.2%,6.8%,0.3%,71.2%,200,140,70.0%,197,171,86.8%,No Data,No Data,No Data
+84X497,84,Storefront Academy Charter School,NO,XAFI,No,138,138,0,0,0.7%,39.1%,58.0%,0.7%,1.4%,17.4%,18.8%,81.2%,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data,No Data
+84X538,84,Icahn Charter School 5,NO,XAGA,No,285,225,60,0,3.2%,58.6%,30.5%,0.7%,7.0%,8.1%,0.7%,68.1%,170,120,70.6%,170,141,82.9%,No Data,No Data,No Data
+84X539,84,New Visions Charter High School for Advanced Math and Science,NO,X475,No,483,0,0,483,3.3%,44.1%,46.6%,5.2%,0.8%,14.1%,7.9%,71.2%,No Data,No Data,No Data,No Data,No Data,No Data,102,87.3%,50.0%
+84X553,84,New Visions Charter High School for the Humanities,NO,X475,No,539,0,0,539,1.1%,34.9%,61.6%,1.3%,1.1%,21.0%,10.9%,86.6%,No Data,No Data,No Data,No Data,No Data,No Data,86,86.0%,75.0%
+84X554,84,New York City Montessori Charter School,NO,XAFI,No,326,326,0,0,0.6%,27.6%,66.9%,3.4%,1.5%,21.2%,18.1%,88.7%,121,24,19.8%,120,15,12.5%,No Data,No Data,No Data
+84X704,84,KIPP Academy Charter School,YES,"X151, X790, XAVN",No,1103,572,240,291,0.2%,41.1%,56.8%,1.4%,0.5%,17.9%,9.4%,86.1%,507,253,49.9%,504,290,57.5%,65,98.5%,98.2%
+84X718,84,Bronx Charter School for Better Learning,NO,X111,No,551,551,0,0,1.6%,85.7%,9.8%,1.3%,1.6%,8.2%,2.5%,78.8%,221,111,50.2%,221,154,69.7%,No Data,No Data,No Data
