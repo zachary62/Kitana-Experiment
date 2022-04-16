@@ -10,4 +10,4 @@ The buyer's budget constraint forces a trade-off between finding augmentations a
 
 ## Running Kitana
 
-The main implementation of Kitana is in datamarket.py. Please refer to Kitana.ipynb for the main experiments, factorized.ipynb for factorized learning micro benchmarks, Kudous.ipynb for horizontal augmentation benchmarks and request_cache.ipynb for request cache benchmars. Due to the size limit of github, datasets that are above the size of 100 MB not inlcuded.
+The main implementation of Kitana is in datamarket.py. Please refer to Kitana.ipynb for the main experiments, factorized.ipynb for factorized learning micro benchmarks, Kudous.ipynb for horizontal augmentation benchmarks and request_cache.ipynb for request cache benchmars. Due to the size limit of github, datasets that are above the size of 100 MB are not inlcuded.
